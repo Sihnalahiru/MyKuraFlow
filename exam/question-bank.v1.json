@@ -883,6 +883,506 @@
       "sourceAnchor": "p14-s1",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0045",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A freight elevator is for goods transport and its maximum load must never be exceeded.",
+        "ja": "<ruby>貨物用<rt>かもつよう</rt></ruby>エレベーターは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶためのもので、<ruby>最大積載重量<rt>さいだいせきさいじゅうりょう</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えてはいけません。"
+      },
+      "statement": "<ruby>貨物用<rt>かもつよう</rt></ruby>エレベーターは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶためのもので、<ruby>最大積載重量<rt>さいだいせきさいじゅうりょう</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えてはいけません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A freight elevator is for goods transport and its maximum load must never be exceeded.",
+        "si": "භාණ්ඩ ප්‍රවාහන ලිෆ්ට් එක භාණ්ඩ සඳහා භාවිත කරන අතර උපරිම පැටවුම් බර ඉක්මවිය නොහැක.",
+        "technicalNoteJa": "最大積載重量を必ず守り、許容荷重を超えて積載しません。"
+      },
+      "sourcePage": 19,
+      "sourceAnchor": "p19-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0046",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "People must never ride a vertical automatic conveyor.",
+        "ja": "<ruby>垂直自動搬送機<rt>すいちょくじどうはんそうき</rt></ruby>には、<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>ってもかまいません。"
+      },
+      "statement": "<ruby>垂直自動搬送機<rt>すいちょくじどうはんそうき</rt></ruby>には、<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>ってもかまいません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "People must never ride a vertical automatic conveyor.",
+        "si": "සිරස් ස්වයංක්‍රීය ප්‍රවාහන යන්ත්‍රයට මිනිසුන් නැගීම සම්පූර්ණයෙන් තහනම්ය.",
+        "technicalNoteJa": "垂直自動搬送機は貨物専用であり、人は乗りません。"
+      },
+      "sourcePage": 19,
+      "sourceAnchor": "p19-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0047",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A counterbalance forklift is operated seated and is suited to heavy goods.",
+        "ja": "カウンター<ruby>式<rt>しき</rt></ruby>フォークリフトは<ruby>座<rt>すわ</rt></ruby>って<ruby>操作<rt>そうさ</rt></ruby>し、<ruby>重<rt>おも</rt></ruby>い<ruby>貨物<rt>かもつ</rt></ruby>に<ruby>向<rt>む</rt></ruby>いています。"
+      },
+      "statement": "カウンター<ruby>式<rt>しき</rt></ruby>フォークリフトは<ruby>座<rt>すわ</rt></ruby>って<ruby>操作<rt>そうさ</rt></ruby>し、<ruby>重<rt>おも</rt></ruby>い<ruby>貨物<rt>かもつ</rt></ruby>に<ruby>向<rt>む</rt></ruby>いています。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A counterbalance forklift is operated seated and is suited to heavy goods.",
+        "si": "Counterbalance forklift එක වාඩි වී පාලනය කරන අතර බර භාණ්ඩ සඳහා සුදුසුය.",
+        "technicalNoteJa": "カウンター式は座席に座って操作し、重量物に適しています。"
+      },
+      "sourcePage": 20,
+      "sourceAnchor": "p20-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0048",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A reach forklift is operated standing and is easier to manoeuvre in narrow spaces.",
+        "ja": "リーチ<ruby>式<rt>しき</rt></ruby>フォークリフトは<ruby>座<rt>すわ</rt></ruby>って<ruby>操作<rt>そうさ</rt></ruby>し、<ruby>広<rt>ひろ</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>だけで<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "リーチ<ruby>式<rt>しき</rt></ruby>フォークリフトは<ruby>座<rt>すわ</rt></ruby>って<ruby>操作<rt>そうさ</rt></ruby>し、<ruby>広<rt>ひろ</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>だけで<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A reach forklift is operated standing and is easier to manoeuvre in narrow spaces.",
+        "si": "Reach forklift එක සිටගෙන පාලනය කරන අතර ඉඩ අඩු ස්ථානවල හැසිරවීමට පහසුය.",
+        "technicalNoteJa": "リーチ式は立って操作し、狭い場所で扱いやすい機種です。"
+      },
+      "sourcePage": 20,
+      "sourceAnchor": "p20-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0049",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Operating a forklift requires a qualification and prescribed training.",
+        "ja": "フォークリフトを<ruby>運転<rt>うんてん</rt></ruby>するには、<ruby>資格<rt>しかく</rt></ruby>と<ruby>定<rt>さだ</rt></ruby>められた<ruby>講習<rt>こうしゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+      },
+      "statement": "フォークリフトを<ruby>運転<rt>うんてん</rt></ruby>するには、<ruby>資格<rt>しかく</rt></ruby>と<ruby>定<rt>さだ</rt></ruby>められた<ruby>講習<rt>こうしゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Operating a forklift requires a qualification and prescribed training.",
+        "si": "Forklift ධාවනයට සුදුසුකමක් සහ නියමිත පුහුණුව අවශ්‍යය.",
+        "technicalNoteJa": "フォークリフトの運転には所定の資格・講習が必要です。"
+      },
+      "sourcePage": 20,
+      "sourceAnchor": "p20-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0050",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A hand pallet truck is moved by human power and does not require an operating qualification, according to the source.",
+        "ja": "ハンドリフトは<ruby>人<rt>ひと</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>び、<ruby>操作資格<rt>そうさしかく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>です。"
+      },
+      "statement": "ハンドリフトは<ruby>人<rt>ひと</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>び、<ruby>操作資格<rt>そうさしかく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A hand pallet truck is moved by human power and does not require an operating qualification, according to the source.",
+        "si": "Hand lift එක මිනිස් බලයෙන් ගෙන යන අතර ක්‍රියාත්මක කිරීමට සුදුසුකමක් අවශ්‍ය නොවේ.",
+        "technicalNoteJa": "ハンドリフトは手動式で、操作資格は不要とされています。"
+      },
+      "sourcePage": 21,
+      "sourceAnchor": "p21-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0051",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The operator platform of a picking forklift moves up and down to access high racks.",
+        "ja": "ピッキングフォークリフトは、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>が<ruby>乗<rt>の</rt></ruby>る<ruby>部分<rt>ぶぶん</rt></ruby>が<ruby>上下<rt>じょうげ</rt></ruby>に<ruby>動<rt>うご</rt></ruby>きます。"
+      },
+      "statement": "ピッキングフォークリフトは、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>が<ruby>乗<rt>の</rt></ruby>る<ruby>部分<rt>ぶぶん</rt></ruby>が<ruby>上下<rt>じょうげ</rt></ruby>に<ruby>動<rt>うご</rt></ruby>きます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The operator platform of a picking forklift moves up and down to access high racks.",
+        "si": "Picking forklift එකේ සේවකයා සිටින වේදිකාව ඉහළට සහ පහළට ගමන් කරයි.",
+        "technicalNoteJa": "ピッキングフォークリフトは作業者の搭乗部が昇降します。"
+      },
+      "sourcePage": 21,
+      "sourceAnchor": "p21-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0052",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "For picking forklift loads of 1 tonne or more, the source specifies completion of the operator skills course.",
+        "ja": "ピッキングフォークリフトで１トン<ruby>以上<rt>いじょう</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>扱<rt>あつか</rt></ruby>う<ruby>場合<rt>ばあい</rt></ruby>、<ruby>運転技能講習<rt>うんてんぎのうこうしゅう</rt></ruby>の<ruby>修了<rt>しゅうりょう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+      },
+      "statement": "ピッキングフォークリフトで１トン<ruby>以上<rt>いじょう</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>扱<rt>あつか</rt></ruby>う<ruby>場合<rt>ばあい</rt></ruby>、<ruby>運転技能講習<rt>うんてんぎのうこうしゅう</rt></ruby>の<ruby>修了<rt>しゅうりょう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "For picking forklift loads of 1 tonne or more, the source specifies completion of the operator skills course.",
+        "si": "Picking forklift මඟින් ටොන් 1ක් හෝ වැඩි බරක් හසුරුවන්නේ නම් රියදුරු කුසලතා පුහුණුව සම්පූර්ණ කළ යුතුය.",
+        "technicalNoteJa": "１トン以上の貨物を扱う場合は運転技能講習の修了が必要です。"
+      },
+      "sourcePage": 21,
+      "sourceAnchor": "p21-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0053",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A safety bar should be fitted across the open side of a cage trolley during transport.",
+        "ja": "カゴ<ruby>台車<rt>だいしゃ</rt></ruby>を<ruby>運搬<rt>うんぱん</rt></ruby>するときは、<ruby>開口部<rt>かいこうぶ</rt></ruby>に<ruby>安全<rt>あんぜん</rt></ruby>バーを<ruby>付<rt>つ</rt></ruby>けます。"
+      },
+      "statement": "カゴ<ruby>台車<rt>だいしゃ</rt></ruby>を<ruby>運搬<rt>うんぱん</rt></ruby>するときは、<ruby>開口部<rt>かいこうぶ</rt></ruby>に<ruby>安全<rt>あんぜん</rt></ruby>バーを<ruby>付<rt>つ</rt></ruby>けます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A safety bar should be fitted across the open side of a cage trolley during transport.",
+        "si": "Cage trolley එක ප්‍රවාහනය කරන විට විවෘත පැත්තට ආරක්ෂක බාර් එක සවි කළ යුතුය.",
+        "technicalNoteJa": "カゴ台車の運搬時は開口部に安全バーを取り付けます。"
+      },
+      "sourcePage": 22,
+      "sourceAnchor": "p22-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0054",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A dolly has no handle; it consists of the platform for carrying goods.",
+        "ja": "ドーリーには、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>く<ruby>台<rt>だい</rt></ruby>のほかにハンドルがあります。"
+      },
+      "statement": "ドーリーには、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>く<ruby>台<rt>だい</rt></ruby>のほかにハンドルがあります。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A dolly has no handle; it consists of the platform for carrying goods.",
+        "si": "Dolly එකට හැඬලයක් නැත; භාණ්ඩ තබන තට්ටුව පමණක් ඇත.",
+        "technicalNoteJa": "ドーリーはハンドルのない台車です。"
+      },
+      "sourcePage": 22,
+      "sourceAnchor": "p22-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0055",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "An AGV follows a fixed guide path automatically.",
+        "ja": "AGVは、<ruby>設置<rt>せっち</rt></ruby>されたガイドに<ruby>沿<rt>そ</rt></ruby>って<ruby>決<rt>き</rt></ruby>まった<ruby>道<rt>みち</rt></ruby>を<ruby>自動的<rt>じどうてき</rt></ruby>に<ruby>走<rt>はし</rt></ruby>ります。"
+      },
+      "statement": "AGVは、<ruby>設置<rt>せっち</rt></ruby>されたガイドに<ruby>沿<rt>そ</rt></ruby>って<ruby>決<rt>き</rt></ruby>まった<ruby>道<rt>みち</rt></ruby>を<ruby>自動的<rt>じどうてき</rt></ruby>に<ruby>走<rt>はし</rt></ruby>ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "An AGV follows a fixed guide path automatically.",
+        "si": "AGV එක ස්ථාපිත මාර්ගෝපදේශයක් අනුව නියමිත මාර්ගයක ස්වයංක්‍රීයව ගමන් කරයි.",
+        "technicalNoteJa": "AGVはガイドに沿った固定経路を走行します。"
+      },
+      "sourcePage": 23,
+      "sourceAnchor": "p23-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0056",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "An AMR senses its surroundings and determines its own route to the destination.",
+        "ja": "AMRは、<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>判断<rt>はんだん</rt></ruby>して<ruby>目的地<rt>もくてきち</rt></ruby>へ<ruby>走<rt>はし</rt></ruby>ります。"
+      },
+      "statement": "AMRは、<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>判断<rt>はんだん</rt></ruby>して<ruby>目的地<rt>もくてきち</rt></ruby>へ<ruby>走<rt>はし</rt></ruby>ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "An AMR senses its surroundings and determines its own route to the destination.",
+        "si": "AMR එක අවට තත්ත්වය හඳුනාගෙන තමන්ම තීරණය කර ගමනාන්තයට ගමන් කරයි.",
+        "technicalNoteJa": "AMRは周囲を認識し、自律的に経路を判断します。"
+      },
+      "sourcePage": 23,
+      "sourceAnchor": "p23-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0057",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A chain conveyor uses a metal chain and can handle heavy goods; the source also notes high-temperature use.",
+        "ja": "チェーンコンベアは、<ruby>金属<rt>きんぞく</rt></ruby>のチェーンで<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>び、<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>えます。"
+      },
+      "statement": "チェーンコンベアは、<ruby>金属<rt>きんぞく</rt></ruby>のチェーンで<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>び、<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>えます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A chain conveyor uses a metal chain and can handle heavy goods; the source also notes high-temperature use.",
+        "si": "Chain conveyor එක ලෝහ දාමයක් භාවිත කර බර භාණ්ඩ ගෙන යා හැකි අතර අධික උෂ්ණත්ව ස්ථානවලද භාවිත කළ හැකිය.",
+        "technicalNoteJa": "チェーンコンベアは金属チェーンで搬送し、重量物や高温環境に対応します。"
+      },
+      "sourcePage": 24,
+      "sourceAnchor": "p24-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0058",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A screw conveyor moves powder and small particles through a tube using a rotating helical blade.",
+        "ja": "スクリューコンベアは、<ruby>粉<rt>こな</rt></ruby>や<ruby>細<rt>こま</rt></ruby>かい<ruby>粒<rt>つぶ</rt></ruby>を<ruby>筒<rt>つつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>送<rt>おく</rt></ruby>ります。"
+      },
+      "statement": "スクリューコンベアは、<ruby>粉<rt>こな</rt></ruby>や<ruby>細<rt>こま</rt></ruby>かい<ruby>粒<rt>つぶ</rt></ruby>を<ruby>筒<rt>つつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>送<rt>おく</rt></ruby>ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A screw conveyor moves powder and small particles through a tube using a rotating helical blade.",
+        "si": "Screw conveyor එක භ්‍රමණය වන සර්පිලාකාර තලයකින් කුඩු සහ කුඩා කැට නළයක් තුළින් ගෙන යයි.",
+        "technicalNoteJa": "スクリューコンベアはらせん状の羽根で粉粒体を搬送します。"
+      },
+      "sourcePage": 24,
+      "sourceAnchor": "p24-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0059",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A sorter automatically separates goods by destination or type; some systems read barcode labels.",
+        "ja": "ソーターは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>け<ruby>先<rt>さき</rt></ruby>や<ruby>種類<rt>しゅるい</rt></ruby>ごとに<ruby>自動的<rt>じどうてき</rt></ruby>に<ruby>仕分<rt>しわ</rt></ruby>けます。"
+      },
+      "statement": "ソーターは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>け<ruby>先<rt>さき</rt></ruby>や<ruby>種類<rt>しゅるい</rt></ruby>ごとに<ruby>自動的<rt>じどうてき</rt></ruby>に<ruby>仕分<rt>しわ</rt></ruby>けます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A sorter automatically separates goods by destination or type; some systems read barcode labels.",
+        "si": "Sorter යන්ත්‍රය ගමනාන්තය හෝ වර්ගය අනුව භාණ්ඩ ස්වයංක්‍රීයව වෙන් කරයි.",
+        "technicalNoteJa": "ソーターは貨物を届け先や種類別に自動仕分けします。"
+      },
+      "sourcePage": 24,
+      "sourceAnchor": "p24-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0060",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Crane operation always requires an appropriate qualification; requirements depend on the load weight.",
+        "ja": "クレーンの<ruby>操作<rt>そうさ</rt></ruby>には、<ruby>必<rt>かなら</rt></ruby>ず<ruby>資格<rt>しかく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+      },
+      "statement": "クレーンの<ruby>操作<rt>そうさ</rt></ruby>には、<ruby>必<rt>かなら</rt></ruby>ず<ruby>資格<rt>しかく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Crane operation always requires an appropriate qualification; requirements depend on the load weight.",
+        "si": "Crane ක්‍රියාත්මක කිරීමට අදාළ සුදුසුකමක් අනිවාර්යය. අවශ්‍ය සුදුසුකම බර අනුව වෙනස් වේ.",
+        "technicalNoteJa": "クレーンは資格を持つ者が操作し、荷重に応じた要件を確認します。"
+      },
+      "sourcePage": 25,
+      "sourceAnchor": "p25-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0061",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "These three machines require qualifications; freight elevators, vertical conveyors, hand lifts and trolleys do not according to the page summary.",
+        "ja": "フォークリフト、ピッキングフォークリフト、クレーンは、<ruby>資格<rt>しかく</rt></ruby>が<ruby>不要<rt>ふよう</rt></ruby>な<ruby>機械<rt>きかい</rt></ruby>です。"
+      },
+      "statement": "フォークリフト、ピッキングフォークリフト、クレーンは、<ruby>資格<rt>しかく</rt></ruby>が<ruby>不要<rt>ふよう</rt></ruby>な<ruby>機械<rt>きかい</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "These three machines require qualifications; freight elevators, vertical conveyors, hand lifts and trolleys do not according to the page summary.",
+        "si": "Forklift, picking forklift සහ crane සඳහා සුදුසුකම් අවශ්‍යය. Freight elevator, vertical conveyor, hand lift සහ trolley සඳහා එම සාරාංශයට අනුව අවශ්‍ය නොවේ.",
+        "technicalNoteJa": "資格が必要な機械と不要な機械を区別します。"
+      },
+      "sourcePage": 25,
+      "sourceAnchor": "p25-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0062",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A palletizer automatically stacks goods.",
+        "ja": "パレタイザーは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>積<rt>つ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げる<ruby>機械<rt>きかい</rt></ruby>です。"
+      },
+      "statement": "パレタイザーは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>積<rt>つ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げる<ruby>機械<rt>きかい</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A palletizer automatically stacks goods.",
+        "si": "Palletizer යන්ත්‍රය භාණ්ඩ ස්වයංක්‍රීයව ගොඩගසයි.",
+        "technicalNoteJa": "パレタイザーは貨物を自動で積み上げます。"
+      },
+      "sourcePage": 26,
+      "sourceAnchor": "p26-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0063",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A depalletizer automatically unloads goods rather than stacking them.",
+        "ja": "デパレタイザーは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>積<rt>つ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げる<ruby>機械<rt>きかい</rt></ruby>です。"
+      },
+      "statement": "デパレタイザーは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>積<rt>つ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げる<ruby>機械<rt>きかい</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A depalletizer automatically unloads goods rather than stacking them.",
+        "si": "Depalletizer යන්ත්‍රය භාණ්ඩ ස්වයංක්‍රීයව බායි; ගොඩගසන්නේ palletizer ය.",
+        "technicalNoteJa": "デパレタイザーは貨物を自動で下ろします。"
+      },
+      "sourcePage": 26,
+      "sourceAnchor": "p26-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0064",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Vanning means loading goods into a truck or container.",
+        "ja": "バンニングは、トラックやコンテナに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>む<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "バンニングは、トラックやコンテナに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>む<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Vanning means loading goods into a truck or container.",
+        "si": "Vanning යනු ට්‍රක් රථයකට හෝ කන්ටේනරයකට භාණ්ඩ පැටවීමයි.",
+        "technicalNoteJa": "バンニングは車両・コンテナへの積込み作業です。"
+      },
+      "sourcePage": 26,
+      "sourceAnchor": "p26-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0065",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Devanning means unloading goods from a truck or container.",
+        "ja": "デバンニングは、コンテナに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>む<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "デバンニングは、コンテナに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>む<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Devanning means unloading goods from a truck or container.",
+        "si": "Devanning යනු ට්‍රක් රථයකින් හෝ කන්ටේනරයකින් භාණ්ඩ බෑමයි.",
+        "technicalNoteJa": "デバンニングは車両・コンテナからの荷卸し作業です。"
+      },
+      "sourcePage": 26,
+      "sourceAnchor": "p26-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0066",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A stretch machine wraps goods with plastic film.",
+        "ja": "ストレッチマシンは、ビニールフィルムで<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>巻<rt>ま</rt></ruby>く<ruby>機械<rt>きかい</rt></ruby>です。"
+      },
+      "statement": "ストレッチマシンは、ビニールフィルムで<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>巻<rt>ま</rt></ruby>く<ruby>機械<rt>きかい</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A stretch machine wraps goods with plastic film.",
+        "si": "Stretch machine එක ප්ලාස්ටික් film භාවිතයෙන් භාණ්ඩ වටා ඔතයි.",
+        "technicalNoteJa": "ストレッチマシンはフィルムで貨物を巻きます。"
+      },
+      "sourcePage": 27,
+      "sourceAnchor": "p27-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0067",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Load preparation is the sequence of packaging, packing and wrapping.",
+        "ja": "<ruby>荷<rt>に</rt></ruby>づくりは、<ruby>包装<rt>ほうそう</rt></ruby>・<ruby>梱包<rt>こんぽう</rt></ruby>・ラッピングの<ruby>一連<rt>いちれん</rt></ruby>の<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "<ruby>荷<rt>に</rt></ruby>づくりは、<ruby>包装<rt>ほうそう</rt></ruby>・<ruby>梱包<rt>こんぽう</rt></ruby>・ラッピングの<ruby>一連<rt>いちれん</rt></ruby>の<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Load preparation is the sequence of packaging, packing and wrapping.",
+        "si": "荷づくり යනු packaging, packing සහ wrapping යන අඛණ්ඩ ක්‍රියාවලියයි.",
+        "technicalNoteJa": "荷づくりは包装・梱包・ラッピングを含む一連の作業です。"
+      },
+      "sourcePage": 27,
+      "sourceAnchor": "p27-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0068",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Slinging is the operation of suspending heavy goods using a crane or similar equipment.",
+        "ja": "<ruby>玉掛<rt>たまか</rt></ruby>けは、クレーンなどで<ruby>重<rt>おも</rt></ruby>い<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>吊<rt>つ</rt></ruby>る<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "<ruby>玉掛<rt>たまか</rt></ruby>けは、クレーンなどで<ruby>重<rt>おも</rt></ruby>い<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>吊<rt>つ</rt></ruby>る<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Slinging is the operation of suspending heavy goods using a crane or similar equipment.",
+        "si": "玉掛け යනු crane වැනි උපකරණයකින් බර භාණ්ඩ එල්ලා ඔසවන කාර්යයයි.",
+        "technicalNoteJa": "玉掛けはクレーン等で貨物を吊り上げる作業です。"
+      },
+      "sourcePage": 28,
+      "sourceAnchor": "p28-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0069",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A handy terminal is a handheld computer that reads barcodes and displays information.",
+        "ja": "ハンディターミナルはバーコードを<ruby>読<rt>よ</rt></ruby>み、<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょうじ</rt></ruby>する<ruby>小型<rt>こがた</rt></ruby>コンピューターです。"
+      },
+      "statement": "ハンディターミナルはバーコードを<ruby>読<rt>よ</rt></ruby>み、<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょうじ</rt></ruby>する<ruby>小型<rt>こがた</rt></ruby>コンピューターです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A handy terminal is a handheld computer that reads barcodes and displays information.",
+        "si": "Handy terminal එක barcode කියවා තොරතුරු තිරයේ පෙන්වන අතින් ගෙන යා හැකි කුඩා පරිගණකයකි.",
+        "technicalNoteJa": "ハンディターミナルはバーコード読取と情報表示に使います。"
+      },
+      "sourcePage": 28,
+      "sourceAnchor": "p28-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
