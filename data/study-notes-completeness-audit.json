@@ -212,61 +212,61 @@
       },
       {
         "page": 55,
-        "status": "CONTENT_EXPANSION_REQUIRED",
+        "status": "CONTENT_EXPANDED_DRAFT",
         "remaining": [
           "full subheading and document-definition mapping",
-          "furigana",
           "translation proof",
-          "visual asset match"
+          "visual asset match",
+          "furigana was added; lexical reading proof still pending"
         ]
       },
       {
         "page": 56,
-        "status": "CONTENT_EXPANSION_REQUIRED",
+        "status": "CONTENT_EXPANDED_DRAFT",
         "remaining": [
           "picking list and all outbound document definitions",
           "labels, LOT, JAN, QR details",
-          "furigana",
           "translation proof",
-          "visual asset match"
+          "visual asset match",
+          "furigana was added; lexical reading proof still pending"
         ]
       },
       {
         "page": 57,
-        "status": "CONTENT_EXPANSION_REQUIRED",
+        "status": "CONTENT_EXPANDED_DRAFT",
         "remaining": [
           "RFID three feature bullets",
           "care-mark/GHS table",
           "length conversion table",
-          "furigana",
           "translation proof",
-          "visual asset match"
+          "visual asset match",
+          "furigana was added; lexical reading proof still pending"
         ]
       },
       {
         "page": 58,
-        "status": "CONTENT_EXPANSION_REQUIRED",
+        "status": "CONTENT_EXPANDED_DRAFT",
         "remaining": [
           "inch/foot and Japanese traditional unit rows",
           "area and tsubo examples",
           "volume/capacity definitions and conversion table",
-          "furigana",
           "translation proof",
-          "visual asset match"
+          "visual asset match",
+          "furigana was added; lexical reading proof still pending"
         ]
       },
       {
         "page": 59,
-        "status": "CONTENT_EXPANSION_REQUIRED",
+        "status": "CONTENT_EXPANDED_DRAFT",
         "remaining": [
           "prefix definitions",
           "traditional capacity units",
           "weight table",
           "specific-gravity calculation",
           "pound/ounce values",
-          "furigana",
           "translation proof",
-          "visual asset match"
+          "visual asset match",
+          "furigana was added; lexical reading proof still pending"
         ]
       },
       {
@@ -373,11 +373,35 @@
     ],
     "release_status": "BLOCKED",
     "release_blockers": [
-      "full source-to-note item-level coverage",
-      "language-by-language proofing",
-      "numeric/table verification",
-      "172-image inventory reconciliation and visual inspection",
-      "zero unresolved items"
-    ]
+      "line-by-line content and multilingual proofreading",
+      "all source numeric tables and procedures",
+      "source-PDF to 121 image visual mapping",
+      "full-book source-note completeness proof"
+    ],
+    "image_inventory_zip": {
+      "source_zip": "specified_skilled_worker_textbook_202607(2).zip",
+      "zip_asset_count": 121,
+      "numbered_asset_names": "0.jpg through 120.jpg/png/tiff (121 files)",
+      "asset_hashes_checked_in_zip": true,
+      "duplicate_file_hashes": 0,
+      "repo_numbered_asset_count": 121,
+      "repo_numbered_asset_names": "0–120",
+      "discrepancy_against_legacy_172_claim": 51,
+      "conclusion": "The uploaded ZIP and current public/images directory both contain 121 numbered image assets. The previous 172 count is not supported by this ZIP. No missing 51 assets are fabricated; 172 remains an unverified historical count pending the source of that inventory.",
+      "visual_review": "A contact sheet of all 121 ZIP image assets was visually reviewed. This is an inventory-level visual review only; source-PDF figure-to-image mapping and per-asset lesson mapping remain incomplete.",
+      "status": "121_OF_121_INVENTORIED; PAGE_MAPPING_PENDING"
+    },
+    "part2_content_update": {
+      "pages": [
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "commit": "e8697281db2a96010edefc78283079d91531de07",
+      "update": "Expanded compact Japanese summaries to include source subheadings and definitions; added separate furigana fields.",
+      "qualification": "Draft content expansion only. Translation fidelity, all numeric table cells, Romaji and lexical furigana remain subject to proofreading."
+    }
   }
 }
