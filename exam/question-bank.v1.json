@@ -2985,9 +2985,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "1mLは1cc（Cubic Centimeter）とも呼ばれます。"
+        "ja": "1mLは1cc（Cubic Centimeter）とも<ruby>呼<rt>よ</rt></ruby>ばれます。"
       },
-      "statement": "1mLは1cc（Cubic Centimeter）とも呼ばれます。",
+      "statement": "1mLは1cc（Cubic Centimeter）とも<ruby>呼<rt>よ</rt></ruby>ばれます。",
       "correctAnswer": true,
       "explanation": {
         "en": "One millilitre is also called one cubic centimetre.",
