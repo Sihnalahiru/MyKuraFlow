@@ -1,0 +1,386 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-03",
+  "lesson_id": "p03-l01",
+  "lesson_title": {
+    "ja": "物流倉庫の安全衛生",
+    "furigana": "物流倉庫（ぶつりゅうそうこ）の安全衛生（あんぜんえいせい）",
+    "romaji": "Butsuryuu Souko no Anzen Eisei",
+    "en": "Warehouse occupational safety and health",
+    "si": "ගබඩා සේවා ස්ථානයේ වෘත්තීය ආරක්ෂාව සහ සෞඛ්‍යය"
+  },
+  "page_range": {
+    "pdf_pages": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "printed_pages": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 89,
+      "printed_page": 89,
+      "source_ja": "9. 直射日光・熱遮へい：箱を直接当たる太陽光や熱から守る。遮へいはさえぎる・防ぐこと。10. 火気厳禁：火を近づけてはいけない。火気はマッチ、ライター、たき火など火を出すもの。このマークがある場所では火に関係するものを絶対に使わない。11. パレットパターン：段ボール箱をパレットに積むときの並べ方のパターンを示す。注意マークではないが段ボールによく書かれる。",
+      "source_furigana": "直射日光（ちょくしゃにっこう）、熱遮（ねつしゃ）へい、遮（しゃ）へい、火気厳禁（かきげんきん）、火気（かき）、火（ひ）、パレットパターン、貨物（かもつ）。",
+      "romaji": "Chokusha nikkou / netsu shahei wa hako o direct na taiyoukou ya netsu kara mamoru koto desu. Kaki genkin wa hi o chikazukete wa ikenai to iu imi desu. Palette pattern wa carton o pallet ni tsumu toki no narabekata o shimeshimasu.",
+      "en": "(9) Protect from direct sunlight and heat: shield the carton from direct sun and heat; shahei means to block or protect against them. (10) Strictly no open flames: keep fire away. 'Fire sources' include matches, lighters and campfires; never use anything related to fire where this symbol appears. (11) Pallet pattern: indicates the arrangement pattern for placing cartons on a pallet. It is not a warning symbol, although it is often printed on cartons.",
+      "si": "(9) සෘජු හිරු එළිය සහ තාපයෙන් ආරක්ෂා කරන්න: පෙට්ටියට සෘජුව වැටෙන හිරු එළියෙන් සහ උෂ්ණත්වයෙන් ආරක්ෂා කළ යුතුය. 遮へい යනු අවහිර කිරීම/ආරක්ෂා කිරීමයි. (10) ගිනි දැල් දැඩි ලෙස තහනම්: ගිනි පෙට්ටි, ලයිටර්, ගිනිමැල වැනි ගිනි ඇති කරන දේ ළං නොකරන්න. මෙම සලකුණ ඇති ස්ථානයක ගින්නට සම්බන්ධ කිසිවක් භාවිත නොකරන්න. (11) Pallet pattern යනු carton පෙට්ටි pallet එකක් මත ගොඩගසන විට ඒවා පෙළගස්වන රටාවයි. මෙය අනතුරු ඇඟවීමේ සංකේතයක් නොවුණත් පෙට්ටිවල බහුලව මුද්‍රණය කරයි.",
+      "visuals": [
+        {
+          "type": "care_marks_9_11",
+          "description": "Three source symbols: protect from sunlight/heat, no open flames, pallet arrangement pattern grid."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 89,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 90,
+      "printed_page": 90,
+      "source_ja": "第３編 物流倉庫の安全衛生。１．労働時間：法律で決まっている上限は１日８時間以内、１週間40時間以内。「以内」はその時間を超えてはいけない。休憩時間：労働時間が６時間を超える場合は45分以上、８時間を超える場合は１時間以上。忙しくても休憩時間を守る。休憩中でも許可なく会社の外に出られない。勤務開始・終了、休憩、休日などは会社ごとに確認する。朝礼と終礼は勤務時間に入る。通勤時間は勤務時間ではない。",
+      "source_furigana": "物流倉庫（ぶつりゅうそうこ）、安全衛生（あんぜんえいせい）、労働時間（ろうどうじかん）、上限（じょうげん）、休憩時間（きゅうけいじかん）、勤務開始（きんむかいし）、勤務終了（きんむしゅうりょう）、就業日（しゅうぎょうび）、休日（きゅうじつ）、通勤時間（つうきんじかん）。",
+      "romaji": "Houritsu de kimatta roudou jikan no jougen wa ichinichi 8-jikan inai, isshuukan 40-jikan inai desu. 6-jikan o koeru roudou de 45-fun ijou, 8-jikan o koeru roudou de 1-jikan ijou no kyuukei ga hitsuyou desu. Chourei to shuurei wa kinmu jikan ni hairimasu. Tsuukin jikan wa kinmu jikan dewa arimasen.",
+      "en": "Part 3 begins: warehouse occupational safety and health. Statutory working-time limits stated in the source are no more than 8 hours per day and 40 hours per week. 'Within' means not exceeding the limit. Minimum breaks: at least 45 minutes when work exceeds 6 hours; at least 1 hour when work exceeds 8 hours. Keep required breaks even when busy. Do not leave company premises during a break without permission. Confirm actual start/end times, breaks and days off with the employer. Morning and end-of-day briefings count as working time; commuting does not.",
+      "si": "තුන්වන කොටස: ගබඩා සේවා ස්ථානයේ ආරක්ෂාව සහ සෞඛ්‍යය. මූලාශ්‍රයේ දක්වන නීතිමය වැඩ කාල සීමාව දිනකට පැය 8ක් ඇතුළත සහ සතියකට පැය 40ක් ඇතුළතය. '以内' යනු එම සීමාව ඉක්මවිය නොහැකි බවයි. වැඩ කාලය පැය 6 ඉක්මවන්නේ නම් අවම විවේකය මිනිත්තු 45කි; පැය 8 ඉක්මවන්නේ නම් පැයක් අවශ්‍යය. කාර්යබහුල වුවත් විවේකය අනිවාර්යයෙන් ගන්න. අවසරයකින් තොරව විවේකයේදී සමාගම් පරිශ්‍රයෙන් පිටවිය නොහැක. ආරම්භක/අවසන් වේලාවන්, විවේක සහ නිවාඩු සමාගමෙන් තහවුරු කරගන්න. උදෑසන රැස්වීම සහ අවසන් රැස්වීම වැඩ වේලාවට ඇතුළත් වන අතර ගමන් කාලය වැඩ වේලාව නොවේ.",
+      "visuals": [
+        {
+          "type": "working_time_breaks",
+          "description": "Daily 8-hour and weekly 40-hour caps with break thresholds: >6 hours gives at least 45 minutes; >8 hours gives at least 60 minutes."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 90,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 91,
+      "printed_page": 91,
+      "source_ja": "２．労働災害：倉庫ではフォークリフトやベルトコンベアなどの機械を使う一方、人手作業も多く、事故・けが・病気が起きることがある。労働災害は仕事中に起きた事故・けが・病気で、労災ともいう。2024年確定値、全909件中の上位：1 転倒233人(26%)、2 動作の反動・無理な動作222人(24%)、3 墜落・転落109人(12%)、4 はさまれ・巻き込まれ78人(9%)、5 激突され70人(8%)。例：トラック荷台や積荷から落ちる、カゴ台車使用中のけが、コンベアやソーターに挟まれる、重量物や無理な姿勢による腰痛。重い物は正しい姿勢で持つ。",
+      "source_furigana": "労働災害（ろうどうさいがい）、事故（じこ）、けが、病気（びょうき）、転倒（てんとう）、反動（はんどう）、墜落（ついらく）、転落（てんらく）、はさまれ、巻（ま）き込（こ）まれ、激突（げきとつ）、腰痛（ようつう）。",
+      "romaji": "Roudou saigai wa shigoto-chuu ni okita jiko, kega, byouki desu. 2024 nen no source data: tentou 233 (26%), hantou / muri na dousa 222 (24%), tsuiraku / tenraku 109 (12%), hasamare / makikomare 78 (9%), gekitotsu 70 (8%). Souko no jiko ni wa truck kara no rakka, roll-box cart no kega, conveyor ni hasamareru koto, juuryoubutsu ni yoru youtsuu ga arimasu.",
+      "en": "Occupational accidents are work-related accidents, injuries or illnesses. Warehouses use forklifts and conveyors, but many tasks are still manual. The source cites Japan's 2024 final figures: among 909 reported cases, the top categories are falls/slips 233 (26%); reaction to movement/overexertion 222 (24%); falls from height 109 (12%); caught-in/between or entanglement 78 (9%); struck-by 70 (8%). Examples include falling from truck beds or loads, injuries while using roll-box carts, getting caught in conveyors/sorters, and back pain from heavy loads or awkward posture. Use correct posture when lifting heavy items.",
+      "si": "වෘත්තීය අනතුරක් (労働災害) යනු රැකියාව කරන අතරතුර සිදුවන අනතුරක්, තුවාලයක් හෝ රෝගයකි. ගබඩාවල forklift සහ conveyor යන්ත්‍ර භාවිත කළත් අතින් කරන වැඩද බොහෝය. මූලාශ්‍රයේ සඳහන් ජපානයේ 2024 අවසන් සංඛ්‍යාලේඛන අනුව වාර්තා 909කින් ඉහළම හේතු: ලිස්සා/වැටීම 233 (26%); ශරීර චලනයේ ප්‍රතික්‍රියාව හෝ අධික බලය යෙදීම 222 (24%); උසකින් වැටීම 109 (12%); යන්ත්‍ර අතර සිරවීම/ඇදී යාම 78 (9%); වෙනත් දේක ගැටීම 70 (8%). උදාහරණ ලෙස truck එකෙන් වැටීම, cage trolley භාවිතයේ තුවාල, conveyor/sorter අතර සිරවීම සහ බර භාණ්ඩ/වැරදි ඉරියව් නිසා කොන්දේ වේදනාව ඇතිවීම දැක්විය හැක. බර භාණ්ඩ ඔසවන විට නිවැරදි ඉරියව්ව භාවිත කරන්න.",
+      "visuals": [
+        {
+          "type": "occupational_accident_rankings",
+          "description": "Bar chart using exact source figures and percentages for five accident categories."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 91,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 92,
+      "printed_page": 92,
+      "source_ja": "３．健康管理。（１）日常の健康管理：日本の気候や環境は出身国と異なるため体調を崩しやすい。毎日、食事・水分と規則正しい生活に気をつける。出勤日の朝、発熱や体調不良があれば無理をしない。①会社の人に連絡、②自分の部屋で休む、③必要なら病院へ行く。病院への行き方がわからない場合、特定技能外国人は登録支援機関に相談する。体調不良のまま出勤すると本人の悪化、同僚や客への感染、職場全体への悪影響がある。（２）けが・病気の予防：朝礼時の準備体操を必ず行う。屈伸運動は腰痛予防に役立つ。",
+      "source_furigana": "健康管理（けんこうかんり）、日常（にちじょう）、気候（きこう）、環境（かんきょう）、体調（たいちょう）、発熱（はつねつ）、登録支援機関（とうろくしえんきかん）、感染（かんせん）、予防（よぼう）、準備体操（じゅんびたいそう）、屈伸運動（くっしんうんどう）。",
+      "romaji": "Kenko kanri: Nihon no kikou ya kankyou wa shusshin-koku to kotonaru tame, taichou o kuzushi yasui desu. Mainichi shokuji, suibun, kisoku tadashii seikatsu ni ki o tsukemasu. Asa netsu ya taichou furyou ga areba muri o sezu, 1 kaisha ni renraku, 2 heya de yasumu, 3 hitsuyou nara byouin e ikimasu. Asa no junbi taisou ya kusshin undou de kega to youtsuu o yobou shimasu.",
+      "en": "Daily health management: Japan's climate and environment may differ from a worker's home country, making it easier to feel unwell. Pay attention to food, hydration and a regular daily routine. If you have a fever or feel unwell on a workday morning, do not force yourself to work: (1) contact someone at the company, (2) rest in your room, and (3) visit a hospital if needed. Specified Skilled Workers who do not know how to access medical care should consult their registered support organization. Working while ill may worsen your condition, spread illness to coworkers/customers and negatively affect the workplace. For injury/illness prevention, always do the warm-up exercises during the morning briefing; knee-bending/stretching exercises can help prevent back pain.",
+      "si": "දෛනික සෞඛ්‍ය කළමනාකරණය: ජපානයේ කාලගුණය සහ පරිසරය තම මව් රටට වඩා වෙනස් විය හැකි නිසා ශරීරයට අපහසුතා ඇතිවිය හැක. දිනපතා ආහාර, ජලය පානය සහ විධිමත් ජීවන රටාව ගැන සැලකිලිමත් වන්න. වැඩට යන උදෑසන උණ හෝ අසනීප බවක් ඇත්නම් බලෙන් වැඩට නොයන්න: (1) සමාගමේ අයෙකුට දන්වන්න, (2) තම කාමරයේ විවේක ගන්න, (3) අවශ්‍ය නම් රෝහලකට යන්න. රෝහලට යන ආකාරය නොදන්නා Specified Skilled Worker කෙනෙකු තම registered support organization එකෙන් උපදෙස් ගත යුතුය. අසනීපව වැඩට යාමෙන් තම රෝගය වැඩිවීම, සගයන්ට/පාරිභෝගිකයන්ට බෝවීම සහ මුළු සේවා ස්ථානයට අහිතකර බලපෑම් ඇතිවිය හැක. තුවාල/රෝග වැළැක්වීමට උදෑසන රැස්වීමේදී warm-up exercise අනිවාර්යයෙන් කරන්න; දණහිස් නවන දිගහරින ව්‍යායාම කොන්දේ වේදනාව වැළැක්වීමට උපකාරී වේ.",
+      "visuals": [
+        {
+          "type": "sick_day_decision_flow",
+          "description": "Fever/unwell on waking → notify company → rest in room → seek medical care if needed."
+        },
+        {
+          "type": "warmup_exercises",
+          "description": "Simple safe warm-up and knee flexion/extension before warehouse shift."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 92,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "external_visual_references": [
+          {
+            "source": "Japan MHLW occupational health and safety guidance",
+            "url": "https://www.mhlw.go.jp/content/11300000/001386371.pdf",
+            "purpose": "Workplace health and physical burden prevention reference"
+          }
+        ],
+        "generated_asset": "/images/generated/page-092-daily-health-warmup.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 93,
+      "printed_page": 93,
+      "source_ja": "予防注射を積極的に受ける。コロナ・インフルエンザなどの感染症には予防接種が効果的。健康診断は会社から指示された日・時間・場所で必ず受ける。（３）熱中症：暑い場所に長時間いることで体温調節ができなくなり体調が悪くなる。夏は倉庫内の室温が高くなることがある。作業服やヘルメットを脱いで作業してはいけない。喉が渇いていなくてもこまめに水を飲む。大量の汗や気分不良があれば熱中症の可能性がある。すぐ作業を止め応急処置をする。",
+      "source_furigana": "予防注射（よぼうちゅうしゃ）、感染症（かんせんしょう）、健康診断（けんこうしんだん）、熱中症（ねっちゅうしょう）、体温調節（たいおんちょうせつ）、室温（しつおん）、作業服（さぎょうふく）、応急処置（おうきゅうしょち）。",
+      "romaji": "Yobou chuusha o sekkyokuteki ni ukemashou. Kenkou shindan wa kaisha ga shiji shita hi, jikan, basho de ukemasu. Necchuushou wa atsui basho ni nagaku iru to taion chousetsu ga umaku dekinaku naru koto desu. Sagyoufuku ya helmet o nuide sagyou shite wa ikemasen. Nodo ga kawaitenakute mo komame ni mizu o nomimasu. Ooi ase ya kibun furyou ga areba sagyou o tomete oukyuu shochi o shimasu.",
+      "en": "The source encourages vaccination against infectious illnesses such as COVID-19 and influenza, and requires attending employer-arranged health checks at the specified date, time and place. Heatstroke occurs when prolonged exposure to heat impairs the body's temperature regulation. Warehouse indoor temperatures may become very high in summer. Do not remove required workwear or your helmet while working. Drink water frequently even before feeling thirsty. Heavy sweating or feeling unwell may indicate heatstroke; stop work immediately and begin first aid.",
+      "si": "COVID-19 සහ influenza වැනි බෝවන රෝග සඳහා එන්නත් ලබාගැනීම ප්‍රවර්ධනය කරයි. සමාගම දැනුම් දෙන දිනය, වේලාව සහ ස්ථානයේදී සෞඛ්‍ය පරීක්ෂණයට සහභාගි විය යුතුය. Heatstroke (熱中症) යනු උණුසුම් ස්ථානයක දිගු වේලාවක් සිටීමෙන් ශරීරයේ උෂ්ණත්වය පාලනය කිරීම අඩාල වී අසනීප වීමයි. ගිම්හානයේදී ගබඩාවේ ඇතුළත උෂ්ණත්වය ඉහළ යා හැක. වැඩ කරන අතරතුර නියමිත workwear හෝ helmet ඉවත් නොකරන්න. පිපාසය දැනෙන්නට පෙරම වරින්වර ජලය පානය කරන්න. අධික ලෙස දහඩිය දැමීම හෝ අසනීප බවක් දැනීම heatstroke ලක්ෂණ විය හැකි බැවින් වහාම වැඩ නවතා ප්‍රථමාධාර ආරම්භ කරන්න.",
+      "visuals": [
+        {
+          "type": "heatstroke_prevention",
+          "description": "Hydration reminders, required PPE remains on, symptoms warning and stop-work action."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 93,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "external_visual_references": [
+          {
+            "source": "Hachioji City official heatstroke prevention poster",
+            "url": "https://www.city.hachioji.tokyo.jp/kurashi/hoken/007/013/p035894_d/img/006.jpeg",
+            "purpose": "Official Japanese heatstroke prevention and first-response poster"
+          },
+          {
+            "source": "Heatstroke prevention station visual",
+            "url": "https://www.heatstroke-navi.com/images/articles/heatstroke-signage-cooling-items-supply.jpg",
+            "purpose": "Hydration and cooling station reference"
+          }
+        ],
+        "generated_asset": "/images/generated/page-093-heatstroke-prevention.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 94,
+      "printed_page": 94,
+      "source_ja": "熱中症の応急処置：①エアコンの効いた涼しい部屋へ移動、②衣服をゆるめて体を冷やす、③水と塩分（スポーツドリンクなど）を飲み安静にする。周囲の人にも声をかけ同様に対応する。応急処置をしても改善しない場合はすぐ医療機関を受診。ページまとめ：体調不良時は無理をしない、毎朝準備体操、予防接種、水分をこまめに飲む、熱中症が疑われたらすぐ作業を止める。",
+      "source_furigana": "応急処置（おうきゅうしょち）、移動（いどう）、衣服（いふく）、塩分（えんぶん）、安静（あんせい）、周（まわ）り、医療機関（いりょうきかん）、受診（じゅしん）。",
+      "romaji": "Necchuushou no oukyuu shochi: 1 aircon no kaita suzushii heya e idou, 2 ifuku o yurume karada o hiyasu, 3 mizu to enbun o nonde ansei ni suru. Mawari no hito ni mo koe o kakete onaji you ni taiou shimasu. Kaizen shinakereba sugu iryou kikan o jushin shimasu.",
+      "en": "Heatstroke first aid: (1) move the person to a cool air-conditioned room, (2) loosen clothing and cool the body, and (3) drink water and take salt/electrolytes (for example, a sports drink) and rest. Check on nearby coworkers and help them in the same way if needed. If the person's condition does not improve after first aid, seek medical care immediately. Summary: do not work when unwell; do morning warm-ups; receive recommended vaccinations; drink water frequently; stop work immediately if heatstroke is suspected.",
+      "si": "Heatstroke ප්‍රථමාධාර: (1) වායුසමීකරණය ඇති සිසිල් කාමරයකට ගෙන යන්න, (2) ඇඳුම් ලිහිල් කර ශරීරය සිසිල් කරන්න, (3) ජලය සහ ලුණු/විද්‍යුත් ලවණ (උදා: sports drink) ලබාදී විවේක ගන්න. අසල සිටින අයගේ තත්ත්වයද විමසා අවශ්‍ය නම් ඒ ආකාරයෙන්ම උදව් කරන්න. ප්‍රථමාධාරයෙන් පසුත් සුව නොවන්නේ නම් වහාම වෛද්‍ය ප්‍රතිකාර ලබාගන්න. සාරාංශය: අසනීපව වැඩ නොකරන්න; උදෑසන ව්‍යායාම කරන්න; නිර්දේශිත එන්නත් ලබාගන්න; නිතර ජලය පානය කරන්න; heatstroke සැක නම් වහාම වැඩ නවත්වන්න.",
+      "visuals": [
+        {
+          "type": "heatstroke_first_aid_steps",
+          "description": "Three-step first aid: cool room, loosen clothes/cool body, water plus salt/electrolytes and rest; escalate if no improvement."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 94,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 95,
+      "printed_page": 95,
+      "source_ja": "４．安全な作業の基本。（１）安全な装備：決められた服装と作業に合う服を着て保護具を必ず身につける。①安全帽（ヘルメット）：倉庫に入るときは作業していない時も必ず着用。落下物や狭い場所で頭をぶつける危険から守る。あごひもを締め、ずれないようにする。②安全靴：倉庫では必ず着用。つま先に重い物が当たっても足を守る。③手袋：素手で貨物や機械に触らず作業用手袋を着用。食品等の流通加工では衛生のためビニール手袋を使う。（２）作業の基本：決められたルールを守り、安全・確実を最優先。急いでいてもルールを破らない。",
+      "source_furigana": "安全作業（あんぜんさぎょう）、装備（そうび）、服装（ふくそう）、保護具（ほごぐ）、安全帽（あんぜんぼう）、安全靴（あんぜんぐつ）、手袋（てぶくろ）、素手（すで）、衛生（えいせい）。",
+      "romaji": "Anzen na soubi: kimatta fukusou o kite, hogo-gu o kanarazu mi ni tsukemasu. Helmet wa souko ni hairu toki itsudemo chakuyou shi, ago-himo o shikkari tomemasu. Anzen-gutsu wa ashi no tsum先 o mamorimasu. Tebukuro nashi de nimotsu ya kikai ni sawarazu, sagyou-you tebukuro o tsukaimasu. Shokuhin no kakou de wa vinyl gloves de eisei o mamorimasu. Rule o mamori, anzen to kakujitsu o saiyuusen shimasu.",
+      "en": "Safe equipment: wear the required clothing and task-appropriate garments, and always use protective equipment. (1) Safety helmet: wear it whenever entering the warehouse, even when not actively working; it protects against falling objects and striking the head in confined spaces. Secure the chin strap so it does not shift. (2) Safety shoes: always wear them in the warehouse; they protect the toes if heavy objects fall or strike. (3) Gloves: never handle cargo or machinery with bare hands; wear work gloves. For food-related distribution processing, use vinyl gloves to maintain hygiene. Basic work rule: follow the prescribed rules and put safety and reliability first, even when in a hurry.",
+      "si": "ආරක්ෂිත උපකරණ: නියමිත ඇඳුම් සහ වැඩට ගැළපෙන ඇඳුම් අඳිමින් ආරක්ෂක උපකරණ අනිවාර්යයෙන් පැළඳිය යුතුය. (1) Safety helmet: ගබඩාවට ඇතුළු වන සෑම අවස්ථාවකම, වැඩ නොකරන විට පවා පැළඳිය යුතුය. ඉහළින් වැටෙන දේවල් සහ ඉඩ අඩු ස්ථානවල හිස ගැටීමෙන් ආරක්ෂා කරයි. Chin strap එක තද කර helmet එක ලිස්සා නොයන ලෙස සවි කරන්න. (2) Safety shoes: ගබඩාවේදී අනිවාර්යයෙන් පැළඳිය යුතුය; බර භාණ්ඩ ඇඟිලි මත වැටීමෙන් ආරක්ෂා කරයි. (3) Gloves: හිස් අතින් භාණ්ඩ හෝ යන්ත්‍ර ස්පර්ශ නොකර වැඩ අත්වැසුම් පළඳින්න. ආහාර සැකසුම් වැඩවල සනීපාරක්ෂාව සඳහා vinyl gloves භාවිත කරන්න. මූලික නීතිය: නියමිත නීති පිළිපදිමින් ආරක්ෂාව සහ නිවැරදිභාවය පළමු තැනට තබන්න; ඉක්මන් වුවත් නීති කඩ නොකරන්න.",
+      "visuals": [
+        {
+          "type": "warehouse_ppe",
+          "description": "Helmet with chin strap, reinforced-toe safety shoes, work gloves and food-safe vinyl gloves."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 95,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "external_visual_references": [
+          {
+            "source": "Illustrated roll-box pallet PPE guide",
+            "url": "https://chomapuoshoffice01.up.seesaa.net/_imagesblog_f4echomapu-shikaku01/rbp02-9bf0c.jpg",
+            "purpose": "Japanese warehouse PPE illustration showing helmet, gloves and safety footwear"
+          }
+        ],
+        "generated_asset": "/images/generated/page-095-ppe-basics.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 96,
+      "printed_page": 96,
+      "source_ja": "人力作業のルール：できるだけ水平でまっすぐ短い道を使う。何度も持ち上げたり途中で置いたりしない。持ち上げ・下ろし時間を短くする。頭より高い場所で作業しない。積み重なった貨物の中抜きはしない。後ろ向きで作業しない。物を飛び越えたり積荷に乗ったりしない。長い物を振り回さない。転がりやすい物・長い物はできるだけ手で運ばない。危険物・有害物の注意事項を守る。体重の40％（女性24％）より重い貨物は2人以上で持つ。手で持つ時間を短くする。腰痛防止：正しい姿勢で持ち上げる。Step 1 膝を曲げ貨物に近づく。Step 2 腰の位置で貨物を体に密着。Step 3 膝をゆっくり伸ばして持ち上げる。",
+      "source_furigana": "人力作業（じんりきさぎょう）、水平（すいへい）、中抜（なかぬ）き、危険物（きけんぶつ）、有害物（ゆうがいぶつ）、体重（たいじゅう）、腰痛防止（ようつうぼうし）、密着（みっちゃく）、膝（ひざ）。",
+      "romaji": "Jinriki sagyou no rule: dekiru dake suihei de massugu mijikai michi o tsukau. Nimotsu o nando mo mochianaoshi shinai. Atama yori takai basho de sagyou shinai. Taijuu no 40% (josei 24%) yori omoi nimotsu wa futari ijou de motsu. Youtsuu yobou no lifting: 1 hiza o mage nimotsu ni chikazuku, 2 nimotsu o karada ni micchaku, 3 hiza o yukkuri nobashite ageru.",
+      "en": "Manual-handling rules: use a level, straight and short route; avoid repeatedly lifting or setting down the same load; minimise lifting/lowering time; do not work above head height; do not remove items from the middle of a stack; do not work facing backwards; do not step over objects or climb onto stacked goods; do not swing long objects; avoid manually carrying rolling or long items; follow precautions for hazardous substances. Loads heavier than 40% of body weight (24% for women, as stated in the source) should be lifted by two or more people. Keep carrying time short. To prevent back pain, lift correctly: (1) bend knees and move close to the load, (2) hold it close to the body around waist level, (3) lift by slowly straightening the knees.",
+      "si": "අතින් භාණ්ඩ හැසිරවීමේ නීති: හැකි තරම් සමතලා, සෘජු සහ කෙටි මාර්ගයක් භාවිත කරන්න; එකම භාණ්ඩය නැවත නැවත ඔසවා තැබීමෙන් වළකින්න; ඔසවන/පහළ කරන කාලය කෙටි කරන්න; හිසට ඉහළින් වැඩ නොකරන්න; ගොඩක මැදින් භාණ්ඩ ඇදීම (中抜き) නොකරන්න; පසුපසට මුහුණලා වැඩ නොකරන්න; භාණ්ඩ මතින් පැනීම හෝ ගොඩවල් මත නැගීම නොකරන්න; දිගු භාණ්ඩ කරකවා නොසලවන්න; පෙරළෙන හෝ දිගු භාණ්ඩ අතින් ගෙනයාම හැකි තරම් වළක්වන්න; අනතුරුදායක/හානිකර ද්‍රව්‍ය සඳහා උපදෙස් පිළිපදින්න. ශරීර බරෙන් 40% (කාන්තාවන් සඳහා 24% ලෙස මූලාශ්‍රයේ සඳහන්) ඉක්මවන භාණ්ඩ දෙදෙනෙකු හෝ වැඩි පිරිසක් එක්ව ඔසවන්න. අතින් දරා සිටින කාලය අඩු කරන්න. කොන්දේ වේදනාව වැළැක්වීමට නිවැරදිව ඔසවන්න: (1) දණහිස් නමා භාණ්ඩයට ළංවන්න, (2) භාණ්ඩය ඉණ මට්ටමේදී ශරීරයට සමීපව තබාගන්න, (3) දණහිස් සෙමින් දිගහැර භාණ්ඩය ඔසවන්න.",
+      "visuals": [
+        {
+          "type": "safe_manual_lifting",
+          "description": "Three-step lift: bend knees, bring load close to torso, straighten knees; show safe and unsafe postures."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 96,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "external_visual_references": [
+          {
+            "source": "Japan MHLW back injury prevention guidance",
+            "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tb9484&dataType=1&pageNo=1",
+            "purpose": "Official manual-handling posture guidance"
+          }
+        ],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 97,
+      "printed_page": 97,
+      "source_ja": "カゴ台車の積み卸し：カゴ台車は金属カゴ付き台車（ロールボックスパレット）。一人で扱える重さは300kg未満まで。動かす前にキャスターのストッパーがフリーか確認。胸から腰の高さで支柱を握り前へ押す。トラック荷台から引き出すときは後ろ向きで、前方へ押せる位置まで引き出す。前方安全を確認し見えにくい場所では声をかける。停止・旋回の2m手前から減速。輸送時は重心近くをラッシングベルトとショアリングバーで固定。バーを外すときは支える。高く積んで前が見えない台車は後ろ向きに引く。使用後はストッパーをロック。倉庫注意：重い貨物は台車で運び、手で持ったまま運ばない。足元の障害物に注意し、高く積みすぎず、周囲を見て歩く。",
+      "source_furigana": "カゴ台車（だいしゃ）、金属（きんぞく）、台車（だいしゃ）、ロールボックスパレット、積（つ）み卸（おろ）し、キャスター、支柱（しちゅう）、旋回（せんかい）、重心（じゅうしん）、ラッシングベルト、ショアリングバー、障害物（しょうがいぶつ）。",
+      "romaji": "Kago daisha wa metal cage tsuki no roll-box pallet desu. Hitori de atsukaeru omosa wa 300kg miman. Ugokasu mae ni caster stopper ga free ka kakunin. Hashira o mune kara koshi no takasa de nigiri, mae ni osu. Truck kara dasu toki wa ushiro muki de hikidasu. Tomaru / magaru 2m mae kara yukkuri gensoku. Unpan toki wa lashing belt to shoring bar de kotei. Owarattara stopper o lock. Omoi nimotsu wa cart de hakobi, ashimoto no shougai-butsu ni chuui suru.",
+      "en": "Roll-box pallet (cage trolley) loading/unloading: it is a wheeled cart with a metal cage. The source says one person may handle loads under 300 kg. Before moving, check that caster brakes are released. Hold the uprights between chest and waist height and push forward. When pulling it from a truck bed, face backwards and pull it out only until you can safely push forward. Check the path ahead and call out where visibility is poor. Slow down from 2 metres before stopping or turning. During transport, secure near the centre of gravity with lashing belts and a shoring bar; support the bar when removing it. If a high load blocks forward visibility, pull the cart backwards. Lock the brakes after use. For heavy goods, use a trolley rather than carrying by hand. Watch for floor obstacles, do not stack so high that vision is blocked, and watch the surroundings.",
+      "si": "Cage trolley (カゴ台車/roll-box pallet) යනු ලෝහ කූඩයක් සවි කළ රෝද සහිත කරත්තයකි. මූලාශ්‍රය අනුව එක් පුද්ගලයෙකුට හැසිරවිය හැකි බර 300kgට අඩු විය යුතුය. ගෙනයාමට පෙර caster brake නිදහස්දැයි බලන්න. පපුව සහ ඉණ අතර උසින් කණු අල්ලා ඉදිරියට තල්ලු කරන්න. Truck bed එකෙන් පිටතට ගන්නා විට පසුපසට මුහුණලා, ආරක්ෂිතව ඉදිරියට තල්ලු කළ හැකි තැනට පමණක් ඇදගන්න. ඉදිරි මාර්ගය පරීක්ෂා කර නොපෙනෙන තැන්වල හඬින් දැනුම් දෙන්න. නවත්වන හෝ හැරෙන ස්ථානයට මීටර් 2කට පෙර වේගය අඩු කරන්න. ප්‍රවාහනයේදී බර මධ්‍යයට ආසන්නව lashing belt සහ shoring bar මඟින් සවි කරන්න; bar ඉවත් කිරීමේදී එය හොඳින් අල්ලාගන්න. භාණ්ඩ ඉහළට ගොඩගසා ඉදිරිය නොපෙනේ නම් කරත්තය පසුපසට ඇදගෙන යන්න. භාවිතයෙන් පසු brake lock කරන්න. බර භාණ්ඩ අතින් ගෙනයාම වෙනුවට trolley භාවිත කරන්න. බිමේ බාධක ගැන සැලකිලිමත් වන්න; පෙනීම අවහිර වන තරම් උසට ගොඩ නොගසන්න.",
+      "visuals": [
+        {
+          "type": "cage_trolley_safe_handling",
+          "description": "Roll-box pallet push/pull method, caster brake state, two-metre slow-down zone, lashing belt and shoring bar."
+        },
+        {
+          "type": "heavy_load_floor_safety",
+          "description": "Use a trolley for heavy goods; keep view clear and watch floor obstacles."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 97,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "external_visual_references": [
+          {
+            "source": "NIOSH roll-box pallet safety guidance illustration",
+            "url": "https://chomapuoshoffice01.up.seesaa.net/_imagesblog_f4echomapu-shikaku01/rbp02-9bf0c.jpg",
+            "purpose": "Roll-box pallet handling PPE and safety reference"
+          }
+        ],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 98,
+      "printed_page": 98,
+      "source_ja": "③ 高い場所：棚や柱によじ登らない。パレットに乗ってフォークリフトで持ち上げてもらわない。脚立の最上段に乗らない。不安定な場所にはしごや脚立を立てない。安全な作業台、専用の高所作業車、またはフォークリフトでパレットごと下ろしてから作業する。④ 機械から貨物を取るとき：ベルトコンベアに寄りかからない。動くベルトに手や服が巻き込まれ大けがのおそれがある。正しい姿勢でベルトに触れず貨物を取る。まとめ：ヘルメット・安全靴・手袋を着用、膝を曲げて持ち上げ、重い貨物は台車、高所では専用機器、コンベアに寄りかからない。",
+      "source_furigana": "高所（こうしょ）、棚（たな）、柱（はしら）、脚立（きゃたつ）、天板（てんばん）、作業台（さぎょうだい）、高所作業車（こうしょさぎょうしゃ）、専用機器（せんようきき）、巻（ま）き込（こ）まれる、姿勢（しせい）。",
+      "romaji": "Takai basho de tana ya hashira ni noboranai. Pallet ni notte forklift de mochiagete morawanai. Kyatatsu no ichiban ue ni noranai. Anzen na sagyou-dai, senyou kousho sagyou-sha o tsukau ka, forklift de pallet goto oroshite kara sagyou suru. Conveyor ni yorikakarazu, ugoku belt ni te ya fuku o makikomarenai you ni shite nimotsu o torimasu.",
+      "en": "Working at height: never climb shelves or columns; never stand on a pallet and ask a forklift to lift you; never stand on the top platform of a stepladder; never place a ladder/stepladder on unstable ground. Use a safe work platform, a purpose-built elevated work platform, or lower the pallet to floor level with a forklift before working. When retrieving goods from machinery, do not lean on a belt conveyor: moving belts can catch hands or clothing and cause serious injury. Maintain a safe posture and retrieve goods without touching the belt. Summary: wear a helmet, safety shoes and gloves; bend knees to lift; use a trolley for heavy cargo; use dedicated equipment for high work; never lean on a conveyor.",
+      "si": "උස ස්ථානවල වැඩ කිරීමේදී රාක්ක හෝ කණු මත නැගීම තහනම්. Pallet එක මත සිට forklift එකකින් තමන්ව ඉහළට ඔසවාගැනීම නොකරන්න. Stepladder එකේ ඉහළම තට්ටුව මත නොනගින්න. අස්ථාවර බිමක ladder/stepladder තබන්න එපා. ආරක්ෂිත work platform එකක්, ඒ සඳහාම නිර්මාණය කළ elevated work platform එකක් භාවිත කරන්න; නැතහොත් forklift එකෙන් pallet එක බිමට පහත් කර පසුව වැඩ කරන්න. යන්ත්‍රයකින් භාණ්ඩ ගන්නා විට belt conveyor එකට හේත්තු නොවන්න. චලනය වන belt එකට අත් හෝ ඇඳුම් ඇදී ගොස් බරපතළ තුවාල සිදුවිය හැක. නිවැරදි ඉරියව්ව පවත්වාගෙන belt එක ස්පර්ශ නොකර භාණ්ඩ ගන්න. සාරාංශය: helmet, safety shoes සහ gloves පළඳින්න; බර ඔසවන විට දණහිස් නමන්න; බර භාණ්ඩ trolley එකකින් ගෙනයන්න; උස වැඩ සඳහා විශේෂ උපකරණ භාවිත කරන්න; conveyor එකට හේත්තු නොවන්න.",
+      "visuals": [
+        {
+          "type": "height_work_safe_unsafe",
+          "description": "Prohibited climbing, pallet riding and top-step standing versus approved platform/lift/lower-pallet methods."
+        },
+        {
+          "type": "conveyor_entanglement_safety",
+          "description": "Do not lean on moving conveyor; keep hands and clothing clear while retrieving items."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 98,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "external_visual_references": [
+          {
+            "source": "Japan MHLW safe cargo handling guidance",
+            "url": "https://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/110106-1.html",
+            "purpose": "Official fall prevention and safe handling reference"
+          }
+        ],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    }
+  ],
+  "audit": {
+    "source_pages_read": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "page_count": 10,
+    "all_four_languages_present": true,
+    "source_pdf_visuals_available": [
+      89,
+      90,
+      91,
+      94,
+      96,
+      97,
+      98
+    ],
+    "source_pdf_image_render_unavailable": [
+      92,
+      93,
+      95
+    ],
+    "repo_image_search_terms": [
+      "warehouse PPE",
+      "heatstroke",
+      "manual lifting",
+      "cage trolley"
+    ],
+    "repo_matching_images_found": [],
+    "generated_visual_assets_to_create": 3,
+    "external_visual_references_used": [
+      {
+        "page": 92,
+        "url": "https://www.mhlw.go.jp/content/11300000/001386371.pdf"
+      },
+      {
+        "page": 93,
+        "url": "https://www.city.hachioji.tokyo.jp/kurashi/hoken/007/013/p035894_d/img/006.jpeg"
+      },
+      {
+        "page": 95,
+        "url": "https://chomapuoshoffice01.up.seesaa.net/_imagesblog_f4echomapu-shikaku01/rbp02-9bf0c.jpg"
+      },
+      {
+        "page": 96,
+        "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tb9484&dataType=1&pageNo=1"
+      },
+      {
+        "page": 97,
+        "url": "https://chomapuoshoffice01.up.seesaa.net/_imagesblog_f4echomapu-shikaku01/rbp02-9bf0c.jpg"
+      },
+      {
+        "page": 98,
+        "url": "https://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/110106-1.html"
+      }
+    ],
+    "status": "CONTENT_COMPLETE_VISUALS_TO_COMMIT",
+    "scope_note": "All translated values and rankings are preserved from the source PDF. External sources are visual context only and do not replace source facts."
+  }
+}
