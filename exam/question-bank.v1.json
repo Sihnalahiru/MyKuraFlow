@@ -1,0 +1,7 @@
+{
+  "schemaVersion": "mykuraflow.question-bank.v1",
+  "status": "BUILDING_NOT_RELEASE_READY",
+  "minimumDistinctQuestions": 500,
+  "sourceRevision": "specified_skilled_worker_textbook_202607(2).pdf · 123 physical pages",
+  "questions": []
+}
