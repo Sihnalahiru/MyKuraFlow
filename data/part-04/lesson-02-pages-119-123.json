@@ -175,7 +175,7 @@
     },
     {
       "pdf_page": 123,
-      "printed_page": 123,
+      "printed_page": null,
       "source_ja": "本書は特定技能制度（物流倉庫分野）に係る技能試験の内容を整理するため、一般社団法人日本倉庫協会外国人就労調査チーム、一般社団法人日本冷蔵倉庫協会外国人材雇用検討部会、公益社団法人全日本トラック協会の協力を得て作成。書名：教本 特定技能１号 評価試験 物流倉庫分野（学科・実技）。2026年7月発行（初版）。監修：一般社団法人日本冷蔵倉庫協会、一般社団法人日本倉庫協会。発行：一般社団法人日本冷蔵倉庫協会。住所：〒104-0055 東京都中央区豊海町4-18 東京水産ビル5F。TEL 03-3536-1030、FAX 03-3536-1031。Copyright © 2026 Japan Association of Refrigerated Warehouses. All rights reserved。本書の著作権は同協会に帰属し、法律上認められる場合を除き許諾なしの複製・転載・電子保存・配布は禁止。",
       "source_furigana": "特定技能制度（とくていぎのうせいど）、物流倉庫分野（ぶつりゅうそうこぶんや）、技能試験（ぎのうしけん）、協力（きょうりょく）、一般社団法人（いっぱんしゃだんほうじん）、公益社団法人（こうえきしゃだんほうじん）、外国人就労調査（がいこくじんしゅうろうちょうさ）、雇用検討部会（こようけんとうぶかい）、初版（しょはん）、監修（かんしゅう）、発行（はっこう）、著作権（ちょさくけん）、複製（ふくせい）、転載（てんさい）、配布（はいふ）。",
       "romaji": "Honsho wa tokutei ginou seido (butsuryuu souko bunya) ni kakawaru ginou shiken no naiyou o seiri suru tame, Nihon Souko Kyoukai, Nihon Reizou Souko Kyoukai, Zen-Nihon Truck Kyoukai no kyouryoku o ete sakusei shimashita. 2026-nen 7-gatsu hatsubai (shohan). Kanshuu: Nihon Reizou Souko Kyoukai, Nihon Souko Kyoukai. Hakkou: Nihon Reizou Souko Kyoukai. Chosakuken wa hakkousha ni kizoku shimasu.",
@@ -195,7 +195,8 @@
         "generated_asset": "/images/generated/page-123-colophon-publisher-record.svg",
         "external_visual_references": [],
         "status": "COMMITTED_AND_LINKED"
-      }
+      },
+      "page_type": "colophon_backmatter"
     }
   ],
   "audit": {
@@ -240,6 +241,7 @@
       "Original repository image filenames preserved; no numeric-name-only image assignments",
       "Page 123 colophon translated with publisher, contributors, contact and copyright details",
       "No pending visual placeholders in this batch"
-    ]
+    ],
+    "page_123": "Classified as unprinted publisher/copyright colophon; not a numbered textbook page."
   }
 }
