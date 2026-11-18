@@ -43,7 +43,7 @@
     {
       "pdf_page": 55,
       "printed_page": 55,
-      "source_ja": "２．帳票・ラベル\n帳票は仕事で使う帳簿・伝票などの記録用紙。\n（１）入庫関係帳票：寄託申込書は寄託者が倉庫規則・約款に同意して貨物を預ける申込書。記載事項は貨物種類・品名、個数・数量・単位、荷造り種類、記号・規格・サイズ・形状。入庫指図票は貨物到着時の書類または担当者への指示書。貨物受領書は運送人に渡す受領証。入庫通知書は寄託者へ入庫を知らせる書類。\n（２）出庫関係帳票：出庫伝票は寄託者の出庫依頼を受け倉庫側が作る伝票。",
+      "source_ja": "２．帳票（ちょうひょう）・ラベル\n帳票とは、仕事で使う帳簿・伝票などの記録用紙です。\n（１）入庫関係帳票：入庫時に使う書類です。\n① 寄託申込書：貨物を預ける申込み。倉庫の約款に同意する内容で、貨物種類・品名、個数・数量・単位、荷造り種類、記号・規格・サイズ・形状を記載します。\n② 入庫指図票：貨物到着時の書類、または倉庫担当者への指示書です。会社により入庫検品票・貨物受取書など名称が異なります。\n③ 貨物受領書：倉庫から運送人へ渡す受領確認書です。\n④ 入庫通知書：寄託者へ貨物が倉庫に入ったことを知らせる書類です。\n（２）出庫関係帳票：貨物を倉庫から出すときに使います。\n① 出庫伝票：寄託者の出庫依頼を受け、倉庫側が作成する伝票です。",
       "romaji": "Chouhyou・label. Chouhyou wa shigoto de tsukau kiroku youshi. Nyuuko kankei: kitaku moushikomisho, nyuuko sashizuhyou, kamotsu juryousho, nyuuko tsuuchisho. Kitaku moushikomisho ni shurui, hinmei, kosuu, suuryou, tani, nizukuri, kigou, kikaku, size, keijou o kaku. Shukko denpyou wa shukko irai o ukete souko gawa ga tsukuru.",
       "en": "2. Forms and labels. Forms are record sheets used for work, such as ledgers and slips. (1) Inbound documents: the storage application (kitaku moushikomisho) records the depositor's agreement to warehouse rules/terms. It includes cargo type/name, item count/quantity/unit, packing type, marks, standards, size and shape. The inbound instruction sheet is used when cargo arrives or gives instructions to warehouse staff. The cargo receipt is given to the carrier as acknowledgement of receipt. The inbound notice informs the depositor that cargo has entered the warehouse. (2) Outbound documents: the outbound slip is prepared by the warehouse after the depositor requests dispatch.",
       "si": "2. ලේඛන සහ ලේබල්. වැඩ සඳහා භාවිත කරන ලෙජර් සහ වවුචර් වැනි වාර්තා පත්‍ර ලේඛන වේ. (1) භාණ්ඩ ඇතුළත් කිරීමේ ලේඛන: භාණ්ඩ භාරදීමේ අයදුම්පතෙන් භාණ්ඩ හිමිකරු ගබඩා නීති/කොන්දේසි පිළිගෙන භාණ්ඩ භාරදෙයි. එහි භාණ්ඩ වර්ගය හා නම, ගණන/ප්‍රමාණය/ඒකකය, ඇසුරුම් වර්ගය, සලකුණු, ප්‍රමිතිය, ප්‍රමාණය සහ හැඩය ඇතුළත් වේ. Inbound instruction sheet එක භාණ්ඩ පැමිණෙන විට භාවිත කරයි හෝ සේවකයන්ට උපදෙස් දෙයි. Cargo receipt එක ප්‍රවාහකයාට භාරදීමේ පිළිගැනීමක් ලෙස ලබාදෙයි. Inbound notice එකෙන් භාණ්ඩ ගබඩාවට ඇතුළත් වූ බව හිමිකරුට දන්වයි. (2) Outbound ලේඛන: හිමිකරුගේ ඉල්ලීමෙන් පසු ගබඩාව සකස් කරන පිටත් කිරීමේ වවුචරය.",
@@ -56,12 +56,13 @@
       "image_mapping": {
         "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
         "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
-      }
+      },
+      "source_furigana": "帳票（ちょうひょう）、記録用紙（きろくようし）、入庫（にゅうこ）、寄託申込書（きたくもうしこみしょ）、約款（やっかん）、寄託者（きたくしゃ）、入庫指図票（にゅうこさしずひょう）、貨物受領書（かもつじゅりょうしょ）、運送人（うんそうにん）、入庫通知書（にゅうこつうちしょ）、出庫（しゅっこ）、出庫伝票（しゅっこでんぴょう）。"
     },
     {
       "pdf_page": 56,
       "printed_page": 56,
-      "source_ja": "出庫関係帳票の続き：ピッキングリストは注文商品を倉庫内から探して集める作業の指示リスト。出庫指図書は担当者に対象貨物の出庫を指示する書類。送り状は運送人に渡す書類。出庫通知書は寄託者に出庫を知らせる書類。\n（３）ラベル：出庫ラベルは送り先住所・受取人名を記載し出庫貨物に貼る。入庫ラベルは入庫時の管理用。管理番号・LOT番号は貨物グループ番号で問題時に対象商品を素早く特定できる。ラベラーで個別貼付する場合もある。\nJANコードは会社と商品を示す共通識別番号。本文記載では12桁。海外ではGTINと呼ぶ。QRコードはより多くの情報を持てる２次元コード。QRはQuick Responseの略。",
+      "source_ja": "出庫関係帳票の続き：ピッキングリストは注文商品を倉庫内から探して集める作業の指示リストです。出庫指図書は担当者に貨物の出庫を指示します。送り状は運送人に渡す書類です。出庫通知書は寄託者に出庫を知らせます。\n（３）ラベル\n① 出庫ラベル：出庫貨物に貼り、送り先住所・受取人名を記載します。入庫ラベルは入庫貨物の管理用です。管理番号・LOT番号は貨物グループ番号で、問題発生時に対象商品を素早く特定できます。個別貼付にはラベラーを使う場合があります。\n② JANコード：会社と商品を示す共通識別番号で、本文では12桁と説明しています。海外ではGTINと呼ばれます。QRコードはより多くの情報を持てる二次元コードで、QRはQuick Responseの略です。",
       "romaji": "Shukko kankei chouhyou: picking list wa order sareta shouhin o sagashite atsumeru list. Shukko sashizusho wa kamotsu o dasu shiji. Okurijou wa unsounin ni watasu. Shukko tsuuchisho wa kitakusha ni shiraseru. Shukko label ni okurisaki juusho to uketorinin namae. Nyuuko label wa kanri you. JAN code wa kaisha to shouhin no shikibetsu bangou; GTIN to mo iu. QR wa Quick Response.",
       "en": "Continuation of outbound documents: a picking list instructs workers to find and collect ordered products in the warehouse. An outbound instruction document tells staff which cargo to dispatch. A waybill is given to the carrier. An outbound notice informs the depositor that goods have been dispatched. (3) Labels: an outbound label is attached to dispatched cargo and shows destination address and recipient name. An inbound label is used to manage goods entering the warehouse. Management/LOT numbers identify a cargo group and help quickly identify affected products if a problem occurs. A labeller may be used to attach labels individually. A JAN barcode is a shared product identification number showing the company and product; the source states it has 12 digits. It is called GTIN overseas. A QR code is a two-dimensional code designed to hold more information; QR means Quick Response.",
       "si": "පිටත් කිරීමේ ලේඛන: Picking list එකෙන් ඇණවුම් කළ භාණ්ඩ ගබඩාවෙන් සොයා එකතු කළ යුතු ආකාරය දක්වයි. Outbound instruction එකෙන් කුමන භාණ්ඩ පිටත් කළ යුතුදැයි සේවකයාට උපදෙස් දෙයි. Waybill එක ප්‍රවාහකයාට ලබාදෙයි. Outbound notice එකෙන් භාණ්ඩ පිටත් කළ බව හිමිකරුට දන්වයි. (3) ලේබල්: පිටත් කිරීමේ ලේබලයේ ගමනාන්ත ලිපිනය සහ භාරගන්නා පුද්ගලයාගේ නම සඳහන් වේ. Inbound label එක ඇතුළත් වන භාණ්ඩ පාලනයට යොදාගනී. LOT/කළමනාකරණ අංකය භාණ්ඩ කාණ්ඩය හඳුනාගෙන ගැටලුවක් ඇති විට අදාළ භාණ්ඩය ඉක්මනින් සොයාගැනීමට උපකාරී වේ. JAN barcode එක සමාගම සහ භාණ්ඩය හඳුනාගන්නා පොදු අංකයකි; මූලාශ්‍රයේ එය ඉලක්කම් 12ක් ලෙස සඳහන් වේ. විදේශයන්හි GTIN ලෙස හඳුන්වයි. QR යනු වැඩි තොරතුරු ගබඩා කළ හැකි ද්විමාන කේතයකි; QR යන්න Quick Response යන්නයි.",
@@ -74,12 +75,13 @@
       "image_mapping": {
         "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
         "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
-      }
+      },
+      "source_furigana": "出庫指図書（しゅっこさしずしょ）、送り状（おくりじょう）、出庫通知書（しゅっこつうちしょ）、出庫ラベル（しゅっこラベル）、入庫ラベル（にゅうこラベル）、管理番号（かんりばんごう）、製造LOT番号（せいぞうロットばんごう）、ラベラー、識別番号（しきべつばんごう）、二次元（にじげん）。"
     },
     {
       "pdf_page": 57,
       "printed_page": 57,
-      "source_ja": "③ RFID：Radio Frequency Identificationの略。電波を使いタグから情報を読み取る技術。タグに触れず読める（非接触）、一度に多数のタグをまとめてスキャンできる、離れた場所のタグも読める。ICチップ入り電子タグを使う無線通信システム。\n（４）ケアマーク・GHSラベル：ケアマークは貨物の扱い方（壊れやすい、逆さにしない等）を示す。GHSラベルは危険成分の有無など貨物の性状を示す。\n３．単位\n（１）長さ：基本単位m。1cm＝1/100m、1mm＝1/1000m。換算：1m=100cm=1000mm、1cm=0.01m、1mm=0.001m。",
+      "source_ja": "③ RFID（Radio Frequency Identification）：電波でタグから情報を読む技術です。特徴は、タグに触れず読める（非接触）、多数のタグを一度にまとめてスキャンできる、離れた場所のタグも読めることです。ICチップ入り電子タグを使う無線通信システムです。\n（４）ケアマーク・GHSラベル：ケアマークは貨物の扱い方（壊れやすい・逆さにしない等）を示します。GHSラベルは危険成分の有無など貨物の性状を示します。\n３．単位\n（１）長さ：基本単位はメートル（m）です。1cm＝1/100m、1mm＝1/1,000m。換算：1m＝100cm＝1,000mm、1cm＝0.01m、1mm＝0.001m。",
       "romaji": "RFID wa Radio Frequency Identification no ryakugo. Denpa de tag no jouhou o yomu. Hiset shoku, ichido ni takusan scan, hanareta tag mo yomeru. Care mark wa atsukai kata, GHS label wa kikenseibun nado no seijou. Tani: nagasa no kihon wa meter. 1m=100cm=1000mm.",
       "en": "RFID means Radio Frequency Identification. It uses radio waves to read information from tags. Features: contactless reading; scanning many tags at once; and reading tags from a distance. It is a wireless communication system using electronic tags containing IC chips. (4) Care marks and GHS labels: care marks indicate handling instructions (e.g. fragile, do not turn upside down); GHS labels indicate cargo properties such as whether hazardous ingredients are present. 3. Units. (1) Length: the basic unit is the metre. 1 cm = 1/100 m; 1 mm = 1/1,000 m. Conversion: 1 m = 100 cm = 1,000 mm; 1 cm = 0.01 m; 1 mm = 0.001 m.",
       "si": "RFID යනු Radio Frequency Identification යන්නෙහි කෙටි නාමයයි. රේඩියෝ තරංග භාවිතයෙන් tag එකක තොරතුරු කියවයි. විශේෂාංග: ස්පර්ශ නොකර කියවීම; එකවර tag විශාල ගණනක් scan කිරීම; දුරින් ඇති tag කියවීම. IC chip සහිත ඉලෙක්ට්‍රොනික tag භාවිත කරන රැහැන් රහිත සන්නිවේදන පද්ධතියකි. (4) Care mark සහ GHS label: Care mark මඟින් භාණ්ඩ හසුරුවන ආකාරය (බිඳෙනසුලු, උඩුයටිකුරු නොකරන්න) දක්වයි. GHS label මඟින් අනතුරුදායක සංඝටක තිබේද වැනි භාණ්ඩයේ ස්වභාවය දක්වයි. 3. මිනුම් ඒකක. (1) දිග: මූලික ඒකකය මීටරයයි. 1 cm = 1/100 m; 1 mm = 1/1000 m. 1 m = 100 cm = 1000 mm.",
@@ -92,12 +94,13 @@
       "image_mapping": {
         "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
         "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
-      }
+      },
+      "source_furigana": "電波（でんぱ）、非接触（ひせっしょく）、電子（でんし）タグ、無線通信（むせんつうしん）、取扱（とりあつか）い、性状（せいじょう）、単位（たんい）、長（なが）さ、換算（かんさん）。"
     },
     {
       "pdf_page": 58,
       "printed_page": 58,
-      "source_ja": "長さの単位：1インチ=2.54cm、1フィート=30.48cm（12インチ）。日本独自の単位：1寸=3.03cm、1尺=30.3cm（10寸）、1間=1.82m（6尺）。\n（２）広さ・面積：縦×横＝面積。1m×1m=1㎡（平米）。1間×1間＝約3.306㎡＝1坪。畳２枚分が約１坪。\n（３）体積・容積：面積×高さ＝体積。1m×1m×1m=1㎥（立米）。容積は容器に入る量で体積と同じ意味の場合もある。10cm×10cm×10cmの箱は1dm³＝1ℓ。",
+      "source_ja": "長さ：1 inch＝2.54cm、1 foot＝30.48cm（12 inches）。日本独自の単位：1寸＝3.03cm、1尺＝30.3cm（10寸）、1間＝1.82m（6尺）。\n（２）広さ・面積：縦×横＝面積。1m×1m＝1㎡。1間×1間＝約3.306㎡＝1坪。畳2枚分が約1坪です。\n（３）体積・容積：面積×高さ＝体積。1m×1m×1m＝1㎥。容積は容器に入る量で、体積と同じ意味で使うこともあります。各辺10cmの箱は1dm³＝1ℓです。",
       "romaji": "Inchi wa 2.54 cm, feet wa 30.48 cm. Sun wa 3.03 cm, shaku wa 30.3 cm, ken wa 1.82 m. Hiro sa wa tate kakeru yoko. 1 m2. 1 tsubo wa yaku 3.306 m2. Taiseki wa menseki kakeru takasa. 1 m3. 1 dm3 wa 1 liter.",
       "en": "Length conversions: 1 inch = 2.54 cm; 1 foot = 30.48 cm (12 inches). Japanese traditional units: 1 sun = 3.03 cm; 1 shaku = 30.3 cm (10 sun); 1 ken = 1.82 m (6 shaku). (2) Area: length × width = area. 1 m × 1 m = 1 square metre (m²). 1 ken × 1 ken is approximately 3.306 m² = 1 tsubo; about two tatami mats equal one tsubo. (3) Volume/capacity: area × height = volume. 1 m × 1 m × 1 m = 1 cubic metre (m³). Capacity is the amount a container can hold and may sometimes be used with the same meaning as volume. A 10 cm cube is 1 dm³ = 1 litre.",
       "si": "දිග ඒකක: අඟල් 1 = 2.54 cm; අඩි 1 = 30.48 cm (අඟල් 12). ජපානයේ සාම්ප්‍රදායික ඒකක: සුන් 1 = 3.03 cm; ශාකු 1 = 30.3 cm (සුන් 10); කෙන් 1 = 1.82 m (ශාකු 6). (2) වර්ගඵලය: දිග × පළල = වර්ගඵලය. 1 m × 1 m = 1 m². කෙන් 1 × කෙන් 1 ≈ 3.306 m² = ත්සුබෝ 1; ටාටාමි පැදුරු දෙකක පමණ ප්‍රමාණයයි. (3) පරිමාව/ධාරිතාව: වර්ගඵලය × උස = පරිමාව. 1 m × 1 m × 1 m = 1 m³. ධාරිතාව යනු භාජනයකට ඇතුළත් කළ හැකි ප්‍රමාණයයි. 10 cm ඝනකයක් = 1 dm³ = ලීටර් 1.",
@@ -110,12 +113,13 @@
       "image_mapping": {
         "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
         "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
-      }
+      },
+      "source_furigana": "寸（すん）、尺（しゃく）、間（けん）、面積（めんせき）、平方（へいほう）メートル、坪（つぼ）、畳（たたみ）、体積（たいせき）、容積（ようせき）、立方（りっぽう）メートル。"
     },
     {
       "pdf_page": 59,
       "printed_page": 59,
-      "source_ja": "体積・容積の換算表：㎥、dm³、kℓ、ℓ、dℓ、cℓ、mℓの単位換算。1dm³=1ℓ、1ℓ=1000mℓ、1㎥=1000ℓ、1kℓ=1000ℓ。記号：k=1000倍、d=10分の1、c=100分の1、m=1000分の1。1mℓを1cc（Cubic Centimeter）ということもある。\n日本独自の容積単位：1合=0.18ℓ、1升=1.8ℓ（10合）、1斗=18ℓ（10升）。\n（４）重さ：基本単位kg。水1ℓは約1kg。1g=1/1000kg、1t=1000kg（水1㎥の重さ）。水以外は体積×比重で計算。例：0.5㎥×比重0.9=0.45t=450kg。",
+      "source_ja": "体積・容積の換算表の単位：㎥、dm³、kℓ、ℓ、dℓ、cℓ、mℓ。主要換算：1dm³＝1ℓ、1ℓ＝1,000mℓ、1㎥＝1,000ℓ、1kℓ＝1,000ℓ。記号：k＝1,000倍、d＝10分の1、c＝100分の1、m＝1,000分の1。1mℓを1cc（Cubic Centimeter）とも呼びます。\n日本独自の容積単位：1合＝0.18ℓ、1升＝1.8ℓ（10合）、1斗＝18ℓ（10升）。\n（４）重さ：基本単位kg。水1ℓは約1kg。1g＝1/1,000kg、1t＝1,000kg（水1㎥の重さ）。水以外の重さは体積×比重で計算します。例：0.5㎥×比重0.9＝0.45t（450kg）。輸入食品の単位：1ポンド＝453.6g（16オンス）、1オンス≈28g。",
       "romaji": "Taiseki・youseki no henkan: 1 dm3 = 1 liter, 1 liter = 1000 ml, 1 m3 = 1000 liter, 1 kl = 1000 liter. k wa 1000 bai, d wa 1/10, c wa 1/100, m wa 1/1000. 1 ml wa 1 cc. Gou 0.18 liter, shou 1.8 liter, to 18 liter. Omosa no kihon kg. Mizu 1 liter wa yaku 1 kg. 1 ton wa 1000 kg. Taiseki kakeru hijuu de omosa o keisan.",
       "en": "Volume/capacity conversion includes m³, dm³, kL, L, dL, cL and mL. Key relationships: 1 dm³ = 1 L; 1 L = 1,000 mL; 1 m³ = 1,000 L; 1 kL = 1,000 L. Prefixes: k = 1,000 times; d = one tenth; c = one hundredth; m = one thousandth. 1 mL may also be called 1 cc (cubic centimetre). Japanese traditional capacity units: 1 go = 0.18 L; 1 shō = 1.8 L (10 go); 1 to = 18 L (10 shō). (4) Weight: basic unit kg. 1 L of water weighs about 1 kg. 1 g = 1/1,000 kg; 1 tonne = 1,000 kg (the weight of 1 m³ of water). For materials other than water, calculate weight as volume × specific gravity. Example: 0.5 m³ × specific gravity 0.9 = 0.45 t = 450 kg.",
       "si": "පරිමාව/ධාරිතාව පරිවර්තන: m³, dm³, kL, L, dL, cL සහ mL. ප්‍රධාන සම්බන්ධතා: 1 dm³ = 1 L; 1 L = 1000 mL; 1 m³ = 1000 L; 1 kL = 1000 L. උපසර්ග: k = 1000 ගුණයක්; d = දහයෙන් එක; c = සියයෙන් එක; m = දහසෙන් එක. 1 mL එක 1 cc ලෙසද කියයි. ජපානයේ ධාරිතා ඒකක: ගෝ 1 = 0.18 L; ෂෝ 1 = 1.8 L (ගෝ 10); තෝ 1 = 18 L (ෂෝ 10). (4) බර: මූලික ඒකකය kg. ජලය 1 L ≈ 1 kg. 1 g = 1/1000 kg; ටොන් 1 = 1000 kg (ජලය 1 m³ බර). ජලය නොවන ද්‍රව්‍යවල බර = පරිමාව × සාපේක්ෂ ඝනත්වය. උදා: 0.5 m³ × 0.9 = 0.45 t = 450 kg.",
@@ -128,7 +132,8 @@
       "image_mapping": {
         "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
         "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
-      }
+      },
+      "source_furigana": "換算表（かんさんひょう）、容積（ようせき）、升（しょう）、合（ごう）、斗（と）、重（おも）さ、比重（ひじゅう）、輸入食品（ゆにゅうしょくひん）、貫（かん）。"
     },
     {
       "pdf_page": 60,
