@@ -12,6 +12,7 @@ const b64 = bytes => btoa(String.fromCharCode(...new Uint8Array(bytes)));
 const fromB64 = value => Uint8Array.from(atob(value), c=>c.charCodeAt(0));
 const randomId = (n=32) => { const a=new Uint8Array(n); crypto.getRandomValues(a); return b64(a).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,""); };
 const sha256 = async value => b64(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
+async function hashPassword(password) { const salt=new Uint8Array(16); crypto.getRandomValues(salt); const key=await crypto.subtle.importKey("raw",new TextEncoder().encode(password),"PBKDF2",false,["deriveBits"]); const bits=await crypto.subtle.deriveBits({name:"PBKDF2",salt,iterations:310000,hash:"SHA-256"},key,256); return {salt:b64(salt),hash:b64(bits),iterations:310000};}
 async function verifyPassword(password, salt, expected, iterations) {
   const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(password), "PBKDF2", false, ["deriveBits"]);
   const bits = await crypto.subtle.deriveBits({name:"PBKDF2",salt:fromB64(salt),iterations,hash:"SHA-256"},key,256);
@@ -59,6 +60,16 @@ async function handle(request, env) {
   const user=await getUser(request,env);
   if(!user) return json({error:"Please sign in again"},401);
   if(path==="/me" && request.method==="GET") return json({user});
+  if(path==="/change-password" && request.method==="POST") {
+    let body;try{body=await request.json()}catch{return json({error:"Invalid request"},400)}
+    const oldPassword=String(body.currentPassword||""),newPassword=String(body.newPassword||"");
+    if(newPassword.length<12||newPassword.length>128) return json({error:"New password must be at least 12 characters."},400);
+    const record=await env.DB.prepare("SELECT password_salt,password_hash,password_iterations FROM users WHERE id=?").bind(user.id).first();
+    if(!record||!(await verifyPassword(oldPassword,record.password_salt,record.password_hash,record.password_iterations))) return json({error:"Current password is incorrect."},401);
+    const next=await hashPassword(newPassword);
+    await env.DB.prepare("UPDATE users SET password_salt=?,password_hash=?,password_iterations=? WHERE id=?").bind(next.salt,next.hash,next.iterations,user.id).run();
+    return json({ok:true});
+  }
   if(path==="/progress" && request.method==="GET") {
     const row=await env.DB.prepare("SELECT completed_ids,updated_at FROM study_progress WHERE user_id=?").bind(user.id).first();
     return json({completedIds:JSON.parse(row?.completed_ids||"[]"),updatedAt:row?.updated_at||null});
