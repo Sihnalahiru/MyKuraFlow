@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "mykuraflow.exam-presentation.v1",
+  "module": "exam",
+  "status": "ADDITIVE_SPEC_NOT_YET_WIRED_TO_APP",
+  "sourceOfExamStructure": "data/exam-rules.json (read-only; do not rewrite)",
+  "examLanguage": "ja",
+  "examUi": {
+    "questionText": "ja",
+    "furigana": "ruby_rt_markup",
+    "answerOptions": "ja",
+    "navigation": "ja",
+    "timerLabels": "ja",
+    "feedbackDuringAttempt": "ja",
+    "romaji": "hidden",
+    "english": "hidden",
+    "sinhala": "hidden",
+    "translations": "hidden"
+  },
+  "studyReviewUi": {
+    "japanese": "visible",
+    "furigana": "visible",
+    "romaji": "visible",
+    "english": "visible",
+    "sinhala": "visible"
+  },
+  "postAttemptReview": {
+    "showCorrectAnswers": true,
+    "showEnglishExplanation": true,
+    "showSinhalaExplanation": true,
+    "showJapaneseTechnicalNote": true
+  },
+  "rendering": {
+    "allowRubyMarkupOnlyForTrustedAuthoredQuestionContent": true,
+    "sanitizeQuestionMarkupBeforeRendering": true,
+    "fallback": "If ruby markup is unavailable, show kanji followed by reading in parentheses."
+  },
+  "dataProtection": {
+    "existingStudyJson": "READ_ONLY",
+    "existingImages": "READ_ONLY",
+    "authentication": "UNCHANGED",
+    "userProgress": "UNCHANGED",
+    "legacyXpFormula": "UNCHANGED",
+    "legacyQuickQuiz": "UNCHANGED"
+  }
+}
