@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "pages-029-038-vehicles-warehouse-operations-v1",
+  "status": "DRAFT_SOURCE_GROUNDED_TEXT_ONLY",
+  "sourceFile": "data/part-01/lesson-04-pages-029-038.json",
+  "sourcePdf": "specified_skilled_worker_textbook_202607(2).pdf",
+  "sourcePages": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "questionIds": [
+    "MKF-WR-0070",
+    "MKF-WR-0071",
+    "MKF-WR-0072",
+    "MKF-WR-0073",
+    "MKF-WR-0074",
+    "MKF-WR-0075",
+    "MKF-WR-0076",
+    "MKF-WR-0077",
+    "MKF-WR-0078",
+    "MKF-WR-0079",
+    "MKF-WR-0080",
+    "MKF-WR-0081",
+    "MKF-WR-0082",
+    "MKF-WR-0083",
+    "MKF-WR-0084",
+    "MKF-WR-0085",
+    "MKF-WR-0086",
+    "MKF-WR-0087",
+    "MKF-WR-0088",
+    "MKF-WR-0089",
+    "MKF-WR-0090",
+    "MKF-WR-0091",
+    "MKF-WR-0092",
+    "MKF-WR-0093",
+    "MKF-WR-0094",
+    "MKF-WR-0095",
+    "MKF-WR-0096"
+  ],
+  "questionCount": 27,
+  "examType": "written_true_false",
+  "section": "warehouse_fundamentals",
+  "coverage": [
+    {
+      "page": 29,
+      "topics": [
+        "metal detector",
+        "industrial vacuum cleaner",
+        "platform scale",
+        "dimensioning and weighing system"
+      ]
+    },
+    {
+      "page": 30,
+      "topics": [
+        "maritime container",
+        "reefer container"
+      ]
+    },
+    {
+      "page": 31,
+      "topics": [
+        "chassis and truck head",
+        "devanning",
+        "rail container"
+      ]
+    },
+    {
+      "page": 32,
+      "topics": [
+        "truck capacity classes",
+        "flatbed",
+        "trailer and semi-trailer"
+      ]
+    },
+    {
+      "page": 33,
+      "topics": [
+        "wing-body truck",
+        "crane truck",
+        "power gate",
+        "special education"
+      ]
+    },
+    {
+      "page": 35,
+      "topics": [
+        "warehouse deposit terms",
+        "warehouse operator and depositor"
+      ]
+    },
+    {
+      "page": 36,
+      "topics": [
+        "receiving inspection",
+        "deposit application",
+        "storage period",
+        "release documents"
+      ]
+    },
+    {
+      "page": 37,
+      "topics": [
+        "warehouse charges",
+        "storage fee",
+        "weight and volume conversions",
+        "three-period system"
+      ]
+    },
+    {
+      "page": 38,
+      "topics": [
+        "refrigerated storage rates",
+        "two-period system",
+        "cargo handling fees",
+        "inbound/outbound and distribution-processing fees"
+      ]
+    }
+  ],
+  "visualQuestionsAdded": 0,
+  "imagePolicy": "No practical image questions were added. Existing assets were not changed or remapped; only future questions may reference visually confirmed existing assets.",
+  "page34Note": "No question was created from page 34 because the source page visual/render record was unavailable for this batch; no unsupported inference was used.",
+  "reviewGate": "All questions remain DRAFT pending Japanese language, source accuracy and specialist review.",
+  "appImpact": "No existing app UI, navigation, study data, images, authentication, progress/history or XP formula changed."
+}
