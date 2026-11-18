@@ -109,7 +109,13 @@
         "repo_images": [],
         "use_original_pdf_visual": false,
         "generated_asset": "/images/generated/page-101-clean-dry-floor.svg",
-        "external_visual_references": [],
+        "external_visual_references": [
+          {
+            "source": "Japan MHLW — STOP! Fall Accident Prevention Project",
+            "url": "https://anzeninfo.mhlw.go.jp/information/tentou1501_24.html",
+            "purpose": "Official floor slip/trip prevention checklist and visual guidance."
+          }
+        ],
         "status": "COMMITTED_AND_LINKED"
       }
     },
@@ -241,7 +247,13 @@
         "repo_images": [],
         "use_original_pdf_visual": false,
         "generated_asset": "/images/generated/page-106-severe-weather-response.svg",
-        "external_visual_references": [],
+        "external_visual_references": [
+          {
+            "source": "Japan MHLW — Cargo-handling accident prevention measures",
+            "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000123265.html",
+            "purpose": "Official cargo-handling safety measures and severe-weather worksite precautions."
+          }
+        ],
         "status": "COMMITTED_AND_LINKED"
       }
     },
@@ -356,6 +368,16 @@
         "page": 108,
         "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000135046.html",
         "source": "MHLW action based on chemical labels"
+      },
+      {
+        "page": 101,
+        "url": "https://anzeninfo.mhlw.go.jp/information/tentou1501_24.html",
+        "source": "Japan MHLW floor slip/trip prevention"
+      },
+      {
+        "page": 106,
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000123265.html",
+        "source": "Japan MHLW cargo-handling safety guidance"
       }
     ],
     "status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
