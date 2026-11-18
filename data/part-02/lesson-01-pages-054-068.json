@@ -23,6 +23,26 @@
     {
       "pdf_page": 54,
       "printed_page": 54,
+      "source_ja": "１．作業時に身に着けるもの\n作業をするときに、体を守るためにいくつかのものを身に着けます。着るときの注意については、第３編「物流倉庫の安全衛生」を見てください。\n（１）作業着：ワークシャツ・ジャンパー・ワークパンツの３点セットが基本です。最近は熱中症を防ぐためにファン（小さな扇風機）が付いた服も多く使われています。\n（２）安全ベスト：光を反射するテープが付いたベストです。周りの人から自分の位置がわかりやすいように着ます。体を守るために大切な安全具です。\n（３）安全帽（ヘルメット）：頭を守るものです。倉庫の中では必ず着用してください。\n（４）安全靴：靴の先に金属などが入っていて、重いものが落ちても足先を守ることができます。\n（５）手袋：手・指を守るため、作業中は必ず着用してください。流通加工では衛生上、普通の手袋とは別の手袋をすることがあります。",
+      "source_furigana": "作業時（さぎょうじ）、身（み）に着（つ）ける、作業着（さぎょうぎ）、熱中症（ねっちゅうしょう）、安全（あんぜん）ベスト、安全帽（あんぜんぼう）、安全靴（あんぜんぐつ）、手袋（てぶくろ）、流通加工（りゅうつうかこう）、衛生上（えいせいじょう）。",
+      "romaji": "1. Sagyouji ni mi ni tsukeru mono. Sagyou o suru toki ni, karada o mamoru tame ni ikutsuka no mono o mi ni tsukemasu. Kimasu toki no chuui wa dai-san hen, Butsuryuu Souko no Anzen Eisei o mite kudasai.\n(1) Sagyougi: work shirt, jumper, work pants no mittsu setto ga kihon desu. Saikin wa necchushou o fusegu tame ni fan-tsuki no fuku mo tsukawaremasu.\n(2) Anzen besuto: hikari o hansha suru tape ga tsuita besuto desu. Hito kara jibun no ichi ga wakariyasui you ni kimasu.\n(3) Anzenbou / herumetto: atama o mamoru mono desu. Souko no naka de wa kanarazu chakuyou shite kudasai.\n(4) Anzen kutsu: kutsu no saki ni kinzoku nado ga haitte ite, omoi mono ga ochite mo ashisaki o mamorimasu.\n(5) Tebukuro: te ya yubi o mamoru tame, sagyou-chuu wa kanarazu chakuyou shite kudasai. Ryuutsuu kakou de wa eiseijou, futsuu no tebukuro to wa betsu no tebukuro o suru koto ga arimasu.",
+      "en": "1. Items to wear during work. Wear protective items to protect your body while working. For precautions on wearing them, see Part 3, Logistics Warehouse Occupational Safety and Health. (1) Workwear: the basic set consists of a work shirt, jumper and work trousers. Fan-equipped clothing is increasingly used to help prevent heatstroke. (2) Safety vest: a vest with reflective tape, worn so other people can easily see your position. It is an important safety item. (3) Safety helmet: protects the head and must always be worn inside the warehouse. (4) Safety shoes: have metal or similar protective material in the toe and protect the toes if a heavy object falls. (5) Gloves: must be worn during work to protect hands and fingers. In distribution-processing work, separate gloves may be used for hygiene reasons.",
+      "si": "1. වැඩ කරන විට පැළඳිය යුතු දේ. වැඩ කිරීමේදී ශරීරය ආරක්ෂා කරගැනීමට ආරක්ෂක උපකරණ කිහිපයක් පැළඳිය යුතුය. ඒවා පැළඳීමේදී අනුගමනය කළ යුතු අවවාද සඳහා 3 වන කොටස වන ගබඩා වෘත්තීය ආරක්ෂාව හා සෞඛ්‍යය බලන්න. (1) වැඩ ඇඳුම: work shirt, jumper සහ work trousers යන කොටස් තුන මූලික ඇඳුම් කට්ටලයයි. උෂ්ණත්ව ආඝාතය වැළැක්වීමට කුඩා පංකා සවි කළ ඇඳුම්ද බහුලව භාවිත වේ. (2) ආරක්ෂක වෙස්ට්: ආලෝකය පරාවර්තනය කරන පටි ඇති වෙස්ට් එකකි. අනෙක් අයට තමන් සිටින ස්ථානය පහසුවෙන් පෙනෙන ලෙස එය පැළඳිය යුතුය. (3) ආරක්ෂක හිස්වැස්ම: හිස ආරක්ෂා කරයි. ගබඩාව තුළ අනිවාර්යයෙන් පැළඳිය යුතුය. (4) ආරක්ෂක සපත්තු: ඉදිරිපස ඇඟිලි කොටසේ ලෝහ ආරක්ෂාවක් වැනි ද්‍රව්‍යයක් ඇත; බර භාණ්ඩයක් වැටුණත් පා ඇඟිලි ආරක්ෂා කරයි. (5) අත්වැසුම්: අත් සහ ඇඟිලි ආරක්ෂා කිරීමට වැඩ කරන කාලය තුළ අනිවාර්යයෙන් පැළඳිය යුතුය. බෙදාහැරීමට පෙර සැකසුම් කාර්යයන්හි සනීපාරක්ෂාව සඳහා සාමාන්‍ය අත්වැසුම් වෙනුවට වෙනත් අත්වැසුම් භාවිත කළ හැකිය.",
+      "visuals": [
+        {
+          "type": "protective_equipment",
+          "description": "Workwear, reflective vest, helmet, safety shoes and gloves. Use only individually matched original assets; no full-page screenshot."
+        }
+      ],
+      "image_mapping": {
+        "status": "PENDING_SOURCE_ASSET_MATCH",
+        "repo_images": [],
+        "note": "Source page 54 contains illustrations of protective clothing/equipment. Individual asset match still required."
+      }
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": 55,
       "source_ja": "２．帳票・ラベル\n帳票は仕事で使う帳簿・伝票などの記録用紙。\n（１）入庫関係帳票：寄託申込書は寄託者が倉庫規則・約款に同意して貨物を預ける申込書。記載事項は貨物種類・品名、個数・数量・単位、荷造り種類、記号・規格・サイズ・形状。入庫指図票は貨物到着時の書類または担当者への指示書。貨物受領書は運送人に渡す受領証。入庫通知書は寄託者へ入庫を知らせる書類。\n（２）出庫関係帳票：出庫伝票は寄託者の出庫依頼を受け倉庫側が作る伝票。",
       "romaji": "Chouhyou・label. Chouhyou wa shigoto de tsukau kiroku youshi. Nyuuko kankei: kitaku moushikomisho, nyuuko sashizuhyou, kamotsu juryousho, nyuuko tsuuchisho. Kitaku moushikomisho ni shurui, hinmei, kosuu, suuryou, tani, nizukuri, kigou, kikaku, size, keijou o kaku. Shukko denpyou wa shukko irai o ukete souko gawa ga tsukuru.",
       "en": "2. Forms and labels. Forms are record sheets used for work, such as ledgers and slips. (1) Inbound documents: the storage application (kitaku moushikomisho) records the depositor's agreement to warehouse rules/terms. It includes cargo type/name, item count/quantity/unit, packing type, marks, standards, size and shape. The inbound instruction sheet is used when cargo arrives or gives instructions to warehouse staff. The cargo receipt is given to the carrier as acknowledgement of receipt. The inbound notice informs the depositor that cargo has entered the warehouse. (2) Outbound documents: the outbound slip is prepared by the warehouse after the depositor requests dispatch.",
@@ -39,8 +59,8 @@
       }
     },
     {
-      "pdf_page": 55,
-      "printed_page": 55,
+      "pdf_page": 56,
+      "printed_page": 56,
       "source_ja": "出庫関係帳票の続き：ピッキングリストは注文商品を倉庫内から探して集める作業の指示リスト。出庫指図書は担当者に対象貨物の出庫を指示する書類。送り状は運送人に渡す書類。出庫通知書は寄託者に出庫を知らせる書類。\n（３）ラベル：出庫ラベルは送り先住所・受取人名を記載し出庫貨物に貼る。入庫ラベルは入庫時の管理用。管理番号・LOT番号は貨物グループ番号で問題時に対象商品を素早く特定できる。ラベラーで個別貼付する場合もある。\nJANコードは会社と商品を示す共通識別番号。本文記載では12桁。海外ではGTINと呼ぶ。QRコードはより多くの情報を持てる２次元コード。QRはQuick Responseの略。",
       "romaji": "Shukko kankei chouhyou: picking list wa order sareta shouhin o sagashite atsumeru list. Shukko sashizusho wa kamotsu o dasu shiji. Okurijou wa unsounin ni watasu. Shukko tsuuchisho wa kitakusha ni shiraseru. Shukko label ni okurisaki juusho to uketorinin namae. Nyuuko label wa kanri you. JAN code wa kaisha to shouhin no shikibetsu bangou; GTIN to mo iu. QR wa Quick Response.",
       "en": "Continuation of outbound documents: a picking list instructs workers to find and collect ordered products in the warehouse. An outbound instruction document tells staff which cargo to dispatch. A waybill is given to the carrier. An outbound notice informs the depositor that goods have been dispatched. (3) Labels: an outbound label is attached to dispatched cargo and shows destination address and recipient name. An inbound label is used to manage goods entering the warehouse. Management/LOT numbers identify a cargo group and help quickly identify affected products if a problem occurs. A labeller may be used to attach labels individually. A JAN barcode is a shared product identification number showing the company and product; the source states it has 12 digits. It is called GTIN overseas. A QR code is a two-dimensional code designed to hold more information; QR means Quick Response.",
@@ -57,8 +77,8 @@
       }
     },
     {
-      "pdf_page": 56,
-      "printed_page": 56,
+      "pdf_page": 57,
+      "printed_page": 57,
       "source_ja": "③ RFID：Radio Frequency Identificationの略。電波を使いタグから情報を読み取る技術。タグに触れず読める（非接触）、一度に多数のタグをまとめてスキャンできる、離れた場所のタグも読める。ICチップ入り電子タグを使う無線通信システム。\n（４）ケアマーク・GHSラベル：ケアマークは貨物の扱い方（壊れやすい、逆さにしない等）を示す。GHSラベルは危険成分の有無など貨物の性状を示す。\n３．単位\n（１）長さ：基本単位m。1cm＝1/100m、1mm＝1/1000m。換算：1m=100cm=1000mm、1cm=0.01m、1mm=0.001m。",
       "romaji": "RFID wa Radio Frequency Identification no ryakugo. Denpa de tag no jouhou o yomu. Hiset shoku, ichido ni takusan scan, hanareta tag mo yomeru. Care mark wa atsukai kata, GHS label wa kikenseibun nado no seijou. Tani: nagasa no kihon wa meter. 1m=100cm=1000mm.",
       "en": "RFID means Radio Frequency Identification. It uses radio waves to read information from tags. Features: contactless reading; scanning many tags at once; and reading tags from a distance. It is a wireless communication system using electronic tags containing IC chips. (4) Care marks and GHS labels: care marks indicate handling instructions (e.g. fragile, do not turn upside down); GHS labels indicate cargo properties such as whether hazardous ingredients are present. 3. Units. (1) Length: the basic unit is the metre. 1 cm = 1/100 m; 1 mm = 1/1,000 m. Conversion: 1 m = 100 cm = 1,000 mm; 1 cm = 0.01 m; 1 mm = 0.001 m.",
@@ -75,8 +95,8 @@
       }
     },
     {
-      "pdf_page": 57,
-      "printed_page": 57,
+      "pdf_page": 58,
+      "printed_page": 58,
       "source_ja": "長さの単位：1インチ=2.54cm、1フィート=30.48cm（12インチ）。日本独自の単位：1寸=3.03cm、1尺=30.3cm（10寸）、1間=1.82m（6尺）。\n（２）広さ・面積：縦×横＝面積。1m×1m=1㎡（平米）。1間×1間＝約3.306㎡＝1坪。畳２枚分が約１坪。\n（３）体積・容積：面積×高さ＝体積。1m×1m×1m=1㎥（立米）。容積は容器に入る量で体積と同じ意味の場合もある。10cm×10cm×10cmの箱は1dm³＝1ℓ。",
       "romaji": "Inchi wa 2.54 cm, feet wa 30.48 cm. Sun wa 3.03 cm, shaku wa 30.3 cm, ken wa 1.82 m. Hiro sa wa tate kakeru yoko. 1 m2. 1 tsubo wa yaku 3.306 m2. Taiseki wa menseki kakeru takasa. 1 m3. 1 dm3 wa 1 liter.",
       "en": "Length conversions: 1 inch = 2.54 cm; 1 foot = 30.48 cm (12 inches). Japanese traditional units: 1 sun = 3.03 cm; 1 shaku = 30.3 cm (10 sun); 1 ken = 1.82 m (6 shaku). (2) Area: length × width = area. 1 m × 1 m = 1 square metre (m²). 1 ken × 1 ken is approximately 3.306 m² = 1 tsubo; about two tatami mats equal one tsubo. (3) Volume/capacity: area × height = volume. 1 m × 1 m × 1 m = 1 cubic metre (m³). Capacity is the amount a container can hold and may sometimes be used with the same meaning as volume. A 10 cm cube is 1 dm³ = 1 litre.",
@@ -93,8 +113,8 @@
       }
     },
     {
-      "pdf_page": 58,
-      "printed_page": 58,
+      "pdf_page": 59,
+      "printed_page": 59,
       "source_ja": "体積・容積の換算表：㎥、dm³、kℓ、ℓ、dℓ、cℓ、mℓの単位換算。1dm³=1ℓ、1ℓ=1000mℓ、1㎥=1000ℓ、1kℓ=1000ℓ。記号：k=1000倍、d=10分の1、c=100分の1、m=1000分の1。1mℓを1cc（Cubic Centimeter）ということもある。\n日本独自の容積単位：1合=0.18ℓ、1升=1.8ℓ（10合）、1斗=18ℓ（10升）。\n（４）重さ：基本単位kg。水1ℓは約1kg。1g=1/1000kg、1t=1000kg（水1㎥の重さ）。水以外は体積×比重で計算。例：0.5㎥×比重0.9=0.45t=450kg。",
       "romaji": "Taiseki・youseki no henkan: 1 dm3 = 1 liter, 1 liter = 1000 ml, 1 m3 = 1000 liter, 1 kl = 1000 liter. k wa 1000 bai, d wa 1/10, c wa 1/100, m wa 1/1000. 1 ml wa 1 cc. Gou 0.18 liter, shou 1.8 liter, to 18 liter. Omosa no kihon kg. Mizu 1 liter wa yaku 1 kg. 1 ton wa 1000 kg. Taiseki kakeru hijuu de omosa o keisan.",
       "en": "Volume/capacity conversion includes m³, dm³, kL, L, dL, cL and mL. Key relationships: 1 dm³ = 1 L; 1 L = 1,000 mL; 1 m³ = 1,000 L; 1 kL = 1,000 L. Prefixes: k = 1,000 times; d = one tenth; c = one hundredth; m = one thousandth. 1 mL may also be called 1 cc (cubic centimetre). Japanese traditional capacity units: 1 go = 0.18 L; 1 shō = 1.8 L (10 go); 1 to = 18 L (10 shō). (4) Weight: basic unit kg. 1 L of water weighs about 1 kg. 1 g = 1/1,000 kg; 1 tonne = 1,000 kg (the weight of 1 m³ of water). For materials other than water, calculate weight as volume × specific gravity. Example: 0.5 m³ × specific gravity 0.9 = 0.45 t = 450 kg.",
@@ -103,24 +123,6 @@
         {
           "type": "table",
           "description": "Volume/capacity conversion table and traditional Japanese capacity units."
-        }
-      ],
-      "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
-      }
-    },
-    {
-      "pdf_page": 59,
-      "printed_page": 59,
-      "source_ja": "重さの日本独自単位：1貫は約3.75kg（氷などの重さに使用）。輸入食品の単位：1ポンド(lb)=453.6g（16オンス）、1オンス(oz)=約28g。\n容積トン（メジャートン）：軽いが体積が大きい貨物について、体積をトン数に換算する方法。40立方フィート（1.133㎥）を1トンとして計算。\n設備トン（冷蔵倉庫の単位）：床面積（㎡）×有効高（m）×0.9×0.4＝設備トン。有効高は実際に貨物を置ける天井高（大梁下またはダクト下端の低い方）。例：100㎡×5m×0.9×0.4＝180設備トン。\n（５）温度・湿度：温度は摂氏℃、湿度は%で表す。温度計・湿度計で測る。貨物保管に適した湿度は40～50%。\n（６）時間・暦：1分=60秒、1時間=60分、1日=24時間。12時間表記（AM/PM）と24時間表記（00～23時）がある。2026年4月1日は2026/04/01または'26/04/01。2026年は令和8年。\n（７）明るさ：単位ルクス(lx)。普通の作業では150lx以上が基準。",
-      "romaji": "Omosa no nihon dokuj i tani: 1 kan wa yaku 3.75 kg. 1 pound wa 453.6 g, 1 ounce wa yaku 28 g. Youseki ton wa 40 cubic feet (1.133 m3) o 1 ton to shite keisan. Setsubi ton wa yuka menseki kakeru yuukoudaka kakeru 0.9 kakeru 0.4. Ondo wa Celsius, shitsudo wa percent; tekisetsu na shitsudo wa 40 kara 50 percent. 1 fun 60 byou, 1 jikan 60 fun, 1 nichi 24 jikan. AM/PM to 24 jikan hyouki. Reiwa 8 nen wa 2026 nen. Ak arusa no tani lux, futsuu no sagyou wa 150 lx ijou.",
-      "en": "Japanese traditional weight unit: 1 kan is about 3.75 kg. Imported-food units: 1 pound (lb) = 453.6 g (16 ounces); 1 ounce (oz) ≈ 28 g. Measurement ton (revenue/volume ton): used for cargo that is light but occupies a large volume; 40 cubic feet (1.133 m³) is calculated as 1 ton. Equipment ton for refrigerated warehouses: floor area (m²) × effective height (m) × 0.9 × 0.4. Effective height is the usable height for cargo, measured to the lower of the underside of the main beam or duct. Example: 100 m² × 5 m × 0.9 × 0.4 = 180 equipment tons. (5) Temperature and humidity: temperature is expressed in Celsius (°C), humidity in percent (%), measured with thermometers and hygrometers. Suitable storage humidity is stated as 40–50%. (6) Time/calendar: 1 minute = 60 seconds; 1 hour = 60 minutes; 1 day = 24 hours. Time is written in 12-hour (AM/PM) or 24-hour format. 1 April 2026 may be written 2026/04/01 or '26/04/01; 2026 is Reiwa 8. (7) Brightness: measured in lux (lx); the standard for ordinary work is at least 150 lx.",
-      "si": "ජපානයේ සාම්ප්‍රදායික බර ඒකකය: කාන් 1 ≈ 3.75 kg. ආනයනික ආහාරවල ඒකක: පවුම් 1 (lb) = 453.6 g (අවුන්ස් 16); අවුන්ස් 1 (oz) ≈ 28 g. පරිමා ටොන් (measurement ton) යනු බර අඩු නමුත් පරිමාව විශාල භාණ්ඩ සඳහා භාවිත කරන ගණනයකි; ඝන අඩි 40 (1.133 m³) = ටොන් 1 ලෙස ගණනය කරයි. ශීත ගබඩාවල උපකරණ ටොන්: බිම් වර්ගඵලය (m²) × භාවිත කළ හැකි උස (m) × 0.9 × 0.4. භාවිත කළ හැකි උස යනු ප්‍රධාන බීම් එකේ පහළ කොටස හෝ වායු නළයේ පහළ අගය යන දෙකෙන් අඩුම උසයි. උදා: 100 m² × 5 m × 0.9 × 0.4 = උපකරණ ටොන් 180. (5) උෂ්ණත්වය °C වලින්ද ආර්ද්‍රතාව % වලින්ද දක්වයි; උෂ්ණත්වමානය සහ ආර්ද්‍රතාමානයෙන් මනියි. සුදුසු ගබඩා ආර්ද්‍රතාව 40–50% ලෙස සඳහන් වේ. (6) කාලය: මිනිත්තු 1 = තත්පර 60; පැය 1 = මිනිත්තු 60; දින 1 = පැය 24. 12-hour AM/PM සහ 24-hour ක්‍රම දෙකම ඇත. 2026 අප්‍රේල් 1 = 2026/04/01 හෝ '26/04/01; 2026 යනු Reiwa 8 වසරයි. (7) ආලෝකයේ ඒකකය lux (lx) ය. සාමාන්‍ය වැඩ සඳහා අවමය 150 lx ලෙස දක්වා ඇත.",
-      "visuals": [
-        {
-          "type": "formula",
-          "description": "Warehouse equipment-ton formula, effective-height definition, temperature/humidity gauges and lighting lux reference."
         }
       ],
       "image_mapping": {
@@ -349,6 +351,7 @@
   ],
   "audit": {
     "status": "DRAFT_SOURCE_RECONCILED",
-    "note": "Pages 54-59 merged from corrected source batch and pages 60-68 retained from the previous batch. Duplicate page 59 removed. Page labels checked against source PDF."
+    "note": "Pages 54-59 merged from corrected source batch and pages 60-68 retained from the previous batch. Duplicate page 59 removed. Page labels checked against source PDF.",
+    "page_54_60": "RECONCILED_AGAINST_ORIGINAL: added missing PPE page 54; shifted document/label and units summaries to source page labels 55-59; kept page 60 measurement-ton details; page-by-page translation proofread still pending."
   }
 }
