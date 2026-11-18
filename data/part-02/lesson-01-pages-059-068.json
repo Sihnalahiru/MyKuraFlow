@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-02",
+  "lesson_id": "p02-l01",
+  "lesson_title": {
+    "ja": "作業の基本：単位・助数詞と入庫作業",
+    "furigana": "作業（さぎょう）の基本（きほん）：単位（たんい）・助数詞（じょすうし）と入庫作業（にゅうこさぎょう）",
+    "romaji": "Sagyou no kihon: tani, josuushi to nyuuko sagyou",
+    "en": "Work fundamentals: measurement units, Japanese counters and inbound operations",
+    "si": "වැඩ මූලික කරුණු: මිනුම් ඒකක, ජපන් ගණන් කිරීමේ පද සහ භාණ්ඩ ඇතුළත් කිරීම"
+  },
+  "page_range": {
+    "pdf_pages": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "printed_pages": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 59,
+      "printed_page": 59,
+      "source_ja": "記号：k=キロ（1,000倍）、d=デシ（10分の1）、c=センチ（100分の1）、m=ミリ（1,000分の1）。1mℓを1cc（Cubic Centimeter）ともいう。日本独自の容積単位：1合=0.18ℓ、1升=1.8ℓ（10合）、1斗=18ℓ（10升）。重量：基本単位はkg。水1ℓは約1kg。1g=1/1000kg、1t=1,000kg（水1㎥の重さ）。水以外の重量は体積×比重（水を1とした重さの割合）で計算。例：0.5㎥×0.9=0.45t=450kg。日本独自の重量単位：1貫は約3.75kg。輸入食品で使う単位：1lb=453.6g（16oz）、1ozは約28g。容積トン（メジャートン）は体積をトン数に換算する方法。",
+      "source_furigana": "記号（きごう）：キロ、デシ、センチ、ミリ。容積（ようせき）、重量（じゅうりょう）、比重（ひじゅう）、輸入食品（ゆにゅうしょくひん）。",
+      "romaji": "Kigou: kiro wa sen-bai, deshi wa juu-bun no ichi, senchi wa hyaku-bun no ichi, milli wa sen-bun no ichi. 1 millilitre wa 1 cubic centimetre tomo iimasu. 1 gou wa 0.18 litre, 1 shou wa 1.8 litre, 1 to wa 18 litre desu. Mizu 1 litre wa yaku 1 kilogram. 1 tonne wa 1,000 kilogram. Omosa wa taiseki kakeru hijuu de keisan shimasu. 1 kan wa yaku 3.75 kilogram. 1 pound wa 453.6 gram, 1 ounce wa yaku 28 gram.",
+      "en": "Metric prefixes: kilo = 1,000 times; deci = one tenth; centi = one hundredth; milli = one thousandth. One millilitre may also be called one cubic centimetre (cc). Traditional Japanese capacity units: 1 gō = 0.18 L; 1 shō = 1.8 L (10 gō); 1 tō = 18 L (10 shō). Weight: kilogram is the base unit; 1 L of water weighs about 1 kg; 1 g = 0.001 kg; 1 tonne = 1,000 kg (approximately the weight of 1 m³ of water). For materials other than water, weight is calculated as volume × specific gravity (relative to water). Example: 0.5 m³ × 0.9 = 0.45 t = 450 kg. Traditional Japanese weight: 1 kan ≈ 3.75 kg. Imported-food units: 1 lb = 453.6 g = 16 oz; 1 oz ≈ 28 g. A measurement tonne (measurement ton) converts cargo volume into tonnage.",
+      "si": "මිනුම් උපසර්ග: kilo = 1,000 ගුණයක්; deci = දහයෙන් එකක්; centi = සියයෙන් එකක්; milli = දහසෙන් එකක්. 1 mL යන්න 1 cc (ඝන සෙන්ටිමීටරයක්) ලෙසද කියයි. ජපානයේ සම්ප්‍රදායික ධාරිතා ඒකක: 1 gō = 0.18 L; 1 shō = 1.8 L (gō 10); 1 tō = 18 L (shō 10). බර සඳහා මූලික ඒකකය kg වේ. ජලය ලීටර් 1ක බර කිලෝග්‍රෑම් 1ක් පමණය. 1 g = 0.001 kg; 1 tonne = 1,000 kg. ජලය නොවන ද්‍රව්‍යයක බර = පරිමාව × සාපේක්ෂ ඝනත්වය (ජලය 1 ලෙස සලකා). උදා: 0.5 m³ × 0.9 = 0.45 t = 450 kg. ජපානයේ පැරණි බර ඒකකයක් වන kan 1 ≈ 3.75 kg. ආනයනික ආහාරවල lb සහ oz භාවිත වේ: 1 lb = 453.6 g = oz 16; 1 oz ≈ 28 g. Measurement tonne යනු භාණ්ඩයේ පරිමාව tonnage ලෙස පරිවර්තනය කරන ක්‍රමයකි.",
+      "visuals": [
+        {
+          "type": "conversion_chart",
+          "description": "Metric prefixes, traditional Japanese capacity units, mass conversions, specific-gravity calculation and pound/ounce equivalents."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 59,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-059-units-weight.svg",
+        "mapping_basis": "Numeric conversion infographic created directly from the source page values."
+      }
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": 60,
+      "source_ja": "容積トン：40立方フィート（1.133㎥）=1トンとして計算。設備トン（冷蔵倉庫の単位）：床面積（㎡）×有効高（m）×0.9×0.4=設備トン。有効高は実際に貨物を置ける高さ（大梁下またはダクト下端の低い方）。例：100㎡×5m×0.9×0.4=180設備トン。温度は摂氏℃、湿度は%で表す。温度計・湿度計で測定。貨物保管に適した湿度は40〜50%とされる。時間：1分=60秒、1時間=60分、1日=24時間。時刻は12時間表記（AM/PM）と24時間表記。午前0時=00:00、午後11時=23:00。日付例：2026/04/01または'26/04/01。2026年は令和8年。明るさの単位はルクスlx。普通作業の基準は150lx以上。",
+      "source_furigana": "容積（ようせき）トン、設備（せつび）トン、有効高（ゆうこうだか）、床面積（ゆかめんせき）、温度（おんど）、湿度（しつど）、摂氏（せっし）、明（あか）るさ。",
+      "romaji": "Youseki ton: 40 cubic feet (1.133 cubic metres) wa 1 tonne to shite keisan shimasu. Setsubi ton wa yukamen-seki kakeru yuukou-daka kakeru 0.9 kakeru 0.4 desu. Ondo wa Celsius, shitsudo wa percent de arawashimasu. 1 pun wa 60 byou, 1 jikan wa 60 pun, 1 nichi wa 24 jikan. Shigai hyouki ni wa 12-jikan to 24-jikan hyouki ga arimasu. Akarusa no tani wa lux desu.",
+      "en": "A measurement tonne is calculated using 40 cubic feet (1.133 m³) = 1 tonne. Refrigerated-warehouse equipment tonnage: floor area (m²) × effective height (m) × 0.9 × 0.4. Effective height is the usable cargo-stacking height, measured to the lower of the underside of a main beam or duct. Example: 100 × 5 × 0.9 × 0.4 = 180 equipment tonnes. Temperature is expressed in Celsius (°C), humidity in percent (%), measured with a thermometer and hygrometer. The source states 40–50% as suitable cargo-storage humidity. Time: 1 minute = 60 seconds; 1 hour = 60 minutes; 1 day = 24 hours. Time can be written in 12-hour AM/PM or 24-hour format; midnight = 00:00 and 11 p.m. = 23:00. Date example: 2026/04/01 or '26/04/01. 2026 is Reiwa 8. Brightness is measured in lux (lx); the stated standard for ordinary work is at least 150 lx.",
+      "si": "Measurement tonne සඳහා 40 cubic feet (1.133 m³) = tonne 1 ලෙස ගණනය කරයි. ශීත ගබඩාවක equipment tonne ගණනය: බිම් වර්ගඵලය (m²) × භාවිත කළ හැකි උස (m) × 0.9 × 0.4. භාවිත කළ හැකි උස යනු ප්‍රධාන beam එකේ පහළ කොටස හෝ duct එකේ පහළ අගය යන දෙකෙන් අඩු උස දක්වා භාණ්ඩ තැබිය හැකි උසයි. උදා: 100 × 5 × 0.9 × 0.4 = equipment tonnes 180. උෂ්ණත්වය Celsius °C වලින්ද ආර්ද්‍රතාව % වලින්ද දක්වයි. ඒවා thermometer සහ hygrometer මඟින් මනියි. මූලාශ්‍රය භාණ්ඩ ගබඩා කිරීමට සුදුසු ආර්ද්‍රතාව 40–50% ලෙස දක්වයි. කාලය: මිනිත්තු 1 = තත්පර 60; පැය 1 = මිනිත්තු 60; දින 1 = පැය 24. වේලාව 12-hour AM/PM හෝ 24-hour ආකාරයෙන් ලියයි. මධ්‍යම රාත්‍රිය 00:00; රාත්‍රී 11 = 23:00. දිනය 2026/04/01 ලෙස ලියිය හැකිය. 2026 වසර ජපන් Reiwa 8 වසරයි. ආලෝක තීව්‍රතාව lux (lx) වලින් මනින අතර සාමාන්‍ය වැඩ සඳහා අවම 150 lx ලෙස මූලාශ්‍රයේ සඳහන්ය.",
+      "visuals": [
+        {
+          "type": "formula_and_units_infographic",
+          "description": "Equipment-tonnage formula with worked example; temperature/humidity gauges; 12h vs 24h clock; lux meter at 150 lx."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 60,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-060-time-temperature-light.svg",
+        "mapping_basis": "Visual formula and instrument panel recreated from the source values."
+      }
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": 61,
+      "source_ja": "４. 助数詞：数を表す言葉の後につけ、何をいくつ数えるかを示す。例：卵1個、鉛筆1本、お皿1枚。日本語には500種類以上あり、形や性質で使い分ける。倉庫でよく使うもの：本（細長い物：コンテナ、長尺貨物、パイプ、瓶、工具等）、個（小物・数えやすい物：ボルト、箱内の商品）、箱／ケース（箱・BOX・CASE）、袋（たい：袋物の数量）、枚（平たく薄い物：段ボール）、台（機械・設備：フォークリフト）、脚（脚付き家具・器具：テーブル）、体（機械・大型装置の本体：ロボット）、束（まとめた物：ケーブル）。",
+      "source_furigana": "助数詞（じょすうし）、個（こ）、本（ほん）、枚（まい）、箱（はこ）、袋（たい）、台（だい）、脚（きゃく）、体（たい）、束（たば）。",
+      "romaji": "Josuushi wa kazu o arawasu kotoba no ato ni tsukete, nani o ikutsu kazoeru ka o shimeshimasu. Tamago ikko, enpitsu ippon, osara ichimai. Warehouse de wa hon, ko, hako / case, tai, mai, dai, kyaku, tai, taba nado o tsukaimasu.",
+      "en": "Japanese counters are suffixes added after numbers to show what is being counted. Examples: one egg = ikko (個), one pencil = ippon (本), one plate = ichimai (枚). Japanese has more than 500 counters, selected according to an item's shape or nature. Warehouse counters on this page: 本 for long/slender items (pipes, bottles, long cargo, tools); 個 for small countable items (bolts, pieces inside cartons); 箱／ケース for boxes/cases; 袋（たい）for bagged units; 枚 for flat thin items (corrugated sheets); 台 for machines/equipment (forklifts); 脚 for furniture/equipment with legs (tables); 体 for machine bodies/large apparatus (robots); 束 for bundled items (cables).",
+      "si": "ජපන් භාෂාවේ 助数詞 (josuushi) යනු සංඛ්‍යාවකට පසුව යොදා ගණන් කරන්නේ කුමන වර්ගයේ දේවල්ද යන්න පෙන්වන ගණන් කිරීමේ පද වේ. උදා: බිත්තර 1ක් – ikko (個); පැන්සලක් – ippon (本); පිඟානක් – ichimai (枚). ජපන් භාෂාවේ මෙවැනි counters 500කට වැඩි ගණනක් ඇති අතර භාණ්ඩයේ හැඩය/ස්වභාවය අනුව තෝරා ගනී. ගබඩා භාවිතය: 本 – දිගු සිහින් දේ (නළ, බෝතල්, දිගු භාණ්ඩ, මෙවලම්); 個 – කුඩා ගණන් කළ හැකි දේ (bolt, කැබලි); 箱/ケース – පෙට්ටි; 袋（たい）– බෑග් ඒකක; 枚 – පැතලි තුනී දේ (කාඩ්බෝඩ් තහඩු); 台 – යන්ත්‍ර/උපකරණ (forklift); 脚 – කකුල් ඇති මේස වැනි දේ; 体 – විශාල යන්ත්‍ර ශරීර; 束 – එකට බැඳි කේබල් වැනි දේ.",
+      "visuals": [
+        {
+          "type": "counter_examples_chart",
+          "description": "Illustrated counter guide: long pipe 本, bolt 個, carton 箱, sack 袋, flat sheet 枚, forklift 台, table 脚, robot 体, cable bundle 束."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 61,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-061-warehouse-counters-a.svg",
+        "mapping_basis": "Counter examples drawn as a study infographic from the source table."
+      }
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": 62,
+      "source_ja": "助数詞の続き：ピース（小さな商品・部品）、セット（組み合わせた商品）、冊（本・冊子）、着（衣類）、足（靴など履物）、玉（丸い物）、粒（小さい粒状物）、錠（錠剤）、人（人数）、件（業務・案件数）、棟（建物）、階（建物の階層）、段（積み重ねた段数）、社（会社）、部（印刷物の部数）、通（郵便物・文書）、行（文字の行）、列（並び・配列）。",
+      "source_furigana": "ピース、セット、冊（さつ）、着（ちゃく）、足（そく）、玉（たま）、粒（つぶ）、錠（じょう）、人（にん）、件（けん）、棟（とう）、階（かい）、段（だん）、社（しゃ）、部（ぶ）、通（つう）、行（ぎょう）、列（れつ）。",
+      "romaji": "Piece wa chiisana shouhin ya buhin, setto wa kumiawase, satsu wa hon, chaku wa irui, soku wa kutsu, tama wa marui mono, tsubu wa chiisai tsubu, jou wa jouzai, nin wa hito, ken wa gyoumu no kensuu, tou wa tatemono, kai wa floor, dan wa tsumikasaneta dan, sha wa kaisha, bu wa insatsubutsu, tsuu wa yuubin / bunsho, gyou wa moji no line, retsu wa narabi desu.",
+      "en": "Further counters: ピース (piece) for small products/components; セット (set) for combined items; 冊 (satsu) for books/manuals; 着 (chaku) for clothing; 足 (soku) for footwear; 玉 (tama) for round objects; 粒 (tsubu) for grains/small particles; 錠 (jō) for tablets; 人 (nin) for people; 件 (ken) for jobs/orders/cases; 棟 (tō) for buildings; 階 (kai) for floors; 段 (dan) for stacked tiers; 社 (sha) for companies; 部 (bu) for printed copies; 通 (tsū) for documents/mail; 行 (gyō) for lines of text; 列 (retsu) for rows/columns.",
+      "si": "තවත් counters: ピース – කුඩා භාණ්ඩ/කොටස්; セット – එකට සකස් කළ කට්ටල; 冊 (satsu) – පොත්/අත්පොත්; 着 (chaku) – ඇඳුම්; 足 (soku) – සපත්තු; 玉 (tama) – ගෝලාකාර දේ; 粒 (tsubu) – කුඩා ඇට/කණිකා; 錠 (jō) – පෙති; 人 (nin) – පුද්ගලයන්; 件 (ken) – වැඩ/ඇණවුම්/සිද්ධි ගණන; 棟 (tō) – ගොඩනැගිලි; 階 (kai) – මහල්; 段 (dan) – ගොඩගැසූ තට්ටු; 社 (sha) – සමාගම්; 部 (bu) – මුද්‍රිත පිටපත්; 通 (tsū) – ලිපි/ලේඛන; 行 (gyō) – අකුරු පේළි; 列 (retsu) – පේළි/තීරු.",
+      "visuals": [
+        {
+          "type": "counter_examples_chart",
+          "description": "Warehouse counter examples for pieces, sets, manuals, uniforms, shoes, round goods, grains, tablets, people, orders, buildings, floors, tiers, companies, documents, lines and rows."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 62,
+        "repo_images": [
+          "public/images/59.jpg",
+          "public/images/61.jpg",
+          "public/images/64.jpg"
+        ],
+        "generated_asset": "/images/generated/page-062-warehouse-counters-b.svg",
+        "mapping_basis": "Repo images 59, 61 and 64 are layer/pallet stacking diagrams, not counter-specific images; do not present them as exact illustrations. The new counter chart is the correct visual."
+      }
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": 63,
+      "source_ja": "助数詞の続き：周（周回・一周）、面（平らな場所や面積）、山（まとまった量・山積み）、か所（場所の数）、回（作業回数）、度（回数・頻度）、巻（巻いてある物）、期（期間・区分）。",
+      "source_furigana": "周（しゅう）、面（めん）、山（やま）、か所（かしょ）、回（かい）、度（ど）、巻（まき）、期（き）。",
+      "romaji": "Shuu wa mawari o hitomawari, men wa hiratai basho ya menseki, yama wa matomatta ryou, kasho wa basho no kazu, kai wa sagyou no kaisuu, do wa hindo, maki wa makimono, ki wa kikan ya kubun o kazoemasu.",
+      "en": "Final counters on this page: 周 (shū) for a circuit/round; 面 (men) for a flat area or surface; 山 (yama) for a heap or grouped quantity; か所 (kasho) for locations; 回 (kai) for number of actions; 度 (do) for frequency/occurrence; 巻 (maki) for rolls; 期 (ki) for periods or phases.",
+      "si": "මෙම පිටුවේ අවසාන counters: 周 (shū) – වටයක්/සම්පූර්ණ වට සංඛ්‍යාව; 面 (men) – පැතලි මතුපිටක් හෝ ප්‍රදේශයක්; 山 (yama) – ගොඩක් ලෙස එකතු වූ ප්‍රමාණයක්; か所 (kasho) – ස්ථාන ගණන; 回 (kai) – ක්‍රියාවක් කළ වාර ගණන; 度 (do) – වාර ගණන/සංඛ්‍යාතය; 巻 (maki) – රෝල් කළ දේ; 期 (ki) – කාල පරිච්ඡේද/අදියර.",
+      "visuals": [
+        {
+          "type": "counter_examples_chart",
+          "description": "Illustrated examples for shuu, men, yama, kasho, kai, do, maki and ki in warehouse settings."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 63,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-063-warehouse-counters-c.svg",
+        "mapping_basis": "Compact counter summary illustration created from source table."
+      }
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": 64,
+      "source_ja": "Ⅱ. 作業の基本 １. 入庫作業：貨物を受け付けてから倉庫の保管場所に格納するまでの作業全体。（１）入庫準備：作業予定表／入庫予定表で到着貨物を確認し、必要な荷役機器を用意する。必要に応じ、既存貨物を別の場所へ動かすはい替えを行い保管場所を確保。（２）車両誘導：トラック・コンテナの種類に合った場所へ案内。荷台高さの目安：トラック約0.8–1.2m、トレーラー約1.0–1.2m、コンテナ約1.2m。予約受付・バース管理システムで接車バースを管理できる。ウイング車から横卸しする場合は操車場や荷捌きスペースに停車。（３）海上コンテナのデバンニング：扉を開けると貨物が崩れて飛び出すことがあるため、ゆっくり注意して開ける。扉が開かない場合は無理に開けず、コンテナを壊さないよう乙仲（海運貨物取扱業者）へ連絡。",
+      "source_furigana": "入庫（にゅうこ）、格納（かくのう）、荷役機器（にやくきき）、はい替（が）え、誘導（ゆうどう）、荷台（にだい）、接車（せっしゃ）、バース、デバンニング。",
+      "romaji": "Nyuuko sagyou wa nimotsu o uketsukete kara souko no hokan basho ni kakunou suru made no sagyou zentai desu. Nyuuko junbi de yoteihyou o kakunin shi, hitsuyou na niyaku kiki o youi shimasu. Sharyou o shurui ni atta berth e yuudou shimasu. Kaijou container no door wa nimotsu ga kuzurete tobidasu koto ga aru tame yukkuri hirakimasu. Akenai toki wa muri ni akerazu otsunaka ni renraku shimasu.",
+      "en": "Part II: Work fundamentals. Inbound operations cover the entire process from accepting cargo until it is placed in its warehouse storage location. Preparation: check the work/inbound schedule to identify arriving goods, prepare the required handling equipment, and relocate existing cargo if necessary to free storage space. Vehicle guidance: direct trucks and containers to a suitable bay. Typical deck heights: truck about 0.8–1.2 m; trailer about 1.0–1.2 m; container about 1.2 m. Truck reservation and dock/bay management systems help track assigned bays. A wing-body truck unloading from the side should be parked in a manoeuvring or cargo-handling area. Devanning a sea container: open doors slowly and carefully because cargo may shift or fall out. If doors will not open, never force them; contact the shipping cargo-handling agent (otsunaka) to avoid damaging the container.",
+      "si": "II කොටස – වැඩ මූලික ක්‍රියාපටිපාටි. Inbound operation යනු භාණ්ඩ භාරගැනීමේ සිට ගබඩාවේ නියමිත ස්ථානයට තැන්පත් කිරීම දක්වා වූ සම්පූර්ණ ක්‍රියාවලියයි. සූදානම: වැඩ/භාණ්ඩ පැමිණීමේ කාලසටහන පරීක්ෂා කර පැමිණෙන භාණ්ඩ හඳුනාගන්න; අවශ්‍ය cargo-handling උපකරණ සූදානම් කරන්න; ඉඩ අවශ්‍ය නම් දැනට ඇති භාණ්ඩ වෙනත් ස්ථානයකට මාරු කර ඉඩ සකස් කරන්න. වාහන මඟපෙන්වීම: ට්‍රක් හෝ කන්ටේනර් වර්ගයට ගැළපෙන bay එකට යොමු කරන්න. මූලාශ්‍රයේ දක්වන සාමාන්‍ය loading deck උස: ට්‍රක් 0.8–1.2 m; trailer 1.0–1.2 m; container 1.2 m. Reservation සහ dock/bay management systems මඟින් වාහන නවත්වන ස්ථාන කළමනාකරණය කළ හැකිය. පැත්තෙන් භාණ්ඩ බාන wing-body truck එක manoeuvring/cargo-handling ප්‍රදේශයක නවත්වන්න. Sea container devanning කිරීමේදී දොර සෙමින් හා ප්‍රවේශමෙන් විවෘත කරන්න; ඇතුළත භාණ්ඩ පෙරළී පිටතට වැටිය හැකිය. දොර විවෘත නොවන්නේ නම් බලෙන් අරින්න එපා; container එකට හානි නොවන ලෙස shipping cargo-handling agent (otsunaka) අමතන්න.",
+      "visuals": [
+        {
+          "type": "inbound_flow",
+          "description": "Inbound flow from schedule review and equipment preparation through truck bay assignment, careful container door opening and storage."
+        },
+        {
+          "type": "dock_height_diagram",
+          "description": "Dock alignment side view showing source height ranges for truck, trailer and container."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 64,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-064-inbound-preparation-dock.svg",
+        "mapping_basis": "Page image unavailable in renderer; process and dimensional visual created from the extracted Japanese source text."
+      }
+    },
+    {
+      "pdf_page": 65,
+      "printed_page": 65,
+      "source_ja": "（４）車両・コンテナからの荷卸し：トラックや海上コンテナの貨物を倉庫内に取り込む作業。荷台・コンテナ扉を開け、貨物を一つずつ取り出す。トラック荷台での荷卸しは基本的に運転手が行う。フォークリフトや台車を使い安全・効率的に行う。（５）入庫検品：貨物内容が書類と一致するか確認。ドライバー立会いで受領し、ケアマークに注意。送り状・入庫指示書と実貨物を照合。確認項目：品名、サイズ、記号、製造LOT番号、色、数量、単位姿、荷姿。バーコードがあればリーダーやハンディターミナルで所定手順に従い確認。口割れ（複数貨物が分かれて到着）に注意。",
+      "source_furigana": "荷卸（におろ）し、入庫検品（にゅうこけんぴん）、照合（しょうごう）、品名（ひんめい）、製造（せいぞう）LOT番号、数量（すうりょう）、荷姿（にすがた）、口割（くちわ）れ。",
+      "romaji": "Nioroshi sagyou wa truck ya container no nimotsu o souko ni torikomu sagyou desu. Forklift ya daisha o tsukatte anzen ni okonaimasu. Nyuuko kenpin wa nimotsu no naiyou ga shorui to atte iru ka kakunin suru sagyou desu. Hinmei, size, kigou, seizou LOT bangou, iro, suuryou, tani-sugata, nisugata o shorui to shougou shimasu. Barcode reader ya handy terminal mo tsukaimasu. Kuchiwari wa nimotsu ga bunkatsu shite todoku koto desu.",
+      "en": "Unloading from vehicles/containers means bringing cargo from a truck or sea container into the warehouse. Open the truck deck/container doors and remove cargo one item at a time. The source says unloading on the truck deck is generally performed by the driver. Forklifts and hand carts are used to work safely and efficiently. Inbound inspection checks whether the actual cargo matches the documents. Receive cargo with the driver present and observe handling-care marks. Compare the waybill and inbound instruction with the actual goods. Check: product name, dimensions, marks, manufacturing LOT number, colour, quantity, unit form and packaging form. If barcodes are present, use a barcode reader or handheld terminal according to the prescribed procedure. Watch for kuchiwari: a consignment arriving in separate partial deliveries.",
+      "si": "වාහන/කන්ටේනර්වලින් භාණ්ඩ බෑම යනු ට්‍රක් රථයක හෝ මුහුදු කන්ටේනරයක ඇති භාණ්ඩ ගබඩාව තුළට ගෙන ඒමේ කටයුත්තයි. ට්‍රක් තට්ටුව හෝ කන්ටේනර් දොර විවෘත කර භාණ්ඩ එකින් එක ඉවත් කරයි. මූලාශ්‍රය අනුව ට්‍රක් තට්ටුවේ බෑමේ කටයුත්ත සාමාන්‍යයෙන් රියදුරු විසින් සිදු කරයි. ආරක්ෂිත හා කාර්යක්ෂම කටයුතු සඳහා forklift සහ hand trolley භාවිත කරයි. Inbound inspection යනු සැබෑ භාණ්ඩ ලේඛනවල සඳහන් තොරතුරු සමඟ ගැළපේදැයි පරීක්ෂා කිරීමයි. රියදුරු ඉදිරියේ භාණ්ඩ භාරගෙන handling marks සැලකිල්ලට ගන්න. Waybill සහ inbound instruction සමඟ සැබෑ භාණ්ඩ සසඳන්න. පරීක්ෂා කළ යුතු දේ: භාණ්ඩ නම, ප්‍රමාණමාන, සලකුණු, නිෂ්පාදන LOT අංකය, වර්ණය, ප්‍රමාණය, unit form සහ packaging form. Barcode තිබේ නම් නියමිත ක්‍රමයට reader හෝ handheld terminal භාවිත කරන්න. Kuchiwari යනු එකම consignement එකේ භාණ්ඩ කොටස් වශයෙන් වෙන වෙනම පැමිණීමයි.",
+      "visuals": [
+        {
+          "type": "inspection_checklist",
+          "description": "Incoming cargo inspection checklist with eight fields and barcode scan step."
+        },
+        {
+          "type": "partial_delivery_diagram",
+          "description": "Three expected cartons delivered as two now and one later, illustrating kuchiwari."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 65,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-065-unloading-inspection.svg",
+        "mapping_basis": "Page image unavailable in renderer; inspection flow and split-delivery diagram recreated from the source text."
+      }
+    },
+    {
+      "pdf_page": 66,
+      "printed_page": 66,
+      "source_ja": "口割れの例：3個の貨物のうち2個が先に届き、残り1個が後から届く。数量不足時は口割れを確認。※1 製造LOT番号：同じ場所・材料・時期に一度に作られた製品グループにつける番号。製造工場や日付が違えば同じ商品でもLOTが異なる。LOT別管理や製造日・賞味期限別管理を行うことがある。※2 包装単位・管理単位：ピース（最小単位・個装）、ボール（複数ピースの中箱/インナー）、ケース（複数ボールの箱/単箱）、合箱（複数ケースをPPバンド等でまとめたもの。例：2合1甲）、パレット（パレット上の貨物をまとめて1単位として管理）。管理単位未満は端数。 不定貫貨物：1個ごとの重量が一定でない貨物。重量を計って記録するが、内容不検査の原則により中身の内容責任は負わない。検貫＝実測重量を記録（検量表必要）、切付け＝表示重量を記録（必要）、平均重量＝荷口全体重量÷個数（検量表不要）、見なし定貫＝実重量不明だが事前設定重量を使用（不要）。",
+      "source_furigana": "製造（せいぞう）LOT番号、包装単位（ほうそうたんい）、管理単位（かんりたんい）、合箱（ごうばこ）、端数（はすう）、不定貫貨物（ふていかんかもつ）、検貫（けんかん）、切付（きりつ）け、平均重量（へいきんじゅうりょう）、見（み）なし定貫（ていかん）。",
+      "romaji": "Kuchiwari wa, tatoeba mittsu no nimotsu no uchi futatsu ga saki ni todoki, nokori hitotsu ga ato kara todoku koto desu. Seizou LOT bangou wa onaji basho, zairyou, jiki ni tsukurareta product group no bangou desu. Packaging units: piece, ball, case, gou-bako, pallet. Futeikan kamotsu wa hitotsu zutsu no omosa ga kimatte inai nimotsu desu. Kenkan wa jissoku omosa, kiritsuke wa hyouji omosa, heikin juuryou wa total weight divided by quantity, minashi teikan wa predetermined weight o tsukaimasu.",
+      "en": "Kuchiwari example: of three cargo pieces, two arrive first and the remaining one later; when the received quantity is short, check whether delivery is split. Manufacturing LOT number identifies a group produced at the same place, from the same materials and at the same time. The same product may have different LOT numbers if factory or production date differs; stock may be managed by LOT, production date or expiry date. Packaging/management hierarchy: piece (smallest individual unit), ball (inner carton containing several pieces), case (outer carton containing several balls), combined case (several cases bundled with PP band; e.g. 2-in-1), pallet (cargo on a pallet managed as one unit). Quantities below the management unit are remainder/odd quantities. Variable-weight cargo has no fixed weight per item. Weigh and record it, while the source notes the principle of not inspecting internal contents. Weighing methods: kenkan = actual measured weight (weighing record required); kiritsuke = record the displayed/declared weight (record required); average weight = total lot weight ÷ item count (no individual weighing sheet required); deemed fixed weight = use a pre-set weight although actual item weight is unknown (no weighing sheet required).",
+      "si": "Kuchiwari උදාහරණය: භාණ්ඩ 3කින් 2ක් මුලින් පැමිණ ඉතිරි 1 පසුව පැමිණිය හැකිය. ලැබුණු ප්‍රමාණය අඩු නම් භාණ්ඩ කොටස් වශයෙන් පැමිණ තිබේදැයි පරීක්ෂා කරන්න. Manufacturing LOT අංකය යනු එකම ස්ථානයක, එකම අමුද්‍රව්‍යවලින්, එකම කාලයේ නිෂ්පාදනය කළ භාණ්ඩ කණ්ඩායම හඳුනාගන්නා අංකයයි. කර්මාන්තශාලාව හෝ නිෂ්පාදන දිනය වෙනස් නම් එකම භාණ්ඩයට වෙනස් LOT අංක තිබිය හැකිය. LOT, නිෂ්පාදන දිනය හෝ කල් ඉකුත් වීමේ දිනය අනුව තොග කළමනාකරණය කළ හැකිය. ඇසුරුම්/කළමනාකරණ ඒකක අනුපිළිවෙළ: piece (කුඩාම තනි ඒකකය), ball (pieces කිහිපයක් ඇති inner carton), case (balls කිහිපයක් ඇති පිටත පෙට්ටිය), combined case (PP band මඟින් එකට බැඳි cases කිහිපයක්; උදා 2-in-1), pallet (පැලට් එක මත ඇති භාණ්ඩ එක ඒකකයක් ලෙස කළමනාකරණය කිරීම). කළමනාකරණ ඒකකයට වඩා අඩු ඉතිරි ප්‍රමාණය remainder/odd quantity වේ. Variable-weight cargo යනු එක් එක් භාණ්ඩයේ බර එකම නොවන භාණ්ඩයයි. බර මැන සටහන් කළත් මූලාශ්‍රයේ සඳහන් content non-inspection principle අනුව ඇතුළත අන්තර්ගතය පරීක්ෂා කිරීමේ වගකීමක් භාර නොගනී. ක්‍රම: kenkan – සැබෑ බර මැන සටහන් කිරීම (weighing record අවශ්‍යයි); kiritsuke – ලේබලයේ සඳහන් බර සටහන් කිරීම (අවශ්‍යයි); average weight – මුළු consignment බර ÷ ඒකක ගණන (අවශ්‍ය නැත); deemed fixed weight – සැබෑ බර නොදන්නා නමුත් කලින් නියම කළ බර භාවිත කිරීම (අවශ්‍ය නැත).",
+      "visuals": [
+        {
+          "type": "lot_traceability",
+          "description": "LOT traceability example: same SKU, different factory/date, separate lot codes and expiry-date tracking."
+        },
+        {
+          "type": "packaging_hierarchy",
+          "description": "Piece → Ball/Inner → Case → Combined case → Pallet hierarchy."
+        },
+        {
+          "type": "variable_weight_table",
+          "description": "Four source weighing methods and whether a weighing record is required."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 66,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-066-lot-packaging-weight.svg",
+        "mapping_basis": "Source page table and explanatory text reconstructed into three compact visual diagrams."
+      }
+    },
+    {
+      "pdf_page": 67,
+      "printed_page": 67,
+      "source_ja": "※3 よくある荷姿の種類：ア. 木箱（ケース）：木製の箱。比較的大きく重いためフォークリフトを使う。イ. 段ボール箱（カートン）：物流倉庫で最もよく見られる荷姿。外側のライナー（平らな紙）と波形のフルート（波型紙）を重ねた構造で、外力を吸収し中身を保護。濡れたり湿気が多いと柔らかくなり膨らむ。防水・防湿処理品もある。ウ. 紙袋（バッグ）：紙またはプラスチック製。米、豆、粉などに適する。破れないよう注意。エ. フレコンバッグ：フレキシブルコンテナバッグの略。化学繊維製の大型袋で500〜1,000kgを入れられる。上部に吊り手が付く。",
+      "source_furigana": "荷姿（にすがた）、木箱（きばこ）、段（だん）ボール箱（ばこ）、ライナー、フルート、紙袋（かみぶくろ）、フレコンバッグ、吊（つ）り手（て）。",
+      "romaji": "Yoku aru nisugata: kibako wa ki no hako de, ookiku omoi tame forklift o tsukaimasu. Danboru bako wa liner to nami-gata flute o kasaneta kouzou de, naka no nimotsu o mamorimasu. Nure ya shikke de yowaku narimasu. Kamibukuro wa kome, mame, kona ni mukimasu. Flexi container bag wa kagaku sen'i no ookina fukuro de 500 kara 1,000 kilogram o iremasu; tsurite ga arimasu.",
+      "en": "Common cargo forms: (a) Wooden case: a wooden box, usually relatively large and heavy, so a forklift is used. (b) Corrugated carton: the most common warehouse package form. It is made by sandwiching a wavy fluted paper layer between flat liners; this structure absorbs external force and protects the contents. Moisture or wetness can soften and swell the carton; some are waterproof/moisture-resistant treated. (c) Paper bag: made from paper or sometimes plastic, suitable for rice, beans and powder; handle carefully to prevent tearing. (d) Flexible container bag (FIBC): a large chemical-fibre bag that can hold 500–1,000 kg and has lifting loops at the top.",
+      "si": "සාමාන්‍ය භාණ්ඩ ඇසුරුම් ආකාර: (අ) ලී පෙට්ටිය – ලීයෙන් සාදන විශාල හා බර පෙට්ටියක් බැවින් සාමාන්‍යයෙන් forklift භාවිත කරයි. (ආ) Corrugated carton – ගබඩාවල බහුලම ඇසුරුම් ආකාරයයි. පිටත පැතලි liner කඩදාසි දෙකක් අතර රැලි සහිත flute තට්ටුවක් තබා සකස් කර ඇති නිසා පිටතින් එන බලපෑම් අවශෝෂණය කර ඇතුළත භාණ්ඩ ආරක්ෂා කරයි. තෙතමනය හෝ ජලය නිසා කාඩ්බෝඩ් මෘදු වී පිම්බිය හැකිය. ඇතැම් පෙට්ටි ජල/තෙතමන ආරක්ෂක ලෙස සකස් කර ඇත. (ඇ) කඩදාසි බෑගය – කඩදාසි හෝ සමහරවිට ප්ලාස්ටික්වලින් සාදයි; සහල්, බෝංචි, පිටි වැනි දේ සඳහා සුදුසුය. ඉරී නොයන ලෙස ප්‍රවේශමෙන් හසුරුවන්න. (ඈ) Flexible container bag/FIBC – රසායනික තන්තු වලින් සෑදූ විශාල බෑගයකි; 500–1,000 kg පමණ දරාගත හැකි අතර ඉහළින් එසවීමේ loops ඇත.",
+      "visuals": [
+        {
+          "type": "cargo_package_gallery",
+          "description": "Four labelled cargo forms: wooden case, corrugated carton cutaway showing liner/flute/liner, paper sack and FIBC lifting loops."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 67,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-067-cargo-forms-a.svg",
+        "mapping_basis": "Source page includes photographs; the image ZIP assets do not contain an exact match in the inspected set, so original-type vector illustrations are provided."
+      }
+    },
+    {
+      "pdf_page": 68,
+      "printed_page": 68,
+      "source_ja": "オ. ベール：貨物を金属帯（バンドル）で縛ったもの。フォークリフトで扱うときはベールクランプが必要。棒状貨物や板材をバンドルで縛ったものは「バンドル」。カ. ロール：巻取紙や敷物などを巻いたもの。フォークリフトで扱うときはロールクランプが必要。キ. 缶：金属またはプラスチック製容器。ドラム缶＝大きい円柱形、18ℓ缶（1斗缶）＝18L入り、ペール缶＝バケツのような形。",
+      "source_furigana": "ベール、金属帯（きんぞくおび）、ベールクランプ、バンドル、ロール、巻取紙（まきとりがみ）、ロールクランプ、缶（かん）、ドラム缶（かん）、一斗缶（いっとかん）、ペール缶（かん）。",
+      "romaji": "Beale wa nimotsu o kinzoku obi de shibatta mono desu. Forklift de atsukau toki wa bale clamp ga hitsuyou desu. Boujou nimotsu ya itazai o bundle shita mono wa bundle desu. Roll wa makitori-gami ya shikimono o maita mono de, roll clamp ga hitsuyou desu. Kan wa kinzoku mata wa plastic no youki desu. Drum kan wa ookii enchuu, 18 litre kan wa 18 litre iri, pail kan wa bucket no you na katachi desu.",
+      "en": "(e) Bale: cargo compressed or bound with metal bands. A bale clamp attachment is required when handling it with a forklift. Rod-shaped cargo or boards bound together are called a bundle. (f) Roll: rolled material such as paper reels or floor coverings; a roll-clamp forklift attachment is required. (g) Cans/containers: made of metal or plastic. Types: drum can (large cylinder), 18 L can (ittō-can, holding 18 litres), and pail can (bucket-shaped).",
+      "si": "(ඉ) Bale – භාණ්ඩ ලෝහ පටිවලින් බැඳ සකස් කළ ඒකකයකි. Forklift එකෙන් හසුරුවන විට bale clamp attachment අවශ්‍ය වේ. දණ්ඩ හැඩයේ භාණ්ඩ හෝ පුවරු එකට බැඳ ඇති ඒකකයක් bundle ලෙස හැඳින්වේ. (ඊ) Roll – රෝල් කළ කඩදාසි හෝ බිම් ආවරණ වැනි ද්‍රව්‍යයකි. Forklift එකෙන් හසුරුවන විට roll-clamp attachment අවශ්‍ය වේ. (උ) Cans – ලෝහ හෝ ප්ලාස්ටික්වලින් සෑදූ භාජන වේ. Drum can යනු විශාල සිලින්ඩරාකාර භාජනයකි; 18 L can (ittō-can) තුළ ලීටර් 18ක් අඩංගු වේ; pail can යනු බාල්දියක හැඩය ඇති භාජනයකි.",
+      "visuals": [
+        {
+          "type": "cargo_types_and_attachments",
+          "description": "Bale with metal bands and bale clamp, roll with roll clamp, and comparison of drum can, 18 L can and pail can."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 68,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-068-bales-roll-cans.svg",
+        "mapping_basis": "Source page's cargo form types recreated in a labelled vector visual."
+      }
+    }
+  ],
+  "audit": {
+    "source_pages_read": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "page_count": 10,
+    "four_language_fields_present": true,
+    "visual_plan_per_page": true,
+    "source_visuals_reviewed": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      66,
+      67,
+      68
+    ],
+    "page_image_renderer_unavailable": [
+      64,
+      65
+    ],
+    "status": "CONTENT_AND_VISUAL_ASSET_BUILD_REQUIRED",
+    "limitations": "Structured trilingual study draft based on extracted Japanese source text. It is not yet a certified line-by-line transcription or translation proofread. Page-specific diagrams must be checked against the full original page images before final audit sign-off."
+  }
+}
