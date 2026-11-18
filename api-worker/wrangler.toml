@@ -1,4 +1,5 @@
 name = "mykuraflow-api"
+account_id = "d77c0d0a8c2d00e6ef62cfb201028118"
 main = "src/index.js"
 compatibility_date = "2026-11-18"
 
