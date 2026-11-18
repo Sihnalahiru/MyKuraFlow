@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-01",
+  "lesson_id": "p01-l04",
+  "lesson_title": {
+    "ja": "その他の倉庫設備・車両と倉庫業務の基本",
+    "furigana": "その他（そのた）の倉庫（そうこ）設備（せつび）・車両（しゃりょう）と倉庫業務（そうこぎょうむ）の基本（きほん）",
+    "romaji": "Sonota no souko setsubi / sharyou to souko gyoumu no kihon",
+    "en": "Other warehouse equipment, vehicles and warehouse operations fundamentals",
+    "si": "වෙනත් ගබඩා උපකරණ, වාහන සහ ගබඩා මෙහෙයුම් මූලික කරුණු"
+  },
+  "page_range": {
+    "pdf_pages": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "printed_pages": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 29,
+      "printed_page": 29,
+      "source_ja": "（７）検針機（けんしんき）／金属探知機（きんぞくたんちき）：製品（せいひん）の中（なか）に針（はり）などの金属（きんぞく）が入（はい）っていないか調（しら）べ、安全（あんぜん）を確認（かくにん）します。針（はり）が入（はい）ったまま製品（せいひん）がお客様（きゃくさま）に届（とど）くと大（おお）きなけがにつながることがあります。\n（８）業務用掃除機（ぎょうむようそうじき）：倉庫（そうこ）の中（なか）をきれいにする機械（きかい）。安全（あんぜん）な作業（さぎょう）のため、倉庫（そうこ）を常（つね）にきれいに保（たも）つことが大切（たいせつ）です。\n（９）台秤（だいはかり）：台（だい）に貨物（かもつ）を載（の）せて重（おも）さを量（はか）る機械（きかい）。検貫（けんかん）／看貫（かんかん）／検量（けんりょう）は貨物（かもつ）の重（おも）さを量（はか）ることです。\n（１０）採寸計量器（さいすんけいりょうき）：貨物（かもつ）の大（おお）きさと重（おも）さを自動（じどう）で一度（いちど）に測（はか）る機械（きかい）。採寸（さいすん）は大（おお）きさを測（はか）ること、計量（けいりょう）は重（おも）さを測（はか）ることです。",
+      "romaji": "Kenshinki / kinzoku tanchiki wa seihin no naka ni hari nado no kinzoku ga haitte inai ka shirabemasu. Gyoomuyou soujiki wa souko o kirei ni suru kikai desu. Daihakari wa nimotsu no omosa o hakarimasu. Saisun keiryouki wa nimotsu no ookisa to omosa o jidou de hakarimasu.",
+      "en": "A needle/metal detector checks whether metal objects such as needles are inside products; this is important because a needle reaching a customer can cause serious injury. An industrial vacuum cleaner keeps the warehouse clean, supporting safe work. A platform scale weighs goods placed on its platform; weighing cargo is also called kenkan/kankan/kenryō. A dimensioning and weighing system automatically measures both the dimensions and weight of cargo at once.",
+      "si": "Needle detector/metal detector යන්ත්‍රය භාණ්ඩ තුළ ඉඳිකටු වැනි ලෝහ ද්‍රව්‍ය තිබේදැයි පරීක්ෂා කරයි. ඉඳිකටුවක් සහිත භාණ්ඩයක් පාරිභෝගිකයා වෙත ගියහොත් බරපතළ තුවාල සිදුවිය හැකි බැවින් මෙය ඉතා වැදගත්ය. කාර්මික වැකුම් ක්ලීනර් එක ගබඩාව පිරිසිදුව තබා ආරක්ෂිත වැඩ පරිසරයක් පවත්වා ගැනීමට උපකාරී වේ. Platform scale එක මත භාණ්ඩ තබා බර මනියි.採寸計量器 යන්ත්‍රය භාණ්ඩයේ මානයන් සහ බර එකවර ස්වයංක්‍රීයව මනියි.",
+      "visuals": [
+        {
+          "type": "photos",
+          "description": "Needle detector, industrial floor vacuum cleaner, platform scale and dimensioning/weighing system."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 29,
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+      }
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": 30,
+      "source_ja": "４．車両（しゃりょう）・機械（きかい）の説明（せつめい）\n（１）海上（かいじょう）コンテナ：コンテナ船（せん）で外国（がいこく）へ貨物（かもつ）を運（はこ）ぶ大（おお）きな箱（はこ）。世界（せかい）で使（つか）われ、世界（せかい）の９０％以上（いじょう）はドライコンテナです。丈夫（じょうぶ）な鋼鉄（こうてつ）製（せい）で扉（とびら）を閉（し）められます。\nサイズ：幅（はば）はほとんど８フィート（約（やく）2.4m）、標準高（ひょうじゅんだか）８フィート６インチ（約（やく）2.6m）、ハイキューブ高（だか）９フィート６インチ（約（やく）2.9m）、長（なが）さは４０フィート（約（やく）12.2m）または２０フィート（約（やく）6.1m）。フィート・インチは長（なが）さの単位（たんい）です。\nリーファーコンテナ：冷凍（れいとう）・冷蔵（れいぞう）が必要（ひつよう）な貨物（かもつ）を運（はこ）ぶ箱（はこ）。内部（ないぶ）を冷（ひ）やす冷凍（れいとう）ユニットがあり、外部（がいぶ）電源（でんげん）で動（うご）きます。",
+      "romaji": "Kaijou container wa container-sen de gaikoku e nimotsu o hakobu ookina hako desu. Dry container ga 90 percent ijou o shimeshimasu. Yoko wa yaku 2.4 meetoru, futsuu no takasa wa yaku 2.6 meetoru, high-cube wa yaku 2.9 meetoru. Nagasa wa 20 feet mata wa 40 feet desu. Reefer container wa reitou ya reizou ga hitsuyou na nimotsu o hakobi, soto no dengen de ugoku reitou unit o sonaemasu.",
+      "en": "A maritime container is a large steel box used to transport goods overseas by container ship. The source states that more than 90% worldwide are dry containers. Typical dimensions are about 2.4 m wide; standard height about 2.6 m; high-cube height about 2.9 m; and length either 12.2 m (40 ft) or 6.1 m (20 ft). A reefer container carries chilled or frozen goods and has a refrigeration unit powered by an external electrical supply.",
+      "si": "මුහුදු කන්ටේනරය යනු කන්ටේනර් නෞකාවකින් විදේශ රටවලට භාණ්ඩ ප්‍රවාහනය කරන විශාල වානේ පෙට්ටියකි. මූලාශ්‍රයට අනුව ලෝකයේ භාවිත වන කන්ටේනර්වලින් 90%කට වැඩි ප්‍රමාණයක් dry container වේ. සාමාන්‍ය පළල මීටර් 2.4ක් පමණය; සම්මත උස මීටර් 2.6ක් පමණය; high-cube උස මීටර් 2.9ක් පමණය; දිග මීටර් 12.2ක් හෝ 6.1ක් වේ. Reefer container යනු ශීත කළ හෝ ශීතකරණයේ තබා ප්‍රවාහනය කළ යුතු භාණ්ඩ සඳහා භාවිත කරන කන්ටේනරයකි. එහි සිසිලන ඒකකය බාහිර විදුලි සැපයුමෙන් ක්‍රියා කරයි.",
+      "visuals": [
+        {
+          "type": "dimension_diagram",
+          "description": "Container dimensions with width 2,438 mm, height 2,591 mm and length 12,192 mm illustrated on source page."
+        },
+        {
+          "type": "photo",
+          "description": "Dry maritime container."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 30,
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+      }
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": 31,
+      "source_ja": "海上コンテナの陸上輸送（りくじょうゆそう）：シャーシ（台車（だいしゃ））の上（うえ）にコンテナを載（の）せ、ヘッド（トラック前部（ぜんぶ））がシャーシを牽引（けんいん）します。シャーシはコンテナを載（の）せる車両（しゃりょう）のような台車（だいしゃ）、ヘッドはシャーシを引（ひ）くトラックの前部（ぜんぶ）です。\n倉庫（そうこ）での作業（さぎょう）：シャーシに載（の）せたままプラットフォームに着（つ）け、コンテナ後部（こうぶ）のドアを開（あ）け、中（なか）の貨物（かもつ）を卸（お）ろします。この作業（さぎょう）はデバンニングと呼（よ）ばれます。\n（２）鉄道（てつどう）コンテナ：日本（にほん）の貨物列車（かもつれっしゃ）で貨物（かもつ）を運（はこ）ぶ箱（はこ）。従来（じゅうらい）は１２フィート・５トン積（づ）み（５トコン）がよく使（つか）われ、最近（さいきん）は２０フィートや３１フィートも増（ふ）えています。\n（３）トラック：重（おも）さや形（かたち）で種類（しゅるい）を分（わ）けます。",
+      "romaji": "Kaijou container o rikujou yusou suru toki wa chassis ni container o nose, head ga chassis o ken'in shimasu. Souko de wa platform ni tsuke, rear door o akete cargo o oroshimasu. Kore o devanning to iimasu. Tetsudou container wa nihon no kamotsu ressha de hakobu hako desu. Truck wa omosa ya katachi de bunrui shimasu.",
+      "en": "For land transport, a maritime container is placed on a chassis and pulled by the truck head/tractor unit. The chassis is the vehicle-like platform carrying the container; the head is the front of the truck that tows it. At the warehouse, the container remains on the chassis while it is positioned at the platform, its rear doors are opened and the cargo is unloaded. This is called devanning. A rail container is used on Japanese freight trains; 12-foot, 5-ton containers were traditionally common, while 20-foot and 31-foot containers are increasingly used. Trucks are classified by weight and body shape.",
+      "si": "මුහුදු කන්ටේනරයක් ගොඩබිමෙන් ප්‍රවාහනය කිරීමේදී එය chassis එක මත තබා truck head එක මඟින් ඇදගෙන යයි. Chassis යනු කන්ටේනරය තබන රථ වේදිකාවයි. Head යනු එය ඇදගෙන යන ට්‍රක් රථයේ ඉදිරි කොටසයි. ගබඩාවේදී chassis එක මතම කන්ටේනරය platform එකට ගෙනවිත් පසුපස දොරවල් විවෘත කර භාණ්ඩ බායි. මෙම ක්‍රියාවලිය Devanning ලෙස හැඳින්වේ. Rail container යනු ජපානයේ භාණ්ඩ දුම්රියෙන් භාණ්ඩ ගෙන යන පෙට්ටියකි. පෙර 12-foot/5-ton කන්ටේනර් බහුලව භාවිත වූ අතර දැන් 20-foot සහ 31-foot කන්ටේනර්ද වැඩි වී ඇත. ට්‍රක් රථ බර සහ හැඩය අනුව වර්ග කරයි.",
+      "visuals": [
+        {
+          "type": "process_diagram",
+          "description": "Container on chassis pulled by head truck; warehouse unloading sequence."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 31,
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+      }
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": 32,
+      "source_ja": "トラックの重量による分類：大型（おおがた）１０トン車（しゃ）＝約（やく）１０トン、普通（ふつう）／中型（ちゅうがた）４トン車（しゃ）＝約（やく）４トン、小型（こがた）２トン車（しゃ）＝約（やく）２トンを積載（せきさい）できます。\n形（かたち）による分類：平（ひら）ボディ車（しゃ）は荷台（にだい）に屋根（やね）がなく、横（よこ）に「あおり」という囲（かこ）い壁（かべ）がある最（もっと）も簡単（かんたん）な形（かたち）。トレーラ／セミトレーラはヘッドと荷台（にだい）が分（わ）かれ、大（おお）きく多（おお）い貨物（かもつ）を運（はこ）び、海上（かいじょう）コンテナも運（はこ）びます。バンボディ車（しゃ）は荷台（にだい）が箱型（はこがた）で、主（おも）に後（うし）ろのドアを開（あ）けます。パワーゲート付（つ）きもあります。",
+      "romaji": "Truck no omosa ni yoru bunrui: oogata 10 ton, chuugata 4 ton, kogata 2 ton. Hira body wa yane ga nai truck desu. Trailer wa head to nidai ga wakarete imasu. Van body wa hakogata no nidai de, ushiro no door ga hirakimasu.",
+      "en": "Truck capacity classes in the source are: large 10-ton truck (about 10 tonnes), medium/standard 4-ton truck (about 4 tonnes), and small 2-ton truck (about 2 tonnes). By body shape: a flatbed truck has no roof over the cargo area and has side boards called aori; a trailer/semi-trailer separates the tractor head from the cargo platform and carries large/heavy loads, including maritime containers; a van-body truck has an enclosed box-shaped cargo area, usually accessed through rear doors, and some have a power gate.",
+      "si": "මූලාශ්‍රයේ ට්‍රක් රථ බර අනුව වර්ග තුනක් දක්වයි: ටොන් 10ක විශාල ට්‍රක් රථය, ටොන් 4ක මධ්‍යම/සාමාන්‍ය ට්‍රක් රථය සහ ටොන් 2ක කුඩා ට්‍රක් රථය. හැඩය අනුව flatbed truck එකේ භාණ්ඩ තට්ටුවට වහලක් නැති අතර දෙපස aori ලෙස හැඳින්වෙන ආරක්ෂක වැටවල් ඇත. Trailer/semi-trailer රථයේ ඉදිරිපස ඇදගෙන යන head කොටස සහ භාණ්ඩ තට්ටුව වෙන්ව පවතින අතර විශාල/බර භාණ්ඩ සහ මුහුදු කන්ටේනර් ප්‍රවාහනයට භාවිත වේ. Van-body truck එකේ භාණ්ඩ තට්ටුව පෙට්ටියක් මෙන් ආවරණය කර ඇති අතර සාමාන්‍යයෙන් පසුපස දොරෙන් ඇතුළු වේ. සමහර රථවල power gate එකක් ඇත.",
+      "visuals": [
+        {
+          "type": "table",
+          "description": "10-ton, 4-ton and 2-ton truck capacity classification."
+        },
+        {
+          "type": "photos_and_diagrams",
+          "description": "Flatbed, full trailer/semi-trailer and van-body truck examples."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 32,
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+      }
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": 33,
+      "source_ja": "ウイング車（しゃ）：荷台（にだい）の側面（そくめん）と天井（てんじょう）が鳥（とり）の翼（つばさ）のように開（ひら）き、横（よこ）から貨物（かもつ）を積（つ）み卸（お）ししやすい。フォークリフトでパレットを動（うご）かしやすい。\nユニック車（しゃ）／クレーン車（しゃ）：平（ひら）ボディ車（しゃ）にクレーンを付（つ）けたトラックで、重（おも）い貨物（かもつ）を持（も）ち上（あ）げられます。\n（４）パワーゲート（テールゲートリフター）：トラック後部（こうぶ）に付（つ）き、貨物（かもつ）を地面（じめん）から荷台（にだい）へ、または荷台（にだい）から地面（じめん）へ上下（じょうげ）させる機械（きかい）。テールゲートリフター／テールリフトとも呼（よ）びます。使用（しよう）には特別教育（とくべつきょういく）が必要（ひつよう）で、基本的（きほんてき）にトラック運転手（うんてんしゅ）が操作（そうさ）します。教育（きょういく）を受（う）けていない人（ひと）は勝手（かって）に操作（そうさ）してはいけません。",
+      "romaji": "Wing-sha wa truck no yoko to tenjou ga tori no tsubasa no you ni hirakimasu. Unic-sha / crane-sha wa flatbed truck ni crane ga tsuita truck desu. Power gate wa truck no ushiro ni tsuki, nimotsu o jouge saseru kikai desu. Shiyou ni wa tokubetsu kyouiku ga hitsuyou desu.",
+      "en": "A wing-body truck opens at the sides and roof like a bird spreading its wings, making side loading/unloading and forklift pallet handling easier. A Unic/crane truck is a flatbed truck fitted with a crane for lifting heavy goods. A power gate (tailgate lifter) is mounted at the rear of a truck and raises or lowers goods between the ground and cargo bed. It is also called a tailgate lifter or tail lift. Special education is required to use it; normally the truck driver operates it. Untrained people must not operate it without authorization.",
+      "si": "Wing truck එකේ භාණ්ඩ තට්ටුවේ දෙපස සහ ඉහළ කොටස කුරුල්ලෙකුගේ පියාපත් මෙන් විවෘත වේ. එමඟින් පැත්තෙන් භාණ්ඩ පැටවීම/බෑම සහ forklift මඟින් pallet ගෙන යාම පහසු වේ. Unic/crane truck යනු flatbed truck එකකට crane එකක් සවි කළ රථයකි. Power gate (tailgate lifter) යනු ට්‍රක් රථයේ පසුපස සවි කර ඇති භාණ්ඩ බිමෙන් තට්ටුවට හෝ තට්ටුවෙන් බිමට ඉහළ/පහළ ගෙන යන යන්ත්‍රයයි. මෙය භාවිත කිරීමට විශේෂ පුහුණුව අවශ්‍ය වන අතර සාමාන්‍යයෙන් ට්‍රක් රථ රියදුරු එය ක්‍රියාත්මක කරයි. පුහුණුව නොලැබූ අය අවසරයකින් තොරව එය ක්‍රියාත්මක නොකළ යුතුය.",
+      "visuals": [
+        {
+          "type": "photos",
+          "description": "Wing-body truck, Unic/crane truck and power gate/tailgate lifter."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 33,
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+      }
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": 34,
+      "source_ja": "用語（ようご）のまとめ：コンテナ＝貨物（かもつ）を入（い）れる大（おお）きな箱（はこ）。シャーシ＝コンテナを載（の）せる台車（だいしゃ）。ヘッド＝シャーシを引（ひ）っ張（ぱ）るトラック。デバンニング＝コンテナから貨物（かもつ）を卸（お）ろす作業（さぎょう）。フォークリフト＝貨物（かもつ）を持（も）ち上（あ）げる機械（きかい）。パワーゲート＝トラック後部（こうぶ）の昇降（しょうこう）機械（きかい）。ウイング＝鳥（とり）の翼（つばさ）のように側面（そくめん）が開（ひら）くトラック。パレット＝貨物（かもつ）を載（の）せる台（だい）。プラットフォーム＝貨物（かもつ）を積（つ）み卸（おろ）す場所（ばしょ）。",
+      "romaji": "Yougo no matome: container wa nimotsu o ireru ookina hako; chassis wa container o noseru dai; head wa chassis o hipparu truck; devanning wa container kara nimotsu o orosu sagyou; forklift wa nimotsu o mochiageru kikai; power gate wa truck rear no shoukou kikai; wing wa yoko ga hiraku truck; pallet wa nimotsu o noseru dai; platform wa tsumioroshi no basho desu.",
+      "en": "Key terms summary: container—large box for goods; chassis—platform carrying a container; head—truck unit towing the chassis; devanning—unloading cargo from a container; forklift—machine lifting goods; power gate—rear truck lifting platform; wing truck—truck with sides that open like wings; pallet—platform for goods; platform—place where goods are loaded and unloaded.",
+      "si": "ප්‍රධාන පද සාරාංශය: Container—භාණ්ඩ තබන විශාල පෙට්ටිය; Chassis—කන්ටේනරය තබන රථ වේදිකාව; Head—chassis එක ඇදගෙන යන ට්‍රක් ඉදිරි කොටස; Devanning—කන්ටේනරයෙන් භාණ්ඩ බෑම; Forklift—භාණ්ඩ ඔසවන යන්ත්‍රය; Power gate—ට්‍රක් රථයේ පසුපස ඇති භාණ්ඩ ඉහළ/පහළ ගෙන යන වේදිකාව; Wing truck—පියාපත් මෙන් දෙපස විවෘත වන ට්‍රක් රථය; Pallet—භාණ්ඩ තබන තට්ටුව; Platform—භාණ්ඩ පැටවීම සහ බෑම සිදු කරන ස්ථානය.",
+      "visuals": [
+        {
+          "type": "terminology_table",
+          "description": "Nine warehouse transport terms with their source definitions."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 34,
+        "status": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER"
+      }
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": 35,
+      "source_ja": "Ⅲ．倉庫業務（そうこぎょうむ）の基本（きほん）\n１．倉庫寄託約款（そうこきたくやっかん）・冷蔵倉庫寄託約款（れいぞうそうこきたくやっかん）：倉庫（そうこ）が貨物（かもつ）を預（あず）かるときの約束事（やくそくごと）をまとめた文書（ぶんしょ）。冷蔵倉庫（れいぞうそうこ）では冷蔵倉庫寄託約款（れいぞうそうこきたくやっかん）、それ以外（いがい）の倉庫（そうこ）では倉庫寄託約款（そうこきたくやっかん）が適用（てきよう）されることが多（おお）い。倉庫業法（そうこぎょうほう）により、倉庫業者（そうこぎょうしゃ）は約款（やっかん）を国土交通大臣（こくどこうつうだいじん）に届（とど）け出（で）る義務（ぎむ）がある。\n「標準」付（つ）き約款（やっかん）は国土交通大臣（こくどこうつうだいじん）が内容（ないよう）を決（き）めたもの。倉庫業者（そうこぎょうしゃ）が届（とど）け出（で）ることで正式（せいしき）に適用（てきよう）できる。\n用語：倉庫業者（そうこぎょうしゃ）＝倉庫（そうこ）を運営（うんえい）する会社（かいしゃ）。寄託者（きたくしゃ）＝倉庫（そうこ）に貨物（かもつ）を預（あず）ける人（ひと）・会社（かいしゃ）。国土交通大臣（こくどこうつうだいじん）＝日本（にほん）の国土交通（こくどこうつう）や建物（たてもの）を管理（かんり）する大臣（だいじん）。\n標準倉庫寄託約款（ひょうじゅんそうこきたくやっかん）の主（おも）な規則（きそく）：倉庫会社（そうこがいしゃ）は営業時間（えいぎょうじかん）と休業日（きゅうぎょうび）を決（き）め、入口（いりぐち）やウェブサイトで寄託者（きたくしゃ）に知らせる。通常業務（つうじょうぎょうむ）以外（いがい）の付帯作業（ふたいさぎょう）を依頼（いらい）された場合（ばあい）、料金（りょうきん）または実費（じっぴ）を請求（せいきゅう）できる。",
+      "romaji": "Souko gyoumu no kihon. Souko kitaku yakkan wa souko ga nimotsu o azukaru toki no yakusoku o matometa bunsho desu. Reizou souko de wa reizou souko kitaku yakkan ga tekiyou sareru koto ga ooi desu. Souko gyouhou ni yori souko gyousha wa yakkan o kokudo koutsuu daijin ni todokede shimasu. Hyoujun yakkan wa daijin ga naiyou o kimeta yakkan desu. Souko gyousha wa eigyou jikan to kyuugyoubi o shirase, futai sagyou no ryokin o seikyuu dekimasu.",
+      "en": "Warehouse operations fundamentals begin with warehouse deposit terms and refrigerated-warehouse deposit terms. These documents set out the conditions under which a warehouse accepts goods. Refrigerated warehouses generally apply the refrigerated-warehouse terms; other warehouses generally apply the warehouse deposit terms. Under the Warehouse Business Act, warehouse operators must notify the Minister of Land, Infrastructure, Transport and Tourism of their terms. “Standard” terms are prescribed by the Minister and can be formally applied after notification. A warehouse operator runs the warehouse; a depositor is the person/company placing goods in storage. The standard terms include publishing business hours and holidays and allowing charges or actual costs for ancillary work beyond ordinary warehouse services.",
+      "si": "ගබඩා මෙහෙයුම් මූලික කරුණු කොටස ආරම්භ වන්නේ ගබඩා භාරකාර ගිවිසුම් කොන්දේසි සහ ශීත ගබඩා භාරකාර ගිවිසුම් කොන්දේසි වලිනි. ගබඩාවක් භාණ්ඩ භාරගන්නා විට අදාළ වන එකඟතා මෙම ලේඛනවල අඩංගු වේ. ශීත ගබඩාවලට සාමාන්‍යයෙන් ශීත ගබඩා කොන්දේසිද, අනෙකුත් ගබඩාවලට සාමාන්‍ය ගබඩා කොන්දේසිද අදාළ වේ. ජපානයේ Warehouse Business Act අනුව ගබඩා සමාගම තම කොන්දේසි ඉඩම්, යටිතල පහසුකම්, ප්‍රවාහන හා සංචාරක අමාත්‍යවරයාට දැනුම් දිය යුතුය. “Standard” කොන්දේසි අමාත්‍යවරයා විසින් නියම කරන ලද කොන්දේසි වේ. ගබඩා සමාගම වැඩ කරන වේලාවන් සහ නිවාඩු දින ප්‍රකාශ කළ යුතු අතර සාමාන්‍ය ගබඩා සේවාවට අමතර වැඩ සඳහා ගාස්තු හෝ සැබෑ වියදම් අය කළ හැකිය.",
+      "visuals": [
+        {
+          "type": "definitions_table",
+          "description": "Warehouse operator, depositor and Minister of Land, Infrastructure, Transport and Tourism."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 35,
+        "status": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER"
+      }
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": 36,
+      "source_ja": "標準倉庫寄託約款の主な規則：受け入れできない貨物（にづくりが適切でない貨物、保管に向かない貨物）は断ることができる。寄託者は貨物を預けるとき寄託申込書を提出する。倉庫会社が貨物を受け取ったとき契約が成立する。寄託者が希望すれば貨物受取書または入庫通知書を受け取れる。入庫時は貨物の外側だけを確認し、中身は検査しない。貨物は入庫時の荷姿のまま会社の決めた方法で保管する。保管期間は入庫日から数える。出庫時は倉庫会社指定の内容を書いた書面を提出する。やむを得ない理由や必要と判断した場合、倉庫会社は出庫を断ることができる。",
+      "romaji": "Ukeire dekinai nimotsu wa kotowareru koto ga arimasu. Kitakusha wa kitaku moushikomisho o teishutsu shimasu. Souko ga nimotsu o uketotta toki keiyaku ga seiritsu shimasu. Kibou sureba kamotsu uketorisho mata wa nyuuko tsuuchisho o moraemasu. Nyuukoji wa sotogawa dake kakunin shi, nakami wa kensa shimasen. Hokan kikan wa nyuuko-bi kara kazoemasu. Shukkoji wa shomen o teishutsu shimasu.",
+      "en": "The standard warehouse terms allow the operator to refuse goods that are improperly packed or unsuitable for storage. The depositor must submit a warehouse deposit application. The contract is formed when the warehouse receives the goods. If requested, the depositor may receive either a cargo receipt or an inbound notification. At receiving, the warehouse checks only the external appearance, not the contents. Goods are stored in their received packaging according to the warehouse's method. The storage period is counted from the date of receipt. To release goods, the depositor must submit a document containing the information specified by the warehouse. The warehouse may refuse release for unavoidable reasons or when deemed necessary.",
+      "si": "සම්මත ගබඩා ගිවිසුම් කොන්දේසි අනුව නිසි ලෙස ඇසුරුම් නොකළ හෝ ගබඩා කිරීමට නොසුදුසු භාණ්ඩ ගබඩාවට භාරගැනීම ප්‍රතික්ෂේප කළ හැකිය. භාණ්ඩ තැන්පත් කරන පුද්ගලයා/සමාගම Deposit Application එක ඉදිරිපත් කළ යුතුය. ගබඩාව භාණ්ඩ භාරගත් අවස්ථාවේ ගිවිසුම成立 වේ. ඉල්ලීමක් කළහොත් Cargo Receipt හෝ Inbound Notification එකක් ලබාගත හැකිය. භාණ්ඩ ඇතුළත් කරන විට පිටත පෙනුම පමණක් පරීක්ෂා කරන අතර ඇතුළත අන්තර්ගතය පරීක්ෂා නොකරයි. භාණ්ඩ ලැබුණු මුල් ඇසුරුම් තත්ත්වයෙන්ම ගබඩා ක්‍රමයට අනුව තබයි. ගබඩා කාලය ගණනය කරන්නේ භාණ්ඩ ඇතුළත් කළ දිනයේ සිටය. භාණ්ඩ පිටතට ගැනීමට ගබඩාව නියම කරන තොරතුරු ඇතුළත් ලිඛිත ලේඛනයක් ඉදිරිපත් කළ යුතුය. වැළැක්විය නොහැකි හේතුවක් හෝ අවශ්‍යතාවක් තිබේ නම් ගබඩාව භාණ්ඩ නිකුත් කිරීම ප්‍රතික්ෂේප කළ හැකිය.",
+      "visuals": [
+        {
+          "type": "rules_table",
+          "description": "Refusal conditions, application and receipt documents, receiving inspection, storage, storage-period start and release documentation."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 36,
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+      }
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": 37,
+      "source_ja": "２．倉庫料金（そうこりょうきん）：保管料（ほかんりょう）と荷役料（にやくりょう）の２つで構成（こうせい）されます。倉庫料金（そうこりょうきん）は国土交通大臣（こくどこうつうだいじん）に届（とど）け出（で）ます。\n（１）保管料（ほかんりょう）：貨物（かもつ）を倉庫（そうこ）に置（お）く料金（りょうきん）。計算（けいさん）は料率（りょうりつ）×保管期間（ほかんきかん）。料率（りょうりつ）は従価率（じゅうかりつ）（貨物（かもつ）の価値（かち）に基（もと）づく）と従量率（じゅうりょうりつ）（貨物（かもつ）の大（おお）きさ・重（おも）さに基（もと）づく）の合計（ごうけい）が基本（きほん）。\n重量（じゅうりょう）換算（かんさん）：1,000kg＝1トン。体積（たいせき）換算（かんさん）：1.133立方（りっぽう）メートル＝1トン。重量（じゅうりょう）と体積（たいせき）を比（くら）べ、大（おお）きい方（ほう）を使（つか）います。\n三期制（さんきせい）：１か月（げつ）を３期（き）に分（わ）ける。第一期（だいいちき）１～１０日（にち）、第二期（だいにき）１１～２０日（にち）、第三期（だいさんき）２１日（にち）～月末（げつまつ）。",
+      "romaji": "Souko ryoukin wa hokanryou to niyakuryou no futatsu de dekite imasu. Hokanryou wa ryou ritsu kakeru hokan kikan desu. Juuka ritsu wa kamotsu no kachi, juuryou ritsu wa ookisa ya omosa ni motozuku ryou ritsu desu. 1000 kilogram wa 1 ton, 1.133 cubic meetoru wa 1 ton ni soukan shimasu. San-ki-sei wa tsuki o touka, hatsuka, getsumatsu made no mittsu ni wakemasu.",
+      "en": "Warehouse charges consist of storage fees and cargo-handling fees, and are notified to the Minister. Storage fees are charges for keeping goods in the warehouse and are calculated as rate × storage period. The basic rate combines an ad valorem rate based on cargo value and a quantity/weight rate based on size or weight. Conversion rules: 1,000 kg = 1 tonne; 1.133 m³ = 1 tonne. Compare weight and volume and use the larger value. The three-period system divides a month into days 1–10, 11–20 and 21–month end.",
+      "si": "ගබඩා ගාස්තු කොටස් දෙකකින් සමන්විත වේ: ගබඩා කිරීමේ ගාස්තුව (保管料) සහ භාණ්ඩ හැසිරවීමේ ගාස්තුව (荷役料). ගබඩා ගාස්තුව යනු භාණ්ඩ ගබඩාවේ තබා ගැනීම සඳහා අය කරන මුදලයි. ගණනය: ගාස්තු අනුපාතය × ගබඩා කාලය. මූලික අනුපාතයට භාණ්ඩයේ වටිනාකම මත තීරණය කරන従価率 සහ ප්‍රමාණය/බර මත තීරණය කරන従量率 ඇතුළත් වේ. බර පරිවර්තනය: කිලෝග්‍රෑම් 1,000 = ටොන් 1. පරිමාව පරිවර්තනය: ඝන මීටර් 1.133 = ටොන් 1. බර සහ පරිමාව සසඳා වැඩි අගය භාවිත කරයි. මාසය කාල කොටස් තුනකට බෙදන ක්‍රමය: 1–10, 11–20 සහ 21 සිට මාස අවසානය දක්වා.",
+      "visuals": [
+        {
+          "type": "flowchart",
+          "description": "Warehouse charges split into storage fee and handling fee."
+        },
+        {
+          "type": "table",
+          "description": "Ad valorem and weight/volume rates; 1,000 kg = 1 tonne; 1.133 m³ = 1 tonne; three-period calendar."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 37,
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+      }
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": 38,
+      "source_ja": "保管料のその他の料率：寄託者との取り決めにより、１個ごと・パレット１枚ごとに料金を決める方法、使用面積（坪建て）で料金を決める方法があります。面積建て（坪建て）は月額で決めることが多いです。\n冷蔵倉庫：倉庫の温度によって料率が異なります。保管期間は主に二期制を使い、第一期は１～１５日、第二期は１６日～月末です。\n（２）荷役料（にやくりょう）：貨物を受け取ってから渡すまでの作業にかかる料金。計算は作業種類ごとの料率×作業量。\n主な荷役料：入出庫料＝貨物を倉庫に入れる・出す基本料金。流通加工料＝仕分け・袋詰めなどの作業料金。",
+      "romaji": "Hokanryou no hoka no ryou ritsu ni wa, hitotsu zutsu ya pallet ichimai zutsu de kimeru houhou, shiyou menseki de kimeru houhou ga arimasu. Reizou souko wa ondo ni yotte ryou ritsu ga chigaimasu. Niki-sei wa dai-ikki 1 kara 15 nichi, dai-ni-ki 16 nichi kara getsumatsu desu. Niyakuryou wa uketori kara watasu made no sagyou no ryoukin desu.",
+      "en": "Other storage-fee methods include charging per individual item, per pallet, or by the floor area used (tsubo-based); area-based charges are often monthly. Refrigerated warehouses use different rates depending on temperature and mainly use a two-period system: days 1–15 and day 16 to month-end. Cargo-handling fees cover work from receiving goods until delivery and are calculated as the rate for each type of work × work quantity. Main handling charges include inbound/outbound fees and distribution-processing fees for sorting, bagging and similar tasks.",
+      "si": "ගබඩා ගාස්තු තීරණය කරන වෙනත් ක්‍රම ලෙස එක් භාණ්ඩයකට, එක් pallet එකකට හෝ භාවිත කරන බිම් ප්‍රමාණයට (tsubo පදනමෙන්) ගාස්තු නියම කළ හැකිය. බිම් ප්‍රමාණය අනුව අය කිරීම බොහෝවිට මාසිකව සිදු වේ. ශීත ගබඩාවල උෂ්ණත්වය අනුව ගාස්තු අනුපාත වෙනස් වන අතර ප්‍රධාන වශයෙන් කාල කොටස් දෙකේ ක්‍රමය භාවිත කරයි: 1–15 සහ 16 සිට මාස අවසානය දක්වා. භාණ්ඩ හැසිරවීමේ ගාස්තුව යනු භාණ්ඩ භාරගත් මොහොතේ සිට භාරදෙන තෙක් කරන වැඩ සඳහා අය කරන මුදලයි. ගණනය: එක් එක් වැඩ වර්ගයට අදාළ අනුපාතය × වැඩ ප්‍රමාණය. ප්‍රධාන ගාස්තු වන්නේ භාණ්ඩ ඇතුළත්/පිටත් කිරීමේ ගාස්තුව සහ වර්ග කිරීම, බෑග්වලට දැමීම වැනි බෙදාහැරීමේ සැකසුම් ගාස්තුවයි.",
+      "visuals": [
+        {
+          "type": "tables",
+          "description": "Alternative storage charging methods; refrigerated two-period calendar; handling-fee calculation and categories."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 38,
+        "status": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER"
+      }
+    }
+  ],
+  "audit": {
+    "pages_included": 10,
+    "source_text": "Structured transcription of original source pages 29-38, including equipment definitions, container dimensions, vehicle types, operating cautions, contract terms, charge calculations and time-period tables.",
+    "visual_review": "Original PDF page renders inspected for pages 29-33, 36-37. Page images for 34,35,38 were unavailable in the page-render response and are explicitly flagged.",
+    "translation_quality": "Four language fields populated; Romaji is generated reading support and needs specialist proofreading.",
+    "image_asset_mapping": "Visuals identified from original PDF pages; ZIP asset filenames are not yet confirmed.",
+    "status": "DRAFT_BULK_BATCH_VISUAL_PARTIAL"
+  }
+}
