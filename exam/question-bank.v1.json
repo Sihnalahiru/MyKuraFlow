@@ -2979,6 +2979,671 @@
       "sourceAnchor": "printed p58 volume and capacity",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0154",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "1mLは1cc（Cubic Centimeter）とも呼ばれます。"
+      },
+      "statement": "1mLは1cc（Cubic Centimeter）とも呼ばれます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "One millilitre is also called one cubic centimetre.",
+        "si": "1 mL යන්න 1 cc (ඝන සෙන්ටිමීටරයක්) ලෙසද හැඳින්වේ.",
+        "technicalNoteJa": "1mL＝1cc"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "printed p59 metric volume",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0155",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "1升は18Lです。"
+      },
+      "statement": "1升は18Lです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "One shō is 1.8 L; 18 L is one tō.",
+        "si": "1 shō යනු ලීටර් 1.8කි; ලීටර් 18 යනු 1 tō වේ.",
+        "technicalNoteJa": "1升＝1.8L、1斗＝18L"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "printed p59 Japanese capacity units",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0156",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "水1Lの重さは約1kgです。"
+      },
+      "statement": "水1Lの重さは約1kgです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "One litre of water weighs approximately one kilogram.",
+        "si": "ජලය ලීටර් 1ක බර කිලෝග්‍රෑම් 1ක් පමණ වේ.",
+        "technicalNoteJa": "水1L≒1kg"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "printed p59 water mass",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0157",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "水以外の貨物の重量は、体積と比重を使って計算できます。"
+      },
+      "statement": "水以外の貨物の重量は、体積と比重を使って計算できます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "For materials other than water, weight can be calculated using volume multiplied by specific gravity.",
+        "si": "ජලය නොවන ද්‍රව්‍යවල බර පරිමාව සහ සාපේක්ෂ ඝනත්වය භාවිතයෙන් ගණනය කළ හැකිය.",
+        "technicalNoteJa": "重量＝体積×比重"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "printed p59 specific gravity",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0158",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "1lbは453.6gで、16ozです。"
+      },
+      "statement": "1lbは453.6gで、16ozです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "One pound equals 453.6 grams and 16 ounces.",
+        "si": "1 lb = 453.6 g වන අතර oz 16කි.",
+        "technicalNoteJa": "1lb＝453.6g＝16oz"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "printed p59 imperial weight",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0159",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "容積トンは40立方フィート（約1.133m³）を1トンとして計算します。"
+      },
+      "statement": "容積トンは40立方フィート（約1.133m³）を1トンとして計算します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A measurement tonne uses 40 cubic feet, approximately 1.133 m³, per tonne.",
+        "si": "Measurement tonne ගණනයේදී cubic feet 40ක් (ආසන්න වශයෙන් 1.133 m³) tonne 1ක් ලෙස ගනී.",
+        "technicalNoteJa": "容積トン＝40立方フィート／トン"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "printed p60 measurement tonne",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0160",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "冷蔵倉庫の設備トンは、床面積×有効高×0.9×0.4で計算します。"
+      },
+      "statement": "冷蔵倉庫の設備トンは、床面積×有効高×0.9×0.4で計算します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source formula is floor area × effective height × 0.9 × 0.4.",
+        "si": "ශීත ගබඩාවේ equipment tonne = බිම් වර්ගඵලය × භාවිත කළ හැකි උස × 0.9 × 0.4 වේ.",
+        "technicalNoteJa": "設備トンの計算式"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "printed p60 equipment tonnage",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0161",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "設備トンの有効高は、梁やダクトの下端のうち高い方まで測ります。"
+      },
+      "statement": "設備トンの有効高は、梁やダクトの下端のうち高い方まで測ります。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Effective height is limited by the lower of the underside of a main beam or duct.",
+        "si": "භාවිත කළ හැකි උස තීරණය කරන්නේ beam හෝ duct යන දෙකෙන් පහළ අගය අනුවය; ඉහළ අගය නොවේ.",
+        "technicalNoteJa": "有効高は梁・ダクト下端の低い方"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "printed p60 effective height",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0162",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "貨物保管に適した湿度は、本文では40〜50％とされています。"
+      },
+      "statement": "貨物保管に適した湿度は、本文では40〜50％とされています。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source states 40–50% as suitable storage humidity.",
+        "si": "මූලාශ්‍රයේ භාණ්ඩ ගබඩා කිරීමට සුදුසු ආර්ද්‍රතාව 40–50% ලෙස දක්වයි.",
+        "technicalNoteJa": "保管に適した湿度＝40〜50％"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "printed p60 humidity",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0163",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "普通作業の明るさの基準は、150lx以上です。"
+      },
+      "statement": "普通作業の明るさの基準は、150lx以上です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source gives at least 150 lux for ordinary work.",
+        "si": "සාමාන්‍ය වැඩ සඳහා අවම ආලෝක මට්ටම 150 lux ලෙස මූලාශ්‍රයේ සඳහන් වේ.",
+        "technicalNoteJa": "普通作業の照度基準＝150lx以上"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "printed p60 illumination",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0164",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "助数詞は、数える物の種類や形に応じて使い分けます。"
+      },
+      "statement": "助数詞は、数える物の種類や形に応じて使い分けます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Japanese counters are selected according to the type and shape of the item being counted.",
+        "si": "ජපන් counters තෝරාගන්නේ ගණන් කරන භාණ්ඩයේ වර්ගය සහ හැඩය අනුවය.",
+        "technicalNoteJa": "助数詞は物の種類・形で使い分ける"
+      },
+      "sourcePage": 61,
+      "sourceAnchor": "printed p61 Japanese counters",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0165",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "倉庫でパイプのような細長い物を数えるとき、本を使います。"
+      },
+      "statement": "倉庫でパイプのような細長い物を数えるとき、本を使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The counter 本 is used for long slender objects such as pipes.",
+        "si": "නළ වැනි දිගු සිහින් දේ ගණන් කිරීමට 本 භාවිත කරයි.",
+        "technicalNoteJa": "細長い物の助数詞＝本"
+      },
+      "sourcePage": 61,
+      "sourceAnchor": "printed p61 counter hon",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0166",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "フォークリフトのような機械・設備は、通常「台」で数えます。"
+      },
+      "statement": "フォークリフトのような機械・設備は、通常「台」で数えます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Machines and equipment such as forklifts are counted with 台.",
+        "si": "Forklift වැනි යන්ත්‍ර සහ උපකරණ 台 counter එකෙන් ගණන් කරයි.",
+        "technicalNoteJa": "機械・設備の助数詞＝台"
+      },
+      "sourcePage": 61,
+      "sourceAnchor": "printed p61 counter dai",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0167",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ケーブルのように束ねた物は、助数詞「束」で数えます。"
+      },
+      "statement": "ケーブルのように束ねた物は、助数詞「束」で数えます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Bundled items such as cables use the counter 束.",
+        "si": "කේබල් වැනි එකට බැඳි දේ 束 counter එකෙන් ගණන් කරයි.",
+        "technicalNoteJa": "束ねた物の助数詞＝束"
+      },
+      "sourcePage": 61,
+      "sourceAnchor": "printed p61 counter taba",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0168",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "本や冊子は、助数詞「冊」で数えます。"
+      },
+      "statement": "本や冊子は、助数詞「冊」で数えます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Books and booklets are counted with 冊.",
+        "si": "පොත් සහ පොත්පිංච 冊 counter එකෙන් ගණන් කරයි.",
+        "technicalNoteJa": "本・冊子の助数詞＝冊"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "printed p62 counter satsu",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0169",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "靴などの履物は、助数詞「着」で数えます。"
+      },
+      "statement": "靴などの履物は、助数詞「着」で数えます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Footwear is counted with 足; 着 is used for clothing.",
+        "si": "සපත්තු වැනි පාවහන් 足 counter එකෙන් ගණන් කරයි; 着 භාවිත කරන්නේ ඇඳුම් සඳහාය.",
+        "technicalNoteJa": "履物＝足、衣類＝着"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "printed p62 counter footwear",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0170",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "建物の数を数える助数詞として、棟が使われます。"
+      },
+      "statement": "建物の数を数える助数詞として、棟が使われます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "棟 is used to count buildings.",
+        "si": "ගොඩනැගිලි ගණන් කිරීමට 棟 භාවිත කරයි.",
+        "technicalNoteJa": "建物の助数詞＝棟"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "printed p62 counter buildings",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0171",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "郵便物や文書を数える助数詞の一つは、通です。"
+      },
+      "statement": "郵便物や文書を数える助数詞の一つは、通です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "通 is used for mail and documents.",
+        "si": "ලිපි සහ ලේඛන ගණන් කිරීමට 通 භාවිත කරයි.",
+        "technicalNoteJa": "郵便物・文書の助数詞＝通"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "printed p62 counter tsuu",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0172",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "作業を行った回数を数えるとき、回を使います。"
+      },
+      "statement": "作業を行った回数を数えるとき、回を使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "回 counts the number of times an action is performed.",
+        "si": "ක්‍රියාවක් සිදු කළ වාර ගණන ගණන් කිරීමට 回 භාවිත කරයි.",
+        "technicalNoteJa": "作業回数の助数詞＝回"
+      },
+      "sourcePage": 63,
+      "sourceAnchor": "printed p63 counter kai",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0173",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "巻は、巻いてある物を数えるときに使います。"
+      },
+      "statement": "巻は、巻いてある物を数えるときに使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "巻 is used to count rolled items.",
+        "si": "රෝල් කර ඇති දේ ගණන් කිරීමට 巻 භාවිත කරයි.",
+        "technicalNoteJa": "巻いた物の助数詞＝巻"
+      },
+      "sourcePage": 63,
+      "sourceAnchor": "printed p63 counter maki",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0174",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "入庫作業は、貨物を受け付けてから保管場所に格納するまでの作業です。"
+      },
+      "statement": "入庫作業は、貨物を受け付けてから保管場所に格納するまでの作業です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Inbound operations run from cargo acceptance through placement in storage.",
+        "si": "Inbound operation යනු භාණ්ඩ භාරගැනීමේ සිට ගබඩා ස්ථානයට තැන්පත් කිරීම දක්වා වූ කටයුතුය.",
+        "technicalNoteJa": "入庫作業の範囲"
+      },
+      "sourcePage": 64,
+      "sourceAnchor": "printed p64 inbound operations",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0175",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "入庫準備では、入庫予定表を確認し、必要な荷役機器を用意します。"
+      },
+      "statement": "入庫準備では、入庫予定表を確認し、必要な荷役機器を用意します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Inbound preparation includes checking the schedule and preparing required handling equipment.",
+        "si": "Inbound සූදානමේදී පැමිණීමේ කාලසටහන පරීක්ෂා කර අවශ්‍ය handling උපකරණ සූදානම් කරයි.",
+        "technicalNoteJa": "入庫予定表と荷役機器の準備"
+      },
+      "sourcePage": 64,
+      "sourceAnchor": "printed p64 inbound preparation",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0176",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "海上コンテナの扉が開かない場合、無理に力を入れて開けます。"
+      },
+      "statement": "海上コンテナの扉が開かない場合、無理に力を入れて開けます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Do not force the doors; contact the shipping cargo-handling agent.",
+        "si": "මුහුදු කන්ටේනරයේ දොර විවෘත නොවන්නේ නම් බලෙන් අරින්න එපා; cargo-handling agent අමතන්න.",
+        "technicalNoteJa": "コンテナ扉を無理に開けない"
+      },
+      "sourcePage": 64,
+      "sourceAnchor": "printed p64 container safety",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0177",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "入庫検品では、実際の貨物と送り状・入庫指示書を照合します。"
+      },
+      "statement": "入庫検品では、実際の貨物と送り状・入庫指示書を照合します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Inbound inspection compares actual cargo with the waybill and inbound instruction.",
+        "si": "Inbound inspection එකේදී සැබෑ භාණ්ඩ waybill සහ inbound instruction සමඟ සසඳයි.",
+        "technicalNoteJa": "入庫検品は貨物と書類を照合する"
+      },
+      "sourcePage": 65,
+      "sourceAnchor": "printed p65 inbound inspection",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0178",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "入庫検品では、製造LOT番号や数量、色などを確認します。"
+      },
+      "statement": "入庫検品では、製造LOT番号や数量、色などを確認します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Inspection includes checking manufacturing LOT, quantity, colour and other cargo details.",
+        "si": "පරීක්ෂාවේදී manufacturing LOT, ප්‍රමාණය, වර්ණය ඇතුළු භාණ්ඩ තොරතුරු පරීක්ෂා කරයි.",
+        "technicalNoteJa": "検品項目にLOT・数量・色が含まれる"
+      },
+      "sourcePage": 65,
+      "sourceAnchor": "printed p65 inspection items",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0179",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "口割れとは、同じ貨物の一部が先に届き、残りが後から届くことです。"
+      },
+      "statement": "口割れとは、同じ貨物の一部が先に届き、残りが後から届くことです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Kuchiwari means part of a consignment arrives first and the remainder later.",
+        "si": "Kuchiwari යනු එකම consignment එකේ කොටසක් මුලින් පැමිණ ඉතිරිය පසුව පැමිණීමයි.",
+        "technicalNoteJa": "口割れ＝分割して到着"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "printed p66 split delivery",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0180",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "同じ商品でも、製造工場や製造日が違えばLOT番号が異なる場合があります。"
+      },
+      "statement": "同じ商品でも、製造工場や製造日が違えばLOT番号が異なる場合があります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The same product can have different LOT numbers if factory or production date differs.",
+        "si": "එකම භාණ්ඩය වුවත් කර්මාන්තශාලාව හෝ නිෂ්පාදන දිනය වෙනස් නම් LOT අංකය වෙනස් විය හැකිය.",
+        "technicalNoteJa": "LOT番号は工場・製造日で異なる場合がある"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "printed p66 lot traceability",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0181",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ケースは複数のピースをまとめた最小の個装単位です。"
+      },
+      "statement": "ケースは複数のピースをまとめた最小の個装単位です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A piece is the smallest individual unit; a case contains multiple inner balls.",
+        "si": "Piece යනු කුඩාම තනි ඒකකයයි; case එකක balls කිහිපයක් අඩංගු වේ.",
+        "technicalNoteJa": "ピースが最小単位、ケースは外箱"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "printed p66 packaging hierarchy",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0182",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "不定貫貨物は、1個ごとの重量が一定ではない貨物です。"
+      },
+      "statement": "不定貫貨物は、1個ごとの重量が一定ではない貨物です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Variable-weight cargo does not have a fixed weight per item.",
+        "si": "Variable-weight cargo යනු එක් එක් භාණ්ඩයේ බර ස්ථාවර නොවන භාණ්ඩයයි.",
+        "technicalNoteJa": "不定貫貨物＝個々の重量が一定でない"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "printed p66 variable weight",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0183",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "平均重量は、荷口全体の重量を個数で割って求めます。"
+      },
+      "statement": "平均重量は、荷口全体の重量を個数で割って求めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Average weight is total consignment weight divided by item count.",
+        "si": "Average weight = මුළු consignment බර ÷ භාණ්ඩ ගණන.",
+        "technicalNoteJa": "平均重量＝荷口全体重量÷個数"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "printed p66 average weight",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0184",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "段ボール箱は、平らなライナーと波形のフルートを組み合わせた構造です。"
+      },
+      "statement": "段ボール箱は、平らなライナーと波形のフルートを組み合わせた構造です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Corrugated cartons combine flat liners with a wavy fluted layer.",
+        "si": "Corrugated carton එක පැතලි liner සහ රැලි සහිත flute තට්ටුවකින් සකස් වේ.",
+        "technicalNoteJa": "段ボール＝ライナーとフルート"
+      },
+      "sourcePage": 67,
+      "sourceAnchor": "printed p67 corrugated carton",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0185",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "フレコンバッグは、500〜1,000kg程度の貨物を入れられる大型袋です。"
+      },
+      "statement": "フレコンバッグは、500〜1,000kg程度の貨物を入れられる大型袋です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "An FIBC is a large bag that can hold approximately 500–1,000 kg.",
+        "si": "FIBC යනු ආසන්න වශයෙන් 500–1,000 kg භාණ්ඩ දැමිය හැකි විශාල බෑගයකි.",
+        "technicalNoteJa": "フレコンバッグの容量目安"
+      },
+      "sourcePage": 67,
+      "sourceAnchor": "printed p67 FIBC",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0186",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ベールをフォークリフトで扱うときは、ベールクランプを使います。"
+      },
+      "statement": "ベールをフォークリフトで扱うときは、ベールクランプを使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A bale clamp is used to handle bales with a forklift.",
+        "si": "Forklift එකෙන් bale හසුරුවන විට bale clamp භාවිත කරයි.",
+        "technicalNoteJa": "ベールの荷役＝ベールクランプ"
+      },
+      "sourcePage": 68,
+      "sourceAnchor": "printed p68 bale handling",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0187",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ロール状の貨物をフォークリフトで扱うときは、ロールクランプが必要です。"
+      },
+      "statement": "ロール状の貨物をフォークリフトで扱うときは、ロールクランプが必要です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A roll clamp is required to handle roll-shaped cargo with a forklift.",
+        "si": "රෝල් හැඩැති භාණ්ඩ forklift එකෙන් හසුරුවන විට roll clamp අවශ්‍ය වේ.",
+        "technicalNoteJa": "ロール貨物の荷役＝ロールクランプ"
+      },
+      "sourcePage": 68,
+      "sourceAnchor": "printed p68 roll handling",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0188",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "18L缶（1斗缶）には、18リットルが入ります。"
+      },
+      "statement": "18L缶（1斗缶）には、18リットルが入ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "An 18 L can (ittō-can) holds 18 litres.",
+        "si": "18 L can (1斗缶) එකක ලීටර් 18ක් අඩංගු වේ.",
+        "technicalNoteJa": "18L缶＝18リットル"
+      },
+      "sourcePage": 68,
+      "sourceAnchor": "printed p68 container types",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
