@@ -1769,9 +1769,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "１，０００kgは、１トンです。"
+        "ja": "<ruby>重量換算<rt>じゅうりょうかんさん</rt></ruby>では、１，０００kgは１トンです。"
       },
-      "statement": "１，０００kgは、１トンです。",
+      "statement": "<ruby>重量換算<rt>じゅうりょうかんさん</rt></ruby>では、１，０００kgは１トンです。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source conversion is 1,000 kilograms equals one tonne.",
