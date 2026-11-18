@@ -630,9 +630,9 @@
       "examType": "written_true_false",
       "questionText": {
         "en": "Warehouse clear height is measured from the underside of the beam to the floor.",
-        "ja": "<ruby>梁<rt>はり</rt></ruby>は、梁（はり）の下（した）から床（ゆか）までの高（たか）さです。"
+        "ja": "<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>天井高<rt>てんじょうだか</rt></ruby>は、<ruby>梁<rt>はり</rt></ruby>の<ruby>下<rt>した</rt></ruby>から<ruby>床<rt>ゆか</rt></ruby>までの<ruby>高<rt>たか</rt></ruby>さです。"
       },
-      "statement": "倉庫（そうこ）の天井高（てんじょうだか）は、梁（はり）の下（した）から床（ゆか）までの高（たか）さです。",
+      "statement": "<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>天井高<rt>てんじょうだか</rt></ruby>は、<ruby>梁<rt>はり</rt></ruby>の<ruby>下<rt>した</rt></ruby>から<ruby>床<rt>ゆか</rt></ruby>までの<ruby>高<rt>たか</rt></ruby>さです。",
       "correctAnswer": true,
       "explanation": {
         "en": "Warehouse clear height is measured from the underside of the beam to the floor.",
