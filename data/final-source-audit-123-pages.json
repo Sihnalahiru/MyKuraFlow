@@ -1,0 +1,80 @@
+{
+  "audit_id": "MYKURAFLOW-FINAL-SOURCE-AUDIT-2026-11-18",
+  "source_pdf": "specified_skilled_worker_textbook_202607(2).pdf",
+  "source_pdf_physical_pages": 123,
+  "printed_pages": 122,
+  "overall_status": "NOT_COMPLETE_DO_NOT_MARK_MASTER_COMPLETE",
+  "audit_method": "Fetched and parsed every current data JSON batch from the main branch, enumerated the part directories and image directory, and inspected original PDF page renders/text for front matter and the missing printed-page interval 39-48.",
+  "findings": {
+    "batch_files": 12,
+    "valid_json_files": 12,
+    "missing_printed_pages": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "unrepresented_front_matter_physical_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "missing_page_image_mapping": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "unresolved_visual_pages": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      34,
+      35,
+      38
+    ],
+    "first_batch_schema": "Pages 9-12 are nested under lesson.pages, not the pages[] schema used by later batches; root source metadata only lists en/si as translation languages. Needs normalization and a Romaji completeness audit.",
+    "physical_page_reconciliation": "Critical. Existing manifest states physical PDF page 39 is blank and physical page 51 was previously reported blank, and explicitly warns not to assume a constant offset. Several batches nevertheless set pdf_page equal to printed_page. Example: source physical page 40 displays printed page 39. Page 49-58 batch must be reconciled against actual PDF page labels and the blank physical page.",
+    "content_integrity": "JSON parsing passed, but line-by-line source fidelity and translation proofreading are not signed off. Earlier batches explicitly carry DRAFT/NOT_FINAL statuses. The 49-58 batch also crosses the Part 1/Part 2 boundary and needs correct part assignment.",
+    "image_inventory": "Repository has numbered JPG/PNG assets and generated assets. GitHub text fetch cannot inspect binary image contents; filenames alone cannot prove visual match. The repository IMAGE_MAPPING_STATUS.md itself says full page-by-page visual comparison remains required."
+  },
+  "verified_positive": [
+    "All 12 current JSON batch files were fetched and parsed successfully.",
+    "Pages 13-38, 49-123 have JSON page records in the existing pages[] schema; printed pages 39-48 are absent.",
+    "All inspected page objects in the pages[]-schema batches contain Japanese, Romaji, English and Sinhala fields.",
+    "The final 119-123 batch contains five page objects with all four language fields.",
+    "Generated SVG files for pages 120, 122 and 123 were fetched and their SVG source validated."
+  ],
+  "required_closeout": [
+    "Add explicit cover and table-of-contents records for physical PDF pages 1-8.",
+    "Create content records for printed pages 39-48 from the original PDF.",
+    "Normalize pages 9-12 to the common schema and add page-level image mapping.",
+    "Correct every physical PDF page number by inspecting actual PDF labels; reconcile blank physical page 39 and the previously reported blank physical page 51.",
+    "Visually inspect every binary asset in public/images against source PDF pages; preserve original filenames and map only proven matches.",
+    "Resolve every image gap with source PDF visuals, matching repository assets or suitable external visuals, recording provenance.",
+    "Complete line-by-line Japanese/furigana/Romaji/English/Sinhala proofreading, including tables, warnings, numeric values, captions and numbered steps.",
+    "Re-run automated coverage checks for physical pages 1-123 exactly once, no duplicates, all four languages, and all referenced visual assets present."
+  ],
+  "final_decision": "A full-book PASS is not supportable from the current repository state. Keep the master status IN_PROGRESS_NOT_COMPLETE."
+}
