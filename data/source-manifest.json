@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0.0",
+  "project": "MyKuraFlow",
+  "source_pdf": {
+    "filename": "specified_skilled_worker_textbook_202607(2).pdf",
+    "title_ja": "特定技能１号 評価試験 物流倉庫分野（学科・実技）",
+    "total_pdf_pages": 123,
+    "printed_page_numbering": "The cover is unnumbered; printed page labels and physical PDF page labels are retained separately in each batch."
+  },
+  "languages": {
+    "japanese": "Original source wording, preserving supplied furigana/readings.",
+    "romaji": "Pronunciation support generated from the Japanese source; review for accuracy.",
+    "english": "English translation.",
+    "sinhala": "Sinhala Unicode translation/explanation."
+  },
+  "display_rule": "Show Japanese, Romaji, English and Sinhala together in each content unit. Do not use language tabs or filters that hide any language.",
+  "parts": [
+    {
+      "id": "part-01",
+      "title_ja": "物流倉庫の基本",
+      "title_en": "Logistics Warehouse Fundamentals",
+      "title_si": "ලොජිස්ටික්ස් ගබඩා පිළිබඳ මූලික කරුණු",
+      "printed_pages": "9–51",
+      "pdf_pages": "9–51",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "part-02",
+      "title_ja": "作業マニュアル",
+      "title_en": "Work Manual",
+      "title_si": "වැඩ ක්‍රියාපටිපාටි අත්පොත",
+      "printed_pages": "54–87",
+      "pdf_pages": "54–87",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "part-03",
+      "title_ja": "物流倉庫の安全衛生",
+      "title_en": "Logistics Warehouse Occupational Safety and Health",
+      "title_si": "ලොජිස්ටික්ස් ගබඩා වෘත්තීය ආරක්ෂාව සහ සෞඛ්‍යය",
+      "printed_pages": "90–109",
+      "pdf_pages": "90–109",
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": "part-04",
+      "title_ja": "フォークリフト作業基準",
+      "title_en": "Forklift Work Standards",
+      "title_si": "ෆෝක්ලිෆ්ට් මෙහෙයුම් ප්‍රමිතීන්",
+      "printed_pages": "114–122",
+      "pdf_pages": "114–122",
+      "status": "NOT_STARTED"
+    }
+  ],
+  "page_accounting": {
+    "cover_pdf_page": 1,
+    "table_of_contents_pdf_pages": "2–8",
+    "textbook_content_pages": [
+      "9–51",
+      "54–87",
+      "90–109",
+      "114–122"
+    ],
+    "unassigned_or_transition_pages": [
+      "52–53",
+      "88–89",
+      "110–113",
+      "123"
+    ],
+    "instruction": "Do not discard unassigned pages. Inspect and classify them as blank, separator, appendix, or other source material before final completion."
+  },
+  "batches": [
+    {
+      "file": "data/part-01/lesson-01-pages-009-012.json",
+      "part": "part-01",
+      "pages": "9–12",
+      "status": "DRAFT_TRANSLATED",
+      "commit": "cbcf92c3c6e124c0f438e349e5e33eddb05a4cba"
+    }
+  ],
+  "completeness_rules": [
+    "Every one of the 123 physical PDF pages must have a ledger entry, including cover, contents, separators and final page.",
+    "Every printed textbook page must be assigned to a part, lesson, appendix or explicitly classified non-content page.",
+    "Preserve original Japanese text and supplied furigana; do not silently shorten tables, warnings, examples, labels or numbered steps.",
+    "Each source content unit must contain Japanese, Romaji, English and Sinhala.",
+    "Map images only after visual comparison with the original PDF page.",
+    "A part is complete only after source-page coverage and translation audit pass."
+  ],
+  "current_status": "IN_PROGRESS_NOT_COMPLETE"
+}
