@@ -204,7 +204,14 @@
         "source_pdf_visual_present": false,
         "repo_images": [],
         "generated_asset": "/images/generated/page-084-work-plan-preparation.svg",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "external_visual_references": [
+          {
+            "source": "Job Planner’s Check List — Physical Asset Management reference",
+            "url": "https://www.cur.ac.rw/mis/main/library/documents/book_file/2015_Book_PhysicalAssetManagement.pdf",
+            "purpose": "External planning checklist visual reference for before/during/after work, staffing, materials, tools and safety."
+          }
+        ]
       }
     },
     {
@@ -226,7 +233,14 @@
         "source_pdf_visual_present": false,
         "repo_images": [],
         "generated_asset": "/images/generated/page-085-execution-progress-completion.svg",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "external_visual_references": [
+          {
+            "source": "Job Planner’s Check List — Physical Asset Management reference",
+            "url": "https://www.cur.ac.rw/mis/main/library/documents/book_file/2015_Book_PhysicalAssetManagement.pdf",
+            "purpose": "External work execution, progress reporting and close-out checklist visual reference."
+          }
+        ]
       }
     },
     {
@@ -248,7 +262,19 @@
         "source_pdf_visual_present": false,
         "repo_images": [],
         "generated_asset": "/images/generated/page-086-disposal-reporting.svg",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "external_visual_references": [
+          {
+            "source": "Sri Lanka Tourism Development Authority — What you can do to Manage Waste",
+            "url": "https://www.sltda.gov.lk/storage/common_media/IPOP-EXPO-WasteMgmt_Flyer_ENGLISH.pdf",
+            "purpose": "Sri Lankan waste segregation, reuse, recycling and disposal visual reference."
+          },
+          {
+            "source": "Colombo Municipal Council — Engineering Services / Waste Segregation",
+            "url": "https://www.colombo.mc.gov.lk/engineering-services.php",
+            "purpose": "Local authority reference for source segregation of regular and recyclable waste."
+          }
+        ]
       }
     },
     {
@@ -369,6 +395,23 @@
       "Matching repo images reused for page topics 80-82",
       "External real conveyor needle-detector image linked for page 83 because PDF image render was unavailable and no matching repo photo was identified",
       "Pages 84-86 received source-derived explanatory diagrams because the source is text-led"
+    ],
+    "internet_visual_references_for_source_text_only_pages": [
+      {
+        "page": 84,
+        "url": "https://www.cur.ac.rw/mis/main/library/documents/book_file/2015_Book_PhysicalAssetManagement.pdf",
+        "purpose": "Work planning and preparation visual context"
+      },
+      {
+        "page": 85,
+        "url": "https://www.cur.ac.rw/mis/main/library/documents/book_file/2015_Book_PhysicalAssetManagement.pdf",
+        "purpose": "Execution, progress and completion visual context"
+      },
+      {
+        "page": 86,
+        "url": "https://www.sltda.gov.lk/storage/common_media/IPOP-EXPO-WasteMgmt_Flyer_ENGLISH.pdf",
+        "purpose": "Waste segregation, recycling and disposal visual context"
+      }
     ]
   }
 }
