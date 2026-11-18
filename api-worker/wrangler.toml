@@ -5,9 +5,9 @@ compatibility_date = "2026-11-18"
 [[d1_databases]]
 binding = "DB"
 database_name = "mykuraflow-db"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "15f91b41-0e69-477c-a755-bf3af53c6ba0"
 migrations_dir = "migrations"
 
 [vars]
 APP_ORIGIN = "https://sihnalahiru.github.io"
-SESSION_DAYS = "30"
+SESSION_DAYS = "3650"
