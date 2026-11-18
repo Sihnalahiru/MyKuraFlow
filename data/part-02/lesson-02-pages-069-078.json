@@ -1,0 +1,347 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-02",
+  "lesson_id": "p02-l02",
+  "lesson_title": {
+    "ja": "入庫・出庫作業と流通加工",
+    "furigana": "入庫（にゅうこ）・出庫（しゅっこ）作業（さぎょう）と流通加工（りゅうつうかこう）",
+    "romaji": "Nyuuko / Shukko Sagyou to Ryuutsuu Kakou",
+    "en": "Inbound, outbound operations and distribution processing",
+    "si": "භාණ්ඩ ඇතුළත් කිරීම, පිටතට නිකුත් කිරීම සහ බෙදාහැරීමේ සැකසුම්"
+  },
+  "page_range": {
+    "pdf_pages": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "printed_pages": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 69,
+      "printed_page": 69,
+      "source_ja": "ク. RTI＜リターナブル物流容器＞：決まった大きさのプラスチック箱に貨物を入れる容器。空のとき折り畳めるものがあり「折り畳みコンテナ／オリコン」ともいう。折り畳めない種類もある。④送り状・入庫指示書にタリー（正しく数えた記録）を記入。⑤数量違いやリマーク品があれば、ドライバー立会いで書類に内容を記入し、署名をもらい、事務所へ報告。⑥外観にリマークがあれば内部不良の可能性があるため、必要に応じ写真を撮り寄託者へ報告する。",
+      "source_furigana": "リターナブル物流容器（ぶつりゅうようき）、折（お）り畳（たた）みコンテナ、送り状（おくりじょう）、入庫指示書（にゅうこしじしょ）、タリー、数量違（すうりょうちが）い、リマーク品（ひん）、寄託者（きたくしゃ）。",
+      "romaji": "RTI wa kimatta ookisa no plastic no hako ni nimotsu o ireru returnable youki desu. Karappo no toki oritatameru mono wa orikomi to mo iimasu. Tally wa tadashiku kazoeta kiroku desu. Suuryou chigai ya remark hin ga areba, driver no tachiai de shorui ni kiroku shi, sign o moraimasu. Hitsuyou ni oujite shashin o totte kitakusha ni houkoku shimasu.",
+      "en": "RTI (Returnable Transport Item) is a reusable logistics container, often a standard-sized plastic box. Some can be folded when empty and are called folding containers (orikomi); others cannot be folded. Record the tally—the confirmation that the quantity was counted correctly—on the waybill and inbound instruction. If the quantity differs from the documents or cargo has visible remarks/damage, document the details with the driver present, obtain the driver's signature, and report to the office. If external damage is visible, internal defects may exist; take photographs when necessary and report to the depositor/owner.",
+      "si": "RTI (Returnable Transport Item) යනු නියමිත ප්‍රමාණයක නැවත භාවිත කළ හැකි ප්ලාස්ටික් භාණ්ඩ බහාලුමකි. හිස් වූ විට නමා තැබිය හැකි වර්ගය folding container / Oricon ලෙසද හැඳින්වේ; නමන්න බැරි වර්ගද ඇත. භාණ්ඩ නිවැරදිව ගණන් කළ බවට වන tally සටහන waybill සහ inbound instruction එකේ ලියන්න. ලේඛනවල ප්‍රමාණය හා සැබෑ ප්‍රමාණය නොගැළපේ නම් හෝ පිටතින් හානි ලකුණු තිබේ නම්, රියදුරු ඉදිරියේ විස්තර සටහන් කර ඔහුගේ අත්සන ලබාගෙන කාර්යාලයට වාර්තා කරන්න. පිටතින් හානි පෙනේ නම් ඇතුළත භාණ්ඩද දෝෂ සහිත විය හැකි බැවින් අවශ්‍ය විට ඡායාරූප ගෙන භාණ්ඩ භාරදුන් හිමිකරුට වාර්තා කරන්න.",
+      "visuals": [
+        {
+          "type": "rti_foldable_container",
+          "description": "Reusable rigid plastic tote compared with its collapsed folded form; tally, discrepancy note, driver signature and photo evidence workflow."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 69,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-069-rti-tally-remarks.svg",
+        "mapping_basis": "Original PDF page contains the RTI container image and fold-down sequence; app visual is a clean redraw of that depicted concept."
+      }
+    },
+    {
+      "pdf_page": 70,
+      "printed_page": 70,
+      "source_ja": "※4 リマークの種類：DENT＝へこみ、COVER TORN＝包装が破れている、WET＝濡れている、RUSTY＝さび、BANDS OFF＝バンド切れ、BROKEN＝壊れ、BURST＝破裂、CRUSHED＝押しつぶれ、DEFORM＝変形、LEAKING＝漏れ。⑦書類明細と貨物が合わない場合、またバーコードが読めない場合は責任者に報告し指示に従う。⑧依頼があればロケーション・縦・横・高さを入庫指図書に記録する。倉入れ作業：荷崩れしないよう積み上げ、決められた場所に置く。貨物に合うパレットを使い、バンドで固定。二段以上は転倒注意。リマーク品は別パレットに分けて表示。決められたロケーションへ置く。ロケーションは倉庫内保管場所の住所で、英数字で管理する。",
+      "source_furigana": "へこみ、包装（ほうそう）、濡（ぬ）れ、錆（さび）、破裂（はれつ）、変形（へんけい）、漏（も）れ、倉入（くらい）れ、荷崩（にくず）れ、固定（こてい）、保管場所（ほかんばしょ）。",
+      "romaji": "Remark no shurui: dent, cover torn, wet, rusty, bands off, broken, burst, crushed, deform, leaking. Shorui to nimotsu ga awanai baai ya barcode ga yomenai baai wa sekininsha ni houkoku shimasu. Kuraire wa nimotsu o kuzurenai you ni tsumi, kimatta location ni oku sagyou desu.",
+      "en": "Common cargo remarks: DENT (dented); COVER TORN (packaging torn); WET (wet); RUSTY (rusted); BANDS OFF (broken/missing bands); BROKEN; BURST; CRUSHED; DEFORM (deformed); LEAKING. If document details do not match the cargo or a barcode cannot be read, report to the supervisor and follow instructions. If requested, record the storage location and length, width and height on the inbound placement instruction. Put-away means stacking cargo neatly and placing it in its assigned location without collapse. Use a suitable pallet and secure the load with cargo-stabilising bands; take care when stacking two or more tiers. Separate and identify remarked/damaged goods on a different pallet. A location is the warehouse storage address, managed with letters and numbers.",
+      "si": "භාණ්ඩයේ දෝෂ/හානි සටහන්: DENT – තැලීම/ඇතුළට ගිලීම; COVER TORN – ඇසුරුම ඉරී තිබීම; WET – තෙත් වීම; RUSTY – මලකඩ; BANDS OFF – බැඳුම් පටි කැඩී/ගැලවී තිබීම; BROKEN – කැඩීම; BURST – පිපිරීම; CRUSHED – තද වී පොඩි වීම; DEFORM – හැඩය වෙනස් වීම; LEAKING – දියර කාන්දු වීම. ලේඛන හා භාණ්ඩ නොගැළපේ නම් හෝ barcode කියවිය නොහැකි නම් වගකිවයුතු නිලධාරියාට දන්වා උපදෙස් අනුව ක්‍රියා කරන්න. අවශ්‍ය නම් ගබඩා ස්ථානය සහ දිග, පළල, උස inbound placement instruction එකේ සටහන් කරන්න. Put-away යනු භාණ්ඩ නොවැටෙන ලෙස පිළිවෙළට ගොඩගසා නියමිත ස්ථානයේ තැබීමයි. ගැළපෙන pallet භාවිත කර load-stabilising bands මඟින් සුරක්ෂිත කරන්න; තට්ටු දෙකක් හෝ වැඩි ගණනක් ගොඩගසන විට පෙරළීමෙන් ආරක්ෂා වන්න. හානි සටහන් ඇති භාණ්ඩ වෙනම pallet එකක තබා පැහැදිලිව ලකුණු කරන්න. Location යනු ගබඩාවේ භාණ්ඩ තබන ලිපිනය වැනි ස්ථානය වන අතර අකුරු හා ඉලක්කම්වලින් පාලනය කරයි.",
+      "visuals": [
+        {
+          "type": "remark_damage_legend",
+          "description": "Ten remark codes with plain-language meanings and damaged-goods segregation flow."
+        },
+        {
+          "type": "putaway_location",
+          "description": "Palletised cargo, stabilising straps, separated damaged pallet and alphanumeric rack-location address."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 70,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-070-remark-putaway.svg",
+        "mapping_basis": "Remark-code table and put-away/location instructions from source page converted into a labelled visual."
+      }
+    },
+    {
+      "pdf_page": 71,
+      "printed_page": 71,
+      "source_ja": "ロケーション管理の3種類：固定ロケーション＝決まった貨物をいつも同じ場所に置く。メリットは覚えやすい。デメリットは品種が多いと大変で、空き場所を他貨物に使えない。フリーロケーション＝空いている場所に置く。保管量を増やし品種変更に対応しやすいが、所在確認に手間。ダブルトランザクション＝ピッキングエリアは固定、ストックエリアはフリー。ピッキング効率が上がるが補充が必要。壁と貨物の間は人が通れる間隔を空ける。貨物種類ごとに混ざらないよう積み、荷口が複数箇所なら表示。リマーク品は正常品と分ける。先入れ先出しができる積み付けにする。さし札は貨物明細・入出庫記録を書く札。倉入れ後に貨物と照合して見やすい位置に貼り、確認✓を付け、元荷口情報を記入する。",
+      "source_furigana": "固定（こてい）ロケーション、フリーロケーション、ダブルトランザクション、補充（ほじゅう）、先入（さきい）れ先出（さきだ）し、さし札（ふだ）、荷口（にぐち）。",
+      "romaji": "Kotei location wa itsumo onaji basho ni oku houhou. Free location wa aite iru basho ni oku houhou. Double transaction wa picking area o kotei, stock area o free ni shimasu. Sakii-re sakidashi wa saki ni nyuuko shita nimotsu kara saki ni dashimasu. Sashifuda ni nimotsu no meisai to nyuushukko kiroku o kakimasu.",
+      "en": "Three location-management methods: (1) Fixed location—each cargo type always has its assigned place. Easy to remember, but difficult with many product types and empty slots cannot be reused for other goods. (2) Free location—store goods in any available slot. Increases storage utilisation and adapts to changing product ranges, but takes effort to locate stock. (3) Double transaction—fixed locations in the picking area and free locations in the bulk stock area. Improves picking efficiency but requires replenishment from stock to picking. Leave a person-width passage between cargo and walls. Keep different cargo types separated; label consignments stored in multiple locations; segregate damaged goods from normal stock; arrange stock for FIFO (first in, first out). A sashifuda is a stock card showing cargo details and inbound/outbound records. After put-away, match the card to the cargo, display it visibly, mark the check, and add the original consignment details.",
+      "si": "Location කළමනාකරණ ක්‍රම 3කි. (1) Fixed location – භාණ්ඩ වර්ගයකට සෑමවිටම එකම ස්ථානයක් වෙන් කරයි. මතක තබාගැනීම පහසු නමුත් භාණ්ඩ වර්ග බොහෝ නම් කළමනාකරණය අපහසු වන අතර හිස් ස්ථාන වෙනත් භාණ්ඩ සඳහා භාවිත කළ නොහැක. (2) Free location – හිස්ව ඇති ඕනෑම ස්ථානයක භාණ්ඩ තබයි. ගබඩා ධාරිතාව වැඩි කරයි සහ භාණ්ඩ වර්ග වෙනස්වීම්වලට පහසුය; නමුත් භාණ්ඩ සොයාගැනීමට වැඩි පරීක්ෂාවක් අවශ්‍ය වේ. (3) Double transaction – picking area එක fixed location ලෙසත් stock area එක free location ලෙසත් පවත්වා ගනී. Picking කාර්යක්ෂමතාව වැඩි නමුත් stock area එකෙන් picking area එකට නැවත පිරවීම අවශ්‍යය. බිත්තිය හා භාණ්ඩ අතර පුද්ගලයෙකුට ගමන් කළ හැකි ඉඩක් තබන්න. භාණ්ඩ වර්ග මිශ්‍ර නොකර තබන්න; එක consignment එක ස්ථාන කිහිපයක නම් ලේබල් කරන්න; හානි වූ භාණ්ඩ හොඳ භාණ්ඩවලින් වෙන් කරන්න; FIFO (පළමුව ඇතුළත් කළ දේ පළමුව පිටතට) ක්‍රමයට ගොඩගසන්න. Sashifuda යනු භාණ්ඩ විස්තර සහ inbound/outbound සටහන් ඇති stock card එකකි. Put-away අවසන් වූ පසු card එක භාණ්ඩ සමඟ සසඳා පැහැදිලි ස්ථානයක සවි කර ✓ ලකුණ දමා මුල් consignment විස්තර එකතු කරන්න.",
+      "visuals": [
+        {
+          "type": "location_strategy_comparison",
+          "description": "Fixed, free and double-transaction location layouts with pros, cons and replenishment arrow."
+        },
+        {
+          "type": "fifo_and_stock_card",
+          "description": "FIFO lane and sample sashifuda stock card."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 71,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-071-location-management.svg",
+        "mapping_basis": "Three methods and sashifuda process redrawn from source table and text."
+      }
+    },
+    {
+      "pdf_page": 72,
+      "printed_page": 72,
+      "source_ja": "２. 出庫作業：寄託者の出庫依頼を受け、倉庫から貨物を出し、受取人へ渡す作業。出庫準備：予定表を確認し荷役機器を用意、作業スペース確保。トラックへの積込は基本的に運転手、海上コンテナやフォークリフト積込は倉庫作業員が行い、事前に積付計画。ピッキング：指示書にある貨物を所定場所から取り出す。入庫番号・品名・記号・数量・荷姿を指図書と照合し、指示数だけ取り出す。在庫不足（欠品）は事務所へ報告し指示を受ける。指図書の数字を自分で修正してはいけない。FIFOを基本にLOT・製造日・賞味期限・製造番号の指定を守る。取り出した後、さし札と貨物を照合し出庫数を差し引いて残数記入。シングルピッキング：出荷先別に集める。すぐ出荷できるが歩行距離・時間が長い。通販など多出荷先・少量多品種向け。",
+      "source_furigana": "出庫（しゅっこ）、寄託者（きたくしゃ）、貨物受取人（かもつうけとりにん）、出庫準備（しゅっこじゅんび）、荷役機器（にやくきき）、ピッキング、欠品（けっぴん）、先入（さきい）れ先出（さきだ）し。",
+      "romaji": "Shukko sagyou wa kitakusha no irai o ukete, souko kara nimotsu o dashite uketorinin ni watasu sagyou desu. Picking wa shiji-sho ni aru nimotsu o kimatta basho kara toridasu koto desu. Zaiko ga tarinai toki wa office ni houkoku shimasu. Shiji-sho no suuji o jibun de naoshite wa ikemasen. FIFO o kihon ni LOT, seizoubi, shoumikigen o kakunin shimasu. Single picking wa shukka-saki goto ni atsumeru houhou desu.",
+      "en": "Outbound operations begin when the depositor's release request is accepted; cargo is retrieved from the warehouse and handed to the recipient/carrier. Preparation: check the schedule, prepare handling equipment and secure working space. Truck loading is generally done by the driver; warehouse staff load sea containers or perform forklift loading, with a loading plan prepared in advance. Picking means retrieving the instructed cargo from its assigned location. Match inbound number, product name, marks, quantity and packaging form against the release instruction; take only the specified quantity. If stock is short (shortage/keppin), report to the office and follow instructions—never alter the instruction quantity yourself. Follow FIFO and specified LOT, production date, best-before date and serial number. After picking, compare the cargo with the stock card, subtract the picked quantity and record the balance. Single/order picking gathers goods separately for each destination; it is ready to ship immediately but requires more walking and time, and suits e-commerce with many destinations and small quantities of varied products.",
+      "si": "Outbound operation යනු භාණ්ඩ හිමිකරුගේ නිකුත් කිරීමේ ඉල්ලීම භාරගෙන ගබඩාවෙන් භාණ්ඩ ඉවත් කර භාරගන්නා පුද්ගලයා/ප්‍රවාහකයාට ලබාදීමයි. සූදානම: කාලසටහන පරීක්ෂා කර handling equipment සූදානම් කර වැඩබිමට ඉඩ සකස් කරන්න. ට්‍රක් රථයට සාමාන්‍යයෙන් රියදුරු භාණ්ඩ පටවයි; sea container හෝ forklift මඟින් පටවන අවස්ථාවල ගබඩා සේවකයන් එය කරයි; ඒ සඳහා කලින් loading plan එකක් සකස් කළ යුතුය. Picking යනු instruction එකේ සඳහන් භාණ්ඩ නියමිත ස්ථානයෙන් ඉවත් කිරීමයි. Inbound number, භාණ්ඩ නම, සලකුණු, ප්‍රමාණය සහ ඇසුරුම් ආකාරය release instruction සමඟ සසඳන්න. නියමිත ප්‍රමාණය පමණක් ගන්න. තොගය අඩු නම් (keppin) කාර්යාලයට දන්වා උපදෙස් ගන්න; instruction එකේ ප්‍රමාණය තමන්ම වෙනස් නොකරන්න. FIFO සහ LOT, නිෂ්පාදන දිනය, best-before දිනය, serial number උපදෙස් පිළිපදින්න. Picking අවසන් වූ පසු stock card එක සමඟ සසඳා ඉවත් කළ ප්‍රමාණය අඩු කර ඉතිරි තොගය ලියන්න. Single/order picking යනු එක් එක් delivery destination එකට වෙන වෙනම භාණ්ඩ එකතු කිරීමයි. එවිට ඉක්මනින් යැවිය හැකි නමුත් වැඩි දුරක් ඇවිදීමට සිදුවන අතර e-commerce වැනි බොහෝ ගමනාන්තවලට සුළු ප්‍රමාණවලින් විවිධ භාණ්ඩ යැවීමට ගැළපේ.",
+      "visuals": [
+        {
+          "type": "outbound_picking_flow",
+          "description": "Release request → schedule/equipment → pick by instruction → verify SKU/LOT/quantity → update stock card → stage for shipment."
+        },
+        {
+          "type": "single_picking_diagram",
+          "description": "Order-by-order picking route with one tote per destination."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 72,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-072-outbound-single-picking.svg",
+        "mapping_basis": "Source page image unavailable in renderer; workflow and single-order picking visual rebuilt from the extracted source text."
+      }
+    },
+    {
+      "pdf_page": 73,
+      "printed_page": 73,
+      "source_ja": "イ. トータルピッキング：必要商品を一度に集めて荷捌き場に仮置きし、出荷先別に仕分ける。移動距離・時間が短いが、仕分けスペースが必要でミスや追加対応の難しさがある。少数納品先へ大量出荷する場合向け。ウ. シールピッキング：商品名・保管場所・出荷先を記したシールを用意し、商品を取るたびに貼る。シールがなくなれば完了。ピッキングと同時に検品でき誤出荷を防ぎ、経験が少ない人にも使いやすい。（３）梱包：輸送のため箱・袋で貨物を包み保護する。荷造りともいう。倉庫では段ボール梱包が多い。",
+      "source_furigana": "トータルピッキング、マルチピッキング、グロスピッキング、種（たね）まき方式（ほうしき）、シールピッキング、仕分（しわ）け、梱包（こんぽう）、荷造（にづく）り。",
+      "romaji": "Total picking wa hitsuyou na shouhin o ichido ni atsume, ni-sabaki ba ni karioki shi, shukka-saki goto ni shiwakeru houhou desu. Idou kyori to jikan wa mijikaku narimasu ga, shiwake space ga hitsuyou desu. Seal picking wa shouhin no label o toridasu tabi ni haritsukeru houhou desu. Konpou wa hakobu tame ni hako ya fukuro de nimotsu o tsutsunde mamoru koto desu.",
+      "en": "Total picking (multi/gross/batch or seed-sowing method) collects all required goods in one trip, stages them temporarily in the sorting area, then sorts them by destination. It reduces travel distance and time but needs sorting space, has a risk of sorting errors and makes order additions difficult. It is suited to large shipments for a small number of destinations. Label/sticker picking prepares labels showing product, storage location and destination; a label is attached each time an item is picked, and picking is complete when all labels are used. It allows inspection while picking, reduces mis-shipments and is suitable for less experienced workers. Packing means protecting cargo by wrapping it in boxes or bags for transport; it is also called making up/packaging. Warehouses commonly use corrugated cartons.",
+      "si": "Total picking (multi/gross/batch හෝ seed-sowing ක්‍රමය) යනු අවශ්‍ය සියලු භාණ්ඩ එක් වරකදී එකතු කර sorting area එකේ තාවකාලිකව තබා පසුව delivery destination අනුව වෙන් කිරීමයි. ගමන් දුර සහ කාලය අඩු වුවද sorting සඳහා ඉඩ අවශ්‍යය; වෙන් කිරීමේ වැරදි ඇතිවිය හැකි අතර අමතර භාණ්ඩ/ඇණවුම් එක් කිරීම අපහසුය. ගමනාන්ත කිහිපයකට විශාල තොග යැවීමේදී භාවිත කරයි. Sticker/label picking ක්‍රමයේදී භාණ්ඩ නම, ගබඩා ස්ථානය සහ delivery destination සඳහන් stickers කලින් සකස් කර භාණ්ඩයක් ගන්නා සෑම විටම අලවයි. සියලු stickers භාවිත වූ විට picking අවසන් වේ. Picking කරන අතරතුරම inspection කළ හැකි නිසා වැරදි භාණ්ඩ යැවීම අඩු වන අතර අත්දැකීම් අඩු සේවකයන්ටද පහසුය. Packing යනු ප්‍රවාහනයේදී භාණ්ඩ ආරක්ෂා කිරීමට පෙට්ටි හෝ බෑග්වලින් ආවරණය කිරීමයි; මෙය packaging ලෙසද හැඳින්වේ. ගබඩාවල corrugated cartons බහුලව භාවිත වේ.",
+      "visuals": [
+        {
+          "type": "picking_method_comparison",
+          "description": "Single vs total/batch vs sticker picking process and advantages/trade-offs."
+        },
+        {
+          "type": "packing_protection",
+          "description": "Cargo protected inside corrugated carton for transport."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 73,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-073-picking-methods-packing.svg",
+        "mapping_basis": "Source page includes total and sticker picking table; visual is a structured redraw of the source comparison."
+      }
+    },
+    {
+      "pdf_page": 74,
+      "printed_page": 74,
+      "source_ja": "（４）出庫仕分け・出庫検品：ピッキングリストと貨物を照合し、届け先・引取業者別に揃える。伝票と実物を照合し、必要に応じLOT・製造日・賞味期限・製造番号を確認。別の人によるダブルチェックを行う。確認項目：品名、記号、数量、荷姿、届け先、荷口。傷・破損・保管中の雨漏り、ネズミ被害、湿気などを確認し、発見時は責任者へ報告。ダメージ原因：人のミス、輸送・保管環境（温度・振動・衝撃・過重）、外装の規格・素材・強度・梱包不適切、中身の物理・化学変化、複合原因。対応：寄託者へ連絡し指示を受ける。指示が得られなければ別LOT扱い。事前合意があればそれに従う。検品後は届け先・業者別に引渡場所へ移動。",
+      "source_furigana": "出庫仕分（しゅっこしわ）け、出庫検品（しゅっこけんぴん）、照合（しょうごう）、ダブルチェック、損傷（そんしょう）、寄託者（きたくしゃ）、別ロット。",
+      "romaji": "Shukko shiwake to kenpin de picking list to nimotsu o shougou shi, todokesaki ya hikitori gyousha goto ni soroe masu. Double check wa betsu no hito ga mou ichido kakunin suru koto desu. Damage no gen'in wa hito no miss, yusou / hokan kankyou, gai-sou no mondai, nakami no henka, mata wa fukugou gen'in desu. Damage hin wa kitakusha ni renraku shi, shiji o ukemasu.",
+      "en": "Outbound sorting and inspection: match the picking list with the actual cargo and arrange it by delivery destination and carrier. Compare paperwork with the goods; check specified LOT, production date, best-before date and serial number. Conduct a double-check by a second person. Check product name, marks, quantity, packaging form, destination and consignment. Inspect for scratches, breakage and storage damage such as roof leaks, rodent damage or moisture; report immediately to the supervisor. Damage causes include human error; transport/storage conditions (temperature, vibration, impact, excess weight); unsuitable outer packaging specifications/material/strength/packing; physical or chemical changes to contents; or combined causes. Contact the depositor for instructions. If instructions cannot be obtained, handle it as a separate LOT. Follow any prior agreement. After inspection, move goods to the handover area arranged by destination and carrier.",
+      "si": "Outbound sorting සහ inspection කිරීමේදී picking list එක සැබෑ භාණ්ඩ සමඟ සසඳා delivery destination සහ carrier අනුව සකස් කරන්න. ලේඛන හා භාණ්ඩ සසඳා අවශ්‍ය නම් LOT, නිෂ්පාදන දිනය, best-before දිනය සහ serial number පරීක්ෂා කරන්න. වෙනත් සේවකයෙකු ලවා double-check එකක් කරන්න. පරීක්ෂා කළ යුතු දේ: භාණ්ඩ නම, සලකුණු, ප්‍රමාණය, ඇසුරුම් ආකාරය, ගමනාන්තය සහ consignment. සීරීම්, කැඩීම් සහ ගබඩා කිරීමේදී ඇති වූ වහලෙන් ජලය කාන්දු වීම, මීයන්ගෙන් හානි, තෙතමනය වැනි දේ පරීක්ෂා කර හමුවූ වහාම වගකිවයුතු නිලධාරියාට වාර්තා කරන්න. හානිවල හේතු: සේවක දෝෂ; ප්‍රවාහන/ගබඩා පරිසරය (උෂ්ණත්වය, කම්පන, ගැටීම්, අධික බර); පිටත ඇසුරුමේ ප්‍රමිතිය/ද්‍රව්‍ය/ශක්තිය/ඇසුරුම් ක්‍රමයේ ගැටලු; ඇතුළත ද්‍රව්‍යවල භෞතික හෝ රසායනික වෙනස්කම්; හෝ හේතු කිහිපයක එකතුව. හානි වූ භාණ්ඩ ගැන හිමිකරුට දන්වා උපදෙස් ගන්න. උපදෙස් නොලැබේ නම් වෙනම LOT එකක් ලෙස සලකන්න. කලින් එකඟතාවක් තිබේ නම් එය අනුගමනය කරන්න. පරීක්ෂාවෙන් පසු ගමනාන්ත සහ carrier අනුව භාරදීමේ ස්ථානයට ගෙන යන්න.",
+      "visuals": [
+        {
+          "type": "outbound_double_check",
+          "description": "Two-person outbound verification checklist and carrier/destination staging."
+        },
+        {
+          "type": "damage_cause_tree",
+          "description": "Human, environment, packaging, product-change and combined damage causes with escalation steps."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 74,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-074-outbound-inspection-damage.svg",
+        "mapping_basis": "Source table and damage response steps recreated as a checklist and cause tree."
+      }
+    },
+    {
+      "pdf_page": 75,
+      "printed_page": 75,
+      "source_ja": "（５）貨物の積み付け：横積厳禁などケアマークに注意。カゴ台車では重く丈夫な箱を下、袋物・潰れやすい物を上に置く。パレット積み（パレタイズ）：指定パレットがあれば使用し、なければ貨物に合うものを選ぶ。倉庫所有パレットは返却約束を事前確認し、返却できなければワンウェイパレット。積付前に破損・汚れを確認し、木製は板割れや突出釘に注意。パレット面を有効利用するパターンを決め、2段目以降は崩れないよう積む。荷物をパレット端や下段からはみ出させることをオーバーハングという。棒積み：同じ向きにブロック状に積む。速く積め、まとめて取り出せ、段ボール角に荷重が集まり強いが、横力に弱く荷崩れしやすい。",
+      "source_furigana": "積（つ）み付（つ）け、横積厳禁（よこづみげんきん）、カゴ台車（だいしゃ）、パレタイズ、ワンウェイパレット、突出（つきで）た釘（くぎ）、オーバーハング、棒積（ぼうづ）み。",
+      "romaji": "Tsumitsuke de care mark ni chuui shimasu. Kago daisha de wa omoi jou夫 na hako o shita, fukuro ya tsubureyasui mono o ue ni tsumiます. Palletize suru toki wa shitei pallet o tsukai, nakereba nimotsu ni atta mono o erabimasu. Pallet no hashi kara nimotsu ga hamidasu koto o overhang to iimasu. Bouzumi wa onaji muki de block no you ni tsumu houhou desu.",
+      "en": "Cargo loading: follow care marks such as 'do not stack horizontally'. On a cage trolley, place heavy, strong cartons at the bottom and bags or crushable goods on top. For palletising, use the specified pallet; otherwise choose one suitable for the cargo. If the pallet belongs to the warehouse, confirm return arrangements in advance; if it cannot be returned, use a one-way pallet. Check pallets for damage and dirt before use; on wooden pallets look for cracked boards and protruding nails. Choose a pattern that uses the pallet surface efficiently and stack upper tiers so they remain stable. Cargo extending beyond the pallet edge or lower cargo is called overhang. Block/column stacking places cartons in the same orientation. It is quick and easy to unload as a block, and load is borne by carton corners, but it is weak against lateral force and more prone to collapse.",
+      "si": "භාණ්ඩ ගොඩගැසීමේදී 'තිරස්ව නොගොඩගසන්න' වැනි care marks පිළිපදින්න. Cage trolley එකක බර සහ ශක්තිමත් පෙට්ටි පහළින්ද බෑග් සහ පහසුවෙන් පොඩි වන භාණ්ඩ ඉහළින්ද තබන්න. Palletising කිරීමේදී නියමිත pallet එකක් තිබේ නම් එය භාවිත කරන්න; නැත්නම් භාණ්ඩයට ගැළපෙන එක තෝරන්න. Pallet එක ගබඩාවට අයත් නම් ආපසු ලබාදීමේ එකඟතාව කලින් තහවුරු කරන්න; ආපසු ලබාදිය නොහැකි නම් one-way pallet භාවිත කරන්න. භාවිතයට පෙර pallet එක කැඩී තිබේද/අපිරිසිදුද බලන්න; ලී pallet වල කැඩුණු පුවරු සහ පිටතට නෙරා ඇති ඇණ ගැන සැලකිලිමත් වන්න. Pallet මතුපිට උපරිමයෙන් භාවිත වන pattern එකක් තෝරා ඉහළ තට්ටු පෙරළෙන්නේ නැති ලෙස ගොඩගසන්න. භාණ්ඩ pallet එකේ අගින් හෝ පහළ භාණ්ඩවලින් පිටතට නෙරා යාම overhang ලෙස හැඳින්වේ. Block/column stacking ක්‍රමයේදී පෙට්ටි එකම දිශාවට ගොඩගසයි. ඉක්මන් සහ එකවර ඉවත් කිරීමට පහසු වුවද පැත්තෙන් එන බලයට දුර්වල නිසා load එක පෙරළීමේ අවදානම වැඩිය.",
+      "visuals": [
+        {
+          "type": "cage_trolley_loading",
+          "description": "Heavy cartons bottom and crushable sacks top on cage trolley."
+        },
+        {
+          "type": "pallet_overhang",
+          "description": "Correct pallet footprint versus unsafe overhang and wooden pallet inspection points."
+        },
+        {
+          "type": "block_stack_pattern",
+          "description": "Block stacking layers in identical orientation with lateral stability warning."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 75,
+        "repo_images": [
+          "public/images/59.jpg",
+          "public/images/61.jpg"
+        ],
+        "generated_asset": "/images/generated/page-075-palletising-block-stack.svg",
+        "mapping_basis": "Source PDF shows pallet pattern examples; repo images 59 and 61 depict layer stacking pattern diagrams and are matched to this topic."
+      }
+    },
+    {
+      "pdf_page": 76,
+      "printed_page": 76,
+      "source_ja": "イ. 交互積み：棒積みを1段ごとに90度向きを変える。横からの力に強く荷崩れしにくいが、1段の形が正方形でないと使えない。ウ. ピンホール積み（風車型）：貨物を風車状に縦横組み合わせる。横力に安定し、中央に空気の通り道ができ冷蔵輸送向けだが、中央の隙間で積載率が下がる。エ. レンガ積み：1段内で縦横の向きを変え、各段で180度ずつ向きを変えて積む。",
+      "source_furigana": "交互積（こうごづ）み、交互列積（こうごれつづ）み、ピンホール積（づ）み、風車型積（かざぐるまがたづ）み、積載率（せきさいりつ）、レンガ積（づ）み。",
+      "romaji": "Kougo-zumi wa dan goto ni 90-do muki o kaeru houhou desu. Pinhole-zumi wa kazaguruma no you ni tate-yoko ni kumiawasemasu. Chuuou ni kuuki no michi ga dekiru tame reizou yusou ni mukimasu ga, tsumetaru space ga dekimasu. Renga-zumi wa dan no naka de tate-yoko o kaete, dan goto ni 180-do muki o kaemasu.",
+      "en": "Alternate/interlocking stacking turns the block pattern by 90 degrees on each tier. It resists lateral force and reduces load collapse, but can only be used when the footprint of one layer is square. Pinwheel/pinhole stacking combines cartons vertically and horizontally like a windmill. It is stable against side force and creates an airflow channel in the centre, making it suitable for refrigerated transport; the central gap reduces space utilisation. Brick stacking changes carton orientation within each tier and rotates the arrangement by 180 degrees on successive tiers.",
+      "si": "Alternate/interlocking stacking ක්‍රමයේදී එක් එක් තට්ටුවේ පෙට්ටි දිශාව අංශක 90කින් මාරු කරයි. මෙය පැත්තෙන් එන බලයට වඩා ශක්තිමත් වන අතර භාණ්ඩ පෙරළීම අඩු කරයි; නමුත් එක් තට්ටුවක සැකැස්ම හතරැස් විය යුතුය. Pinwheel/pinhole stacking ක්‍රමයේදී පෙට්ටි සුළං මෝලක ආකාරයට සිරස් හා තිරස් දිශාවලින් එකට සකස් කරයි. පැත්තෙන් එන බලයට ස්ථාවර වන අතර මැදින් වාතය ගමන් කරන ඉඩක් ඇති නිසා ශීත ප්‍රවාහනයට සුදුසුය; නමුත් මැද හිස් ඉඩ නිසා pallet එකේ භාවිත ධාරිතාව අඩුවේ. Brick stacking ක්‍රමයේදී එකම තට්ටුව තුළ පෙට්ටි දිශා මාරු කර ඊළඟ තට්ටුවේ සැකැස්ම අංශක 180කින් මාරු කර ගොඩගසයි.",
+      "visuals": [
+        {
+          "type": "pallet_pattern_comparison",
+          "description": "Top-view layer diagrams for alternate 90-degree stacking, pinwheel airflow gap, and brick 180-degree layer rotation."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 76,
+        "repo_images": [
+          "public/images/62.jpg",
+          "public/images/63.jpg",
+          "public/images/64.jpg",
+          "public/images/65.jpg"
+        ],
+        "generated_asset": "/images/generated/page-076-pallet-patterns.svg",
+        "mapping_basis": "Repo images 62–65 show the pinwheel/alternating pallet patterns and layer arrangements; matched to the original page diagrams."
+      }
+    },
+    {
+      "pdf_page": 77,
+      "printed_page": 77,
+      "source_ja": "（６）車両誘導：出庫のために来たトラック・コンテナを種類に合う場所へ案内。出庫指図書の引取人・車両番号を実車で確認。（７）引渡し：引取業者から引取書（貨物受領書）を受け取り、貨物を引渡場所へ移動。業者と一緒に書類に基づき貨物を確認し、積込完了後に受領印／署名をもらう。路線便では送り状と荷札の納品先・個数を照合してから渡す。積込中に異常を確認し、終了後に積み残し（残貨）がないか確認。残貨防止：複数スタッフで声を掛け合い数量を確認、置き忘れ場所に人を配置、倉庫を整理し見慣れない貨物を見つけやすくする。",
+      "source_furigana": "車両誘導（しゃりょうゆうどう）、引渡（ひきわた）し、引取書（ひきとりしょ）、貨物受領書（かもつじゅりょうしょ）、受領印（じゅりょういん）、路線便（ろせんびん）、積（つ）み残（のこ）し、残貨（ざんか）。",
+      "romaji": "Shukko no truck ya container o tekisetsu na basho e yuudou shimasu. Hikitorinin to sharyou bangou o kakunin shimasu. Hikitori-sho o uketori, gyousha to issho ni nimotsu o kakunin shi, tsumiko mi kanryougo ni sign o moraimasu. Zanka o fusegu tame ni staff zen'in de kazu o koe ni dashite kakunin shi, okire o fusegi, souko o seiri shimasu.",
+      "en": "Vehicle guidance: direct arriving trucks/containers to a bay suitable for their type and verify the collecting party and vehicle number against the release instruction. Handover: receive the collection note (cargo receipt) from the carrier, move cargo to the handover area, and jointly verify it against the document. Obtain a receipt stamp/signature after loading is complete. For route-delivery services, check the destination and piece count on the waybill and cargo labels before handover. Check cargo condition during loading and confirm no cargo remains behind after loading. To prevent leftover cargo (zanka), staff should verbally cross-check counts, position a person near likely forgotten-cargo areas, and keep the warehouse tidy so unfamiliar cargo is easy to spot.",
+      "si": "වාහන යොමු කිරීමේදී පිටතට භාණ්ඩ ගෙනයාමට පැමිණි ට්‍රක්/කන්ටේනර් ඒවායේ වර්ගයට ගැළපෙන ස්ථානයට යොමු කරන්න. Release instruction එකේ සඳහන් භාරගන්නා පාර්ශ්වය සහ වාහන අංකය සැබෑ වාහනය සමඟ තහවුරු කරන්න. භාරදීමේදී carrier වෙතින් collection note (cargo receipt) ලබාගෙන භාණ්ඩ handover area එකට ගෙන යන්න. ලේඛනය අනුව carrier සමඟ එක්ව භාණ්ඩ පරීක්ෂා කර loading අවසන් වූ පසු receipt stamp/අත්සන ලබාගන්න. Route delivery සේවාවලදී භාරදීමට පෙර waybill සහ cargo label වල delivery destination සහ කැබලි ගණන සසඳන්න. Loading අතරතුර භාණ්ඩවල තත්ත්වය පරීක්ෂා කර අවසන් වූ පසු ඉතිරිවී ඇති භාණ්ඩ (zanka) නොමැති බව තහවුරු කරන්න. Zanka වැළැක්වීමට සේවකයන් එකිනෙකාට හඬ නඟා ගණන් තහවුරු කළ යුතුය; අමතක විය හැකි ස්ථානවල සේවකයෙකු යෙදවිය යුතුය; ගබඩාව පිළිවෙළට තබා හඳුනා නොගත් භාණ්ඩ ඉක්මනින් පෙනෙන ලෙස පවත්වාගත යුතුය.",
+      "visuals": [
+        {
+          "type": "dispatch_handover_flow",
+          "description": "Vehicle identity check → collection note → joint cargo check → load → signed receipt → final leftover-cargo sweep."
+        },
+        {
+          "type": "leftover_prevention",
+          "description": "Three-person verbal count, forgotten-cargo sweep zone and tidy warehouse visual."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 77,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-077-dispatch-handover-zanka.svg",
+        "mapping_basis": "Page image unavailable in renderer and no exact dispatch-handover diagram identified in repo; flow visual built from source text."
+      }
+    },
+    {
+      "pdf_page": 78,
+      "printed_page": 78,
+      "source_ja": "Ⅲ. 流通加工：貨物に包装・ラベル貼り・小分けなどの加工を行い、消費者向け小売など流通に適した状態にすること。生産工場だけでなく倉庫・物流センター・店舗でも行われる。（１）ラベル貼り：送り状・販促シール・ケアマーク・製品タグ・バーコードラベルなどを指定位置に貼る。ラベル印刷機で印刷・発行。貼る位置・向きは得意先が指定し、mm単位の場合もあるため確認して正確に、剥がれないよう貼る。ラベル間違い：誤った位置に貼ったら作業を止め指示書通りに直す。内容が誤っていたら責任者へ報告し正しいラベルに貼り替える。",
+      "source_furigana": "流通加工（りゅうつうかこう）、包装（ほうそう）、小分（こわ）け、販促（はんそく）シール、製品（せいひん）タグ、バーコードラベル、ラベル印刷機（いんさつき）、得意先（とくいさき）。",
+      "romaji": "Ryuutsuu kakou wa nimotsu ni housou, label hari, kowake nado no kakou o okonai, shouhisha ni muketa ryutsu ni tekishita joutai ni suru koto desu. Label hari wa shiji sareta basho ni label o haru sagyou desu. Label printer de insatsu shi, basho to muki o seikaku ni kakunin shimasu. Machigaeta baai wa sagyou o tomete, shiji ni shitagatte naoshimasu.",
+      "en": "Distribution processing means applying operations such as packaging, labelling and splitting/repacking cargo so it is suitable for distribution and retail to consumers. It takes place not only at manufacturing plants but also in warehouses, logistics centres and stores. Label application includes waybills, promotional stickers, care marks, product tags and barcode labels placed at specified positions. Labels are printed/issued using a label printer. The customer specifies label position and orientation, sometimes to millimetre precision; check carefully and apply labels securely so they do not peel off. If a label is placed in the wrong position, stop work and correct it according to the instruction. If the label content is wrong, report to the supervisor and replace it with the correct label.",
+      "si": "Distribution processing යනු භාණ්ඩ පාරිභෝගිකයාට/සිල්ලර වෙළඳාමට බෙදාහැරීමට සුදුසු තත්ත්වයට පත් කිරීම සඳහා ඇසුරුම් කිරීම, ලේබල් ඇලවීම, කුඩා කොටස්වලට වෙන් කිරීම වැනි සැකසුම් සිදු කිරීමයි. මෙය නිෂ්පාදන කර්මාන්තශාලාවල පමණක් නොව ගබඩා, logistics centres සහ වෙළඳසැල්වලද සිදු වේ. Label application යටතේ waybill, promotional sticker, care mark, product tag සහ barcode label නියමිත ස්ථානයේ අලවයි. Label printer එකෙන් ලේබල් මුද්‍රණය කර නිකුත් කරයි. ලේබලයේ පිහිටීම සහ දිශාව පාරිභෝගික සමාගම නියම කරන අතර සමහරවිට millimetre මට්ටමින්ම නියම කරයි. ඒ නිසා නිවැරදිව පරීක්ෂා කර ගැලවී නොයන ලෙස අලවන්න. වැරදි ස්ථානයක අලවා ඇත්නම් වැඩ නවතා උපදෙස් අනුව නිවැරදි කරන්න. ලේබලයේ අන්තර්ගතය වැරදි නම් වගකිවයුතු නිලධාරියාට දන්වා නිවැරදි ලේබලයකින් මාරු කරන්න.",
+      "visuals": [
+        {
+          "type": "distribution_processing_flow",
+          "description": "Packaging, labelling and splitting/repacking stages across factory, warehouse, logistics centre and store."
+        },
+        {
+          "type": "label_placement_and_correction",
+          "description": "Label printer, exact label placement/orientation, wrong-position correction and wrong-content escalation."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 78,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-078-distribution-labeling.svg",
+        "mapping_basis": "Source page image unavailable in renderer; no exact label-printer image found in repo image assets inspected. Diagram rebuilt from source instructions; internet search used for technical context only."
+      }
+    }
+  ],
+  "audit": {
+    "source_pages_read": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "page_count": 10,
+    "all_page_text_fields_present": true,
+    "all_four_languages_present": true,
+    "visual_plan_per_page": true,
+    "source_page_images_visually_reviewed": [
+      69,
+      70,
+      71,
+      73,
+      74,
+      75,
+      76
+    ],
+    "source_page_images_unavailable": [
+      72,
+      77,
+      78
+    ],
+    "repo_image_matches": [
+      {
+        "page": 75,
+        "images": [
+          "public/images/59.jpg",
+          "public/images/61.jpg"
+        ]
+      },
+      {
+        "page": 76,
+        "images": [
+          "public/images/62.jpg",
+          "public/images/63.jpg",
+          "public/images/64.jpg",
+          "public/images/65.jpg"
+        ]
+      }
+    ],
+    "status": "BULK_CONTENT_COMPLETE_VISUALS_TO_BE_COMMITTED_AND_VERIFIED",
+    "note": "Content is a structured study rendering of the extracted Japanese source, not a verbatim facsimile. Repo image matches are limited to exact pallet-pattern subject matter; nonmatching repo images are not forced into other pages."
+  }
+}
