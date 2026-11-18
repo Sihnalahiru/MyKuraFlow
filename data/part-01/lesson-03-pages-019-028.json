@@ -57,7 +57,12 @@
       "image_mapping": {
         "source_pdf_page": 19,
         "embedded_visuals": "Use original PDF page image crop; ZIP image filename mapping not yet available.",
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/5.jpg",
+          "public/images/6.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
@@ -80,7 +85,12 @@
       "image_mapping": {
         "source_pdf_page": 20,
         "embedded_visuals": "Use original PDF page image crop.",
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/7.jpg",
+          "public/images/10.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
@@ -103,7 +113,13 @@
       "image_mapping": {
         "source_pdf_page": 21,
         "embedded_visuals": "Use original PDF page image crop.",
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/8.jpg",
+          "public/images/11.jpg",
+          "public/images/12.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
@@ -122,7 +138,12 @@
       "image_mapping": {
         "source_pdf_page": 22,
         "embedded_visuals": "PDF text extracted; page raster image endpoint reported unavailable for page 22. Re-render from original PDF before visual audit pass.",
-        "status": "VISUAL_IMAGE_UNAVAILABLE_REQUIRES_RERENDER"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/12.jpg",
+          "public/images/13.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
@@ -141,7 +162,14 @@
       "image_mapping": {
         "source_pdf_page": 23,
         "embedded_visuals": "Use original PDF page image crop.",
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/14.jpg",
+          "public/images/15.jpg",
+          "public/images/16.jpg",
+          "public/images/17.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
@@ -164,7 +192,13 @@
       "image_mapping": {
         "source_pdf_page": 24,
         "embedded_visuals": "Use original PDF page image crop.",
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/18.jpg",
+          "public/images/19.jpg",
+          "public/images/20.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
@@ -183,7 +217,9 @@
       "image_mapping": {
         "source_pdf_page": 25,
         "embedded_visuals": "Use original PDF page image crop.",
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "NO_PHOTOGRAPHIC_ASSET_REQUIRED_FOR_TEXT_TABLE",
+        "repo_images": [],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
@@ -206,7 +242,13 @@
       "image_mapping": {
         "source_pdf_page": 26,
         "embedded_visuals": "Use original PDF page image crop.",
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/21.jpg",
+          "public/images/22.jpg",
+          "public/images/23.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
@@ -229,7 +271,12 @@
       "image_mapping": {
         "source_pdf_page": 27,
         "embedded_visuals": "Use original PDF page image crop.",
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/24.jpg",
+          "public/images/25.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
@@ -252,7 +299,12 @@
       "image_mapping": {
         "source_pdf_page": 28,
         "embedded_visuals": "Use original PDF page image crop.",
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/26.jpg",
+          "public/images/27.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     }
   ],
