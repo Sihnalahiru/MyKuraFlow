@@ -1,0 +1,100 @@
+{
+  "schema_version": "mykuraflow.study-page.v1",
+  "project": "MyKuraFlow",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "front-matter",
+  "lesson_id": "source-front-matter",
+  "lesson_title": {
+    "ja": "教本・表紙と目次",
+    "romaji": "Kyouhon: hyoushi to mokuji",
+    "en": "Textbook cover and table of contents",
+    "si": "පෙළපොතේ කවරය සහ අන්තර්ගතය"
+  },
+  "languages": [
+    "ja",
+    "furigana",
+    "romaji",
+    "en",
+    "si"
+  ],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "page_type": "cover",
+      "source_ja": "特定技能１号 評価試験\n物流倉庫分野（学科・実技）",
+      "source_furigana": "特定技能（とくていぎのう）１号（ごう）評価試験（ひょうかしけん）／物流倉庫分野（ぶつりゅうそうこぶんや）（学科（がっか）・実技（じつぎ））",
+      "romaji": "Tokutei Ginou 1-gou Hyouka Shiken — Butsuryuu Souko Bunya (Gakka・Jitsugi)",
+      "en": "Specified Skilled Worker (i) Evaluation Test — Logistics Warehouse Field (学科: Written / 実技: Practical).",
+      "si": "නිශ්චිත කුසලතා සේවක (SSW) 1 වන කාණ්ඩයේ ඇගයීම් විභාගය — ලොජිස්ටික්ස් ගබඩා ක්ෂේත්‍රය (ලිඛිත සහ ප්‍රායෝගික).",
+      "visual_status": "Cover page; no lesson diagram mapping required."
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": 2,
+      "page_type": "table_of_contents",
+      "source_ja": "第１編 物流倉庫の基本\nⅠ. 倉庫の種類（9）\nⅡ. 倉庫に関係する設備・用語（13）\n　建物の中にある設備と用語\n　貨物を運ぶための設備・機器と用語の説明（19）\n　倉庫で使う設備・機器と用語（26）",
+      "romaji": "Dai-ichi hen: Butsuryuu souko no kihon. I. Souko no shurui (9). II. Souko ni kankei suru setsubi・yougo (13).",
+      "en": "Part 1 — Logistics Warehouse Fundamentals. I. Types of warehouses (p.9). II. Warehouse facilities and terminology (p.13), including building facilities, cargo-handling equipment (p.19), and warehouse equipment (p.26).",
+      "si": "1 වන කොටස — ලොජිස්ටික්ස් ගබඩාවේ මූලික කරුණු. I. ගබඩා වර්ග (පි.9). II. ගබඩාවට අදාළ පහසුකම් සහ පද (පි.13): ගොඩනැගිලි පහසුකම්, භාණ්ඩ ප්‍රවාහන උපකරණ (පි.19) සහ ගබඩා උපකරණ (පි.26)."
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": 3,
+      "page_type": "table_of_contents",
+      "source_ja": "Ⅲ. 倉庫業務の基本（35）\n　倉庫寄託約款・冷蔵倉庫寄託約款（35）\n　倉庫料金（37）\n　倉庫で働く者の心得（39）\nⅣ. 保管の品質管理（41）\nⅤ. 在庫管理（45）\nⅥ. 防犯・災害対策（48）\n【付録 パレットの種類】（51）",
+      "romaji": "III. Souko gyoumu no kihon (35). IV. Hokan no hinshitsu kanri (41). V. Zaiko kanri (45). VI. Bouhan・saigai taisaku (48). Furoku: paretto no shurui (51).",
+      "en": "Part 1 continued: Warehouse operations fundamentals (p.35); warehouse storage agreements, charges and worker responsibilities; storage quality control (p.41); inventory management (p.45); security and disaster prevention (p.48); appendix: pallet types (p.51).",
+      "si": "1 වන කොටස අඛණ්ඩව: ගබඩා මෙහෙයුම් මූලික කරුණු (පි.35), ගබඩා ගිවිසුම්/ගාස්තු/සේවක වගකීම්, ගබඩා ගුණාත්මක පාලනය (පි.41), තොග පාලනය (පි.45), ආරක්ෂාව හා ආපදා වැළැක්වීම (පි.48), උපග්‍රන්ථය: පැලට් වර්ග (පි.51)."
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": 4,
+      "page_type": "table_of_contents",
+      "source_ja": "第２編 作業マニュアル\nⅠ. 作業に必要な知識（54）\n　作業時に身に着けるもの\n　帳票・ラベル（55）\n　単位（57）\n　助数詞（61）\nⅡ. 作業の基本（64）\n　入庫作業（64）",
+      "romaji": "Dai-ni hen: Sagyou manyuaru. I. Sagyou ni hitsuyou na chishiki (54). II. Sagyou no kihon (64).",
+      "en": "Part 2 — Work Manual. I. Knowledge required for work (p.54): workwear and protective equipment, documents and labels (p.55), units (p.57), and counters (p.61). II. Basic work procedures (p.64), beginning with inbound operations.",
+      "si": "2 වන කොටස — වැඩ ක්‍රියාමාර්ග අත්පොත. I. කාර්යයට අවශ්‍ය දැනුම (පි.54): වැඩ ඇඳුම් සහ ආරක්ෂක උපකරණ, ලේඛන හා ලේබල් (පි.55), මිනුම් ඒකක (පි.57), ගණන් කිරීමේ පද (පි.61). II. මූලික වැඩ ක්‍රියාමාර්ග (පි.64), භාණ්ඩ ඇතුළත් කිරීමෙන් ආරම්භ වේ."
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": 5,
+      "page_type": "table_of_contents",
+      "source_ja": "２．出庫作業（72）\nⅢ. 流通加工（78）\n　業務の内容（ラベル貼り、札付け、封入、カッティング、詰め替え、セット組み、包装、梱包、開梱、バンド作業、返品再生、検針、縫製、クリーニング）\n　作業計画（84）・作業準備（84）・作業実施（85）・進捗管理（85）・作業完了（85）\n【付録 ケアマーク】（87）",
+      "romaji": "Shukko sagyou (72). III. Ryuutsuu kakou (78). Sagyou keikaku・junbi・jisshi・shinchoku kanri・kanryou. Furoku: kea maaku (87).",
+      "en": "Outbound operations (p.72). Part 2 also covers distribution processing (p.78): labeling, tagging, inserting, cutting, repacking, kitting, packaging, unpacking, strapping, returns refurbishment, needle inspection, sewing and cleaning; work planning and preparation (p.84), execution and progress control (p.85), completion (p.85), and care-mark appendix (p.87).",
+      "si": "භාණ්ඩ පිටත් කිරීම (පි.72). 2 වන කොටසෙහි බෙදාහැරීමට පෙර සැකසුම් (පි.78) ද ඇතුළත්ය: ලේබල් ඇලවීම, ටැග් කිරීම, ඇතුළත් කිරීම, කැපීම, නැවත ඇසුරුම් කිරීම, කට්ටල සකස් කිරීම, ඇසුරුම්/විවෘත කිරීම, බැඳීම, ආපසු භාණ්ඩ ප්‍රතිසංස්කරණය, ඉඳිකටු පරීක්ෂාව, මැහුම් සහ පිරිසිදු කිරීම. වැඩ සැලසුම් කිරීම/සූදානම (පි.84), ක්‍රියාත්මක කිරීම සහ ප්‍රගති පාලනය (පි.85), අවසන් කිරීම (පි.85), Care Mark උපග්‍රන්ථය (පි.87)."
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": 6,
+      "page_type": "table_of_contents",
+      "source_ja": "第３編 物流倉庫の安全衛生\nⅠ. 労働時間と健康管理（90）\n　労働災害（91）・健康管理（92）・安全な作業の基本（95）\n　構内の安全（99）・KYT（102）・５Ｓ（104）\n　異常天候時の作業およびその他の特殊作業（106）\n【付録 GHSラベル】（109）",
+      "romaji": "Dai-san hen: Butsuryuu souko no anzen eisei. Roudou jikan to kenkou kanri (90). Anzen sagyou (95). KYT (102). Go-esu (104).",
+      "en": "Part 3 — Logistics Warehouse Occupational Safety and Health. Working hours and health management (p.90); occupational accidents (p.91); health management (p.92); safe work basics (p.95); site safety (p.99); KYT hazard prediction training (p.102); 5S (p.104); severe-weather and special work (p.106); GHS-label appendix (p.109).",
+      "si": "3 වන කොටස — ලොජිස්ටික්ස් ගබඩා වෘත්තීය ආරක්ෂාව සහ සෞඛ්‍යය. වැඩ කරන කාලය හා සෞඛ්‍ය පාලනය (පි.90), වෘත්තීය අනතුරු (පි.91), සෞඛ්‍ය කළමනාකරණය (පි.92), ආරක්ෂිත වැඩ මූලධර්ම (පි.95), පරිශ්‍ර ආරක්ෂාව (පි.99), KYT අවදානම් පුරෝකථන පුහුණුව (පි.102), 5S (පි.104), අයහපත් කාලගුණය හා විශේෂ කාර්යයන් (පි.106), GHS ලේබල් උපග්‍රන්ථය (පි.109)."
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": 7,
+      "page_type": "table_of_contents",
+      "source_ja": "第４編 フォークリフト作業基準\n１．点検・操作の確認（114）\n２．基本の注意事項（115）\n３．走行の注意（115）\n４．貨物の積み・降ろしの基本操作（117）\n５．積み卸し作業のときの注意（118）",
+      "romaji": "Dai-yon hen: Fookurifuto sagyou kijun. Tenken・sousa no kakunin (114). Kihon no chuui jikou (115). Soukou no chuui (115). Tsumi・oroshi no kihon sousa (117).",
+      "en": "Part 4 — Forklift Work Standards: inspection and operation checks (p.114); basic precautions and travel safety (p.115); basic loading/unloading operations (p.117); loading/unloading precautions (p.118).",
+      "si": "4 වන කොටස — ෆෝක්ලිෆ්ට් වැඩ ප්‍රමිතීන්: පරීක්ෂා කිරීම සහ ක්‍රියාකාරීත්වය (පි.114), මූලික අවවාද සහ ගමන් ආරක්ෂාව (පි.115), භාණ්ඩ පැටවීම/බෑමේ මූලික ක්‍රියාමාර්ග (පි.117), පැටවීම/බෑමේදී සැලකිලිමත් විය යුතු කරුණු (පි.118)."
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": 8,
+      "page_type": "table_of_contents",
+      "source_ja": "６．はい付け（貨物を重ねて積むこと）（118）\n７．駐車（119）\n８．貨物の種類による作業手順（120）\n９．コンテナ作業（122）",
+      "romaji": "Hai-zuke (kamotsu o kasanete tsumu koto) (118). Chuusha (119). Kamotsu no shurui ni yoru sagyou tejun (120). Kontena sagyou (122).",
+      "en": "Part 4 continued: stacking cargo (p.118); parking a forklift (p.119); procedures by cargo type (p.120); container operations (p.122).",
+      "si": "4 වන කොටස අඛණ්ඩව: භාණ්ඩ එක මත එක ගොඩගැසීම (පි.118), ෆෝක්ලිෆ්ට් නවතා තැබීම (පි.119), භාණ්ඩ වර්ගය අනුව වැඩ ක්‍රියාපටිපාටි (පි.120), කන්ටේනර් වැඩ (පි.122)."
+    }
+  ],
+  "audit": {
+    "status": "TOC_TRANSCRIBED_FROM_SOURCE_EXTRACTION_TRANSLATION_DRAFT",
+    "note": "The TOC pages are indexed for navigation. Translations are study aids and should be proofread; source headings/page references are preserved."
+  }
+}
