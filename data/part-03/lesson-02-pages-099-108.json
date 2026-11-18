@@ -157,7 +157,13 @@
         "repo_images": [],
         "use_original_pdf_visual": false,
         "generated_asset": "/images/generated/page-103-point-and-call-kyt.svg",
-        "external_visual_references": [],
+        "external_visual_references": [
+          {
+            "source": "Japan Ministry of Health, Labour and Welfare — KYT 4-round method",
+            "url": "https://anzeninfo.mhlw.go.jp/yougo/yougo40_1.html/yougo_index02_4.html",
+            "purpose": "Official description of the four rounds and point-and-call."
+          }
+        ],
         "status": "COMMITTED_AND_LINKED"
       }
     },
@@ -181,7 +187,13 @@
         "repo_images": [],
         "use_original_pdf_visual": false,
         "generated_asset": "/images/generated/page-104-5s-method.svg",
-        "external_visual_references": [],
+        "external_visual_references": [
+          {
+            "source": "Japan METI — KYT and 5S reference",
+            "url": "https://www.meti.go.jp/policy/chemical_management/cwc/files/opcw_associate_2016.pdf",
+            "purpose": "Supplementary explanation of the five 5S principles."
+          }
+        ],
         "status": "COMMITTED_AND_LINKED"
       }
     },
@@ -253,7 +265,13 @@
         "repo_images": [],
         "use_original_pdf_visual": true,
         "generated_asset": null,
-        "external_visual_references": [],
+        "external_visual_references": [
+          {
+            "source": "Japan MHLW — GHS label workplace safety education",
+            "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161231_00002.html",
+            "purpose": "Official GHS pictogram reading and hazard-prevention materials."
+          }
+        ],
         "status": "SOURCE_PDF_VISUAL_LINKED"
       }
     },
@@ -277,7 +295,13 @@
         "repo_images": [],
         "use_original_pdf_visual": false,
         "generated_asset": "/images/generated/page-108-hazardous-goods-safe-handling.svg",
-        "external_visual_references": [],
+        "external_visual_references": [
+          {
+            "source": "Japan MHLW — Label-based chemical safety actions",
+            "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000135046.html",
+            "purpose": "Official steps for checking labels, SDS and appropriate protective measures."
+          }
+        ],
         "status": "COMMITTED_AND_LINKED"
       }
     }
