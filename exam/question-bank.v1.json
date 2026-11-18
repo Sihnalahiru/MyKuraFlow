@@ -5986,6 +5986,666 @@
       "sourceAnchor": "p98 機械から貨物を取るとき",
       "difficulty": "easy",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0308",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Tiger tape marks hazardous areas such as around pillars and forklift operating zones.",
+        "ja": "<ruby>トラテープ<rt>とらてーぷ</rt></ruby>は、<ruby>柱<rt>はしら</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りやフォークリフトの<ruby>動<rt>うご</rt></ruby>く<ruby>場所<rt>ばしょ</rt></ruby>などの<ruby>危険<rt>きけん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>トラテープ<rt>とらてーぷ</rt></ruby>は、<ruby>柱<rt>はしら</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りやフォークリフトの<ruby>動<rt>うご</rt></ruby>く<ruby>場所<rt>ばしょ</rt></ruby>などの<ruby>危険<rt>きけん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Tiger tape marks hazardous areas such as around pillars and forklift operating zones.",
+        "si": "Tiger tape මඟින් කණු අසල සහ forklift ක්‍රියාත්මක වන ස්ථාන වැනි අවදානම් ප්‍රදේශ සලකුණු කරයි.",
+        "technicalNoteJa": "トラテープ＝危険場所を示す警戒テープ"
+      },
+      "sourcePage": 99,
+      "sourceAnchor": "p99 標識・掲示",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0309",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Items must be put away after use; leaving them in a passageway can cause trips or collisions.",
+        "ja": "<ruby>通路<rt>つうろ</rt></ruby>には、<ruby>使<rt>つか</rt></ruby>った<ruby>物<rt>もの</rt></ruby>をそのまま<ruby>置<rt>お</rt></ruby>いておいてもよいです。"
+      },
+      "statement": "<ruby>通路<rt>つうろ</rt></ruby>には、<ruby>使<rt>つか</rt></ruby>った<ruby>物<rt>もの</rt></ruby>をそのまま<ruby>置<rt>お</rt></ruby>いておいてもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Items must be put away after use; leaving them in a passageway can cause trips or collisions.",
+        "si": "භාවිත කළ භාණ්ඩ මාර්ගයේ දමා නොතබා භාවිතයෙන් පසු අස් කළ යුතුය; එසේ නොකළහොත් පැකිළීම් හෝ ගැටීම් සිදුවිය හැක.",
+        "technicalNoteJa": "通路に物を放置しない"
+      },
+      "sourcePage": 99,
+      "sourceAnchor": "p99 通路のルール",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0310",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Keep designated walkways bright enough for safe walking.",
+        "ja": "<ruby>安全通路<rt>あんぜんつうろ</rt></ruby>は、<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>けるように<ruby>明<rt>あか</rt></ruby>るくします。"
+      },
+      "statement": "<ruby>安全通路<rt>あんぜんつうろ</rt></ruby>は、<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>けるように<ruby>明<rt>あか</rt></ruby>るくします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Keep designated walkways bright enough for safe walking.",
+        "si": "ආරක්ෂිත පදික මාර්ගවල ආරක්ෂිතව ගමන් කළ හැකි තරම් ආලෝකය තිබිය යුතුය.",
+        "technicalNoteJa": "安全通路＝十分な明るさ"
+      },
+      "sourcePage": 99,
+      "sourceAnchor": "p99 通路のルール",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0311",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Indoor passageway floors must be free from trip and slip hazards.",
+        "ja": "<ruby>屋内通路<rt>おくないつうろ</rt></ruby>の<ruby>床<rt>ゆか</rt></ruby>には、つまずきやすべりの<ruby>危険<rt>きけん</rt></ruby>がないようにします。"
+      },
+      "statement": "<ruby>屋内通路<rt>おくないつうろ</rt></ruby>の<ruby>床<rt>ゆか</rt></ruby>には、つまずきやすべりの<ruby>危険<rt>きけん</rt></ruby>がないようにします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Indoor passageway floors must be free from trip and slip hazards.",
+        "si": "ගෘහස්ථ මාර්ගවල බිම පැකිළීමේ හෝ ලිස්සීමේ අවදානම් නොමැති ලෙස තබාගත යුතුය.",
+        "technicalNoteJa": "屋内通路＝つまずき・すべり防止"
+      },
+      "sourcePage": 100,
+      "sourceAnchor": "p100 屋内通路のルール",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0312",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The source says not to place obstacles within 1.8 metres above the floor.",
+        "ja": "<ruby>床<rt>ゆか</rt></ruby>から1.8メートル<ruby>以内<rt>いない</rt></ruby>に<ruby>障害物<rt>しょうがいぶつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いてはいけません。"
+      },
+      "statement": "<ruby>床<rt>ゆか</rt></ruby>から1.8メートル<ruby>以内<rt>いない</rt></ruby>に<ruby>障害物<rt>しょうがいぶつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いてはいけません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source says not to place obstacles within 1.8 metres above the floor.",
+        "si": "බිම සිට මීටර් 1.8ක් ඇතුළත බාධක තැබීම නොකළ යුතුය.",
+        "technicalNoteJa": "床から1.8m以内＝障害物を置かない"
+      },
+      "sourcePage": 100,
+      "sourceAnchor": "p100 屋内通路のルール",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0313",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A passage between machines must be at least 80 cm wide.",
+        "ja": "<ruby>機械<rt>きかい</rt></ruby>と<ruby>機械<rt>きかい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の<ruby>通路幅<rt>つうろはば</rt></ruby>は、80センチメートル<ruby>以上<rt>いじょう</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>です。"
+      },
+      "statement": "<ruby>機械<rt>きかい</rt></ruby>と<ruby>機械<rt>きかい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の<ruby>通路幅<rt>つうろはば</rt></ruby>は、80センチメートル<ruby>以上<rt>いじょう</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A passage between machines must be at least 80 cm wide.",
+        "si": "යන්ත්‍ර දෙකක් අතර මාර්ගය අවම වශයෙන් සෙන්ටිමීටර් 80ක් පළල විය යුතුය.",
+        "technicalNoteJa": "機械間の通路幅＝80cm以上"
+      },
+      "sourcePage": 100,
+      "sourceAnchor": "p100 通路幅",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0314",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Do not enter prohibited areas or areas unrelated to your work.",
+        "ja": "<ruby>立入禁止<rt>たちいりきんし</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>ない<ruby>区域<rt>くいき</rt></ruby>にも、<ruby>自由<rt>じゆう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってよいです。"
+      },
+      "statement": "<ruby>立入禁止<rt>たちいりきんし</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>ない<ruby>区域<rt>くいき</rt></ruby>にも、<ruby>自由<rt>じゆう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Do not enter prohibited areas or areas unrelated to your work.",
+        "si": "ඇතුළුවීම තහනම් ප්‍රදේශවලට හෝ තම වැඩට අදාළ නොවන ප්‍රදේශවලට ඇතුළු නොවිය යුතුය.",
+        "technicalNoteJa": "立入禁止区域・無関係区域に入らない"
+      },
+      "sourcePage": 100,
+      "sourceAnchor": "p100 立入禁止場所",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0315",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Use point-and-call to confirm safety when crossing a forklift route.",
+        "ja": "フォークリフトの<ruby>通路<rt>つうろ</rt></ruby>を<ruby>横切<rt>よこぎ</rt></ruby>るときは、<ruby>指差<rt>ゆびさ</rt></ruby>し<ruby>呼称<rt>こしょう</rt></ruby>で<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "フォークリフトの<ruby>通路<rt>つうろ</rt></ruby>を<ruby>横切<rt>よこぎ</rt></ruby>るときは、<ruby>指差<rt>ゆびさ</rt></ruby>し<ruby>呼称<rt>こしょう</rt></ruby>で<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Use point-and-call to confirm safety when crossing a forklift route.",
+        "si": "Forklift මාර්ගය හරහා යන විට ඇඟිල්ලෙන් පෙන්වා හඬින් තහවුරු කර ආරක්ෂාව පරීක්ෂා කරන්න.",
+        "technicalNoteJa": "横断時＝指差し呼称で安全確認"
+      },
+      "sourcePage": 100,
+      "sourceAnchor": "p100 フォークリフトの近く",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0316",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Call out to the driver before passing behind a forklift.",
+        "ja": "フォークリフトの<ruby>後<rt>うし</rt></ruby>ろを<ruby>通<rt>とお</rt></ruby>るときは、<ruby>運転手<rt>うんてんしゅ</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかけます。"
+      },
+      "statement": "フォークリフトの<ruby>後<rt>うし</rt></ruby>ろを<ruby>通<rt>とお</rt></ruby>るときは、<ruby>運転手<rt>うんてんしゅ</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかけます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Call out to the driver before passing behind a forklift.",
+        "si": "Forklift එකක පිටුපසින් යාමට පෙර රියදුරුට හඬ නගා දැනුම් දෙන්න.",
+        "technicalNoteJa": "フォークリフト後方通行＝運転手に声をかける"
+      },
+      "sourcePage": 100,
+      "sourceAnchor": "p100 フォークリフトの近く",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0317",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If the work floor is wet, immediately inform a supervisor or senior colleague.",
+        "ja": "<ruby>床<rt>ゆか</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れていたら、すぐに<ruby>上司<rt>じょうし</rt></ruby>や<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせます。"
+      },
+      "statement": "<ruby>床<rt>ゆか</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れていたら、すぐに<ruby>上司<rt>じょうし</rt></ruby>や<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "If the work floor is wet, immediately inform a supervisor or senior colleague.",
+        "si": "වැඩ කරන ස්ථානයේ බිම තෙත් වී ඇත්නම් වහාම අධීක්ෂකවරයාට හෝ ජ්‍යෙෂ්ඨ සේවකයෙකුට දන්වන්න.",
+        "technicalNoteJa": "床の濡れ＝上司・先輩へすぐ報告"
+      },
+      "sourcePage": 101,
+      "sourceAnchor": "p101 作業床",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0318",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Keep the floor free from trip and slip hazards; do not leave hazards unaddressed.",
+        "ja": "<ruby>作業場<rt>さぎょうば</rt></ruby>の<ruby>床<rt>ゆか</rt></ruby>は、つまずきやすべりの<ruby>危険<rt>きけん</rt></ruby>があってもそのままでよいです。"
+      },
+      "statement": "<ruby>作業場<rt>さぎょうば</rt></ruby>の<ruby>床<rt>ゆか</rt></ruby>は、つまずきやすべりの<ruby>危険<rt>きけん</rt></ruby>があってもそのままでよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Keep the floor free from trip and slip hazards; do not leave hazards unaddressed.",
+        "si": "වැඩබිමේ බිම පැකිළීමේ හෝ ලිස්සීමේ අවදානම් තිබේ නම් ඒවා එලෙසම නොතබා නිසි ලෙස දැනුම් දී විසඳිය යුතුය.",
+        "technicalNoteJa": "作業床＝危険のない状態を保つ"
+      },
+      "sourcePage": 101,
+      "sourceAnchor": "p101 作業床",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0319",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "KYT is training to identify hidden hazards in work and consider safety countermeasures.",
+        "ja": "KYTは、<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>隠<rt>かく</rt></ruby>れた<ruby>危険<rt>きけん</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけ、<ruby>安全対策<rt>あんぜんたいさく</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>える<ruby>訓練<rt>くんれん</rt></ruby>です。"
+      },
+      "statement": "KYTは、<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>隠<rt>かく</rt></ruby>れた<ruby>危険<rt>きけん</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけ、<ruby>安全対策<rt>あんぜんたいさく</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>える<ruby>訓練<rt>くんれん</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "KYT is training to identify hidden hazards in work and consider safety countermeasures.",
+        "si": "KYT යනු වැඩ අතරතුර සැඟවුණු අවදානම් හඳුනාගෙන ආරක්ෂක ක්‍රියාමාර්ග සැලසුම් කරන පුහුණුවකි.",
+        "technicalNoteJa": "KYT＝危険予知訓練"
+      },
+      "sourcePage": 102,
+      "sourceAnchor": "p102 KYT",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0320",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "KYT requires questioning fixed assumptions rather than assuming a familiar task is automatically safe.",
+        "ja": "KYTでは、「いつもやっているから<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>」という<ruby>固定観念<rt>こていかんねん</rt></ruby>を<ruby>持<rt>も</rt></ruby>つことが<ruby>大切<rt>たいせつ</rt></ruby>です。"
+      },
+      "statement": "KYTでは、「いつもやっているから<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>」という<ruby>固定観念<rt>こていかんねん</rt></ruby>を<ruby>持<rt>も</rt></ruby>つことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "KYT requires questioning fixed assumptions rather than assuming a familiar task is automatically safe.",
+        "si": "KYT හිදී හුරුපුරුදු වැඩක් නිසාම ආරක්ෂිත යැයි සිතන ස්ථිර අදහස්වලින් වැළකී අවදානම් නැවත සලකා බැලිය යුතුය.",
+        "technicalNoteJa": "KYT＝固定観念を避けて危険を想像する"
+      },
+      "sourcePage": 102,
+      "sourceAnchor": "p102 KYTの考え方",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0321",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Round 1 identifies and shares hidden hazards.",
+        "ja": "KYTの1Rでは、<ruby>隠<rt>かく</rt></ruby>れた<ruby>危険<rt>きけん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>し<ruby>合<rt>あ</rt></ruby>います。"
+      },
+      "statement": "KYTの1Rでは、<ruby>隠<rt>かく</rt></ruby>れた<ruby>危険<rt>きけん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>し<ruby>合<rt>あ</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Round 1 identifies and shares hidden hazards.",
+        "si": "KYT පළමු වටයේදී සැඟවුණු අවදානම් හඳුනාගෙන කණ්ඩායම සමඟ ඉදිරිපත් කරයි.",
+        "technicalNoteJa": "KYT 1R＝隠れた危険を出し合う"
+      },
+      "sourcePage": 102,
+      "sourceAnchor": "p102 KYT 4ラウンド",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0322",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Round 2 narrows the most important danger point; concrete countermeasures are discussed in Round 3.",
+        "ja": "KYTの2Rでは、<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>対策<rt>たいさく</rt></ruby>を<ruby>決<rt>き</rt></ruby>めます。"
+      },
+      "statement": "KYTの2Rでは、<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>対策<rt>たいさく</rt></ruby>を<ruby>決<rt>き</rt></ruby>めます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Round 2 narrows the most important danger point; concrete countermeasures are discussed in Round 3.",
+        "si": "KYT දෙවන වටයේදී වැදගත්ම අවදානම් කරුණ තෝරාගනී; නිශ්චිත වැළැක්වීමේ ක්‍රියාමාර්ග සාකච්ඡා කරන්නේ තුන්වන වටයේදීය.",
+        "technicalNoteJa": "KYT 2R＝重要危険ポイントを絞る"
+      },
+      "sourcePage": 102,
+      "sourceAnchor": "p102 KYT 4ラウンド",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0323",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Round 4 selects the priority action and has everyone confirm the team target using point-and-call.",
+        "ja": "KYTの4Rでは、<ruby>重点実施項目<rt>じゅうてんじっしこうもく</rt></ruby>を<ruby>選<rt>えら</rt></ruby>び、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>行動目標<rt>こうどうもくひょう</rt></ruby>を<ruby>指差<rt>ゆびさ</rt></ruby>し<ruby>呼称<rt>こしょう</rt></ruby>します。"
+      },
+      "statement": "KYTの4Rでは、<ruby>重点実施項目<rt>じゅうてんじっしこうもく</rt></ruby>を<ruby>選<rt>えら</rt></ruby>び、<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>行動目標<rt>こうどうもくひょう</rt></ruby>を<ruby>指差<rt>ゆびさ</rt></ruby>し<ruby>呼称<rt>こしょう</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Round 4 selects the priority action and has everyone confirm the team target using point-and-call.",
+        "si": "KYT සිව්වන වටයේදී ප්‍රමුඛ ක්‍රියාමාර්ගය තෝරාගෙන සියලු දෙනා ඇඟිල්ලෙන් පෙන්වා හඬින් ක්‍රියා ඉලක්කය තහවුරු කරයි.",
+        "technicalNoteJa": "KYT 4R＝重点実施項目・行動目標の指差し呼称"
+      },
+      "sourcePage": 103,
+      "sourceAnchor": "p103 KYT 4R",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0324",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Point-and-call means looking at the target, pointing at it and clearly saying the check aloud.",
+        "ja": "<ruby>指差<rt>ゆびさ</rt></ruby>し<ruby>呼称<rt>こしょう</rt></ruby>では、<ruby>対象<rt>たいしょう</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>指<rt>ゆび</rt></ruby>で<ruby>差<rt>さ</rt></ruby>し、はっきり<ruby>声<rt>こえ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>指差<rt>ゆびさ</rt></ruby>し<ruby>呼称<rt>こしょう</rt></ruby>では、<ruby>対象<rt>たいしょう</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>指<rt>ゆび</rt></ruby>で<ruby>差<rt>さ</rt></ruby>し、はっきり<ruby>声<rt>こえ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Point-and-call means looking at the target, pointing at it and clearly saying the check aloud.",
+        "si": "Point-and-call ක්‍රමයේදී ඉලක්කය දෙස බලා ඇඟිල්ලෙන් පෙන්වා පැහැදිලිව හඬින් තහවුරු කරයි.",
+        "technicalNoteJa": "指差し呼称＝見る・指す・声に出す"
+      },
+      "sourcePage": 103,
+      "sourceAnchor": "p103 指差し呼称",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0325",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Point-and-call improves concentration and helps prevent human error.",
+        "ja": "<ruby>指差<rt>ゆびさ</rt></ruby>し<ruby>呼称<rt>こしょう</rt></ruby>は、ヒューマンエラーを<ruby>防<rt>ふせ</rt></ruby>ぐ<ruby>助<rt>たす</rt></ruby>けになります。"
+      },
+      "statement": "<ruby>指差<rt>ゆびさ</rt></ruby>し<ruby>呼称<rt>こしょう</rt></ruby>は、ヒューマンエラーを<ruby>防<rt>ふせ</rt></ruby>ぐ<ruby>助<rt>たす</rt></ruby>けになります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Point-and-call improves concentration and helps prevent human error.",
+        "si": "ඇඟිල්ලෙන් පෙන්වා හඬින් තහවුරු කිරීම අවධානය වැඩි කර මිනිස් දෝෂ වැළැක්වීමට උපකාරී වේ.",
+        "technicalNoteJa": "指差し呼称＝集中力向上・ヒューマンエラー防止"
+      },
+      "sourcePage": 103,
+      "sourceAnchor": "p103 指差し呼称の効果",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0326",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Seiri (Sort) separates needed and unneeded items and removes unnecessary items.",
+        "ja": "５Ｓの<ruby>整理<rt>せいり</rt></ruby>は、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>物<rt>もの</rt></ruby>と<ruby>不要<rt>ふよう</rt></ruby>な<ruby>物<rt>もの</rt></ruby>を<ruby>分<rt>わ</rt></ruby>け、<ruby>不要物<rt>ふようぶつ</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てることです。"
+      },
+      "statement": "５Ｓの<ruby>整理<rt>せいり</rt></ruby>は、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>物<rt>もの</rt></ruby>と<ruby>不要<rt>ふよう</rt></ruby>な<ruby>物<rt>もの</rt></ruby>を<ruby>分<rt>わ</rt></ruby>け、<ruby>不要物<rt>ふようぶつ</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てることです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Seiri (Sort) separates needed and unneeded items and removes unnecessary items.",
+        "si": "5S හි Seiri (Sort) යනු අවශ්‍ය සහ අනවශ්‍ය දේ වෙන්කර අනවශ්‍ය දේ ඉවත් කිරීමයි.",
+        "technicalNoteJa": "整理＝必要・不要を分けて不要物を捨てる"
+      },
+      "sourcePage": 104,
+      "sourceAnchor": "p104 ５Ｓ・整理",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0327",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Seiton (Set in order) puts items in designated places so they can be retrieved easily.",
+        "ja": "５Ｓの<ruby>整頓<rt>せいとん</rt></ruby>は、<ruby>物<rt>もの</rt></ruby>を<ruby>決<rt>き</rt></ruby>められた<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>置<rt>お</rt></ruby>き、すぐ<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>せるようにすることです。"
+      },
+      "statement": "５Ｓの<ruby>整頓<rt>せいとん</rt></ruby>は、<ruby>物<rt>もの</rt></ruby>を<ruby>決<rt>き</rt></ruby>められた<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>置<rt>お</rt></ruby>き、すぐ<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>せるようにすることです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Seiton (Set in order) puts items in designated places so they can be retrieved easily.",
+        "si": "5S හි Seiton (Set in order) යනු භාණ්ඩ නියමිත ස්ථානයේ තබා පහසුවෙන් ලබාගත හැකි ලෙස සකස් කිරීමයි.",
+        "technicalNoteJa": "整頓＝決めた場所に置き取り出しやすくする"
+      },
+      "sourcePage": 104,
+      "sourceAnchor": "p104 ５Ｓ・整頓",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0328",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Seiso (Shine/Clean) protects goods and people by keeping the workplace clean.",
+        "ja": "５Ｓの<ruby>清掃<rt>せいそう</rt></ruby>は、<ruby>掃除<rt>そうじ</rt></ruby>をして<ruby>商品<rt>しょうひん</rt></ruby>や<ruby>人<rt>ひと</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることにもつながります。"
+      },
+      "statement": "５Ｓの<ruby>清掃<rt>せいそう</rt></ruby>は、<ruby>掃除<rt>そうじ</rt></ruby>をして<ruby>商品<rt>しょうひん</rt></ruby>や<ruby>人<rt>ひと</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることにもつながります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Seiso (Shine/Clean) protects goods and people by keeping the workplace clean.",
+        "si": "5S හි Seiso (පිරිසිදු කිරීම) මඟින් වැඩබිම පිරිසිදු කර භාණ්ඩ සහ පුද්ගලයන් ආරක්ෂා කරයි.",
+        "technicalNoteJa": "清掃＝掃除して商品・人を守る"
+      },
+      "sourcePage": 104,
+      "sourceAnchor": "p104 ５Ｓ・清掃",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0329",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Seiketsu means maintaining a clean and hygienic state.",
+        "ja": "５Ｓの<ruby>清潔<rt>せいけつ</rt></ruby>は、きれいで<ruby>衛生的<rt>えいせいてき</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つことです。"
+      },
+      "statement": "５Ｓの<ruby>清潔<rt>せいけつ</rt></ruby>は、きれいで<ruby>衛生的<rt>えいせいてき</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つことです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Seiketsu means maintaining a clean and hygienic state.",
+        "si": "5S හි Seiketsu යනු පිරිසිදු සහ සනීපාරක්ෂිත තත්ත්වය අඛණ්ඩව පවත්වා ගැනීමයි.",
+        "technicalNoteJa": "清潔＝きれいで衛生的な状態を保つ"
+      },
+      "sourcePage": 105,
+      "sourceAnchor": "p105 ５Ｓ・清潔",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0330",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Shitsuke means making correct terminology and behaviour habitual.",
+        "ja": "５Ｓのしつけは、<ruby>正<rt>ただ</rt></ruby>しい<ruby>言葉遣<rt>ことばづか</rt></ruby>いや<ruby>行動<rt>こうどう</rt></ruby>を<ruby>習慣<rt>しゅうかん</rt></ruby>にすることです。"
+      },
+      "statement": "５Ｓのしつけは、<ruby>正<rt>ただ</rt></ruby>しい<ruby>言葉遣<rt>ことばづか</rt></ruby>いや<ruby>行動<rt>こうどう</rt></ruby>を<ruby>習慣<rt>しゅうかん</rt></ruby>にすることです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Shitsuke means making correct terminology and behaviour habitual.",
+        "si": "5S හි Shitsuke යනු නිවැරදි වචන භාවිතය සහ හැසිරීම පුරුද්දක් කරගැනීමයි.",
+        "technicalNoteJa": "しつけ＝正しい言葉遣い・行動を身につける"
+      },
+      "sourcePage": 105,
+      "sourceAnchor": "p105 ５Ｓ・しつけ",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0331",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Putting items in designated places is Seiton (Set in order), not Seiri (Sort).",
+        "ja": "５Ｓの<ruby>整理<rt>せいり</rt></ruby>は、<ruby>物<rt>もの</rt></ruby>を<ruby>決<rt>き</rt></ruby>めた<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>置<rt>お</rt></ruby>くことです。"
+      },
+      "statement": "５Ｓの<ruby>整理<rt>せいり</rt></ruby>は、<ruby>物<rt>もの</rt></ruby>を<ruby>決<rt>き</rt></ruby>めた<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>置<rt>お</rt></ruby>くことです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Putting items in designated places is Seiton (Set in order), not Seiri (Sort).",
+        "si": "භාණ්ඩ නියමිත ස්ථානයේ තැබීම Seiri නොව Seiton වේ.",
+        "technicalNoteJa": "整理＝不要物を捨てる／整頓＝決めた場所に置く"
+      },
+      "sourcePage": 105,
+      "sourceAnchor": "p105 ５Ｓまとめ",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0332",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If work seems dangerous, discuss it with the responsible person and take appropriate safety measures.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>危険<rt>きけん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>われるときは、<ruby>責任者<rt>せきにんしゃ</rt></ruby>と<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い、<ruby>安全対策<rt>あんぜんたいさく</rt></ruby>を<ruby>取<rt>と</rt></ruby>ります。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>が<ruby>危険<rt>きけん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>われるときは、<ruby>責任者<rt>せきにんしゃ</rt></ruby>と<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い、<ruby>安全対策<rt>あんぜんたいさく</rt></ruby>を<ruby>取<rt>と</rt></ruby>ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "If work seems dangerous, discuss it with the responsible person and take appropriate safety measures.",
+        "si": "වැඩක් අනතුරුදායක යැයි පෙනේ නම් වගකිවයුතු පුද්ගලයා සමඟ සාකච්ඡා කර සුදුසු ආරක්ෂක පියවර ගන්න.",
+        "technicalNoteJa": "危険な作業＝責任者と相談して安全対策"
+      },
+      "sourcePage": 106,
+      "sourceAnchor": "p106 異常天候・特殊作業",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0333",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "During severe weather, move forklifts and other cargo-handling equipment to safe locations.",
+        "ja": "<ruby>台風<rt>たいふう</rt></ruby>や<ruby>大雨<rt>おおあめ</rt></ruby>のときは、フォークリフトを<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>へ<ruby>移動<rt>いどう</rt></ruby>させます。"
+      },
+      "statement": "<ruby>台風<rt>たいふう</rt></ruby>や<ruby>大雨<rt>おおあめ</rt></ruby>のときは、フォークリフトを<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>へ<ruby>移動<rt>いどう</rt></ruby>させます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "During severe weather, move forklifts and other cargo-handling equipment to safe locations.",
+        "si": "ටයිෆූන් හෝ මහ වැසි වැනි තත්ත්වවලදී forklift සහ අනෙකුත් භාණ්ඩ හැසිරවීමේ යන්ත්‍ර ආරක්ෂිත ස්ථානවලට ගෙන යන්න.",
+        "technicalNoteJa": "異常天候＝荷役機器を安全な場所へ移動"
+      },
+      "sourcePage": 106,
+      "sourceAnchor": "p106 異常天候時",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0334",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Hazardous substances may explode or catch fire.",
+        "ja": "<ruby>危険物<rt>きけんぶつ</rt></ruby>は、<ruby>爆発<rt>ばくはつ</rt></ruby>や<ruby>発火<rt>はっか</rt></ruby>のおそれがある<ruby>物<rt>もの</rt></ruby>です。"
+      },
+      "statement": "<ruby>危険物<rt>きけんぶつ</rt></ruby>は、<ruby>爆発<rt>ばくはつ</rt></ruby>や<ruby>発火<rt>はっか</rt></ruby>のおそれがある<ruby>物<rt>もの</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Hazardous substances may explode or catch fire.",
+        "si": "අනතුරුදායක ද්‍රව්‍ය පුපුරා යාමට හෝ ගිනි ගැනීමට ඉඩ ඇත.",
+        "technicalNoteJa": "危険物＝爆発・発火のおそれ"
+      },
+      "sourcePage": 107,
+      "sourceAnchor": "p107 危険物・有害物",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0335",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "GHS pictogram labels show the type and degree of hazard.",
+        "ja": "GHSラベルは、<ruby>危険<rt>きけん</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>と<ruby>程度<rt>ていど</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>するために<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "GHSラベルは、<ruby>危険<rt>きけん</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>と<ruby>程度<rt>ていど</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>するために<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "GHS pictogram labels show the type and degree of hazard.",
+        "si": "GHS රූප සලකුණු ලේබල් මඟින් අවදානමේ වර්ගය සහ මට්ටම හඳුනාගත හැක.",
+        "technicalNoteJa": "GHS絵表示ラベル＝危険の種類・程度"
+      },
+      "sourcePage": 107,
+      "sourceAnchor": "p107 GHSラベル",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0336",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Always wear appropriate PPE such as gloves, a mask and goggles when handling hazardous or harmful substances.",
+        "ja": "<ruby>保護具<rt>ほごぐ</rt></ruby>を<ruby>着用<rt>ちゃくよう</rt></ruby>しなくても、<ruby>危険物<rt>きけんぶつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>扱<rt>あつか</rt></ruby>ってよいです。"
+      },
+      "statement": "<ruby>保護具<rt>ほごぐ</rt></ruby>を<ruby>着用<rt>ちゃくよう</rt></ruby>しなくても、<ruby>危険物<rt>きけんぶつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>扱<rt>あつか</rt></ruby>ってよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Always wear appropriate PPE such as gloves, a mask and goggles when handling hazardous or harmful substances.",
+        "si": "අනතුරුදායක හෝ හානිකර ද්‍රව්‍ය හසුරුවන විට අත්වැසුම්, මුහුණු ආවරණ සහ ඇස් ආරක්ෂක කණ්ණාඩි වැනි PPE අනිවාර්යයෙන් පළඳින්න.",
+        "technicalNoteJa": "危険物・有害物＝保護具を必ず着用"
+      },
+      "sourcePage": 107,
+      "sourceAnchor": "p107 保護具",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0337",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Inspect containers before work to check for leaks or possible spills.",
+        "ja": "<ruby>作業前<rt>さぎょうまえ</rt></ruby>に、<ruby>容器<rt>ようき</rt></ruby>から<ruby>物質<rt>ぶっしつ</rt></ruby>が<ruby>漏<rt>も</rt></ruby>れていないか<ruby>点検<rt>てんけん</rt></ruby>します。"
+      },
+      "statement": "<ruby>作業前<rt>さぎょうまえ</rt></ruby>に、<ruby>容器<rt>ようき</rt></ruby>から<ruby>物質<rt>ぶっしつ</rt></ruby>が<ruby>漏<rt>も</rt></ruby>れていないか<ruby>点検<rt>てんけん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Inspect containers before work to check for leaks or possible spills.",
+        "si": "වැඩට පෙර බඳුන්වලින් ද්‍රව්‍ය කාන්දු වී ඇත්ද හෝ විසිරී යාමේ අවදානමක් තිබේදැයි පරීක්ෂා කරන්න.",
+        "technicalNoteJa": "作業前点検＝漏洩・飛散の確認"
+      },
+      "sourcePage": 108,
+      "sourceAnchor": "p108 危険物・有害物の取扱い",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0338",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Keep hazardous substances away from fire and heat because they may cause an explosion or fire.",
+        "ja": "<ruby>危険物<rt>きけんぶつ</rt></ruby>に<ruby>火<rt>ひ</rt></ruby>や<ruby>熱<rt>ねつ</rt></ruby>を<ruby>近<rt>ちか</rt></ruby>づけても、<ruby>問題<rt>もんだい</rt></ruby>ありません。"
+      },
+      "statement": "<ruby>危険物<rt>きけんぶつ</rt></ruby>に<ruby>火<rt>ひ</rt></ruby>や<ruby>熱<rt>ねつ</rt></ruby>を<ruby>近<rt>ちか</rt></ruby>づけても、<ruby>問題<rt>もんだい</rt></ruby>ありません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Keep hazardous substances away from fire and heat because they may cause an explosion or fire.",
+        "si": "අනතුරුදායක ද්‍රව්‍ය අසලට ගින්න හෝ තාපය ළං නොකරන්න; එයින් පිපිරීමක් හෝ ගින්නක් ඇතිවිය හැක.",
+        "technicalNoteJa": "危険物＝火・熱を近づけない"
+      },
+      "sourcePage": 108,
+      "sourceAnchor": "p108 危険物の取扱い",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0339",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Do not subject hazardous-substance containers to strong impacts; this can cause damage and release contents.",
+        "ja": "<ruby>容器<rt>ようき</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>い<ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えないようにします。"
+      },
+      "statement": "<ruby>容器<rt>ようき</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>い<ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えないようにします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Do not subject hazardous-substance containers to strong impacts; this can cause damage and release contents.",
+        "si": "අනතුරුදායක ද්‍රව්‍ය ඇති බඳුන්වලට තද පහරක් නොදෙන්න; එමඟින් බඳුන කැඩී ද්‍රව්‍ය පිටතට පැමිණිය හැක.",
+        "technicalNoteJa": "容器＝加熱・摩擦・強い衝撃を避ける"
+      },
+      "sourcePage": 108,
+      "sourceAnchor": "p108 危険物の取扱い",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0340",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Know the emergency response procedure before starting work and prepare necessary resources.",
+        "ja": "<ruby>緊急時<rt>きんきゅうじ</rt></ruby>の<ruby>対応方法<rt>たいおうほうほう</rt></ruby>は、<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>緊急時<rt>きんきゅうじ</rt></ruby>の<ruby>対応方法<rt>たいおうほうほう</rt></ruby>は、<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Know the emergency response procedure before starting work and prepare necessary resources.",
+        "si": "වැඩ ආරම්භ කිරීමට පෙර හදිසි අවස්ථාවක ක්‍රියා කරන ආකාරය දැනගෙන අවශ්‍ය සම්පත් සූදානම් කරගන්න.",
+        "technicalNoteJa": "緊急時対応＝作業前に方法と設備を確認"
+      },
+      "sourcePage": 108,
+      "sourceAnchor": "p108 緊急時の準備",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
