@@ -388,6 +388,38 @@
       ],
       "audit_status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
       "commit": "0a388c306854f6ae0b6c64a2cff92abe06806a66"
+    },
+    {
+      "lesson_id": "p04-forklift-final-02",
+      "path": "data/part-04/lesson-02-pages-119-123.json",
+      "pdf_pages": [
+        119,
+        120,
+        121,
+        122,
+        123
+      ],
+      "printed_pages": [
+        119,
+        120,
+        121,
+        122,
+        null
+      ],
+      "content_status": "COMPLETE",
+      "visual_assets": 3,
+      "visual_status": "COMMITTED_AND_LINKED",
+      "source_pdf_visual_pages": [
+        119,
+        121
+      ],
+      "external_visual_pages": [
+        119,
+        120,
+        121
+      ],
+      "audit_status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
+      "commit": "65abab6cf6df62a482b8b96041cd0ed56f08a669"
     }
   ],
   "completeness_rules": [
