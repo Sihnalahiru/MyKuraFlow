@@ -408,7 +408,7 @@
       ],
       "content_status": "COMPLETE",
       "visual_assets": 3,
-      "visual_status": "COMMITTED_AND_LINKED",
+      "visual_status": "COMMITTED_AND_LINKED_WITH_SOURCE_PDF_AND_EXTERNAL_REFERENCES",
       "source_pdf_visual_pages": [
         119,
         121
@@ -416,10 +416,10 @@
       "external_visual_pages": [
         119,
         120,
-        121
+        122
       ],
       "audit_status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
-      "commit": "65abab6cf6df62a482b8b96041cd0ed56f08a669"
+      "commit": "7ecda5b3089e24e45706894108cbe4f02fa50fe5"
     }
   ],
   "completeness_rules": [
