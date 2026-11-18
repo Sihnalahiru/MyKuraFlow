@@ -332,13 +332,15 @@
         107
       ],
       "external_visual_pages": [
+        101,
         103,
         104,
+        106,
         107,
         108
       ],
       "audit_status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
-      "commit": "9ef99254b01d90a0865105889ef61afeaa3383d3"
+      "commit": "7fdb67998534057a712f29bc6fcee4aef4804c0f"
     }
   ],
   "completeness_rules": [
