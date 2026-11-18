@@ -1,0 +1,3361 @@
+{
+  "audit_id": "MYKURAFLOW-SOURCE-AUDIT-2026-11-18-R2",
+  "source_pdf": "specified_skilled_worker_textbook_202607(2).pdf",
+  "physical_pages": 123,
+  "printed_pages": 122,
+  "physical_to_printed_mapping": "PDF physical pages 2-122 carry printed labels 2-122; page 1 is cover; page 123 is colophon/backmatter. Verified by reopening PDF pages and reading footer labels. No blank physical page 39 or 50 was found.",
+  "coverage": {
+    "content_page_range": [
+      9,
+      122
+    ],
+    "expected_printed_content_pages": 114,
+    "records": 115,
+    "unique_printed_pages": 115,
+    "missing_printed_pages": [],
+    "duplicates": [],
+    "front_matter_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "unprinted_backmatter_pages": [
+      123
+    ]
+  },
+  "findings": {
+    "page_49": "FOUND: original PDF physical page 49 / printed page 49 reopened and transcribed; page 49 record committed.",
+    "page_9_12": "Normalized to common mykuraflow.study-page.v1 schema; original sections preserved.",
+    "page_39_48": "Corrected pdf_page to equal verified physical page; printed pages 39-48.",
+    "page_50_59": "Split Part 1 printed pages 50-53 from Part 2 pages 54-59; page numbers corrected.",
+    "part_02_first_batch": "Merged printed pages 54-59 with existing 60-68; duplicate printed page 59 removed from active source list.",
+    "front_matter": "Cover and TOC records still need dedicated app content module; physical pages accounted in ledger.",
+    "image_inventory": "172 image assets exist under public/images. 80 distinct image refs currently present in page records; remaining original images require visual matching and mapping.",
+    "translation_review": "All 114 printed content pages have Japanese/Romaji/English/Sinhala fields in the active content records. Field presence is not proof of translation accuracy; line-by-line source fidelity and translation proofing remain pending.",
+    "furigana_review": "Many early pages embed readings in source_ja; separate furigana fields are inconsistent. Dedicated furigana normalization and accuracy audit remain pending.",
+    "tables_warnings_numbers": "Need line-by-line verification against PDF for every table, warning, numerical value and numbered instruction.",
+    "visual_review": "Only some pages have visual refs; all 172 binary assets have not yet been individually matched against PDF diagrams."
+  },
+  "active_content_files": [
+    "data/part-01/lesson-01-pages-009-012.json",
+    "data/part-01/lesson-02-pages-013-018.json",
+    "data/part-01/lesson-03-pages-019-028.json",
+    "data/part-01/lesson-04-pages-029-038.json",
+    "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+    "data/part-01/lesson-05-printed-page-049.json",
+    "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+    "data/part-02/lesson-01-pages-054-068.json",
+    "data/part-02/lesson-02-pages-069-078.json",
+    "data/part-02/lesson-03-pages-079-088.json",
+    "data/part-03/lesson-01-pages-089-098.json",
+    "data/part-03/lesson-02-pages-099-108.json",
+    "data/part-04/lesson-01-pages-109-118.json",
+    "data/part-04/lesson-02-pages-119-123.json"
+  ],
+  "content_records": [
+    {
+      "path": "data/part-01/lesson-01-pages-009-012.json",
+      "pdf_page": 9,
+      "printed_page": 9,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-01-pages-009-012.json",
+      "pdf_page": 10,
+      "printed_page": 10,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-01-pages-009-012.json",
+      "pdf_page": 11,
+      "printed_page": 11,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-01-pages-009-012.json",
+      "pdf_page": 12,
+      "printed_page": 12,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-02-pages-013-018.json",
+      "pdf_page": 13,
+      "printed_page": 13,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-02-pages-013-018.json",
+      "pdf_page": 14,
+      "printed_page": 14,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-02-pages-013-018.json",
+      "pdf_page": 15,
+      "printed_page": 15,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-02-pages-013-018.json",
+      "pdf_page": 16,
+      "printed_page": 16,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-02-pages-013-018.json",
+      "pdf_page": 17,
+      "printed_page": 17,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-02-pages-013-018.json",
+      "pdf_page": 18,
+      "printed_page": 18,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PENDING_VISUAL_MATCH"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 19,
+      "printed_page": 19,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/5.jpg",
+        "public/images/6.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 20,
+      "printed_page": 20,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/7.jpg",
+        "public/images/10.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 21,
+      "printed_page": 21,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/8.jpg",
+        "public/images/11.jpg",
+        "public/images/12.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 22,
+      "printed_page": 22,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/12.jpg",
+        "public/images/13.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 23,
+      "printed_page": 23,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/14.jpg",
+        "public/images/15.jpg",
+        "public/images/16.jpg",
+        "public/images/17.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 24,
+      "printed_page": 24,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/18.jpg",
+        "public/images/19.jpg",
+        "public/images/20.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 25,
+      "printed_page": 25,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "NO_PHOTOGRAPHIC_ASSET_REQUIRED_FOR_TEXT_TABLE"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 26,
+      "printed_page": 26,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/21.jpg",
+        "public/images/22.jpg",
+        "public/images/23.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 27,
+      "printed_page": 27,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/24.jpg",
+        "public/images/25.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-03-pages-019-028.json",
+      "pdf_page": 28,
+      "printed_page": 28,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/26.jpg",
+        "public/images/27.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 29,
+      "printed_page": 29,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/28.jpg",
+        "public/images/29.jpg"
+      ],
+      "visualStatus": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 30,
+      "printed_page": 30,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PDF_PAGE_VISUAL_IDENTIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 31,
+      "printed_page": 31,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PDF_PAGE_VISUAL_IDENTIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 32,
+      "printed_page": 32,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PDF_PAGE_VISUAL_IDENTIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 33,
+      "printed_page": 33,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PDF_PAGE_VISUAL_IDENTIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 34,
+      "printed_page": 34,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 35,
+      "printed_page": 35,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 36,
+      "printed_page": 36,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "PDF_PAGE_VISUAL_IDENTIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 37,
+      "printed_page": 37,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PDF_PAGE_VISUAL_IDENTIFIED"
+    },
+    {
+      "path": "data/part-01/lesson-04-pages-029-038.json",
+      "pdf_page": 38,
+      "printed_page": 38,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 39,
+      "printed_page": 39,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 40,
+      "printed_page": 40,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 41,
+      "printed_page": 41,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 42,
+      "printed_page": 42,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 43,
+      "printed_page": 43,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 44,
+      "printed_page": 44,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 45,
+      "printed_page": 45,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 46,
+      "printed_page": 46,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 47,
+      "printed_page": 47,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "pdf_page": 48,
+      "printed_page": 48,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "DIAGRAM_ONLY_MAPPING_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-printed-page-049.json",
+      "pdf_page": 49,
+      "printed_page": 49,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "NO_VERIFIED_STANDALONE_DIAGRAM"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "pdf_page": 50,
+      "printed_page": 50,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "pdf_page": 51,
+      "printed_page": 51,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "pdf_page": 52,
+      "printed_page": 52,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "pdf_page": 53,
+      "printed_page": 53,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 54,
+      "printed_page": 54,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 55,
+      "printed_page": 55,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 56,
+      "printed_page": 56,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 57,
+      "printed_page": 57,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 58,
+      "printed_page": 58,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": false,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 59,
+      "printed_page": 59,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "INDIVIDUAL_VISUAL_ASSET_REQUIRED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 60,
+      "printed_page": 60,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-060-time-temperature-light.svg"
+      ],
+      "visualStatus": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 61,
+      "printed_page": 61,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-061-warehouse-counters-a.svg"
+      ],
+      "visualStatus": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 62,
+      "printed_page": 62,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/59.jpg",
+        "public/images/61.jpg",
+        "public/images/64.jpg",
+        "/images/generated/page-062-warehouse-counters-b.svg"
+      ],
+      "visualStatus": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 63,
+      "printed_page": 63,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-063-warehouse-counters-c.svg"
+      ],
+      "visualStatus": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 64,
+      "printed_page": 64,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-064-inbound-preparation-dock.svg"
+      ],
+      "visualStatus": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 65,
+      "printed_page": 65,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-065-unloading-inspection.svg"
+      ],
+      "visualStatus": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 66,
+      "printed_page": 66,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-066-lot-packaging-weight.svg"
+      ],
+      "visualStatus": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 67,
+      "printed_page": 67,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-067-cargo-forms-a.svg"
+      ],
+      "visualStatus": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-01-pages-054-068.json",
+      "pdf_page": 68,
+      "printed_page": 68,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-068-bales-roll-cans.svg"
+      ],
+      "visualStatus": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 69,
+      "printed_page": 69,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-069-rti-tally-remarks.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 70,
+      "printed_page": 70,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-070-remark-putaway.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 71,
+      "printed_page": 71,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-071-location-management.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 72,
+      "printed_page": 72,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-072-outbound-single-picking.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 73,
+      "printed_page": 73,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-073-picking-methods-packing.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 74,
+      "printed_page": 74,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-074-outbound-inspection-damage.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 75,
+      "printed_page": 75,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/59.jpg",
+        "public/images/61.jpg",
+        "/images/generated/page-075-palletising-block-stack.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 76,
+      "printed_page": 76,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/62.jpg",
+        "public/images/63.jpg",
+        "public/images/64.jpg",
+        "public/images/65.jpg",
+        "/images/generated/page-076-pallet-patterns.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 77,
+      "printed_page": 77,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-077-dispatch-handover-zanka.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-02-pages-069-078.json",
+      "pdf_page": 78,
+      "printed_page": 78,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-078-distribution-labeling.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 79,
+      "printed_page": 79,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-079-distribution-processing-tasks.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 80,
+      "printed_page": 80,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/69.jpg",
+        "public/images/70.jpg",
+        "public/images/71.jpg",
+        "public/images/72.jpg",
+        "public/images/73.jpg",
+        "/images/generated/page-080-carton-tape-patterns.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 81,
+      "printed_page": 81,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/74.jpg",
+        "public/images/76.jpg",
+        "/images/generated/page-081-cushioning-opening-strapping.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 82,
+      "printed_page": 82,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "public/images/75.jpg",
+        "public/images/76.jpg",
+        "public/images/77.jpg",
+        "/images/generated/page-082-strapping-stretch-wrap.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 83,
+      "printed_page": 83,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-083-needle-inspection-refurbishment.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 84,
+      "printed_page": 84,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-084-work-plan-preparation.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 85,
+      "printed_page": 85,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-085-execution-progress-completion.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 86,
+      "printed_page": 86,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-086-disposal-reporting.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 87,
+      "printed_page": 87,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-02/lesson-03-pages-079-088.json",
+      "pdf_page": 88,
+      "printed_page": 88,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 89,
+      "printed_page": 89,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 90,
+      "printed_page": 90,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 91,
+      "printed_page": 91,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 92,
+      "printed_page": 92,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-092-daily-health-warmup.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 93,
+      "printed_page": 93,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-093-heatstroke-prevention.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 94,
+      "printed_page": 94,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 95,
+      "printed_page": 95,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-095-ppe-basics.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 96,
+      "printed_page": 96,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 97,
+      "printed_page": 97,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-01-pages-089-098.json",
+      "pdf_page": 98,
+      "printed_page": 98,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 99,
+      "printed_page": 99,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 100,
+      "printed_page": 100,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 101,
+      "printed_page": 101,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-101-clean-dry-floor.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 102,
+      "printed_page": 102,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 103,
+      "printed_page": 103,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-103-point-and-call-kyt.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 104,
+      "printed_page": 104,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-104-5s-method.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 105,
+      "printed_page": 105,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 106,
+      "printed_page": 106,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-106-severe-weather-response.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 107,
+      "printed_page": 107,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_page": 108,
+      "printed_page": 108,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-108-hazardous-goods-safe-handling.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 109,
+      "printed_page": 109,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 110,
+      "printed_page": 110,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 111,
+      "printed_page": 111,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 112,
+      "printed_page": 112,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 113,
+      "printed_page": 113,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 114,
+      "printed_page": 114,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 115,
+      "printed_page": 115,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 116,
+      "printed_page": 116,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-116-forklift-travel-safety.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 117,
+      "printed_page": 117,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-117-forklift-load-pickup-sequence.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_page": 118,
+      "printed_page": 118,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-118-loading-stacking-safety.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-02-pages-119-123.json",
+      "pdf_page": 119,
+      "printed_page": 119,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-02-pages-119-123.json",
+      "pdf_page": 120,
+      "printed_page": 120,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-120-pallet-cargo-workflow.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-02-pages-119-123.json",
+      "pdf_page": 121,
+      "printed_page": 121,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [],
+      "visualStatus": "SOURCE_PDF_VISUAL_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-02-pages-119-123.json",
+      "pdf_page": 122,
+      "printed_page": 122,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-122-container-conveyor-safety.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    },
+    {
+      "path": "data/part-04/lesson-02-pages-119-123.json",
+      "pdf_page": 123,
+      "printed_page": 123,
+      "ja": true,
+      "romaji": true,
+      "english": true,
+      "sinhala": true,
+      "furigana": true,
+      "imageRefs": [
+        "/images/generated/page-123-colophon-publisher-record.svg"
+      ],
+      "visualStatus": "COMMITTED_AND_LINKED"
+    }
+  ],
+  "physical_page_ledger": [
+    {
+      "physical_pdf_page": 1,
+      "classification": "COVER",
+      "printed_page": null,
+      "content_record": "front-matter",
+      "status": "RECORDED_IN_FRONT_MATTER"
+    },
+    {
+      "physical_pdf_page": 2,
+      "classification": "TABLE_OF_CONTENTS",
+      "printed_page": 2,
+      "content_record": "front-matter",
+      "status": "RECORDED_IN_FRONT_MATTER"
+    },
+    {
+      "physical_pdf_page": 3,
+      "classification": "TABLE_OF_CONTENTS",
+      "printed_page": 3,
+      "content_record": "front-matter",
+      "status": "RECORDED_IN_FRONT_MATTER"
+    },
+    {
+      "physical_pdf_page": 4,
+      "classification": "TABLE_OF_CONTENTS",
+      "printed_page": 4,
+      "content_record": "front-matter",
+      "status": "RECORDED_IN_FRONT_MATTER"
+    },
+    {
+      "physical_pdf_page": 5,
+      "classification": "TABLE_OF_CONTENTS",
+      "printed_page": 5,
+      "content_record": "front-matter",
+      "status": "RECORDED_IN_FRONT_MATTER"
+    },
+    {
+      "physical_pdf_page": 6,
+      "classification": "TABLE_OF_CONTENTS",
+      "printed_page": 6,
+      "content_record": "front-matter",
+      "status": "RECORDED_IN_FRONT_MATTER"
+    },
+    {
+      "physical_pdf_page": 7,
+      "classification": "TABLE_OF_CONTENTS",
+      "printed_page": 7,
+      "content_record": "front-matter",
+      "status": "RECORDED_IN_FRONT_MATTER"
+    },
+    {
+      "physical_pdf_page": 8,
+      "classification": "TABLE_OF_CONTENTS",
+      "printed_page": 8,
+      "content_record": "front-matter",
+      "status": "RECORDED_IN_FRONT_MATTER"
+    },
+    {
+      "physical_pdf_page": 9,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 9,
+      "content_record": "data/part-01/lesson-01-pages-009-012.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 10,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 10,
+      "content_record": "data/part-01/lesson-01-pages-009-012.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 11,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 11,
+      "content_record": "data/part-01/lesson-01-pages-009-012.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 12,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 12,
+      "content_record": "data/part-01/lesson-01-pages-009-012.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 13,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 13,
+      "content_record": "data/part-01/lesson-02-pages-013-018.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 14,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 14,
+      "content_record": "data/part-01/lesson-02-pages-013-018.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 15,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 15,
+      "content_record": "data/part-01/lesson-02-pages-013-018.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 16,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 16,
+      "content_record": "data/part-01/lesson-02-pages-013-018.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 17,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 17,
+      "content_record": "data/part-01/lesson-02-pages-013-018.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 18,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 18,
+      "content_record": "data/part-01/lesson-02-pages-013-018.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PENDING_VISUAL_MATCH",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 19,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 19,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 20,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 20,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 21,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 21,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 22,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 22,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 23,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 23,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 24,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 24,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 25,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 25,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "NO_PHOTOGRAPHIC_ASSET_REQUIRED_FOR_TEXT_TABLE",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 26,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 26,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 27,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 27,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 28,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 28,
+      "content_record": "data/part-01/lesson-03-pages-019-028.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 29,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 29,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 30,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 30,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PDF_PAGE_VISUAL_IDENTIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 31,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 31,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PDF_PAGE_VISUAL_IDENTIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 32,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 32,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PDF_PAGE_VISUAL_IDENTIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 33,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 33,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PDF_PAGE_VISUAL_IDENTIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 34,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 34,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 35,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 35,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 36,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 36,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PDF_PAGE_VISUAL_IDENTIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 37,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 37,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PDF_PAGE_VISUAL_IDENTIFIED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 38,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 38,
+      "content_record": "data/part-01/lesson-04-pages-029-038.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 39,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 39,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 40,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 40,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 41,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 41,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 42,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 42,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 43,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 43,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 44,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 44,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 45,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 45,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 46,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 46,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 47,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 47,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 48,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 48,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 49,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 49,
+      "content_record": "data/part-01/lesson-05-printed-page-049.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "NO_VERIFIED_STANDALONE_DIAGRAM",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 50,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 50,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 51,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 51,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 52,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 52,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 53,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 53,
+      "content_record": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 54,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 54,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 55,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 55,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 56,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 56,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 57,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 57,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 58,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 58,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 59,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 59,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 60,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 60,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 61,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 61,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 62,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 62,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 63,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 63,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 64,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 64,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 65,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 65,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 66,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 66,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 67,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 67,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 68,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 68,
+      "content_record": "data/part-02/lesson-01-pages-054-068.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 69,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 69,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 70,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 70,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 71,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 71,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 72,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 72,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 73,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 73,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 74,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 74,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 75,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 75,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 76,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 76,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 77,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 77,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 78,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 78,
+      "content_record": "data/part-02/lesson-02-pages-069-078.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 79,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 79,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 80,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 80,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 81,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 81,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 82,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 82,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 83,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 83,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 84,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 84,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 85,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 85,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 86,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 86,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 87,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 87,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 88,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 88,
+      "content_record": "data/part-02/lesson-03-pages-079-088.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 89,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 89,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 90,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 90,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 91,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 91,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 92,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 92,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 93,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 93,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 94,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 94,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 95,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 95,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 96,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 96,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 97,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 97,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 98,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 98,
+      "content_record": "data/part-03/lesson-01-pages-089-098.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 99,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 99,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 100,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 100,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 101,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 101,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 102,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 102,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 103,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 103,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 104,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 104,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 105,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 105,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 106,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 106,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 107,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 107,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 108,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 108,
+      "content_record": "data/part-03/lesson-02-pages-099-108.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 109,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 109,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 110,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 110,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 111,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 111,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 112,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 112,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 113,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 113,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 114,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 114,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 115,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 115,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 116,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 116,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 117,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 117,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 118,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 118,
+      "content_record": "data/part-04/lesson-01-pages-109-118.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 119,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 119,
+      "content_record": "data/part-04/lesson-02-pages-119-123.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 120,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 120,
+      "content_record": "data/part-04/lesson-02-pages-119-123.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 121,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 121,
+      "content_record": "data/part-04/lesson-02-pages-119-123.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "SOURCE_PDF_VISUAL_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 122,
+      "classification": "TEXTBOOK_CONTENT",
+      "printed_page": 122,
+      "content_record": "data/part-04/lesson-02-pages-119-123.json",
+      "language_fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "visual_mapping": "COMMITTED_AND_LINKED",
+      "status": "CONTENT_RECORD_PRESENT"
+    },
+    {
+      "physical_pdf_page": 123,
+      "classification": "COLOPHON_BACKMATTER",
+      "printed_page": null,
+      "content_record": "data/part-04/lesson-02-pages-119-123.json",
+      "status": "SOURCE_BACKMATTER_RECORD_PRESENT"
+    }
+  ],
+  "overall_status": "SOURCE_PAGE_COVERAGE_RECONCILED_CONTENT_QA_AND_VISUAL_AUDIT_PENDING",
+  "not_final_reasons": [
+    "Translation proofing not completed.",
+    "Furigana and Romaji accuracy not fully verified.",
+    "All original image assets not yet visually mapped.",
+    "Tables, warnings, numeric values and steps not fully audited.",
+    "Cover/TOC data needs dedicated learner-facing app module."
+  ]
+}
