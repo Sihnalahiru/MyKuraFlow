@@ -1896,6 +1896,481 @@
       "sourceAnchor": "p38 handling charge categories",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0097",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>善管注意義務<rt>ぜんかんちゅういぎむ</rt></ruby>では、<ruby>預<rt>あず</rt></ruby>かった<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>物<rt>もの</rt></ruby>よりも<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>います。"
+      },
+      "statement": "<ruby>善管注意義務<rt>ぜんかんちゅういぎむ</rt></ruby>では、<ruby>預<rt>あず</rt></ruby>かった<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>物<rt>もの</rt></ruby>よりも<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The duty requires handling entrusted cargo with even greater care than one's own valuable belongings.",
+        "si": "භාරගත් භාණ්ඩ තමන්ගේ වටිනා දේවලටත් වඩා සැලකිල්ලෙන් හැසිරවිය යුතුය.",
+        "technicalNoteJa": "善管注意義務＝預かった貨物を慎重に管理する義務"
+      },
+      "sourcePage": 39,
+      "sourceAnchor": "printed p39 duty of care",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0098",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>入庫<rt>にゅうこ</rt></ruby>から<ruby>出庫<rt>しゅっこ</rt></ruby>まで、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>はありません。"
+      },
+      "statement": "<ruby>入庫<rt>にゅうこ</rt></ruby>から<ruby>出庫<rt>しゅっこ</rt></ruby>まで、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>はありません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The receiving-to-dispatch process includes checking the number and quantity of cargo.",
+        "si": "භාණ්ඩ ඇතුළත් කිරීමේ සිට පිටත් කිරීම දක්වා ගණන හා ප්‍රමාණය පරීක්ෂා කළ යුතුය.",
+        "technicalNoteJa": "入庫時に貨物の数・量を確認する"
+      },
+      "sourcePage": 39,
+      "sourceAnchor": "printed p39 inbound quantity check",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0099",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "はい<ruby>付<rt>づ</rt></ruby>けは、<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>空間<rt>くうかん</rt></ruby>を<ruby>上手<rt>じょうず</rt></ruby>に<ruby>使<rt>つか</rt></ruby>い、<ruby>貨物<rt>かもつ</rt></ruby>をきれいに<ruby>積<rt>つ</rt></ruby>み<ruby>重<rt>かさ</rt></ruby>ねることです。"
+      },
+      "statement": "はい<ruby>付<rt>づ</rt></ruby>けは、<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>空間<rt>くうかん</rt></ruby>を<ruby>上手<rt>じょうず</rt></ruby>に<ruby>使<rt>つか</rt></ruby>い、<ruby>貨物<rt>かもつ</rt></ruby>をきれいに<ruby>積<rt>つ</rt></ruby>み<ruby>重<rt>かさ</rt></ruby>ねることです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Hai-zuke means using warehouse space effectively and stacking cargo neatly.",
+        "si": "はい付け යනු ගබඩා ඉඩකඩ කාර්යක්ෂමව භාවිත කර භාණ්ඩ පිළිවෙළට ගොඩගැසීමයි.",
+        "technicalNoteJa": "はい付け＝貨物を整然と積み重ねる"
+      },
+      "sourcePage": 39,
+      "sourceAnchor": "printed p39 hai-zuke",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0100",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>守秘義務<rt>しゅひぎむ</rt></ruby>では、<ruby>仕事中<rt>しごとちゅう</rt></ruby>に<ruby>知<rt>し</rt></ruby>った<ruby>個人情報<rt>こじんじょうほう</rt></ruby>を<ruby>他人<rt>たにん</rt></ruby>に<ruby>話<rt>はな</rt></ruby>してもよいです。"
+      },
+      "statement": "<ruby>守秘義務<rt>しゅひぎむ</rt></ruby>では、<ruby>仕事中<rt>しごとちゅう</rt></ruby>に<ruby>知<rt>し</rt></ruby>った<ruby>個人情報<rt>こじんじょうほう</rt></ruby>を<ruby>他人<rt>たにん</rt></ruby>に<ruby>話<rt>はな</rt></ruby>してもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Confidentiality requires workers not to disclose secrets or personal information learned at work.",
+        "si": "සේවයේදී දැනගත් රහස් හෝ පුද්ගලික තොරතුරු වෙනත් අයට හෙළි කිරීම තහනම්ය.",
+        "technicalNoteJa": "守秘義務＝業務で知った秘密を漏らさない"
+      },
+      "sourcePage": 40,
+      "sourceAnchor": "printed p40 confidentiality",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0101",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>倉庫内<rt>そうこない</rt></ruby>では、<ruby>貨物<rt>かもつ</rt></ruby>について<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせた<ruby>人<rt>ひと</rt></ruby>が<ruby>寄託者<rt>きたくしゃ</rt></ruby>かどうかを<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>倉庫内<rt>そうこない</rt></ruby>では、<ruby>貨物<rt>かもつ</rt></ruby>について<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせた<ruby>人<rt>ひと</rt></ruby>が<ruby>寄託者<rt>きたくしゃ</rt></ruby>かどうかを<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A person asking about cargo must be verified as the depositor.",
+        "si": "භාණ්ඩ ගැන විමසන පුද්ගලයා භාණ්ඩ භාරදුන් හිමිකරුදැයි තහවුරු කළ යුතුය.",
+        "technicalNoteJa": "問い合わせ者の本人確認を行う"
+      },
+      "sourcePage": 40,
+      "sourceAnchor": "printed p40 identity verification",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0102",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>温度<rt>おんど</rt></ruby>と<ruby>湿度<rt>しつど</rt></ruby>に<ruby>異常<rt>いじょう</rt></ruby>があっても、<ruby>次<rt>つぎ</rt></ruby>の<ruby>点検日<rt>てんけんび</rt></ruby>まで<ruby>報告<rt>ほうこく</rt></ruby>しなくてもよいです。"
+      },
+      "statement": "<ruby>温度<rt>おんど</rt></ruby>と<ruby>湿度<rt>しつど</rt></ruby>に<ruby>異常<rt>いじょう</rt></ruby>があっても、<ruby>次<rt>つぎ</rt></ruby>の<ruby>点検日<rt>てんけんび</rt></ruby>まで<ruby>報告<rt>ほうこく</rt></ruby>しなくてもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Any abnormality must be reported immediately to the work-management supervisor.",
+        "si": "උෂ්ණත්වය හෝ ආර්ද්‍රතාවයේ අසාමාන්‍යතාවක් හමුවූ විට වහාම වගකිවයුතු නිලධාරියාට වාර්තා කළ යුතුය.",
+        "technicalNoteJa": "異常を発見したら直ちに報告する"
+      },
+      "sourcePage": 41,
+      "sourceAnchor": "printed p41 abnormality reporting",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0103",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>温度<rt>おんど</rt></ruby>と<ruby>湿度<rt>しつど</rt></ruby>を<ruby>測定<rt>そくてい</rt></ruby>し、その<ruby>記録<rt>きろく</rt></ruby>を<ruby>作業管理者<rt>さぎょうかんりしゃ</rt></ruby>に<ruby>提出<rt>ていしゅつ</rt></ruby>します。"
+      },
+      "statement": "<ruby>温度<rt>おんど</rt></ruby>と<ruby>湿度<rt>しつど</rt></ruby>を<ruby>測定<rt>そくてい</rt></ruby>し、その<ruby>記録<rt>きろく</rt></ruby>を<ruby>作業管理者<rt>さぎょうかんりしゃ</rt></ruby>に<ruby>提出<rt>ていしゅつ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Temperature and humidity are measured and the records submitted to the work manager.",
+        "si": "උෂ්ණත්වය හා ආර්ද්‍රතාව මැන එම වාර්තා වැඩ කළමනාකරුට ඉදිරිපත් කළ යුතුය.",
+        "technicalNoteJa": "温度・湿度を測定して記録を提出する"
+      },
+      "sourcePage": 41,
+      "sourceAnchor": "printed p41 temperature and humidity records",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0104",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>発散貨物<rt>はっさんかもつ</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>のにおいを<ruby>出<rt>だ</rt></ruby>す<ruby>貨物<rt>かもつ</rt></ruby>です。"
+      },
+      "statement": "<ruby>発散貨物<rt>はっさんかもつ</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>のにおいを<ruby>出<rt>だ</rt></ruby>す<ruby>貨物<rt>かもつ</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Odor-emitting cargo releases its own smell.",
+        "si": "ගන්ධය නිකුත් කරන භාණ්ඩ යනු තමන්ගේම ගන්ධය පිටකරන භාණ්ඩය.",
+        "technicalNoteJa": "発散貨物＝においを出す貨物"
+      },
+      "sourcePage": 42,
+      "sourceAnchor": "printed p42 odor-emitting cargo",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0105",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>放臭・吸気貨物<rt>ほうしゅう・きゅうきかもつ</rt></ruby>は、<ruby>他<rt>ほか</rt></ruby>のにおいを<ruby>吸<rt>す</rt></ruby>い<ruby>込<rt>こ</rt></ruby>みません。"
+      },
+      "statement": "<ruby>放臭・吸気貨物<rt>ほうしゅう・きゅうきかもつ</rt></ruby>は、<ruby>他<rt>ほか</rt></ruby>のにおいを<ruby>吸<rt>す</rt></ruby>い<ruby>込<rt>こ</rt></ruby>みません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "This cargo type emits its own odor while also absorbing other odors.",
+        "si": "මෙම භාණ්ඩ වර්ගය තමන්ගේ ගන්ධය නිකුත් කරන අතර වෙනත් ගන්ධද උරාගනියි.",
+        "technicalNoteJa": "放臭・吸気貨物＝においを出し、他のにおいも吸収する"
+      },
+      "sourcePage": 42,
+      "sourceAnchor": "printed p42 odor emitting and absorbing",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0106",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>段<rt>だん</rt></ruby>ボールやプラスチックは、においを<ruby>吸<rt>す</rt></ruby>い<ruby>込<rt>こ</rt></ruby>むことがあります。"
+      },
+      "statement": "<ruby>段<rt>だん</rt></ruby>ボールやプラスチックは、においを<ruby>吸<rt>す</rt></ruby>い<ruby>込<rt>こ</rt></ruby>むことがあります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Cardboard and plastic can absorb odors.",
+        "si": "කාඩ්බෝඩ් සහ ප්ලාස්ටික්වලට ගන්ධ උරාගත හැකිය.",
+        "technicalNoteJa": "段ボール・プラスチックは臭気を吸収することがある"
+      },
+      "sourcePage": 42,
+      "sourceAnchor": "printed p42 odor absorption",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0107",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>倉庫<rt>そうこ</rt></ruby>のスペースを<ruby>有効利用<rt>ゆうこうりよう</rt></ruby>するため、パレットやラックを<ruby>使<rt>つか</rt></ruby>って<ruby>上方向<rt>うえほうこう</rt></ruby>の<ruby>空間<rt>くうかん</rt></ruby>も<ruby>利用<rt>りよう</rt></ruby>します。"
+      },
+      "statement": "<ruby>倉庫<rt>そうこ</rt></ruby>のスペースを<ruby>有効利用<rt>ゆうこうりよう</rt></ruby>するため、パレットやラックを<ruby>使<rt>つか</rt></ruby>って<ruby>上方向<rt>うえほうこう</rt></ruby>の<ruby>空間<rt>くうかん</rt></ruby>も<ruby>利用<rt>りよう</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Pallets and racks help use vertical warehouse space effectively.",
+        "si": "පැලට් සහ රාක්ක භාවිතයෙන් ගබඩාවේ ඉහළ දිශාවේ ඉඩකඩද කාර්යක්ෂමව භාවිත කරයි.",
+        "technicalNoteJa": "パレット・ラックで垂直空間を活用する"
+      },
+      "sourcePage": 43,
+      "sourceAnchor": "printed p43 vertical space",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0108",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>はい替<rt>が</rt></ruby>え・<ruby>倉替<rt>くらが</rt></ruby>えは、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>自由<rt>じゆう</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>えます。"
+      },
+      "statement": "<ruby>はい替<rt>が</rt></ruby>え・<ruby>倉替<rt>くらが</rt></ruby>えは、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>自由<rt>じゆう</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>えます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Relocation must follow the supervisor's instructions; workers cannot move cargo based only on their own judgment.",
+        "si": "භාණ්ඩ ස්ථානය මාරු කිරීම වගකිවයුතු නිලධාරියාගේ උපදෙස් අනුව කළ යුතුය; තමන්ගේ තනි තීරණයෙන් කළ නොහැක.",
+        "technicalNoteJa": "保管場所の変更は責任者の指示に従う"
+      },
+      "sourcePage": 43,
+      "sourceAnchor": "printed p43 storage relocation",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0109",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "５Ｓの「<ruby>整理<rt>せいり</rt></ruby>」は、<ruby>必要<rt>ひつよう</rt></ruby>なものと<ruby>不要<rt>ふよう</rt></ruby>なものを<ruby>分<rt>わ</rt></ruby>けることです。"
+      },
+      "statement": "５Ｓの「<ruby>整理<rt>せいり</rt></ruby>」は、<ruby>必要<rt>ひつよう</rt></ruby>なものと<ruby>不要<rt>ふよう</rt></ruby>なものを<ruby>分<rt>わ</rt></ruby>けることです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Seiri means separating necessary items from unnecessary items.",
+        "si": "Seiri යනු අවශ්‍ය දේ සහ අනවශ්‍ය දේ වෙන් කිරීමයි.",
+        "technicalNoteJa": "整理＝必要品と不要品を分ける"
+      },
+      "sourcePage": 44,
+      "sourceAnchor": "printed p44 5S seiri",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0110",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "５Ｓの「<ruby>整頓<rt>せいとん</rt></ruby>」は、<ruby>必要<rt>ひつよう</rt></ruby>なものを<ruby>決<rt>き</rt></ruby>まった<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>置<rt>お</rt></ruby>くことです。"
+      },
+      "statement": "５Ｓの「<ruby>整頓<rt>せいとん</rt></ruby>」は、<ruby>必要<rt>ひつよう</rt></ruby>なものを<ruby>決<rt>き</rt></ruby>まった<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>置<rt>お</rt></ruby>くことです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Seiton means placing necessary items in their designated locations.",
+        "si": "Seiton යනු අවශ්‍ය දේ නියමිත ස්ථානයේ තැබීමයි.",
+        "technicalNoteJa": "整頓＝必要品を決められた場所に置く"
+      },
+      "sourcePage": 44,
+      "sourceAnchor": "printed p44 5S seiton",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0111",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "５Ｓの「<ruby>清掃<rt>せいそう</rt></ruby>」は、きれいな<ruby>状態<rt>じょうたい</rt></ruby>をずっと<ruby>保<rt>たも</rt></ruby>つことです。"
+      },
+      "statement": "５Ｓの「<ruby>清掃<rt>せいそう</rt></ruby>」は、きれいな<ruby>状態<rt>じょうたい</rt></ruby>をずっと<ruby>保<rt>たも</rt></ruby>つことです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Seiso means cleaning dirt; maintaining the clean condition is Seiketsu.",
+        "si": "Seiso යනු අපිරිසිදු දේ පිරිසිදු කිරීමයි. පිරිසිදු තත්ත්වය පවත්වා ගැනීම Seiketsu වේ.",
+        "technicalNoteJa": "清掃＝掃除／清潔＝きれいな状態を保つ"
+      },
+      "sourcePage": 44,
+      "sourceAnchor": "printed p44 5S seiso and seiketsu",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0112",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>入庫番号<rt>にゅうこばんごう</rt></ruby>やLOT<ruby>番号<rt>ばんごう</rt></ruby>がある<ruby>貨物<rt>かもつ</rt></ruby>は、<ruby>番号<rt>ばんごう</rt></ruby>ごとに<ruby>分<rt>わ</rt></ruby>けて<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>入庫番号<rt>にゅうこばんごう</rt></ruby>やLOT<ruby>番号<rt>ばんごう</rt></ruby>がある<ruby>貨物<rt>かもつ</rt></ruby>は、<ruby>番号<rt>ばんごう</rt></ruby>ごとに<ruby>分<rt>わ</rt></ruby>けて<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Cargo with inbound or lot numbers should be counted separately by number group.",
+        "si": "Inbound හෝ LOT අංක ඇති භාණ්ඩ එක් එක් අංක කාණ්ඩය අනුව වෙන්ව ගණන් කළ යුතුය.",
+        "technicalNoteJa": "入庫番号・LOT番号ごとに数量を確認する"
+      },
+      "sourcePage": 45,
+      "sourceAnchor": "printed p45 lot inventory count",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0113",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>棚卸<rt>たなおろし</rt></ruby>では、<ruby>帳簿<rt>ちょうぼ</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>と<ruby>実際<rt>じっさい</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>比<rt>くら</rt></ruby>べる<ruby>必要<rt>ひつよう</rt></ruby>はありません。"
+      },
+      "statement": "<ruby>棚卸<rt>たなおろし</rt></ruby>では、<ruby>帳簿<rt>ちょうぼ</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>と<ruby>実際<rt>じっさい</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>比<rt>くら</rt></ruby>べる<ruby>必要<rt>ひつよう</rt></ruby>はありません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Stocktaking checks whether recorded quantities match actual physical quantities and also checks condition.",
+        "si": "Stocktaking වලදී ලේඛනගත ප්‍රමාණය සැබෑ ප්‍රමාණයට ගැළපේද සහ භාණ්ඩ තත්ත්වය නිවැරදිදැයි පරීක්ෂා කළ යුතුය.",
+        "technicalNoteJa": "棚卸＝帳簿数量と実数・貨物状態を確認する"
+      },
+      "sourcePage": 45,
+      "sourceAnchor": "printed p45 stocktaking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0114",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>定期棚卸<rt>ていきたなおろし</rt></ruby>は、<ruby>半年<rt>はんとし</rt></ruby>ごとや<ruby>年末<rt>ねんまつ</rt></ruby>など、<ruby>決<rt>き</rt></ruby>まった<ruby>時期<rt>じき</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>います。"
+      },
+      "statement": "<ruby>定期棚卸<rt>ていきたなおろし</rt></ruby>は、<ruby>半年<rt>はんとし</rt></ruby>ごとや<ruby>年末<rt>ねんまつ</rt></ruby>など、<ruby>決<rt>き</rt></ruby>まった<ruby>時期<rt>じき</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Periodic stocktaking is conducted at set times such as every six months or year-end.",
+        "si": "Periodic stocktaking මාස හයකට වරක් හෝ වසර අවසානය වැනි නියමිත කාලවලදී සිදු කරයි.",
+        "technicalNoteJa": "定期棚卸＝決まった時期に実施"
+      },
+      "sourcePage": 46,
+      "sourceAnchor": "printed p46 periodic stocktaking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0115",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>循環棚卸<rt>じゅんかんたなおろし</rt></ruby>では、<ruby>決<rt>き</rt></ruby>まった<ruby>品物<rt>しなもの</rt></ruby>を<ruby>毎日<rt>まいにち</rt></ruby>または<ruby>数日<rt>すうじつ</rt></ruby>ごとに<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>し<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>循環棚卸<rt>じゅんかんたなおろし</rt></ruby>では、<ruby>決<rt>き</rt></ruby>まった<ruby>品物<rt>しなもの</rt></ruby>を<ruby>毎日<rt>まいにち</rt></ruby>または<ruby>数日<rt>すうじつ</rt></ruby>ごとに<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>し<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Cycle counting repeatedly checks selected goods daily or every few days.",
+        "si": "Cycle counting තෝරාගත් භාණ්ඩ දිනපතා හෝ දින කිහිපයකට වරක් නැවත පරීක්ෂා කරයි.",
+        "technicalNoteJa": "循環棚卸＝対象品を繰り返し確認する"
+      },
+      "sourcePage": 46,
+      "sourceAnchor": "printed p46 cycle counting",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0116",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>棚卸<rt>たなおろし</rt></ruby>で<ruby>在庫差異<rt>ざいこさい</rt></ruby>があっても、<ruby>責任者<rt>せきにんしゃ</rt></ruby>への<ruby>報告<rt>ほうこく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>です。"
+      },
+      "statement": "<ruby>棚卸<rt>たなおろし</rt></ruby>で<ruby>在庫差異<rt>ざいこさい</rt></ruby>があっても、<ruby>責任者<rt>せきにんしゃ</rt></ruby>への<ruby>報告<rt>ほうこく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "An inventory discrepancy must be reported immediately and its cause investigated.",
+        "si": "තොග වෙනසක් හමුවුවහොත් වහාම වගකිවයුතු නිලධාරියාට වාර්තා කර හේතුව සොයා බැලිය යුතුය.",
+        "technicalNoteJa": "在庫差異は直ちに報告し原因を調査する"
+      },
+      "sourcePage": 46,
+      "sourceAnchor": "printed p46 inventory discrepancy",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0117",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>サンプル出庫<rt>さんぷるしゅっこ</rt></ruby>では、<ruby>出庫指図書<rt>しゅっこさしずしょ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してから<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>移動<rt>いどう</rt></ruby>します。"
+      },
+      "statement": "<ruby>サンプル出庫<rt>さんぷるしゅっこ</rt></ruby>では、<ruby>出庫指図書<rt>しゅっこさしずしょ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してから<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>移動<rt>いどう</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Before moving cargo for sample dispatch, check the order/dispatch instruction document.",
+        "si": "නියැදි භාණ්ඩ පිටත් කිරීමට පෙර පිටත් කිරීමේ ලිඛිත නියෝගය පරීක්ෂා කළ යුතුය.",
+        "technicalNoteJa": "サンプル出庫＝指図書を確認してから移動する"
+      },
+      "sourcePage": 46,
+      "sourceAnchor": "printed p46 sample dispatch",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0118",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "サンプル<ruby>出庫中<rt>しゅっこちゅう</rt></ruby>は、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>が<ruby>立<rt>た</rt></ruby>ち<ruby>会<rt>あ</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>はありません。"
+      },
+      "statement": "サンプル<ruby>出庫中<rt>しゅっこちゅう</rt></ruby>は、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>が<ruby>立<rt>た</rt></ruby>ち<ruby>会<rt>あ</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>はありません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A warehouse worker must remain present throughout sample work to prevent accidents and unauthorized removal.",
+        "si": "නියැදි වැඩ සිදුවන මුළු කාලය තුළ සේවකයෙකු අසල සිට නිරීක්ෂණය කළ යුතුය.",
+        "technicalNoteJa": "サンプル作業中は必ず立ち会う"
+      },
+      "sourcePage": 47,
+      "sourceAnchor": "printed p47 sample supervision",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0119",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>廃棄<rt>はいき</rt></ruby>と<ruby>滅却<rt>めっきゃく</rt></ruby>は、どちらも<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てることだけを<ruby>意味<rt>いみ</rt></ruby>します。"
+      },
+      "statement": "<ruby>廃棄<rt>はいき</rt></ruby>と<ruby>滅却<rt>めっきゃく</rt></ruby>は、どちらも<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てることだけを<ruby>意味<rt>いみ</rt></ruby>します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Disposal means discarding goods; destruction means completely eliminating them by burning or breaking.",
+        "si": "廃棄 යනු ඉවත දැමීමයි. 滅却 යනු පිළිස්සීමෙන් හෝ කඩා සම්පූර්ණයෙන් විනාශ කිරීමයි.",
+        "technicalNoteJa": "廃棄＝捨てる／滅却＝焼却・破壊してなくす"
+      },
+      "sourcePage": 47,
+      "sourceAnchor": "printed p47 disposal and destruction",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0120",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>雨漏<rt>あまも</rt></ruby>りを<ruby>点検<rt>てんけん</rt></ruby>するときは、<ruby>天井<rt>てんじょう</rt></ruby>や<ruby>壁<rt>かべ</rt></ruby>からの<ruby>浸水<rt>しんすい</rt></ruby>と<ruby>排水<rt>はいすい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>雨漏<rt>あまも</rt></ruby>りを<ruby>点検<rt>てんけん</rt></ruby>するときは、<ruby>天井<rt>てんじょう</rt></ruby>や<ruby>壁<rt>かべ</rt></ruby>からの<ruby>浸水<rt>しんすい</rt></ruby>と<ruby>排水<rt>はいすい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "During rain, inspect for water entering through ceilings or walls and check drainage.",
+        "si": "වැසි කාලයේදී සිවිලිම/බිත්ති හරහා ජලය ඇතුළුවීම සහ ජල බැසයාම පරීක්ෂා කළ යුතුය.",
+        "technicalNoteJa": "雨漏り点検＝浸水と排水を確認する"
+      },
+      "sourcePage": 48,
+      "sourceAnchor": "printed p48 rain leakage inspection",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0121",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>倉庫<rt>そうこ</rt></ruby>を<ruby>施錠<rt>せじょう</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>人<rt>ひと</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>っていないか、<ruby>火災<rt>かさい</rt></ruby>や<ruby>水漏<rt>みずも</rt></ruby>れがないか<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>倉庫<rt>そうこ</rt></ruby>を<ruby>施錠<rt>せじょう</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>人<rt>ひと</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>っていないか、<ruby>火災<rt>かさい</rt></ruby>や<ruby>水漏<rt>みずも</rt></ruby>れがないか<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Before locking the warehouse, check for remaining people, fire risks and water leaks.",
+        "si": "ගබඩාවට අගුළු දැමීමට පෙර ඇතුළත පුද්ගලයන් සිටීද, ගිනි අවදානමක් හෝ ජල කාන්දුවක් තිබේද පරීක්ෂා කළ යුතුය.",
+        "technicalNoteJa": "施錠前の確認＝人・火災・水漏れ"
+      },
+      "sourcePage": 48,
+      "sourceAnchor": "printed p48 lock-up safety check",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
