@@ -52,7 +52,19 @@
         "repo_images": [],
         "use_original_pdf_visual": true,
         "generated_asset": null,
-        "external_visual_references": [],
+        "external_visual_references": [
+          {
+            "source": "Kouwan Saibou — Forklift Five Principles Safety Sticker",
+            "url": "https://www.kouwansaibou-hyogo.jp/files/libs/1072/202502121103443567.png",
+            "image_url": "https://www.kouwansaibou-hyogo.jp/files/libs/1072/202502121103443567.png",
+            "purpose": "Japanese visual poster of the five forklift stopping rules; supplemental to the textbook table."
+          },
+          {
+            "source": "Japan MHLW — Forklift operator management requirements",
+            "url": "https://www.mhlw.go.jp/content/11300000/000628483.pdf",
+            "purpose": "Official reference for lowering the forks and applying the brake/engine-off measures before leaving the operator position."
+          }
+        ],
         "status": "SOURCE_PDF_VISUAL_LINKED"
       }
     },
@@ -76,7 +88,19 @@
         "repo_images": [],
         "use_original_pdf_visual": false,
         "generated_asset": "/images/generated/page-120-pallet-cargo-workflow.svg",
-        "external_visual_references": [],
+        "external_visual_references": [
+          {
+            "source": "OSHA — Powered Industrial Trucks, Figure 8: Fork position",
+            "url": "https://www.osha.gov/sites/default/files/inline-images/inching_3.jpg",
+            "image_url": "https://www.osha.gov/sites/default/files/inline-images/inching_3.jpg",
+            "purpose": "Official illustration of inserting forks fully under pallet cargo."
+          },
+          {
+            "source": "OSHA — Load Handling",
+            "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift/load-handling",
+            "purpose": "Official diagrams and guidance for approaching, fork positioning, lifting and load stability."
+          }
+        ],
         "status": "COMMITTED_AND_LINKED"
       }
     },
@@ -133,7 +157,19 @@
         "repo_images": [],
         "use_original_pdf_visual": false,
         "generated_asset": "/images/generated/page-122-container-conveyor-safety.svg",
-        "external_visual_references": [],
+        "external_visual_references": [
+          {
+            "source": "Yoshiearth — Container Vanning Diagram",
+            "url": "https://www.yoshiearth.co.jp/files/libs/953/202005271021391064.jpg",
+            "image_url": "https://www.yoshiearth.co.jp/files/libs/953/202005271021391064.jpg",
+            "purpose": "Supplementary container loading diagram showing pallet placement and cargo securing materials."
+          },
+          {
+            "source": "JITBOX — Vanning / Devanning illustrated overview",
+            "url": "https://www.jitbox.co.jp/column/id-064/",
+            "purpose": "Supplementary illustration and explanation of container loading and unloading."
+          }
+        ],
         "status": "COMMITTED_AND_LINKED"
       }
     },
@@ -182,23 +218,18 @@
     "external_visual_references": [
       {
         "page": 119,
-        "url": "https://www.mhlw.go.jp/content/11300000/000628483.pdf",
-        "source": "Japan MHLW forklift operator management requirements"
-      },
-      {
-        "page": 119,
-        "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift/traveling-maneuvering",
-        "source": "OSHA parking and unattended forklift procedure"
+        "url": "https://www.kouwansaibou-hyogo.jp/files/libs/1072/202502121103443567.png",
+        "source": "Japanese port safety association forklift stopping five-rules visual"
       },
       {
         "page": 120,
-        "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift/load-handling",
-        "source": "OSHA pallet load handling and fork insertion"
+        "url": "https://www.osha.gov/sites/default/files/inline-images/inching_3.jpg",
+        "source": "OSHA fork positioning illustration"
       },
       {
-        "page": 121,
-        "url": "https://www.mhlw.go.jp/content/000495691.pdf",
-        "source": "Japan MHLW forklift operation safety diagrams"
+        "page": 122,
+        "url": "https://www.yoshiearth.co.jp/files/libs/953/202005271021391064.jpg",
+        "source": "Container vanning and cargo securing diagram"
       }
     ],
     "status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
