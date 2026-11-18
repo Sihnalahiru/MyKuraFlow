@@ -1,0 +1,411 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-03-and-04",
+  "lesson_id": "p03-ghs-appendix-p04-forklift-01",
+  "lesson_title": {
+    "ja": "GHSラベル・フォークリフト作業基準",
+    "furigana": "GHSラベル・フォークリフト作業基準（さぎょうきじゅん）",
+    "romaji": "GHS Label, Forklift Sagyou Kijun",
+    "en": "GHS labels and forklift work standards",
+    "si": "GHS ලේබල් සහ Forklift මෙහෙයුම් ප්‍රමිතීන්"
+  },
+  "page_range": {
+    "pdf_pages": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "printed_pages": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 109,
+      "printed_page": 109,
+      "source_ja": "教本C 第3編 物流倉庫の安全衛生 付録GHSラベル。GHSラベルは危険な化学品に貼る絵表示で、世界共通のマークにより言葉が分からなくても危険を理解できる。1 爆発（爆弾）マーク：火薬類、自己反応性化学品、有機過酸化物。爆発危険があるため火や衝撃を絶対に与えない。2 炎マーク：引火しやすいガス・スプレー・液体・固体、自然発火性物質、水と反応して可燃性ガスを出す物質。火の近くに置かない。",
+      "source_furigana": "教本（きょうほん）、物流倉庫（ぶつりゅうそうこ）、安全衛生（あんぜんえいせい）、付録（ふろく）、危険物（きけんぶつ）、有害物（ゆうがいぶつ）、絵表示（えひょうじ）、爆発（ばくはつ）、自己反応性（じこはんのうせい）、有機過酸化物（ゆうきかさんかぶつ）、引火性（いんかせい）。",
+      "romaji": "GHS label wa kiken na kagaku-hin ni haru e no mark desu. Sekai kyoutsuu no mark de, kotoba ga wakaranakute mo kiken o rikai dekimasu. Bakudan mark wa bakuhatsu no kiken; honoo mark wa moeyasui mono desu.",
+      "en": "Textbook C, Part 3: Warehouse safety and health, GHS label appendix. A GHS label is a pictogram attached to hazardous chemicals. Because the symbols are internationally standardized, people can recognize hazards even when they do not understand the language. (1) Exploding bomb: explosives, self-reactive chemicals and organic peroxides; keep away from fire and impact. (2) Flame: flammable gases, aerosols, liquids and solids; self-heating or self-igniting materials; and substances that release flammable gas on contact with water. Keep away from ignition sources.",
+      "si": "Textbook C, Part 3: ගබඩා ආරක්ෂාව සහ සෞඛ්‍යය — GHS ලේබල් උපග්‍රන්ථය. GHS ලේබලය යනු අනතුරුදායක රසායනික ද්‍රව්‍යවල අලවන රූප සලකුණකි. ලෝකය පුරා සම්මත සලකුණු භාවිත කරන නිසා භාෂාව නොතේරුණත් අවදානම හඳුනාගත හැක. (1) පුපුරන බෝම්බ සලකුණ: පුපුරණ ද්‍රව්‍ය, ස්වයං ප්‍රතික්‍රියාශීලී රසායනික ද්‍රව්‍ය සහ කාබනික පෙරොක්සයිඩ්; ගින්නෙන් හා ගැටීමෙන් ඈත් කරන්න. (2) ගිනි දැල්ල: පහසුවෙන් ගිනිගන්නා වායු, aerosol, ද්‍රව සහ ඝන ද්‍රව්‍ය; ස්වයංව රත්/ගිනිගන්නා ද්‍රව්‍ය; ජලය සමඟ ප්‍රතික්‍රියා කර ගිනිගන්නා වායු නිකුත් කරන ද්‍රව්‍ය. ගිනි මූලාශ්‍රවලින් ඈත් කරන්න.",
+      "visuals": [
+        {
+          "type": "ghs_exploding_bomb",
+          "description": "Original PDF pictogram for explosive substances."
+        },
+        {
+          "type": "ghs_flame",
+          "description": "Original PDF pictogram for flammable substances."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 109,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 110,
+      "printed_page": 110,
+      "source_ja": "3 炎に丸（酸化性）マーク：他の物を燃えやすくする酸化性ガス・液体・固体。自体が燃えなくても他を燃えやすくする。4 ガスボンベ：高圧ガス。落下や加熱で爆発のおそれ。5 びっくりマーク：皮膚・目の刺激、アレルギー、急性毒性区分4など。下記のドクロ等より毒性が低い危険を示す。皮膚・眼刺激、皮膚感作、単回ばく露の特定標的臓器影響、急性毒性区分4等。",
+      "source_furigana": "酸化性（さんかせい）、高圧（こうあつ）、圧力（あつりょく）、容器（ようき）、刺激（しげき）、皮膚（ひふ）、眼（がん）、毒性（どくせい）、急性毒性（きゅうせいどくせい）、感作性（かんさせい）、標的臓器（ひょうてきぞうき）。",
+      "romaji": "En ni maru wa sankasei, gas bonbe wa kouatsu gas, bikkuri mark wa hifu ya me no shigeki, allergy, yowai dokusei nado o shimeshimasu.",
+      "en": "(3) Flame over circle (oxidizer): oxidizing gases, liquids or solids that can make other materials burn more easily, even if the substance itself does not burn. (4) Gas cylinder: gases under high pressure; dropping or heating the cylinder may cause an explosion. (5) Exclamation mark: skin or eye irritation, allergic skin reactions, certain harmful effects and acute toxicity category 4. It indicates hazards generally less severe than the skull-and-crossbones category.",
+      "si": "(3) වෘත්තයක් මත ගිනි දැල්ල (ඔක්සිකාරක): තමන්ම ගිනි නොගත්තත් වෙනත් ද්‍රව්‍ය පහසුවෙන් ගිනිගැනීමට හේතු වන ඔක්සිකාරක වායු, ද්‍රව හෝ ඝන ද්‍රව්‍ය. (4) ගෑස් සිලින්ඩරය: අධි පීඩන වායු; බිම වැටීම හෝ රත් වීම නිසා පිපිරීමක් ඇති විය හැක. (5) විශ්මයාර්ථ ලකුණ: සම හෝ ඇස් උද්දීපනය, අසාත්මික සම ප්‍රතික්‍රියා, ඇතැම් හානිකර බලපෑම් සහ Acute Toxicity Category 4. හිස් කබල සලකුණට වඩා සාමාන්‍යයෙන් අඩු මට්ටමේ විෂ අවදානම් දක්වයි.",
+      "visuals": [
+        {
+          "type": "ghs_oxidizer",
+          "description": "Original PDF oxidizer pictogram."
+        },
+        {
+          "type": "ghs_gas_cylinder",
+          "description": "Original PDF gas cylinder pictogram."
+        },
+        {
+          "type": "ghs_exclamation",
+          "description": "Original PDF exclamation pictogram and hazard categories."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 110,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 111,
+      "printed_page": 111,
+      "source_ja": "6 ドクロマーク：非常に強い毒性。皮膚接触、吸入、飲み込みを避ける。生命に関わる危険。急性毒性区分1–3。7 腐食マーク：金属を腐食する物質、皮膚や目に重い損傷を与える強酸・アルカリ。手袋・保護具を着用。8 健康被害（人体）マーク：呼吸器感作性、遺伝子変異原性、発がん性、生殖毒性、特定標的臓器・全身毒性、誤えん有害性など。長期ばく露で深刻な影響のおそれ。",
+      "source_furigana": "ドクロ、腐食（ふしょく）、金属（きんぞく）、酸（さん）、アルカリ、健康被害（けんこうひがい）、人体（じんたい）、呼吸器感作性（こきゅうきかんさせい）、遺伝子（いでんし）、発がん性（はつがんせい）、生殖毒性（せいしょくどくせい）、誤えん有害性（ごえんゆうがいせい）。",
+      "romaji": "Dokuro wa tsuyoi dokusei. Fushoku mark wa kinzoku ya hifu o kizutsukemasu. Jintai mark wa gan, idenshi, kokyuuki, seishoku nado e no eikyou o shimeshimasu.",
+      "en": "(6) Skull and crossbones: very high toxicity; avoid skin contact, inhalation and ingestion because it may be life-threatening (acute toxicity categories 1–3). (7) Corrosion: substances that corrode metals or cause severe skin burns and eye damage, including strong acids and alkalis; wear gloves and protective equipment. (8) Health hazard silhouette: respiratory sensitization, mutagenicity, carcinogenicity, reproductive toxicity, specific target-organ/systemic toxicity and aspiration hazard. Long-term exposure may cause serious health effects.",
+      "si": "(6) හිස් කබල සහ අස්ථි සලකුණ: ඉතා ඉහළ විෂ සහිත ද්‍රව්‍ය. සමට ස්පර්ශ වීම, ආශ්වාස කිරීම හෝ ගිලීම වළක්වන්න; ජීවිතයට තර්ජනයක් විය හැක (Acute Toxicity Category 1–3). (7) විඛාදන සලකුණ: ලෝහ විඛාදනය කරන හෝ සමට දැඩි පිළිස්සුම් සහ ඇස්වලට හානි කරන ද්‍රව්‍ය; ශක්තිමත් අම්ල සහ ක්ෂාර ද ඇතුළත්ය. අත්වැසුම් සහ ආරක්ෂක උපකරණ පළඳින්න. (8) මිනිස් සිරුරේ සලකුණ: ශ්වසන අසාත්මිකතා, ජාන විකෘතිතාව, පිළිකා අවදානම, ප්‍රජනන විෂතාව, ඉලක්ක අවයව/ශරීර පද්ධතිවලට බලපෑම් සහ ආශ්වාස මාර්ගයෙන් ඇතිවන අවදානම්. දිගුකාලීන නිරාවරණයෙන් බරපතළ සෞඛ්‍ය බලපෑම් ඇති විය හැක.",
+      "visuals": [
+        {
+          "type": "ghs_skull",
+          "description": "Original PDF skull-and-crossbones pictogram."
+        },
+        {
+          "type": "ghs_corrosion",
+          "description": "Original PDF corrosion pictogram."
+        },
+        {
+          "type": "ghs_health_hazard",
+          "description": "Original PDF health-hazard silhouette pictogram."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 111,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 112,
+      "printed_page": 112,
+      "source_ja": "9 環境（木と魚）マーク：水中の生物（魚など）に害を与える物質。川や海に流さない。環境を汚染する危険がある。水性環境有害性。",
+      "source_furigana": "環境（かんきょう）、水中（すいちゅう）、生き物（いきもの）、水性環境有害性（すいせいかんきょうゆうがいせい）、汚染（おせん）。",
+      "romaji": "Kankyou mark wa sakana nado no mizunaka no ikimono ni gai o ataeru mono desu. Kawa ya umi ni nagashite wa ikemasen.",
+      "en": "(9) Environment (dead tree and fish): substances harmful to aquatic organisms such as fish. Do not release them into rivers or the sea because they may pollute the environment. This pictogram indicates hazardous to the aquatic environment.",
+      "si": "(9) පරිසර සලකුණ (මියගිය ගස සහ මාළුවා): මාළු වැනි ජලජ ජීවීන්ට හානි කරන ද්‍රව්‍ය. ගංගා හෝ මුහුදට මුදා නොහරින්න; එමඟින් පරිසරය දූෂණය විය හැක. මෙම සලකුණ ජලජ පරිසරයට හානිකර බව දක්වයි.",
+      "visuals": [
+        {
+          "type": "ghs_environment",
+          "description": "Original PDF dead tree and fish aquatic-environment hazard pictogram."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 112,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 113,
+      "printed_page": 113,
+      "source_ja": "GHSラベルまとめ：爆発（爆弾）＝爆発危険。炎＝燃えやすい。炎に丸＝他を燃えやすくする。ガスボンベ＝高圧ガス。！＝刺激・軽度毒性。ドクロ＝強い毒。腐食＝皮膚・金属を溶かす。人体＝長期の健康影響。環境＝水生生物への害。",
+      "source_furigana": "まとめ（まとめ）、爆発（ばくはつ）、高圧ガス（こうあつガス）、刺激（しげき）、軽度（けいど）、腐食（ふしょく）、水生生物（すいせいせいぶつ）。",
+      "romaji": "GHS label no matome: bakudan, honoo, en ni maru, gas bonbe, bikkuri, dokuro, fushoku, jintai, kankyou. Sorezore no kiken o shimeshimasu.",
+      "en": "GHS label summary: exploding bomb—explosion hazard; flame—flammable; flame over circle—may intensify fire; gas cylinder—gas under pressure; exclamation mark—irritant/less severe toxicity; skull—severe toxicity; corrosion—corrosive to skin/metals; health-hazard silhouette—long-term health effects; environment—harm to aquatic life.",
+      "si": "GHS ලේබල් සාරාංශය: පුපුරන බෝම්බය—පිපිරීමේ අවදානම; ගිනි දැල්ල—ගිනිගන්නා ද්‍රව්‍ය; වෘත්තය මත ගිනි දැල්ල—අනෙක් ද්‍රව්‍ය ගිනිගැනීම වැඩි කරයි; ගෑස් සිලින්ඩරය—අධි පීඩන වායු; විශ්මයාර්ථය—උද්දීපනය/අඩු මට්ටමේ විෂතාව; හිස් කබල—දැඩි විෂතාව; විඛාදනය—සම/ලෝහ විඛාදනය; මිනිස් සිරුර—දිගුකාලීන සෞඛ්‍ය බලපෑම්; පරිසරය—ජලජ ජීවීන්ට හානි.",
+      "visuals": [
+        {
+          "type": "ghs_nine_pictogram_summary",
+          "description": "Original PDF summary table of all nine GHS pictograms and their meanings."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 113,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 114,
+      "printed_page": 114,
+      "source_ja": "第4編 フォークリフト作業基準。運転資格：最大荷重1t以上は技能講習を受け修了証を取得。1t未満はフォークリフト運転特別教育を受ける。運転時は証明書を携帯。始業前点検：エンジンオイル、冷却水、バッテリー液、作動油脂類を確認。ブレーキ、警笛、ステアリング、リフティング装置、操作レバーの作動を確認。",
+      "source_furigana": "第４編（だいよんへん）、作業基準（さぎょうきじゅん）、資格（しかく）、最大荷重（さいだいかじゅう）、技能講習（ぎのうこうしゅう）、修了証（しゅうりょうしょう）、特別教育（とくべつきょういく）、始業前点検（しぎょうまえてんけん）、冷却水（れいきゃくすい）、作動油脂類（さどうゆしるい）、制動系統（せいどうけいとう）、警笛（けいてき）、操舵装置（そうだそうち）、リフティング装置。",
+      "romaji": "Dai yon hen: forklift sagyou kijun. 1 ton ijou wa ginou koushuu, 1 ton miman wa untensha tokubetsu kyouiku. Shigyou mae ni oil, reikyaku-sui, battery-eki, sadouyu, brake, horn, steering, lifting device o tenken shimasu.",
+      "en": "Part 4: Forklift work standards. Qualification: for a forklift with a maximum load capacity of 1 tonne or more, complete the skills training course and obtain its completion certificate. For less than 1 tonne, complete special forklift operator training. Carry the certificate while driving. Pre-operation inspection: check engine oil, coolant, battery fluid and hydraulic/operating fluids; check the brakes, horn, steering, lifting mechanism and operating levers.",
+      "si": "හතරවන කොටස: Forklift මෙහෙයුම් ප්‍රමිතීන්. උපරිම බර ධාරිතාව ටොන් 1ක් හෝ ඊට වැඩි forklift එකක් සඳහා කුසලතා පුහුණු පාඨමාලාව සම්පූර්ණ කර සහතිකය ලබාගත යුතුය. ටොන් 1ට අඩු forklift සඳහා විශේෂ රියදුරු පුහුණුව අවශ්‍ය වේ. රිය පැදවීමේදී සහතිකය ළඟ තබාගන්න. වැඩ ආරම්භයට පෙර එන්ජින් ඔයිල්, සිසිලන දියර, බැටරි දියර සහ හයිඩ්‍රොලික්/මෙහෙයුම් තෙල් පරීක්ෂා කරන්න. තිරිංග, හෝන්, සුක්කානම, එසවුම් පද්ධතිය සහ පාලන ලීවර ක්‍රියාකාරීදැයි පරීක්ෂා කරන්න.",
+      "visuals": [
+        {
+          "type": "forklift_qualification_table",
+          "description": "Original PDF qualification table: 1 tonne or more requires skills training; below 1 tonne requires special education."
+        },
+        {
+          "type": "pre_operation_inspection",
+          "description": "Original PDF checklist of fluids and mechanical controls."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 114,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 115,
+      "printed_page": 115,
+      "source_ja": "点検の覚え方：オイル・水・バッテリー・油、次にブレーキ・ホーン・ハンドル・リフト。ヘッドガードを必ず取り付ける（コンテナ内作業の場合は取り外し可とする説明）。運転中の禁止事項：座席以外に人を乗せない、足を車外に出さない、定格を超える貨物を積まない、本来の用途以外に使わない。リーチフォークは安定姿勢で立つ。安全通路と立入禁止区域を設定。走行時は急発進・急ブレーキ・急旋回をしない。",
+      "source_furigana": "覚え方（おぼえかた）、ヘッドガード、座席（ざせき）、定格（ていかく）、用途（ようと）、立入禁止区域（たちいりきんしくいき）、急発進（きゅうはっしん）、急ブレーキ、急旋回（きゅうせんかい）、リーチフォーク。",
+      "romaji": "Oboekata: oil, mizu, battery, abura; brake, horn, handle, lift. Head guard o tsukeru. Hito o nosenai, ashi o dashanai, seigaku ijou no nimotsu o tsumanai. Kyuu hasshin, kyuu brake, kyuu senkai wa shinai.",
+      "en": "Inspection memory aid: oil, water, battery, hydraulic oil; then brakes, horn, steering and lift. Install the overhead/driver head guard (the source notes an exception for operation inside a container). Prohibited while driving: do not carry anyone except the operator in the seat, do not put feet outside the vehicle, do not load beyond the rated capacity, and do not use the forklift for an unintended purpose. Stand stably when operating a reach truck. Establish designated forklift routes and restricted-entry zones. Do not accelerate, brake or turn suddenly.",
+      "si": "පරීක්ෂණය මතක තබාගැනීම: ඔයිල්, ජලය, බැටරි දියර, හයිඩ්‍රොලික් තෙල්; ඉන්පසු තිරිංග, හෝන්, සුක්කානම සහ එසවුම් පද්ධතිය. හිස ආරක්ෂක ආවරණය සවි කරන්න (container ඇතුළත මෙහෙයුම් සඳහා මූලාශ්‍රයේ ව්‍යතිරේකයක් සඳහන් වේ). රිය පැදවීමේදී තහනම් ක්‍රියා: රියදුරු අසුන හැර වෙනත් ස්ථානයක පුද්ගලයන් රැගෙන යාම, පාද වාහනයෙන් පිටතට දැමීම, නියමිත බර ඉක්මවා භාණ්ඩ පැටවීම සහ forklift එක අදාළ නොවන කාර්යයකට භාවිත කිරීම. Reach forklift භාවිතයේදී ස්ථාවර ඉරියව්වක සිටින්න. ආරක්ෂිත මාර්ග සහ ඇතුළුවීම තහනම් කලාප සකස් කරන්න. හදිසියේ වේගය වැඩි කිරීම, තිරිංග යෙදීම හෝ හැරවීම නොකරන්න.",
+      "visuals": [
+        {
+          "type": "forklift_headguard_and_prohibited_actions",
+          "description": "Original PDF shows head guard requirement and table of prohibited actions with reasons."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 115,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 116,
+      "printed_page": 116,
+      "source_ja": "曲がるときは十分減速し、貨物の安定を確認してゆっくり曲がる。パレット走行時は地面から15～20cmの高さに保つ。貨物で前が見えない場合は前進せず後進する。走行前に前後左右を確認。倉庫内の制限速度を守る（例8km/h以下）。止まれ標識を守る。床の継ぎ目は貨物が崩れないようゆっくり通過。大きな貨物で見えないときは周囲・車体・荷物の安定を確認し、誘導者を付けるか後進。後進前は人がいないことを確認。",
+      "source_furigana": "曲がる（まがる）、速度（そくど）、安定（あんてい）、地面（じめん）、前進（ぜんしん）、後進（こうしん）、制限速度（せいげんそくど）、標識（ひょうしき）、継ぎ目（つぎめ）、誘導者（ゆうどうしゃ）。",
+      "romaji": "Magaru toki wa gensoku shi, nimotsu no antei o kakunin shimasu. Pallet wa jimen kara 15–20cm. Mae ga mienai toki wa koushin. Souko no seigen sokudo o mamori, teishi hyoushiki ni shitagaimasu.",
+      "en": "When turning, reduce speed sufficiently, check that the load is stable and turn slowly. While travelling with a pallet, keep it 15–20 cm above the ground. If the load blocks forward visibility, do not travel forward; reverse instead. Check front, rear, left and right before moving. Follow the warehouse speed limit (8 km/h or less is given as an example) and obey STOP signs. Cross floor joints slowly to prevent cargo from shifting or collapsing. If a large load blocks visibility, check surroundings and stability of both forklift and load; use a guide or reverse. Before reversing, check that no people are behind.",
+      "si": "හැරෙන විට වේගය ප්‍රමාණවත් ලෙස අඩු කර භාණ්ඩය ස්ථාවරදැයි පරීක්ෂා කර සෙමින් හැරෙන්න. Pallet එකක් රැගෙන ගමන් කරන විට එය බිමෙන් සෙන්ටිමීටර් 15–20ක් ඉහළින් තබන්න. භාණ්ඩය නිසා ඉදිරිය නොපෙනේ නම් ඉදිරියට නොයන්න; පසුපසට ධාවනය කරන්න. ගමන් කිරීමට පෙර ඉදිරිය, පිටුපස, වම සහ දකුණ පරීක්ෂා කරන්න. ගබඩාවේ වේග සීමාව පිළිපදින්න (උදාහරණයක් ලෙස පැයට කි.මී. 8ට අඩු) සහ STOP සලකුණු අනුගමනය කරන්න. බිමේ සන්ධි හරහා භාණ්ඩය පෙරළී නොයන ලෙස සෙමින් යන්න. විශාල භාණ්ඩයක් නිසා පෙනීම අවහිර නම් අවට ප්‍රදේශය, forklift එක සහ භාණ්ඩයේ ස්ථාවරත්වය පරීක්ෂා කර මඟ පෙන්වන්නෙකු යොදන්න හෝ පසුපසට යන්න. පසුපසට ධාවනයට පෙර පිටුපස කිසිවෙකු නැති බව තහවුරු කරන්න.",
+      "visuals": [
+        {
+          "type": "travel_with_low_load",
+          "description": "Carry pallet 15–20 cm above ground; diagram contrasts safe low travel with unsafe raised forks."
+        },
+        {
+          "type": "reverse_when_visibility_blocked",
+          "description": "If cargo blocks forward visibility, reverse or use a guide."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 116,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-116-forklift-travel-safety.svg",
+        "external_visual_references": [
+          {
+            "source": "Japan MHLW — Forklift safety guidance PDF, Fig. 7-7 and Fig. 7-8",
+            "url": "https://www.mhlw.go.jp/content/11300000/000630085.pdf",
+            "purpose": "Official Japanese government visual showing travel fork height 15–20 cm and reverse/visibility guidance."
+          },
+          {
+            "source": "OSHA — Powered Industrial Trucks: Operating the Forklift",
+            "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift",
+            "purpose": "Supplementary official forklift travel and maneuvering guidance."
+          }
+        ],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    },
+    {
+      "pdf_page": 117,
+      "printed_page": 117,
+      "source_ja": "貨物の積み・降ろし基本手順：①近づいたら減速。②貨物の前で一旦停止しマストを垂直にする。③貨物の崩れや危険を確認。④フォークを貨物に真っ直ぐ向け、差し込み口を確認して静かに入れる。パレットに当てず、反対側へ押し出さない。⑤5～10cm持ち上げ、10～20cm手前に引いて一旦降ろし、再度根元まで差し込む。荷物がバックレストに軽く触れてから持ち上げる。⑥安全な場所までゆっくり後進し、底を5～10cmまで下げ、マストを後傾。⑦マストを垂直に戻し、置き場所より少し高く上げ、前進して静かに置く。フォークを10～20cm抜き、再調整して押し込んで降ろす。⑧高所パレットを取るときは周囲の人と貨物を確認。",
+      "source_furigana": "積み降ろし（つみおろし）、一旦停止（いったんていし）、マスト、差し込み口（さしこみぐち）、根元（ねもと）、バックレスト、後傾（こうけい）、高所（こうしょ）。",
+      "romaji": "Nimotsu no mae de teishi shi, mast o suichoku ni shimasu. Fork o massugu sashi, 5–10cm agemasu. 10–20cm hikidasu. Anzen na basho made koushin shi, mast o ushiro ni katamukemasu.",
+      "en": "Basic loading/unloading sequence: (1) slow down when approaching the load. (2) Stop in front of it and set the mast vertical. (3) Check that the load is stable and there are no hazards. (4) Align forks straight with the load, locate the fork pockets and insert gently. Do not strike the pallet or push it out from the opposite side. (5) Lift 5–10 cm, draw the load 10–20 cm toward you and lower it; then insert forks fully to the heel. Lift after the load lightly contacts the vertical fork section or backrest. (6) Reverse slowly to a safe place, lower the load bottom to 5–10 cm and tilt the mast back. (7) Return mast vertical, raise slightly above placement height, move forward and lower gently. Withdraw forks 10–20 cm, reposition, push into the designated place and lower. (8) Before retrieving a high-level pallet, check for people and nearby cargo.",
+      "si": "භාණ්ඩ පැටවීම/බෑම සඳහා මූලික පියවර: (1) භාණ්ඩයට ළං වන විට වේගය අඩු කරන්න. (2) භාණ්ඩය ඉදිරිපිට නවතා mast එක සිරස්ව තබන්න. (3) භාණ්ඩය පෙරළීමේ අවදානමක් හෝ වෙනත් අනතුරක් තිබේදැයි බලන්න. (4) Fork දෙක භාණ්ඩයට සෘජුව සමාන්තර කර ඇතුළු කරන සිදුරු හඳුනාගෙන සෙමින් ඇතුළු කරන්න. Pallet එකට ගැටීමෙන් හෝ අනෙක් පැත්තට තල්ලු කිරීමෙන් වළකින්න. (5) සෙන්ටිමීටර් 5–10ක් ඔසවා සෙන්ටිමීටර් 10–20ක් තමන් දෙසට ඇද පහත් කරන්න; ඉන්පසු fork දෙක මුල දක්වා ඇතුළු කරන්න. භාණ්ඩය backrest එකට සැහැල්ලුවෙන් ස්පර්ශ වූ පසු ඔසවන්න. (6) ආරක්ෂිත ස්ථානයකට සෙමින් පසුපසට ගොස් භාණ්ඩයේ පතුල සෙන්ටිමීටර් 5–10 දක්වා පහත් කර mast එක පසුපසට ඇල කරන්න. (7) mast එක නැවත සිරස් කර තැබිය යුතු ස්ථානයට වඩා ටිකක් ඉහළට ඔසවා ඉදිරියට ගොස් සෙමින් තබන්න. Fork සෙන්ටිමීටර් 10–20ක් ඉවත් කර නැවත සකස් කර නියමිත ස්ථානයට තල්ලු කර පහත් කරන්න. (8) ඉහළ ස්ථානයක ඇති pallet එකක් ගැනීමට පෙර අවට පුද්ගලයන් සහ භාණ්ඩ පරීක්ෂා කරන්න.",
+      "visuals": [
+        {
+          "type": "eight_step_load_pickup_and_placement",
+          "description": "Eight-step flowchart with the source's 5–10 cm and 10–20 cm measurements."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 117,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-117-forklift-load-pickup-sequence.svg",
+        "external_visual_references": [
+          {
+            "source": "OSHA — Powered Industrial Trucks: Load Handling",
+            "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift/load-handling",
+            "purpose": "Official load approach, mast alignment, fork insertion, lifting, lowering and stacking diagrams."
+          }
+        ],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    },
+    {
+      "pdf_page": 118,
+      "printed_page": 118,
+      "source_ja": "積み卸し時の注意：①トラック運転手と連絡を取り、安全靴・安全帽など安全装備を確認してから作業。②貨物の形・重さに合う設備・機器を使う。③フォークを差し込む／掴んだ後、貨物が安定していることを確認して降ろす。④長い貨物は1台のフォークリフトでは不安定な場合があるため、フォークリフトを追加するなど安全な方法を取る。⑤積込時は運転手の位置を声掛けして確認。荷降ろし時は貨物が倒れた場合に運転手が逃げられる位置にいることを確認。はい付け：貨物・梱包の強度に合わせて高さを決め、無理に高く積まない。段ボールや中身が弱い場合はポータブルラック（ネステナー）やパレットサポーターを使う。床の耐荷重を超えない。フォークの差し込みが深すぎ・浅すぎにならないようにし、不安定な貨物は積み直す。",
+      "source_furigana": "積み卸し（つみおろし）、安全装備（あんぜんそうび）、安全靴（あんぜんぐつ）、安全帽（あんぜんぼう）、設備機器（せつびきき）、長い貨物（ながいかもつ）、はい付け、梱包（こんぽう）、耐荷重（たいかじゅう）、パレットサポーター。",
+      "romaji": "Truck driver to renraku shi, anzen soubi o kakunin shimasu. Nimotsu ni atta setsubi o tsukai, antei o kakunin shite oroshimasu. Nagai nimotsu wa forklift o tsuika suru koto mo arimasu. Haitsuke wa nimotsu no tsuyosa to yuka no taikajuu o mamorimasu.",
+      "en": "Precautions during loading/unloading: (1) coordinate with the truck driver and check that they wear safety equipment such as safety shoes and a helmet before work. (2) Use equipment suited to the cargo's shape and weight. (3) After inserting or gripping the load, confirm its stability before lowering. (4) Long loads may be unstable with one forklift; use an additional forklift or another safe method. (5) During loading, call out and keep checking the driver's location. During unloading, ensure the driver is positioned where they can escape if cargo falls. Stacking: choose stack height based on cargo shape and packaging strength; do not stack too high. For weak cartons or contents, use portable racks (nestainers) or pallet supports. Do not exceed the floor's load capacity. Avoid inserting forks too deeply or too shallowly; restack unstable cargo before proceeding.",
+      "si": "පැටවීම/බෑමේදී අවධානය: (1) ට්‍රක් රියදුරු සමඟ සම්බන්ධ වී ආරක්ෂිත සපත්තු සහ හිස් ආවරණ වැනි ආරක්ෂක උපකරණ පැළඳ සිටින බව තහවුරු කර වැඩ ආරම්භ කරන්න. (2) භාණ්ඩයේ හැඩයට සහ බරට ගැළපෙන උපකරණ භාවිත කරන්න. (3) Fork ඇතුළු කළ පසු හෝ භාණ්ඩය අල්ලාගත් පසු පහත් කිරීමට පෙර ස්ථාවරත්වය තහවුරු කරන්න. (4) දිගු භාණ්ඩයක් එක් forklift එකකින් හැසිරවීම අස්ථාවර විය හැකි බැවින් අමතර forklift එකක් හෝ වෙනත් ආරක්ෂිත ක්‍රමයක් භාවිත කරන්න. (5) පැටවීමේදී රියදුරු සිටින ස්ථානය හඬ නගා නිතර තහවුරු කරන්න. බෑමේදී භාණ්ඩය වැටුණහොත් රියදුරුට ඉවත්වීමට හැකි ස්ථානයක සිටින බව තහවුරු කරන්න. ගොඩගැසීම: භාණ්ඩයේ හැඩය සහ ඇසුරුමේ ශක්තිය අනුව උස තීරණය කරන්න; අධික උසට නොගොඩගසන්න. දුර්වල කාඩ්බෝඩ් පෙට්ටි හෝ ඇතුළත ද්‍රව්‍ය සඳහා portable rack (nestainer) හෝ pallet support භාවිත කරන්න. බිමේ දරාගත හැකි උපරිම බර ඉක්මවා නොයන්න. Fork ඇතුළු කිරීම ඉතා ගැඹුරු හෝ ඉතා නොගැඹුරු නොකරන්න; අස්ථාවර භාණ්ඩ නැවත නිවැරදිව ගොඩගසා පසුව වැඩ කරන්න.",
+      "visuals": [
+        {
+          "type": "truck_driver_safe_zone",
+          "description": "Safe coordination and escape position for truck driver during loading/unloading."
+        },
+        {
+          "type": "stacking_and_floor_capacity",
+          "description": "Stable stack height, portable rack/pallet support, floor load capacity and fork insertion depth."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 118,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-118-loading-stacking-safety.svg",
+        "external_visual_references": [
+          {
+            "source": "WorkSafe New Zealand — Working safely with pallet racking systems",
+            "url": "https://www.worksafe.govt.nz/topic-and-industry/warehousing/working-safely-with-pallet-racking-systems/",
+            "purpose": "Official visual and guidance on stable pallet loading, rack safety and load limits."
+          },
+          {
+            "source": "OSHA — Powered Industrial Trucks: Load Handling",
+            "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift/load-handling",
+            "purpose": "Official diagrams on stable load handling, stacking and capacity."
+          }
+        ],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    }
+  ],
+  "audit": {
+    "source_pages_read": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "page_count": 10,
+    "all_four_languages_present": true,
+    "source_pdf_visual_pages": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "source_pdf_image_render_unavailable": [
+      116,
+      117,
+      118
+    ],
+    "repo_image_search_terms": [
+      "forklift",
+      "GHS",
+      "hazard",
+      "5S",
+      "safety"
+    ],
+    "repo_image_search_results": 0,
+    "generated_visual_assets_committed": 3,
+    "external_visual_references": [
+      {
+        "page": 116,
+        "url": "https://www.mhlw.go.jp/content/11300000/000630085.pdf",
+        "source": "Japan MHLW forklift safety manual"
+      },
+      {
+        "page": 116,
+        "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift",
+        "source": "OSHA powered industrial truck operating guidance"
+      },
+      {
+        "page": 117,
+        "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift/load-handling",
+        "source": "OSHA load handling illustrated sequence"
+      },
+      {
+        "page": 118,
+        "url": "https://www.worksafe.govt.nz/topic-and-industry/warehousing/working-safely-with-pallet-racking-systems/",
+        "source": "WorkSafe New Zealand pallet racking safety"
+      }
+    ],
+    "status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
+    "validation": [
+      "10 source pages represented with Japanese, furigana, Romaji, English and Sinhala",
+      "Original PDF diagrams/tables retained for pages 109-115",
+      "Repository image search performed; no matching existing image files found for forklift travel/loading pages 116-118",
+      "Three custom SVG visuals committed for source pages whose PDF render was unavailable",
+      "Official government/regulator internet references linked for supplementary visuals",
+      "Source numeric values preserved: 1 tonne qualification threshold; 15-20 cm travel height; 8 km/h example; 5-10 cm and 10-20 cm load-handling steps"
+    ]
+  }
+}
