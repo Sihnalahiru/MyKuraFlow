@@ -1,0 +1,346 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-03",
+  "lesson_id": "p03-l02",
+  "lesson_title": {
+    "ja": "構内の安全・KYT・5S・特殊作業",
+    "furigana": "構内（こうない）の安全・危険予知訓練（きけんよちくんれん）・５Ｓ・特殊作業（とくしゅさぎょう）",
+    "romaji": "Kounai no Anzen, KYT, 5S, Tokushu Sagyou",
+    "en": "Premises safety, KYT, 5S and special work",
+    "si": "ගබඩා පරිශ්‍ර ආරක්ෂාව, KYT, 5S සහ විශේෂ වැඩ"
+  },
+  "page_range": {
+    "pdf_pages": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "printed_pages": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 99,
+      "printed_page": 99,
+      "source_ja": "５．構内の安全。（１）標識・掲示：構内の標識や掲示の内容を覚え守る。トラテープは黄色と黒など斜め縞の警戒テープで、柱の周り、フォークリフトの動く場所、扉が開く場所などに使う。危険場所を示す。通路のルール：①安全通路を歩く。②通路に物を置きっぱなしにせず使用後は片付ける（つまずき・衝突防止）。③通路は安全に歩ける明るさにし、窓光や照明を使う。",
+      "source_furigana": "構内（こうない）、標識（ひょうしき）、掲示（けいじ）、縞模様（しまもよう）、警戒用（けいかいよう）、安全通路（あんぜんつうろ）、通路（つうろ）、照明（しょうめい）。",
+      "romaji": "Kounai no hyoushiki ya keiji o mamorimasu. Tora tape wa kiiro to kuro nado no naname-jima no keikai tape desu. Hashira, forklift no tsuuro, tobira ga hiraku basho ni tsukaimasu. Anzen tsuuro o aruki, tsuuro ni mono o okanai. Tsuuro wa akaruku shimasu.",
+      "en": "Part 5: Safety inside the premises. Learn and obey signs and notices. Tiger tape is diagonal striped warning tape, often yellow and black. It marks hazardous areas such as around pillars, forklift operating zones and door swing areas. Corridor rules: (1) walk in designated safe walkways, (2) never leave objects in walkways; put items away after use to prevent trips/collisions, and (3) keep walkways bright enough for safe walking using daylight or lighting.",
+      "si": "පස්වන කොටස: ගබඩා පරිශ්‍රය තුළ ආරක්ෂාව. පරිශ්‍රයේ ඇති සලකුණු සහ දැන්වීම් හොඳින් ඉගෙන ඒවා පිළිපදින්න. Tiger tape යනු සාමාන්‍යයෙන් කහ සහ කළු වර්ණවලින් යුත් ඇල ඉරි සහිත අනතුරු ඇඟවීමේ tape එකකි. කණු අසල, forklift ගමන් කරන ස්ථානවල සහ දොරවල් විවෘත වන ප්‍රදේශවල එය යොදයි. මාර්ග නීති: (1) නම් කළ ආරක්ෂිත පදික මාර්ගයේ ගමන් කරන්න, (2) මාර්ගයේ භාණ්ඩ දමා නොතබන්න; භාවිතයෙන් පසු අස්කරන්න, (3) ජනෙල් ආලෝකය හෝ විදුලි ආලෝකය භාවිතයෙන් මාර්ගය පැහැදිලිව පෙනෙන ලෙස තබන්න.",
+      "visuals": [
+        {
+          "type": "warning_tape_and_safe_walkway",
+          "description": "Original PDF shows tiger stripe warning tape around pillars and forklift zones, safety railings and designated walkway."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 99,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 100,
+      "printed_page": 100,
+      "source_ja": "屋内通路のルール：①用途に合う十分な幅。②つまずき・すべり・踏み抜きの危険がない床。③床から1.8m以内に障害物を置かない。機械間または機械と設備間の通路幅は80cm以上。立入禁止場所に入らず、仕事に関係ない区域にもむやみに入らない。フォークリフトの近くを通らない。近づいたら作業を止め安全確認。後ろを通るときは運転手に声をかける。フォークリフト通路を横切るときは指差し呼称で安全確認する。",
+      "source_furigana": "屋内（おくない）、幅（はば）、床（ゆか）、踏み抜き（ふみぬき）、障害物（しょうがいぶつ）、立入禁止（たちいりきんし）、運転手（うんてんしゅ）、指差し呼称（ゆびさしこしょう）。",
+      "romaji": "Okunai tsuuro wa juubun na haba, anzen na yuka, 1.8m inai no shougai-butsu nashi. Kikai no aida no tsuuro wa 80cm ijou. Tachiiri kinshi ni hairazu, forklift no chikaku de wa anzen o kakunin shimasu.",
+      "en": "Indoor passageways must have adequate width for their use, a floor free from trip/slip/fall-through hazards, and no obstacles within 1.8 metres above the floor. A passage between machines, or between a machine and other equipment, must be at least 80 cm wide. Do not enter prohibited areas or areas unrelated to your work. Do not walk close to forklifts: stop work and check safety when one approaches; call to the driver before passing behind; use point-and-call when crossing a forklift route.",
+      "si": "ගෘහස්ථ මාර්ග භාවිතයට ප්‍රමාණවත් පළලකින් යුතු විය යුතු අතර ලිස්සීම, පැකිළීම හෝ බිම කැඩී පාදය වැටීම වැනි අවදානම් නොතිබිය යුතුය. බිම සිට මීටර් 1.8ක් ඇතුළත බාධක නොතබන්න. යන්ත්‍ර දෙකක් අතර හෝ යන්ත්‍රයක් සහ වෙනත් උපකරණයක් අතර මාර්ගය අවම වශයෙන් සෙන්ටිමීටර් 80ක් පළල විය යුතුය. ඇතුළුවීම තහනම් ස්ථානවලට හෝ තම වැඩට අදාළ නොවන ස්ථානවලට නොයන්න. Forklift අසලින් ගමන් නොකරන්න. එය ළං වූ විට වැඩ නවතා ආරක්ෂාව තහවුරු කරන්න; පිටුපසින් යන විට රියදුරුට හඬ නගා දන්වන්න; forklift මාර්ගය හරහා යන විට ඇඟිල්ලෙන් පෙන්වා හඬින් තහවුරු කරන්න.",
+      "visuals": [
+        {
+          "type": "indoor_aisle_rules",
+          "description": "Original PDF table shows aisle width, floor condition and 1.8 m overhead clearance; adjacent machine passage minimum 80 cm."
+        },
+        {
+          "type": "forklift_exclusion_zone",
+          "description": "Original PDF shows prohibited-entry sign and point-and-call forklift crossing guidance."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 100,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 101,
+      "printed_page": 101,
+      "source_ja": "（３）作業床：作業場の床は、つまずき・すべりなどの危険がない状態に保つ。床が汚れていたり濡れていたりしたら、すぐ上司や先輩に知らせる。",
+      "source_furigana": "作業床（さぎょうゆか）、作業場（さぎょうば）、床（ゆか）、上司（じょうし）、先輩（せんぱい）。",
+      "romaji": "Sagyouba no yuka wa tsumazuki ya suberi no kiken ga nai joutai ni shimasu. Yuka ga yogorete itari nurete itara, sugu joushi ya senpai ni shirase masu.",
+      "en": "Work floor: keep the workplace floor free from trip and slip hazards. If the floor is dirty or wet, immediately inform a supervisor or senior colleague.",
+      "si": "වැඩ කරන ස්ථානයේ බිම පැකිළීම හෝ ලිස්සීම වැනි අනතුරු ඇති නොවන තත්ත්වයක පවත්වාගන්න. බිම අපිරිසිදු හෝ තෙත් වී ඇත්නම් වහාම අධීක්ෂකවරයාට හෝ ජ්‍යෙෂ්ඨ සේවකයෙකුට දන්වන්න.",
+      "visuals": [
+        {
+          "type": "clean_dry_floor",
+          "description": "Contrast wet/dirty slippery floor with clean, dry, clear floor; report hazards immediately."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 101,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-101-clean-dry-floor.svg",
+        "external_visual_references": [],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    },
+    {
+      "pdf_page": 102,
+      "printed_page": 102,
+      "source_ja": "６．KYT（危険予知訓練）：危険＝Kiken、予知＝Yochi、訓練＝Training。作業イラストなどを使い、隠れた危険を見つけ、安全対策を考える訓練。想像力が重要。「いつもやっているから大丈夫」「仕方ない」という固定観念を避け、「危ないかもしれない」「事故が起きるかもしれない」と別の目で見る。KYT 4ラウンド：1R 隠れた危険を出し合う。2R 最も重要な危険ポイントを絞る。3R 具体的な対策を出し合う。",
+      "source_furigana": "危険予知訓練（きけんよちくんれん）、危険（きけん）、予知（よち）、訓練（くんれん）、想像力（そうぞうりょく）、固定観念（こていかんねん）、危険のポイント（きけんのポイント）。",
+      "romaji": "KYT wa Kiken Yochi Training desu. E de sagyou no naka no kiken o mitsuke, anzen taisaku o kangaemasu. 1R kakureta kiken, 2R ichiban juuyou na kiken pointo, 3R guutai-teki na taisaku o kangaemasu.",
+      "en": "KYT means Hazard Prediction Training: Kiken (hazard), Yochi (prediction), Training. Using workplace illustrations, workers identify hidden hazards and consider safe countermeasures. Imagination is essential. Avoid fixed assumptions such as “I always do this, so it is safe” or “nothing can be done”; instead ask “Could this be dangerous?” or “Could an accident happen?” The four-round method begins with 1R identifying hidden hazards, 2R narrowing them to the key danger point, and 3R discussing concrete countermeasures.",
+      "si": "KYT යනු අවදානම් පූර්ව හඳුනාගැනීමේ පුහුණුවයි: Kiken = අවදානම, Yochi = පූර්ව අනාවැකිය/හඳුනාගැනීම, Training = පුහුණුව. වැඩබිමේ සිතුවම් භාවිතයෙන් සැඟවුණු අවදානම් හඳුනාගෙන ආරක්ෂිත ක්‍රියාමාර්ග ගැන සාකච්ඡා කරයි. සිතීමේ හැකියාව වැදගත්ය. “හැමදාම මෙහෙම කරන නිසා ආරක්ෂිතයි” හෝ “වෙන කරන්න දෙයක් නැහැ” වැනි ස්ථිර අදහස්වලට හසු නොවී “මෙය අනතුරුදායක විය හැකිද?” “අනතුරක් සිදුවිය හැකිද?” ලෙස සිතන්න. වට හතරෙන් පළමු වටය සැඟවුණු අවදානම් සෙවීම, දෙවන වටය ප්‍රධාන අවදානම තෝරාගැනීම, තුන්වන වටය නිශ්චිත වැළැක්වීමේ ක්‍රියාමාර්ග යෝජනා කිරීමයි.",
+      "visuals": [
+        {
+          "type": "kyt_four_rounds",
+          "description": "Original PDF shows 1R, 2R, 3R and 4R sequence with prompt labels."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 102,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 103,
+      "printed_page": 103,
+      "source_ja": "４R：対策から重点実施項目を選び、全員で行動目標を指差し呼称する。指差し呼称は確認したい場所・物を見て、腕を伸ばし指で差し、はっきり声に出して確認する。例「右ヨシ、左ヨシ、前ヨシ」。集中力を高めヒューマンエラーを防ぐ。資料の実験値：何もしない2.38%、声だけ1.00%、指差しだけ0.75%、指差し呼称0.38%。何もしない場合に比べ約6分の1。",
+      "source_furigana": "重点実施項目（じゅうてんじっしこうもく）、行動目標（こうどうもくひょう）、指差し呼称（ゆびさしこしょう）、集中力（しゅうちゅうりょく）、実験（じっけん）、エラー率（りつ）。",
+      "romaji": "4R de juuten jisshi koumoku o erabi, team no koudou mokuhyou o yubi-sashi koshou shimasu. Miru, yubi de sasu, koe ni dasu. Migi yoshi, hidari yoshi, mae yoshi. Error rate wa 2.38%, 1.00%, 0.75%, 0.38% desu.",
+      "en": "4R: choose the priority action item from the proposed countermeasures and have everyone confirm the team action target using point-and-call. To do this, look carefully at the object/location, extend the arm and point, then say the check clearly aloud (e.g. “Right OK, Left OK, Ahead OK”). This improves concentration and helps prevent human error. The textbook reports experiment error rates: no action 2.38%; voice only 1.00%; pointing only 0.75%; point-and-call 0.38% — about one-sixth of the no-action rate.",
+      "si": "4 වන වටයේදී යෝජිත වැළැක්වීමේ ක්‍රියාමාර්ග අතරින් ප්‍රමුඛව ක්‍රියාත්මක කළ යුතු කරුණ තෝරාගෙන කණ්ඩායමේ ක්‍රියා ඉලක්කය සියලු දෙනා ඇඟිල්ලෙන් පෙන්වා හඬින් තහවුරු කරයි. ක්‍රමය: පරීක්ෂා කළ යුතු ස්ථානය/දේ හොඳින් බලන්න, අත දිගු කර ඇඟිල්ලෙන් පෙන්වන්න, පැහැදිලිව හඬ නගා කියන්න. උදා: “දකුණ හරි! වම හරි! ඉදිරිය හරි!” මෙය අවධානය වැඩි කර මිනිස් දෝෂ අඩු කිරීමට උපකාරී වේ. පොතේ සඳහන් පරීක්ෂණ දෝෂ අනුපාත: කිසිවක් නොකිරීම 2.38%; හඬ පමණක් 1.00%; ඇඟිල්ලෙන් පෙන්වීම පමණක් 0.75%; පෙන්වා හඬින් තහවුරු කිරීම 0.38% — කිසිවක් නොකළ අවස්ථාවට වඩා ආසන්න වශයෙන් හයෙන් එකකි.",
+      "visuals": [
+        {
+          "type": "point_and_call",
+          "description": "Three actions: look, extend arm and point, speak clearly; textbook error-rate comparison."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 103,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-103-point-and-call-kyt.svg",
+        "external_visual_references": [],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    },
+    {
+      "pdf_page": 104,
+      "printed_page": 104,
+      "source_ja": "７．５Ｓ：整理・整頓・清掃・清潔・しつけの５語。安全・清潔・正確な仕事の基本。（１）整理：必要な物と不要な物を分け不要物を捨てる。不要物はスペースと作業の無駄を生む。（２）整頓：決められた場所に置き、すぐ取り出せるよう使いやすくまとめる。（３）清掃：掃除する。作業しやすくし、商品・人を守る。ほこりやゴミは商品汚損、健康被害、事故の原因になる。",
+      "source_furigana": "整理（せいり）、整頓（せいとん）、清掃（せいそう）、清潔（せいけつ）、しつけ、衛生（えいせい）、保管（ほかん）。",
+      "romaji": "5S wa Seiri, Seiton, Seiso, Seiketsu, Shitsuke desu. Seiri wa iranai mono o wakete suteru. Seiton wa kimatta basho ni oku. Seiso wa souji suru. Seiketsu wa kirei na joutai o tamotsu. Shitsuke wa tadashii koudou o shuukan ni suru.",
+      "en": "5S consists of Seiri, Seiton, Seiso, Seiketsu and Shitsuke. (1) Sort: separate needed from unneeded items and discard what is unnecessary; clutter wastes space and work time. (2) Set in order: put items in designated places and arrange them so they can be found and retrieved easily. (3) Shine/Clean: clean the workplace to make work easier and protect goods and people; dust and rubbish can contaminate stored products, harm workers' health and cause accidents.",
+      "si": "5S යනු Seiri, Seiton, Seiso, Seiketsu සහ Shitsuke යන මූලධර්ම පහයි. (1) Sort/整理: අවශ්‍ය සහ අනවශ්‍ය දේ වෙන්කර අනවශ්‍ය දේ ඉවත් කරන්න; අනවශ්‍ය දේ ඉඩ සහ වැඩ කාලය නාස්ති කරයි. (2) Set in order/整頓: නියමිත ස්ථානයේ තබා පහසුවෙන් සොයාගත හැකි ලෙස සකස් කරන්න. (3) Shine/Clean/清掃: වැඩ පහසු කිරීමටත් භාණ්ඩ හා සේවකයන් ආරක්ෂා කිරීමටත් පිරිසිදු කරන්න. දූවිලි සහ කසළ නිසා ගබඩා භාණ්ඩ අපිරිසිදු වීම, සෞඛ්‍ය හානි සහ අනතුරු සිදුවිය හැක.",
+      "visuals": [
+        {
+          "type": "5s_method",
+          "description": "Five Japanese 5S terms and English action equivalents."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 104,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-104-5s-method.svg",
+        "external_visual_references": [],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    },
+    {
+      "pdf_page": 105,
+      "printed_page": 105,
+      "source_ja": "（４）清潔：きれいで衛生的な状態を保つ。職場の清潔は働く人の健康に良く、働きやすい環境を作る。（５）しつけ：正しい用語づかいや行動を身につける。礼儀は失礼にならない言葉遣い・行動、作法は昔から決まった正しい行動の仕方。倉庫のルールを守り、正しい日本語を使い、正しい言葉遣いと行動を習慣にする。５Ｓまとめ：整理＝不要物を捨てる、整頓＝決めた場所に置く、清掃＝掃除、清潔＝きれいな状態を続ける、しつけ＝正しい行動を身につける。",
+      "source_furigana": "清潔（せいけつ）、衛生的（えいせいてき）、しつけ、礼儀（れいぎ）、作法（さほう）、習慣（しゅうかん）。",
+      "romaji": "Seiketsu wa kirei de eiseiteki na joutai o tamotsu koto. Shitsuke wa tadashii kotoba-zukai ya koudou o mi ni tsukeru koto. Reigi wa shitsurei ni naranai kotoba ya koudou, sahou wa tadashii koudou no shikata desu.",
+      "en": "(4) Standardize/cleanliness: maintain a clean and hygienic state; a clean workplace benefits workers' health and creates a comfortable working environment. (5) Sustain/discipline: acquire correct terminology and behaviour. Reigi means polite language and conduct; sahou means established proper manners. Follow warehouse rules, try to use correct Japanese, and make proper language and behaviour habitual. Summary: Sort—discard unneeded items; Set in order—place items in designated locations; Shine—clean; Standardize—maintain cleanliness; Sustain—make correct behaviour a habit.",
+      "si": "(4) Standardize/Cleanliness/清潔: පිරිසිදු සහ සනීපාරක්ෂිත තත්ත්වය පවත්වාගැනීමයි. පිරිසිදු සේවා ස්ථානය සේවක සෞඛ්‍යයට හිතකර වන අතර වැඩ කිරීමට පහසු පරිසරයක් සකස් කරයි. (5) Sustain/Discipline/しつけ: නිවැරදි වචන භාවිතය සහ හැසිරීම පුරුද්දක් කරගැනීමයි. Reigi යනු අන් අයට අගෞරවයක් නොවන ලෙස කතා කිරීම සහ හැසිරීමයි; Sahou යනු පිළිගත් නිවැරදි හැසිරීම් රටාවයි. ගබඩා නීති පිළිපදින්න, නිවැරදි ජපන් භාෂාව භාවිත කිරීමට උත්සාහ කරන්න, නිවැරදි වචන සහ හැසිරීම් පුරුද්දක් කරගන්න. සාරාංශය: Sort—අනවශ්‍ය දේ ඉවත් කිරීම; Set in order—නියමිත තැන තැබීම; Shine—පිරිසිදු කිරීම; Standardize—පිරිසිදු තත්ත්වය පවත්වාගැනීම; Sustain—නිවැරදි හැසිරීම පුරුද්දක් කරගැනීම.",
+      "visuals": [
+        {
+          "type": "5s_summary_table",
+          "description": "Original PDF includes 5S table with Japanese reading and meanings."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 105,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 106,
+      "printed_page": 106,
+      "source_ja": "８．異常天候時およびその他の特殊作業：悪天候や危険貨物を扱うときの安全ルール。作業が危険と思われる場合、責任者と話し合い適切な安全対策を取る。異常天候は台風などの非常に悪い天気。強風・大雨による災害や高潮による浸水が予想される場合、倉庫内貨物を守る防護措置を行い、フォークリフト等の荷役機器を安全な場所へ移すなど適切な対策を取る。",
+      "source_furigana": "異常天候（いじょうてんこう）、特殊作業（とくしゅさぎょう）、責任者（せきにんしゃ）、安全対策（あんぜんたいさく）、台風（たいふう）、高潮（たかしお）、浸水（しんすい）、防護措置（ぼうごそち）、荷役機器（にやくきき）。",
+      "romaji": "Ijou tenkou wa taifuu nado no hidoku warui tenki desu. Kiken na sagyou wa sekininsha to soudan shi, anzen taisaku o torimasu. Nimotsu o mamoru bougo sochi o shi, forklift nado no niyaku kiki o anzen na basho ni utsushimasu.",
+      "en": "Section 8: work during abnormal weather and other special tasks. If work appears dangerous, discuss it with the responsible supervisor and take appropriate safety measures. Abnormal weather includes severe conditions such as typhoons. Strong winds and heavy rain may cause disasters; storm surges may cause flooding. Protect cargo stored in the warehouse and move forklifts and other cargo-handling equipment to safe locations, taking suitable precautions.",
+      "si": "අටවන කොටස: අසාමාන්‍ය කාලගුණය සහ විශේෂ වැඩ. වැඩක් අනතුරුදායක යැයි පෙනේ නම් වගකිවයුතු අධීක්ෂකවරයා සමඟ සාකච්ඡා කර සුදුසු ආරක්ෂක ක්‍රියාමාර්ග ගන්න. අසාමාන්‍ය කාලගුණයට ටයිෆූන් වැනි දැඩි කාලගුණ තත්ත්ව ඇතුළත්ය. තද සුළං සහ මහ වැසි නිසා ආපදා ඇතිවිය හැකි අතර මුහුදු රළ ඉහළ යාමෙන් ජලගැලීම් ඇතිවිය හැක. ගබඩාවේ භාණ්ඩ ආරක්ෂා කිරීමට ආවරණ/ආරක්ෂක ක්‍රියාමාර්ග ගෙන forklift සහ වෙනත් භාණ්ඩ හැසිරවීමේ යන්ත්‍ර ආරක්ෂිත ස්ථානයකට ගෙන යන්න.",
+      "visuals": [
+        {
+          "type": "severe_weather_response",
+          "description": "Typhoon, heavy rain and storm surge hazards; protect stored cargo and relocate material-handling equipment."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 106,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-106-severe-weather-response.svg",
+        "external_visual_references": [],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    },
+    {
+      "pdf_page": 107,
+      "printed_page": 107,
+      "source_ja": "危険物・有害物：危険物は爆発・発火のおそれがあるもの。有害物はガス・蒸気・粉じんを吸ったり体に触れたりすると健康に悪影響を与えるもの。容器や包装にはGHS絵表示ラベルがあり、危険の種類と程度を確認できる。取扱い前にGHSラベルを確認し、物質と性質を理解する。手袋・マスク・ゴーグル等の保護具を必ず着用し、保護具なしで扱わない。",
+      "source_furigana": "危険物（きけんぶつ）、有害物（ゆうがいぶつ）、爆発（ばくはつ）、発火（はっか）、蒸気（じょうき）、粉じん（ふんじん）、容器（ようき）、包装（ほうそう）、絵表示（えひょうじ）、保護具（ほごぐ）。",
+      "romaji": "Kikenbutsu wa bakuhatsu ya hakkano osore ga aru mono. Yuugaibutsu wa gasu, jouki, funjin o suitari karada ni furetari suru to kenko ni warui eikyou ga aru mono. GHS label o kakunin shi, hogo-gu o tsukemasu.",
+      "en": "Hazardous and harmful substances: hazardous goods may explode or catch fire. Harmful substances may adversely affect health if gases, vapours or dust are inhaled or if the substance contacts the body. Containers and packages carry GHS pictogram labels indicating the type and degree of hazard. Before handling, check the GHS label and understand the substance and its properties. Always wear protective equipment such as gloves, a mask and goggles; never handle these materials without PPE.",
+      "si": "අනතුරුදායක සහ හානිකර ද්‍රව්‍ය: අනතුරුදායක ද්‍රව්‍ය පුපුරා යාමට හෝ ගිනි ගැනීමට ඉඩ ඇත. හානිකර ද්‍රව්‍යවල වායු, වාෂ්ප හෝ දූවිලි ආශ්වාස කිරීමෙන් හෝ ශරීරයට ස්පර්ශ වීමෙන් සෞඛ්‍යයට හානි විය හැක. බඳුන් සහ ඇසුරුම්වල ඇති GHS රූප සලකුණු මඟින් අවදානමේ වර්ගය සහ මට්ටම හඳුනාගත හැක. හැසිරවීමට පෙර GHS label පරීක්ෂා කර ද්‍රව්‍යය සහ එහි ගුණාංග තේරුම් ගන්න. අත්වැසුම්, මුහුණු ආවරණ සහ ඇස් ආරක්ෂක කණ්ණාඩි වැනි PPE අනිවාර්යයෙන් පළඳින්න; ඒවා නොමැතිව මෙම ද්‍රව්‍ය හසුරුවන්න එපා.",
+      "visuals": [
+        {
+          "type": "ghs_hazard_label_and_ppe",
+          "description": "Original PDF contains GHS hazard-label explanation and PPE instruction table."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 107,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 108,
+      "printed_page": 108,
+      "source_ja": "危険物・有害物の取扱い：作業前に容器から漏洩していないか、飛散のおそれがないか点検する。漏洩は容器内の物質が外へ漏れ出ること。火・熱を近づけず、加熱、摩擦、強い衝撃を与えない（爆発・火災の原因）。容器や包装を壊さないよう慎重に作業する。破損すると危険物質が外へ出る。緊急時に備え、作業前に対処方法を確認し、危険防止用の薬品・設備・機器を準備する。",
+      "source_furigana": "漏洩（ろうえい）、飛散（ひさん）、摩擦（まさつ）、衝撃（しょうげき）、破損（はそん）、緊急時（きんきゅうじ）、対処方法（たいしょほうほう）、薬品（やくひん）。",
+      "romaji": "Sagyou mae ni youki kara rouei ya hisan ga nai ka tenken shimasu. Hi, netsu, masatsu, shougeki o ataete wa ikemasen. Youki ya housou o kowasanai you ni shinchou ni atsukaimasu. Kinkyuuji no taiou houhou to hitsuyou na setsubi o junbi shimasu.",
+      "en": "Before work, inspect containers for leaks or possible splashes/spills. Rouei means the contents of a container escaping outside. Keep hazardous substances away from fire and heat; do not heat, rub (friction) or strike them (impact), as these can cause explosion or fire. Handle carefully to avoid damaging containers or packaging, because a break may release hazardous substances. Prepare for emergencies: know the response procedure before starting and prepare the chemicals, facilities and equipment needed to prevent danger.",
+      "si": "වැඩ ආරම්භ කිරීමට පෙර බඳුනෙන් ද්‍රව්‍ය කාන්දු වී ඇත්ද හෝ විසිරී යාමේ අවදානමක් තිබේදැයි පරීක්ෂා කරන්න. 漏洩 (rouei) යනු බඳුන තුළ ඇති ද්‍රව්‍ය පිටතට කාන්දු වීමයි. ගින්න සහ තාපය ළං නොකරන්න; රත් කිරීම, අතුල්ලීම (ඝර්ෂණය) හෝ තදින් ගැටීම (ඝාතනය) නොකරන්න. එවැනි ක්‍රියා පිපිරීමක් හෝ ගින්නක් ඇති කළ හැක. බඳුන් සහ ඇසුරුම් කැඩී නොයන ලෙස ප්‍රවේශමෙන් හසුරුවන්න; කැඩුණහොත් අනතුරුදායක ද්‍රව්‍ය පිටතට පැමිණිය හැක. හදිසි අවස්ථාවකට පෙර සූදානම් වන්න: වැඩ ආරම්භයට පෙර ප්‍රතිචාර ක්‍රමය දැනගන්න; අවදානම වැළැක්වීමට අවශ්‍ය රසායනික ද්‍රව්‍ය, පහසුකම් සහ උපකරණ සූදානම් කර තබන්න.",
+      "visuals": [
+        {
+          "type": "hazardous_goods_checklist",
+          "description": "Pre-work leak and spill inspection, keep away from ignition/heat/friction/impact, protect packaging and prepare emergency response."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 108,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-108-hazardous-goods-safe-handling.svg",
+        "external_visual_references": [],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    }
+  ],
+  "audit": {
+    "source_pages_read": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "page_count": 10,
+    "all_four_languages_present": true,
+    "source_pdf_visual_pages": [
+      99,
+      100,
+      102,
+      105,
+      107
+    ],
+    "source_pdf_image_render_unavailable": [
+      101,
+      103,
+      104,
+      106,
+      108
+    ],
+    "generated_visual_assets_committed": 5,
+    "external_visual_references": [
+      {
+        "page": 103,
+        "url": "https://anzeninfo.mhlw.go.jp/yougo/yougo40_1.html/yougo_index02_4.html",
+        "source": "Japan MHLW KYT 4-round method"
+      },
+      {
+        "page": 104,
+        "url": "https://www.meti.go.jp/policy/chemical_management/cwc/files/opcw_associate_2016.pdf",
+        "source": "METI/Japan 5S overview"
+      },
+      {
+        "page": 107,
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161231_00002.html",
+        "source": "MHLW GHS label safety education"
+      },
+      {
+        "page": 108,
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000135046.html",
+        "source": "MHLW action based on chemical labels"
+      }
+    ],
+    "status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
+    "validation": [
+      "10 pages represented with Japanese, furigana, Romaji, English and Sinhala",
+      "5 generated SVG visuals committed for pages whose PDF visual render was unavailable",
+      "Source PDF visuals linked for pages 99,100,102,105,107",
+      "External official references added only for source gaps and supplementary KYT/GHS learning",
+      "Source-specific figures preserved: 1.8m clearance, 80cm aisle width, KYT error rates"
+    ]
+  }
+}
