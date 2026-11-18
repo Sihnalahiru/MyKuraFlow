@@ -61,7 +61,9 @@
           "created:fire-prevention-clearance.svg",
           "created:flood-preparedness-hazard-map.svg"
         ],
-        "mapping_basis": "Source page text contains safety instructions but no embedded photo; custom instructional visuals are required."
+        "mapping_basis": "Source page text contains safety instructions but no embedded photo; custom instructional visuals are required.",
+        "generated_asset": "/images/generated/page-049-fire-flood.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     },
     {
@@ -93,7 +95,9 @@
           "created:fire-extinguisher-steps.svg",
           "created:warehouse-evacuation-plan.svg"
         ],
-        "mapping_basis": "Original source includes procedural text and a printed flow/table; visual teaching diagrams are recreated from those exact steps."
+        "mapping_basis": "Original source includes procedural text and a printed flow/table; visual teaching diagrams are recreated from those exact steps.",
+        "generated_asset": "/images/generated/page-050-emergency.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     },
     {
@@ -122,7 +126,9 @@
           "created:pallet-size-comparison.svg",
           "created:t11-height-fork-entry.svg"
         ],
-        "mapping_basis": "Repo image 57 is a plastic pallet/container-style item; use only as supplementary material photo, not as the dimension diagram. Exact size diagram is recreated from source dimensions."
+        "mapping_basis": "Repo image 57 is a plastic pallet/container-style item; use only as supplementary material photo, not as the dimension diagram. Exact size diagram is recreated from source dimensions.",
+        "generated_asset": "/images/generated/page-051-pallet-sizes.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     },
     {
@@ -153,7 +159,9 @@
           "created:single-double-face-pallet.svg",
           "created:two-way-four-way-entry.svg"
         ],
-        "mapping_basis": "Use repo pallet photo where it visually matches; create accurate explanatory diagrams for entry directions and face construction."
+        "mapping_basis": "Use repo pallet photo where it visually matches; create accurate explanatory diagrams for entry directions and face construction.",
+        "generated_asset": "/images/generated/page-052-pallet-design.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     },
     {
@@ -182,7 +190,9 @@
           "created:four-way-entry-pallet.svg",
           "created:pallet-one-tonne-load-limit.svg"
         ],
-        "mapping_basis": "Repo stacking illustration is contextual only; create a dedicated four-way fork-entry and 1-tonne limit diagram."
+        "mapping_basis": "Repo stacking illustration is contextual only; create a dedicated four-way fork-entry and 1-tonne limit diagram.",
+        "generated_asset": "/images/generated/page-053-four-way-load.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     },
     {
@@ -206,7 +216,9 @@
         "supplementary_visuals": [
           "created:warehouse-ppe-labelled.svg"
         ],
-        "mapping_basis": "Repo image 47 is a reflective safety vest and matches one PPE item; create a complete labelled PPE set for all five items."
+        "mapping_basis": "Repo image 47 is a reflective safety vest and matches one PPE item; create a complete labelled PPE set for all five items.",
+        "generated_asset": "/images/generated/page-054-ppe.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     },
     {
@@ -228,7 +240,9 @@
         "supplementary_visuals": [
           "created:inbound-warehouse-documents-flow.svg"
         ],
-        "mapping_basis": "No suitable photo required; create document workflow visual based on source-defined forms."
+        "mapping_basis": "No suitable photo required; create document workflow visual based on source-defined forms.",
+        "generated_asset": "/images/generated/page-055-inbound-documents.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     },
     {
@@ -257,7 +271,9 @@
           "created:inbound-outbound-label-examples.svg",
           "created:jan-vs-qr-code.svg"
         ],
-        "mapping_basis": "Repo image 67 is a label printer and supports label application; custom diagrams explain label fields and barcode types."
+        "mapping_basis": "Repo image 67 is a label printer and supports label application; custom diagrams explain label fields and barcode types.",
+        "generated_asset": "/images/generated/page-056-labels-barcodes.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     },
     {
@@ -291,7 +307,9 @@
           "created:care-marks-ghs-comparison.svg",
           "created:length-unit-conversion.svg"
         ],
-        "mapping_basis": "Repo image 68 is a tag gun, not an RFID reader; use only as an identification-tagging tool example and create a separate RFID system diagram."
+        "mapping_basis": "Repo image 68 is a tag gun, not an RFID reader; use only as an identification-tagging tool example and create a separate RFID system diagram.",
+        "generated_asset": "/images/generated/page-057-rfid-units.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     },
     {
@@ -328,7 +346,9 @@
           "created:one-litre-cube.svg",
           "created:volume-capacity-conversion-table.svg"
         ],
-        "mapping_basis": "Source page is primarily formulas and conversion tables; create accurate mathematical visuals directly from its printed values."
+        "mapping_basis": "Source page is primarily formulas and conversion tables; create accurate mathematical visuals directly from its printed values.",
+        "generated_asset": "/images/generated/page-058-area-volume.svg",
+        "status": "VISUAL_ASSET_COMMITTED"
       }
     }
   ],
@@ -355,7 +375,8 @@
       57,
       58
     ],
-    "limitations": "This is a content-data draft assembled from extracted source text. Exact full-page visual comparison and rendered SVG asset creation still need to be completed before this batch can be called fully audited. Do not mark this batch COMPLETE yet.",
-    "status": "CONTENT_DRAFT_VISUAL_ASSET_BUILD_REQUIRED"
+    "limitations": "All ten page-specific instructional SVG assets have been committed and linked. The text/translation fields are structured study renderings, not yet a line-by-line certified transcription/proofread edition; page images unavailable in the file renderer were supplemented with diagrams created from extracted source text. Do not claim final full audit sign-off until line-by-line proofing and visual QA are performed.",
+    "status": "CONTENT_AND_VISUAL_ASSETS_COMMITTED_FULL_SOURCE_AUDIT_NOT_YET_SIGNED_OFF",
+    "generated_visual_assets_committed": 10
   }
 }
