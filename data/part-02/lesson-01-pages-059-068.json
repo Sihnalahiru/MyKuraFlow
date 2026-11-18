@@ -55,7 +55,8 @@
         "source_pdf_page": 59,
         "repo_images": [],
         "generated_asset": "/images/generated/page-059-units-weight.svg",
-        "mapping_basis": "Numeric conversion infographic created directly from the source page values."
+        "mapping_basis": "Numeric conversion infographic created directly from the source page values.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     },
     {
@@ -76,7 +77,8 @@
         "source_pdf_page": 60,
         "repo_images": [],
         "generated_asset": "/images/generated/page-060-time-temperature-light.svg",
-        "mapping_basis": "Visual formula and instrument panel recreated from the source values."
+        "mapping_basis": "Visual formula and instrument panel recreated from the source values.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     },
     {
@@ -97,7 +99,8 @@
         "source_pdf_page": 61,
         "repo_images": [],
         "generated_asset": "/images/generated/page-061-warehouse-counters-a.svg",
-        "mapping_basis": "Counter examples drawn as a study infographic from the source table."
+        "mapping_basis": "Counter examples drawn as a study infographic from the source table.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     },
     {
@@ -122,7 +125,8 @@
           "public/images/64.jpg"
         ],
         "generated_asset": "/images/generated/page-062-warehouse-counters-b.svg",
-        "mapping_basis": "Repo images 59, 61 and 64 are layer/pallet stacking diagrams, not counter-specific images; do not present them as exact illustrations. The new counter chart is the correct visual."
+        "mapping_basis": "Repo images 59, 61 and 64 are layer/pallet stacking diagrams, not counter-specific images; do not present them as exact illustrations. The new counter chart is the correct visual.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     },
     {
@@ -143,7 +147,8 @@
         "source_pdf_page": 63,
         "repo_images": [],
         "generated_asset": "/images/generated/page-063-warehouse-counters-c.svg",
-        "mapping_basis": "Compact counter summary illustration created from source table."
+        "mapping_basis": "Compact counter summary illustration created from source table.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     },
     {
@@ -168,7 +173,8 @@
         "source_pdf_page": 64,
         "repo_images": [],
         "generated_asset": "/images/generated/page-064-inbound-preparation-dock.svg",
-        "mapping_basis": "Page image unavailable in renderer; process and dimensional visual created from the extracted Japanese source text."
+        "mapping_basis": "Page image unavailable in renderer; process and dimensional visual created from the extracted Japanese source text.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     },
     {
@@ -193,7 +199,8 @@
         "source_pdf_page": 65,
         "repo_images": [],
         "generated_asset": "/images/generated/page-065-unloading-inspection.svg",
-        "mapping_basis": "Page image unavailable in renderer; inspection flow and split-delivery diagram recreated from the source text."
+        "mapping_basis": "Page image unavailable in renderer; inspection flow and split-delivery diagram recreated from the source text.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     },
     {
@@ -222,7 +229,8 @@
         "source_pdf_page": 66,
         "repo_images": [],
         "generated_asset": "/images/generated/page-066-lot-packaging-weight.svg",
-        "mapping_basis": "Source page table and explanatory text reconstructed into three compact visual diagrams."
+        "mapping_basis": "Source page table and explanatory text reconstructed into three compact visual diagrams.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     },
     {
@@ -243,7 +251,8 @@
         "source_pdf_page": 67,
         "repo_images": [],
         "generated_asset": "/images/generated/page-067-cargo-forms-a.svg",
-        "mapping_basis": "Source page includes photographs; the image ZIP assets do not contain an exact match in the inspected set, so original-type vector illustrations are provided."
+        "mapping_basis": "Source page includes photographs; the image ZIP assets do not contain an exact match in the inspected set, so original-type vector illustrations are provided.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     },
     {
@@ -264,7 +273,8 @@
         "source_pdf_page": 68,
         "repo_images": [],
         "generated_asset": "/images/generated/page-068-bales-roll-cans.svg",
-        "mapping_basis": "Source page's cargo form types recreated in a labelled vector visual."
+        "mapping_basis": "Source page's cargo form types recreated in a labelled vector visual.",
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
       }
     }
   ],
@@ -298,7 +308,8 @@
       64,
       65
     ],
-    "status": "CONTENT_AND_VISUAL_ASSET_BUILD_REQUIRED",
-    "limitations": "Structured trilingual study draft based on extracted Japanese source text. It is not yet a certified line-by-line transcription or translation proofread. Page-specific diagrams must be checked against the full original page images before final audit sign-off."
+    "status": "CONTENT_AND_VISUAL_ASSETS_COMMITTED_FULL_LINE_BY_LINE_PROOFING_NOT_SIGNED_OFF",
+    "limitations": "Ten page-specific SVG assets have been committed and linked. The text is a structured study rendering from extracted Japanese source text; it still needs a full line-by-line Japanese transcription/translation proofread before certified final audit sign-off. PDF page images 64 and 65 were unavailable in the page renderer, so their visuals are reconstructed from extracted text and must be checked against the original PDF rendering.",
+    "generated_visual_assets_committed": 10
   }
 }
