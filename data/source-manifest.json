@@ -436,6 +436,9 @@
     "Original PDF page renders visually inspected for pages 19-21 and 23-28; page 22 image unavailable in Files render and remains pending.",
     "ZIP image asset filenames have not yet been retrieved; exact ZIP filename mapping remains pending.",
     "No full-book completion claim is valid until every physical page, source image, table, diagram, and translation is reconciled.",
-    "Batch pages 29-38 added. Source page images visually inspected for pages 29-33,36-37; pages 34,35,38 image render unavailable and flagged. Text and translations populated for pages 29-38."
-  ]
+    "Batch pages 29-38 added. Source page images visually inspected for pages 29-33,36-37; pages 34,35,38 image render unavailable and flagged. Text and translations populated for pages 29-38.",
+    "2026-11-18 final repository audit: all 12 JSON batches parse, but front matter physical pages 1-8 and printed pages 39-48 are not represented; page 13-18 lack image_mapping; early batch schema differs; physical PDF page mapping is inconsistent around blank physical page 39 and previously reported blank physical page 51; full binary image visual comparison and line-by-line translation proofing are not signed off. See data/final-source-audit-123-pages.json."
+  ],
+  "final_audit_report": "data/final-source-audit-123-pages.json",
+  "final_audit_status": "FAIL — MISSING FRONT MATTER AND PRINTED PAGES 39-48; PHYSICAL PAGE RECONCILIATION AND FULL VISUAL/TEXT PROOFING REQUIRED"
 }
