@@ -133,7 +133,7 @@
           }
         ],
         "generated_asset": "/images/generated/page-092-daily-health-warmup.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED"
       }
     },
     {
@@ -167,7 +167,8 @@
           }
         ],
         "generated_asset": "/images/generated/page-093-heatstroke-prevention.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED",
+        "external_image_url": "https://www.city.hachioji.tokyo.jp/kurashi/hoken/007/013/p035894_d/img/006.jpeg"
       }
     },
     {
@@ -218,7 +219,8 @@
           }
         ],
         "generated_asset": "/images/generated/page-095-ppe-basics.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED",
+        "external_image_url": "https://chomapuoshoffice01.up.seesaa.net/_imagesblog_f4echomapu-shikaku01/rbp02-9bf0c.jpg"
       }
     },
     {
@@ -380,7 +382,20 @@
         "url": "https://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/110106-1.html"
       }
     ],
-    "status": "CONTENT_COMPLETE_VISUALS_TO_COMMIT",
-    "scope_note": "All translated values and rankings are preserved from the source PDF. External sources are visual context only and do not replace source facts."
+    "status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
+    "scope_note": "All translated values and rankings are preserved from the source PDF. External sources are visual context only and do not replace source facts.",
+    "generated_visual_assets_committed": 3,
+    "validation": [
+      "10 original PDF pages read and represented",
+      "10 page records present",
+      "Japanese, furigana, Romaji, English and Sinhala present on all 10 pages",
+      "3 custom SVG assets committed for pages whose PDF visual render was unavailable",
+      "Original PDF visuals linked for pages 89-91, 94, 96-98",
+      "External official/industry visual references linked for health, heatstroke, PPE, manual lifting and safe cargo handling",
+      "Repository image search performed; no suitable matching images found for these pages",
+      "Exact 2024 accident counts and source percentages preserved from textbook page 91",
+      "All page visual mappings have either source PDF visual, committed SVG, or relevant external image/reference"
+    ],
+    "note": "Source facts, including the manual-handling load percentage stated in the textbook, have been transcribed as written. External links supply visual context only. The page 93 official Hachioji poster and page 95 PPE illustration are supplementary visual references."
   }
 }
