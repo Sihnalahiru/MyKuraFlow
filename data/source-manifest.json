@@ -98,6 +98,39 @@
       "pages": "29–38",
       "status": "DRAFT_BULK_BATCH_VISUAL_PARTIAL",
       "commit": "7a759bd1c70a618fdeb08a8466ecacf1175a531b"
+    },
+    {
+      "lesson_id": "p01-l05",
+      "path": "data/part-01/lesson-05-pages-049-058.json",
+      "pdf_pages": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "printed_pages": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "content_status": "COMMITTED",
+      "visual_assets": 10,
+      "visual_status": "COMMITTED_AND_LINKED",
+      "audit_status": "FULL_LINE_BY_LINE_PROOFING_NOT_SIGNED_OFF",
+      "commit": "d937c5e2c69c7721c40e29cc5ceca811c1233d14"
     }
   ],
   "completeness_rules": [
