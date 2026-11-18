@@ -3,5 +3,206 @@
   "status": "BUILDING_NOT_RELEASE_READY",
   "minimumDistinctQuestions": 500,
   "sourceRevision": "specified_skilled_worker_textbook_202607(2).pdf · 123 physical pages",
-  "questions": []
+  "questions": [
+    {
+      "id": "MKF-WR-0001",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A warehouse is a place where goods are stored.",
+        "ja": "<ruby>倉庫<rt>そうこ</rt></ruby>は、<ruby>物<rt>もの</rt></ruby>を<ruby>保管<rt>ほかん</rt></ruby>する<ruby>場所<rt>ばしょ</rt></ruby>です。"
+      },
+      "statement": "<ruby>倉庫<rt>そうこ</rt></ruby>は、<ruby>物<rt>もの</rt></ruby>を<ruby>保管<rt>ほかん</rt></ruby>する<ruby>場所<rt>ばしょ</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source defines a warehouse as a place for storing goods.",
+        "si": "මූලාශ්‍රයේ ගබඩාවක් යනු භාණ්ඩ ගබඩා කර තබන ස්ථානයක් ලෙස අර්ථ දක්වයි.",
+        "technicalNoteJa": "倉庫＝物を保管する場所"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s1 倉庫とは？",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0002",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Storage means only placing goods somewhere; management to prevent loss or damage is not included.",
+        "ja": "<ruby>保管<rt>ほかん</rt></ruby>とは、<ruby>物<rt>もの</rt></ruby>を<ruby>置<rt>お</rt></ruby>いておくだけで、<ruby>壊<rt>こわ</rt></ruby>れたり、なくなったりしないように<ruby>管理<rt>かんり</rt></ruby>することは<ruby>含<rt>ふく</rt></ruby>まれません。"
+      },
+      "statement": "<ruby>保管<rt>ほかん</rt></ruby>とは、<ruby>物<rt>もの</rt></ruby>を<ruby>置<rt>お</rt></ruby>いておくだけで、<ruby>壊<rt>こわ</rt></ruby>れたり、なくなったりしないように<ruby>管理<rt>かんり</rt></ruby>することは<ruby>含<rt>ふく</rt></ruby>まれません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source says storage includes both keeping goods in place and managing them to prevent damage or loss.",
+        "si": "මූලාශ්‍රය අනුව භාණ්ඩ තබා ගැනීම පමණක් නොව, ඒවා කැඩීම හෝ නැතිවීම වැළැක්වීමට කළමනාකරණය කිරීමත් ගබඩා කිරීමේ කොටසකි.",
+        "technicalNoteJa": "保管には保管場所の確保と適切な管理が含まれる"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s1 保管の２つの内容",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0003",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Protecting the value of goods is important in warehouse operations.",
+        "ja": "<ruby>倉庫<rt>そうこ</rt></ruby>では、<ruby>物<rt>もの</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることがとても<ruby>大切<rt>たいせつ</rt></ruby>です。"
+      },
+      "statement": "<ruby>倉庫<rt>そうこ</rt></ruby>では、<ruby>物<rt>もの</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることがとても<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source explicitly emphasizes protecting the value of stored goods.",
+        "si": "ගබඩා කාර්යයේදී ගබඩා කර ඇති භාණ්ඩවල වටිනාකම ආරක්ෂා කිරීම ඉතා වැදගත් බව මූලාශ්‍රයේ සඳහන් වේ.",
+        "technicalNoteJa": "物の価値を守る"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s1 物の価値を守る",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0004",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A private-use warehouse stores a company's own goods in its own warehouse.",
+        "ja": "<ruby>自家用倉庫<rt>じかようそうこ</rt></ruby>では、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>します。"
+      },
+      "statement": "<ruby>自家用倉庫<rt>じかようそうこ</rt></ruby>では、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A private-use warehouse is used by a company to store its own goods in its own warehouse.",
+        "si": "自家用倉庫 යනු සමාගම තමන්ගේම භාණ්ඩ තමන්ගේම ගබඩාවේ තබන ගබඩාවකි.",
+        "technicalNoteJa": "自家用倉庫＝自社の物を自社の倉庫に保管"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s2 自家用倉庫",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0005",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A private-use warehouse is intended to store goods belonging to other companies as well.",
+        "ja": "<ruby>自家用倉庫<rt>じかようそうこ</rt></ruby>には、<ruby>他<rt>ほか</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>物<rt>もの</rt></ruby>も<ruby>保管<rt>ほかん</rt></ruby>します。"
+      },
+      "statement": "<ruby>自家用倉庫<rt>じかようそうこ</rt></ruby>には、<ruby>他<rt>ほか</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>物<rt>もの</rt></ruby>も<ruby>保管<rt>ほかん</rt></ruby>します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source states that a private-use warehouse does not accept goods belonging to other people.",
+        "si": "මූලාශ්‍රය අනුව තමන්ගේ භාවිතය සඳහා වන ගබඩාවට වෙනත් පුද්ගලයන්ගේ හෝ සමාගම්වල භාණ්ඩ ඇතුළත් නොකරයි.",
+        "technicalNoteJa": "他人の物は入れない"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s2 他の人の物は入れません",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0006",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A commercial warehouse accepts and stores goods belonging to other people or companies.",
+        "ja": "<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>は、<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かって<ruby>保管<rt>ほかん</rt></ruby>する<ruby>倉庫<rt>そうこ</rt></ruby>です。"
+      },
+      "statement": "<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>は、<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かって<ruby>保管<rt>ほかん</rt></ruby>する<ruby>倉庫<rt>そうこ</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A commercial warehouse stores goods entrusted to it by other people or companies.",
+        "si": "営業倉庫 යනු වෙනත් පුද්ගලයන්ගේ හෝ සමාගම්වල භාණ්ඩ භාරගෙන ගබඩා කරන වාණිජ ගබඩාවකි.",
+        "technicalNoteJa": "営業倉庫＝他人・他社の物を預かって保管"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s2 営業倉庫",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0007",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A company that has not obtained registration may operate a commercial warehouse.",
+        "ja": "<ruby>登録<rt>とうろく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けていない<ruby>会社<rt>かいしゃ</rt></ruby>も、<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>を<ruby>運営<rt>うんえい</rt></ruby>できます。"
+      },
+      "statement": "<ruby>登録<rt>とうろく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けていない<ruby>会社<rt>かいしゃ</rt></ruby>も、<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>を<ruby>運営<rt>うんえい</rt></ruby>できます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source says only registered companies may operate commercial warehouses; unregistered companies cannot do so.",
+        "si": "මූලාශ්‍රය අනුව ලියාපදිංචි වූ සමාගම්වලට පමණක් වාණිජ ගබඩා පවත්වාගෙන යා හැකිය. ලියාපදිංචි නොවූ සමාගම්වලට එය කළ නොහැක.",
+        "technicalNoteJa": "登録していない会社は営業倉庫を運営できない"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s2 登録した会社だけ",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0008",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Commercial warehouse operators must follow rules only about customer fees.",
+        "ja": "<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>守<rt>まも</rt></ruby>るルールは、<ruby>料金<rt>りょうきん</rt></ruby>についてだけです。"
+      },
+      "statement": "<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>守<rt>まも</rt></ruby>るルールは、<ruby>料金<rt>りょうきん</rt></ruby>についてだけです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source lists three rule areas: accepted goods, customer fees, and standards for buildings, facilities and equipment.",
+        "si": "අනුගමනය කළ යුතු නීති ගාස්තු ගැන පමණක් නොවේ. භාරගත හැකි භාණ්ඩ, ගාස්තු සහ ගොඩනැගිලි/පහසුකම්/උපකරණ ප්‍රමිතීන් ද ඊට අයත් වේ.",
+        "technicalNoteJa": "取扱品目・料金・建物や設備の基準"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s3 守らなければならないルール",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0009",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The stated process for starting a commercial warehouse includes applying, obtaining registration, and then starting operations.",
+        "ja": "<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めるときは、<ruby>申請<rt>しんせい</rt></ruby>し、<ruby>登録<rt>とうろく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けてから、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めます。"
+      },
+      "statement": "<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めるときは、<ruby>申請<rt>しんせい</rt></ruby>し、<ruby>登録<rt>とうろく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けてから、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source gives the sequence: apply to the relevant minister, obtain registration, and then begin operating.",
+        "si": "මූලාශ්‍රයේ පියවර අනුපිළිවෙළ වන්නේ අදාළ අමාත්‍යවරයා වෙත අයදුම් කිරීම, ලියාපදිංචිය ලබාගැනීම, ඉන්පසු මෙහෙයුම් ආරම්භ කිරීමයි.",
+        "technicalNoteJa": "申請 → 登録 → 営業開始"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s4 営業倉庫を始めるときの手順",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0010",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A company may begin commercial warehouse operations before obtaining registration.",
+        "ja": "<ruby>登録<rt>とうろく</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける<ruby>前<rt>まえ</rt></ruby>に、<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてもよいです。"
+      },
+      "statement": "<ruby>登録<rt>とうろく</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける<ruby>前<rt>まえ</rt></ruby>に、<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source places registration before the start of commercial warehouse operations.",
+        "si": "වාණිජ ගබඩාවක් ලෙස වැඩ ආරම්භ කිරීමට පෙර ලියාපදිංචිය ලබාගත යුතු බව මූලාශ්‍රයේ ක්‍රියාවලියෙන් පැහැදිලි වේ.",
+        "technicalNoteJa": "登録を受けてから営業を開始する"
+      },
+      "sourcePage": 9,
+      "sourceAnchor": "p9-s4 登録を受ける",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    }
+  ]
 }
