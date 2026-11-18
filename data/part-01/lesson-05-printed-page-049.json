@@ -1,0 +1,46 @@
+{
+  "schema_version": "mykuraflow.study-page.v1",
+  "project": "MyKuraFlow",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-01",
+  "lesson_id": "p01-l05-security-disaster",
+  "lesson_title": {
+    "ja": "防犯・災害対策",
+    "en": "Security and disaster prevention",
+    "si": "ආරක්ෂාව සහ ආපදා වැළැක්වීම"
+  },
+  "page_range": [
+    49,
+    49
+  ],
+  "languages": [
+    "ja",
+    "furigana",
+    "romaji",
+    "en",
+    "si"
+  ],
+  "pages": [
+    {
+      "pdf_page": 49,
+      "printed_page": 49,
+      "source_ja": "４. 火事(かじ)を防(ふせ)ぐために\n倉庫(そうこ)の中(なか)では、火(ひ)を使(つか)ってはいけません！\n\nフォークリフトを充電(じゅうでん)するときの注意(ちゅうい)\nフォークリフトのバッテリーを充電(じゅうでん)しているとき、バッテリーから水素(すいそ)ガスと酸素(さんそ)ガス＜目(め)に見(み)えない気体(きたい)＞が出(で)てきます。このガスに火(ひ)が近(ちか)づくと、引火(いんか)（火(ひ)がうつること）や爆発(ばくはつ)の危険(きけん)があります！\n\n◆ 日頃(ひごろ)からやっておくこと\n✔ 消火器(しょうかき)の前(まえ)に貨物（かもつ）を置(お)かない。火事(かじ)のとき、すぐに使(つか)えるようにするためです。\n✔ 消火栓(しょうかせん)＜壁(かべ)にある水(みず)を出(だ)す設備(せつび)＞の前(まえ)は、ドアが開(あ)け閉(し)めできるくらいの空(あ)きをつくっておく。\n✔ 消火器(しょうかき)などの設備(せつび)は定期的(ていきてき)に点検(てんけん)する。\n\n◆ 法律（ほうりつ)で決(き)められていること\n消防法(しょうぼうほう)というルールによって、次(つぎ)のことが義務(ぎむ)（かならずしなければならないこと）になっています。\n★ 防火管理者(ぼうかかんりしゃ)の選任(せんにん)：火事(かじ)から守(まも)るための責任者(せきにんしゃ)を決(き)めて、届(とど)け出(で)すること。\n★ 自衛消防組織(じえいしょうぼうそしき)の編成(へんせい)：火事(かじ)が起(お)きたときに動(うご)く、社員(しゃいん)のチームをつくること。\n以下のような建物では、自衛消防組織の編成が義務になります。\n・大規模な建物＜例：一定規模以上の特定防火対象物（とくていぼうかたいしょうぶつ）＞\n・多人数が利用する施設（デパート・ホテル・病院など）\n・高層建築物や地下街など\n\n５. 水害(すいがい)について\n◆ 大雨(おおあめ)や地震(じしん)のとき\n大雨(おおあめ)で川(かわ)があふれたり、台風(たいふう)や地震(じしん)による高潮(たかしお)・津波（つなみ）＜海(うみ)の水(みず)が陸(りく)にあがってくること＞が起(お)きたとき、水(みず)が入(はい)ってきそうな倉庫(そうこ)では、次(つぎ)の準備(じゅんび)をしておきましょう。\n✔ 土(ど)のう（土(つち)が入(はい)った袋(ふくろ)で水(みず)をせき止(と)めるもの）をいつも用意(ようい)しておく。\n✔ 水害(すいがい)のときにどう対応(たいおう)するかを覚(おぼ)えておく。\n△ ハザードマップを使(つか)おう！\nハザードマップとは、大雨(おおあめ)や地震(じしん)などが起(お)きたときに、どのあたりが危(あぶ)ないかを地図(ちず)で示(しめ)したものです。倉庫(そうこ)の近(ちか)くの川(かわ)がどのくらい危(あぶ)ないか、ハザードマップで確認(かくにん)しておきましょう。",
+      "source_furigana": "火事（かじ）、防（ふせ）ぐ、倉庫（そうこ）、充電（じゅうでん）、水素（すいそ）、酸素（さんそ）、引火（いんか）、爆発（ばくはつ）、消火器（しょうかき）、消火栓（しょうかせん）、消防法（しょうぼうほう）、防火管理者（ぼうかかんりしゃ）、自衛消防組織（じえいしょうぼうそしき）、水害（すいがい）、高潮（たかしお）、津波（つなみ）、土のう（どのう）、ハザードマップ",
+      "romaji": "4. Kaji o fusegu tame ni. Souko no naka de wa, hi o tsukatte wa ikemasen. Forklift o juuden suru toki no chuui: forklift no batterii o juuden shite iru toki, batterii kara suiso gasu to sanso gasu ga dete kimasu. Kono gasu ni hi ga chikazuku to, inka ya bakuhatsu no kiken ga arimasu.\n\nHigoro kara yatte oku koto: shoukaki no mae ni kamotsu o okanai. Shoukasen no mae ni doa o akeshime dekiru kuuki o tsukuru. Shoukaki nado no setsubi wa teikiteki ni tenken suru.\n\nHouritsu de kimararete iru koto: Shoubouhou ni yotte, bouka kanrisha no sen'nin to jieishoubou soshiki no hensei ga gimu ni natte imasu. Daikibo na tatemono, takaninzu ga riyou suru shisetsu, kousou kenchikubutsu ya chikagai nado de jieishoubou soshiki no hensei ga gimu desu.\n\n5. Suigai ni tsuite. Ooame ya jishin no toki: kawa no hanran, taifuu ya jishin ni yoru takashio・tsunami ni sonaete, mizuboushi no tame no junbi o shimasu. Donou o itsumo youi shi, suigai toki no taiou o oboete okimasu. Hazard map wa, ooame ya jishin no toki ni abunai basho o chizu de shimeshita mono desu. Souko chikaku no kawa no kiken o kakunin shimasu.",
+      "en": "4. Preventing fires. Open flames must not be used inside the warehouse. Forklift battery charging requires special care: while a battery is charging, hydrogen and oxygen gases are released. If a flame approaches these gases, ignition or explosion may occur.\n\nRoutine precautions: never place cargo in front of a fire extinguisher, so it can be reached immediately. Keep enough clear space in front of a fire hydrant cabinet for its doors to open. Inspect fire-protection equipment regularly.\n\nLegal requirements under the Fire Service Act include appointing a fire-prevention manager and organizing an in-house self-defence firefighting team. Such teams are mandatory in specified large buildings, facilities used by many people (department stores, hotels and hospitals), high-rise buildings and underground shopping areas.\n\n5. Flood damage. During heavy rain or earthquakes, rivers may overflow and typhoons or earthquakes may cause storm surges or tsunamis. Warehouses at risk of water ingress should keep sandbags ready and know the flood-response procedure. Use a hazard map: it shows areas at risk during heavy rain, earthquakes and similar events. Check the hazard level of rivers near the warehouse in advance.",
+      "si": "4. ගින්නක් ඇතිවීම වැළැක්වීම. ගබඩාව ඇතුළත ගිනි දැල් භාවිත කිරීම තහනම්ය. ෆෝක්ලිෆ්ට් බැටරිය ආරෝපණය කිරීමේදී විශේෂ සැලකිල්ලක් අවශ්‍යය. ආරෝපණය වන විට බැටරියෙන් හයිඩ්‍රජන් සහ ඔක්සිජන් වායු නිකුත් වේ. එම වායුවලට ගිනි දැල්ලක් ළං වුවහොත් ගිනි ඇවිළීම හෝ පිපිරීම සිදුවිය හැකිය.\n\nදිනපතා අනුගමනය කළ යුතු දේ: ගිනි නිවන උපකරණය ඉදිරිපිට භාණ්ඩ නොතබන්න; හදිසි අවස්ථාවක එය වහාම භාවිත කළ හැකි විය යුතුය. ගිනි නිවන ජල නළ කැබිනට්ටුවේ දොරවල් විවෘත කළ හැකි තරම් ඉඩක් ඉදිරිපිට තබන්න. ගිනි ආරක්ෂක උපකරණ නියමිත කාලයට පරීක්ෂා කරන්න.\n\nගිනි ආරක්ෂණ නීතිය අනුව ගිනි ආරක්ෂණ කළමනාකරුවෙකු පත් කිරීම සහ ආයතනය තුළ ස්වයං ආරක්ෂක ගිනි නිවන කණ්ඩායමක් පිහිටුවීම අනිවාර්ය වේ. විශාල ගොඩනැගිලි, බොහෝ දෙනා භාවිත කරන වෙළඳසැල්/හෝටල්/රෝහල්, උස් ගොඩනැගිලි සහ භූගත වෙළඳ ප්‍රදේශ වැනි ස්ථානවල එවැනි කණ්ඩායම් පිහිටුවිය යුතුය.\n\n5. ගංවතුර හා ජල හානි. අධික වර්ෂාවකදී ගංගා පිටාර ගැලිය හැකි අතර සුළි කුණාටු හෝ භූමිකම්පා නිසා මුහුදු රළ ඉහළ යාම සහ සුනාමි ඇති විය හැකිය. ජලය ඇතුළු වීමේ අවදානම ඇති ගබඩා වැලි කොට්ට සූදානම් කර තබා ගත යුතු අතර ගංවතුර අවස්ථාවක ක්‍රියා කළ යුතු ආකාරය දැන සිටිය යුතුය. අවදානම් සිතියමක් යනු අධික වර්ෂාව හෝ භූමිකම්පා වැනි අවස්ථාවල අනතුරුදායක ප්‍රදේශ පෙන්වන සිතියමකි. ගබඩාව අසල ගංගාවල අවදානම කලින් පරීක්ෂා කරන්න.",
+      "visuals": [
+        {
+          "type": "source_page_visual_review",
+          "description": "Source page contains fire-prevention instructions, fire-equipment access requirements and flood/hazard-map text. No standalone instructional diagram identified in the extracted page; check rendered source before attaching an image."
+        }
+      ],
+      "image_mapping": {
+        "status": "NO_VERIFIED_STANDALONE_DIAGRAM",
+        "repo_images": [],
+        "source_pdf_page": 49,
+        "note": "Do not attach a whole-page screenshot. Recheck rendered page for standalone diagrams before adding any visual."
+      }
+    }
+  ]
+}
