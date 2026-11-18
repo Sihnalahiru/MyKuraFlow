@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-04",
+  "lesson_id": "p04-forklift-final-02",
+  "lesson_title": {
+    "ja": "フォークリフト作業基準 — 最終",
+    "furigana": "フォークリフト作業基準（さぎょうきじゅん）— 最終（さいしゅう）",
+    "romaji": "Forklift Sagyou Kijun — Saishuu",
+    "en": "Forklift Work Standards — Final Section",
+    "si": "Forklift මෙහෙයුම් ප්‍රමිතීන් — අවසාන කොටස"
+  },
+  "page_range": {
+    "pdf_pages": [
+      119,
+      120,
+      121,
+      122,
+      123
+    ],
+    "printed_pages": [
+      119,
+      120,
+      121,
+      122,
+      null
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 119,
+      "printed_page": 119,
+      "source_ja": "（５）積み終わったら積み付け状態を確認し、不安定なものは積み直す。（６）空パレットは30段以上積まない。７ 駐車：決められた場所に停め、他の機械や車両の邪魔になる場所には停めない。フォーク停止の５原則：①フォークを地面に下ろす、②サイドブレーキをかける、③エンジンを止める、④キーを抜く、⑤歯止めをする。運転席を離れるときも５原則を実施し、作業責任者に行き先と所要時間を伝える。",
+      "source_furigana": "積み付け（つみつけ）、不安定（ふあんてい）、空パレット（からパレット）、駐車（ちゅうしゃ）、停止（ていし）、原則（げんそく）、地面（じめん）、サイドブレーキ、歯止め（はどめ）、運転席（うんてんせき）、作業責任者（さぎょうせきにんしゃ）、所要時間（しょようじかん）。",
+      "romaji": "Tsumi owattara tsumi-tsuke joutai o kakunin shi, fuantei na mono wa tsumi-naoshimasu. Kara pallet wa 30 dan ijou tsumikasane masen. Teishi no go-gensoku: fork o orosu, side brake, engine stop, key o nuku, hadome. Sekininsha ni ikisaki to jikan o tsutaemasu.",
+      "en": "(5) After stacking, check the condition of the stack and restack any unstable items. (6) Do not stack empty pallets 30 tiers or higher. (7) Parking: park only in designated places and never obstruct other machinery or vehicles. Five principles for stopping a forklift: 1) lower the forks to the ground; 2) apply the parking brake; 3) stop the engine; 4) remove the key; 5) chock the wheels. Apply all five rules whenever leaving the operator's seat, and tell the work supervisor where you are going and how long you expect to be away.",
+      "si": "(5) ගොඩගැසීම අවසන් වූ පසු ගොඩේ ස්ථාවරත්වය පරීක්ෂා කර අස්ථාවර භාණ්ඩ නැවත නිවැරදිව ගොඩගසන්න. (6) හිස් pallet ස්ථර 30ක් හෝ ඊට වැඩි උසකට ගොඩ නොගසන්න. (7) Forklift නවත්වන විට නියමිත ස්ථානයක පමණක් නවත්වන්න; වෙනත් යන්ත්‍ර හෝ වාහනවලට බාධා වන තැනක නොනවත්වන්න. නවත්වන මූලික නීති පහ: 1) fork බිමට පහත් කරන්න; 2) parking brake යොදන්න; 3) එන්ජිම නවත්වන්න; 4) යතුර ඉවත් කරන්න; 5) රෝද අවහිරකය යොදන්න. රියදුරු අසුනෙන් ඉවත්වන සෑම අවස්ථාවකම නීති පහම අනුගමනය කර, යන ස්ථානය සහ ගතවන කාලය වැඩ භාරකරුට දන්වන්න.",
+      "visuals": [
+        {
+          "type": "five_forklift_stopping_rules",
+          "description": "Original PDF table listing the five required parking actions."
+        },
+        {
+          "type": "empty_pallet_stack_limit",
+          "description": "Source warning: empty pallets must not be stacked 30 tiers or higher."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 119,
+        "source_pdf_visual_present": true,
+        "repo_image_search": "public/images inventory checked; numeric filenames not assigned without visual comparison",
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 120,
+      "printed_page": 120,
+      "source_ja": "８ 貨物の種類による作業手順（パレット貨物）：①貨物の重量・大きさに合うフォークリフトとフォーク長さを選ぶ。②フォーク幅を適切に広げ、パレット正面から差し込む。③パレット全体が乗るまで奥まで差し込む。浅いと貨物が倒れる。④地面に触れない高さまで持ち上げ、重心と地面からの高さを確認して走行。⑤前が見えないときは後進。リーチ型は後進が原則。⑥床の凹凸・段差・坂・障害物に注意し減速。坂に対して垂直に走る。⑦倉庫の制限速度を守る。⑧傾斜地のパレットを取るときは一旦停止しフォーク角度を調整して差し込む。",
+      "source_furigana": "貨物（かもつ）、重量（じゅうりょう）、大きさ（おおきさ）、フォーク長さ（ながさ）、幅（はば）、正面（しょうめん）、差し込む（さしこむ）、重心（じゅうしん）、後進（こうしん）、凹凸（おうとつ）、段差（だんさ）、障害物（しょうがいぶつ）、垂直（すいちょく）、傾斜地（けいしゃち）。",
+      "romaji": "Kamotsu no shurui ni yoru sagyou tejun: nimotsu ni atta forklift to fork nagasa o erabu. Fork haba o chousei shi, pallet no shoumen kara sasu. Pallet zentai ga noru made oku made sasu. Mae ga mienai toki wa koushin. Slope ni wa suichoku ni susumu.",
+      "en": "Section 8, procedures by cargo type — pallet cargo: (1) Choose a forklift and fork length suited to the cargo's weight and dimensions. (2) Set the fork spacing correctly and approach from the front of the pallet. (3) Insert the forks deeply enough to support the entire pallet; shallow insertion can cause the load to fall. (4) Lift high enough to clear the floor and check the load centre and ground clearance before travelling. (5) If forward visibility is blocked, reverse; reversing is the general rule for reach trucks. (6) Watch for uneven floors, level changes, slopes and obstacles; slow down and approach a slope straight on. (7) Obey the warehouse speed limit. (8) To retrieve a pallet on a slope, stop first and adjust the fork angle before insertion.",
+      "si": "අටවන කොටස — භාණ්ඩ වර්ගය අනුව මෙහෙයුම් ක්‍රම: pallet භාණ්ඩ සඳහා (1) භාණ්ඩයේ බර හා ප්‍රමාණයට ගැළපෙන forklift එකක් සහ fork දිගක් තෝරන්න. (2) fork පරතරය නිවැරදිව සකස් කර pallet එකේ ඉදිරිපසින් ඇතුළු කරන්න. (3) pallet එක සම්පූර්ණයෙන් ආධාර වන තරමට fork ගැඹුරට ඇතුළු කරන්න; අඩුවෙන් ඇතුළු කළහොත් භාණ්ඩය වැටිය හැක. (4) බිමට නොගැටෙන තරමට ඔසවා, ගමන් කිරීමට පෙර භාණ්ඩයේ ගුරුත්ව කේන්ද්‍රය සහ බිමෙන් ඇති ඉඩ පරීක්ෂා කරන්න. (5) ඉදිරිය නොපෙනේ නම් පසුපසට ධාවනය කරන්න; Reach forklift සඳහා පසුපසට ධාවනය සාමාන්‍ය නියමයයි. (6) බිමේ අසමතුලිතතා, උස වෙනස්වීම්, බෑවුම් සහ බාධක ගැන සැලකිලිමත් වී වේගය අඩු කරන්න. බෑවුමට සෘජුව මුහුණලා ගමන් කරන්න. (7) ගබඩාවේ වේග සීමාව අනුගමනය කරන්න. (8) බෑවුමක ඇති pallet එකක් ගැනීමට පෙර නවතා fork කෝණය සකස් කර ඇතුළු කරන්න.",
+      "visuals": [
+        {
+          "type": "pallet_handling_eight_rules",
+          "description": "Eight numbered source instructions for selecting, positioning and travelling with pallet cargo."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 120,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-120-pallet-cargo-workflow.svg",
+        "external_visual_references": [],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    },
+    {
+      "pdf_page": 121,
+      "printed_page": 121,
+      "source_ja": "（２）フレコンバッグ：吊り上げるときはクレーンアーム等の専用アタッチメントを使う。専用器具がない場合はフォーク２本を中央に寄せ、専用治具を固定して吊りベルトを掛けるか、当て物をする。片方のフォークだけで吊らない。運搬は原則パレットに載せる。吊ったまま坂や曲がり角を走ると大きく揺れ転倒事故のおそれ。急発進・急停止・急旋回禁止。（３）ロール状貨物：貨物重量、巻き幅、直径に合うクランプリフトを使う。クランプリフトはコンテナ・トラックへの積卸し専用で長距離運搬に使わない。クランプを貨物に垂直にし中心を掴む。複数ロールを掴む場合は直径差と固定を確認。走行はパレット貨物と同じ注意。クランプ圧力を貨物形状に合わせて調整。",
+      "source_furigana": "フレコンバッグ、吊り上げる（つりあげる）、専用（せんよう）、アタッチメント、治具（じぐ）、吊りベルト（つりベルト）、転倒（てんとう）、急発進（きゅうはっしん）、急停止（きゅうていし）、急旋回（きゅうせんかい）、ロール状（じょう）、クランプリフト、巻き幅（まきはば）、直径（ちょっけい）、積卸し（つみおろし）、長距離（ちょうきょり）、圧力（あつりょく）。",
+      "romaji": "Furekon baggu o tsuriageru toki wa senyou attachment o tsukaimasu. Katahou no fork dake de tsuranaide kudasai. Unpan wa gensoku pallet ni nosete okonaimasu. Roll nimotsu wa weight, makihaba, chokkei ni atta clamp lift o tsukai, center o tsukamimasu. Long distance unpan ni tsukaimasen.",
+      "en": "(2) Flexible container (FIBC) bags: use a dedicated attachment such as a crane arm when lifting. If the dedicated attachment is unavailable, bring the two forks together centrally, secure a purpose-made jig and attach the lifting belt, or use suitable padding. Never suspend the bag from only one fork. As a general rule, transport it on a pallet. Carrying it while suspended can cause large swings on slopes or bends and may lead to a serious forklift tip-over. Never accelerate, stop or turn suddenly. (3) Roll-shaped cargo: use a clamp forklift suited to the cargo weight, roll width and diameter. Clamp forklifts are for loading/unloading containers and trucks only, not long-distance transport. Keep the clamp perpendicular to the load and grip its centre. When gripping two rolls together, check diameter differences and secure gripping before moving. Follow the same travel precautions as for pallet cargo and adjust clamp pressure to the cargo shape.",
+      "si": "(2) Flexible Container (FIBC) බෑග්: එසවීමේදී crane arm වැනි ඒ සඳහාම වූ attachment එකක් භාවිත කරන්න. එය නොමැති නම් fork දෙක මැදට ගෙනවිත් විශේෂ jig එකක් සවි කර lifting belt එක යොදන්න හෝ සුදුසු ආරක්ෂක ආධාරකයක් භාවිත කරන්න. එක් fork එකකින් පමණක් බෑගය එල්ලීම තහනම්. සාමාන්‍යයෙන් pallet එකක් මත තබා ප්‍රවාහනය කරන්න. එල්ලූ තත්ත්වයෙන් බෑවුම් හෝ වංගු හරහා ගමන් කළහොත් බෑගය තදින් පැද්දී forklift පෙරළීමේ බරපතළ අනතුරක් විය හැක. හදිසි වේග වැඩි කිරීම, නවත්වීම හෝ හැරවීම නොකරන්න. (3) රෝල් ආකාරයේ භාණ්ඩ: බර, රෝල් පළල සහ විෂ්කම්භයට ගැළපෙන clamp forklift භාවිත කරන්න. එය container/ට්‍රක් පැටවීම හා බෑම සඳහා පමණි; දිගු දුර ප්‍රවාහනයට භාවිත නොකරන්න. Clamp එක භාණ්ඩයට ලම්බව තබා මධ්‍යය අල්ලාගන්න. රෝල් දෙකක් එකවර අල්ලාගන්නා විට විෂ්කම්භ වෙනස්කම් සහ සම්පූර්ණයෙන් අල්ලාගෙන ඇති බව තහවුරු කරන්න. ගමන් කිරීමේදී pallet භාණ්ඩ සඳහා ඇති ආරක්ෂක නීතිම අනුගමනය කර clamp පීඩනය භාණ්ඩයේ හැඩයට ගැළපෙන ලෙස සකස් කරන්න.",
+      "visuals": [
+        {
+          "type": "fibc_bag_lifting_attachment_photo",
+          "description": "Original PDF photograph showing FIBC bag lifting with dedicated attachment."
+        },
+        {
+          "type": "roll_clamp_forklift_photo",
+          "description": "Original PDF photograph showing clamp forklift gripping roll-shaped cargo."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 121,
+        "source_pdf_visual_present": true,
+        "repo_image_search": "public/images inventory checked; numeric filenames not assigned without visual comparison",
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "generated_asset": null,
+        "external_visual_references": [],
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 122,
+      "printed_page": 122,
+      "source_ja": "９ コンテナ作業：（１）バンニング：貨物の重量バランスと安定を考えて積み、必要ならラッシング・ショアリングで固定する。（２）デパンニング：コンテナ内で貨物が崩れている場合があるため、扉は片方ずつ、貨物を確認しながらゆっくり開ける。扉が動かないよう固縛する。（３）荷崩れの危険があれば、すぐ事務所または担当者に報告。（４）ベルトコンベアを移動する前に電源が切れていることを確認。（５）２台以上のコンベアをつなぐときは作業指揮者を決めて指揮・調整。（６）ベルトコンベアには緊急時に止める非常停止ボタンを必ず設置する。",
+      "source_furigana": "コンテナ作業（さぎょう）、バンニング、デパンニング、重量（じゅうりょう）、安定（あんてい）、ラッシング、ショアリング、固定（こてい）、荷崩れ（にくずれ）、固縛（こばく）、担当者（たんとうしゃ）、電源（でんげん）、作業指揮者（さぎょうしきしゃ）、非常停止装置（ひじょうていしそうち）、緊急（きんきゅう）。",
+      "romaji": "Kontena sagyou: vanning de nimotsu no juuryou balance to antei o kangaete tsumi, lashing/shoring de kotei shimasu. Devanning de wa tobira o katagawa zutsu yukkuri akemasu. Belt conveyor o ugokasu mae ni dengen off o kakunin. Fukusuu conveyor wa sagyou shikisha ga shiki shimasu. Emergency stop button o setchi shimasu.",
+      "en": "Section 9, container operations: (1) Vanning—load while considering cargo weight balance and stability; use lashing or shoring where necessary to secure the cargo. (2) Devanning—cargo may have shifted or collapsed inside the container. Open one door at a time, slowly, while checking the cargo. Secure the doors so they cannot move. (3) If cargo collapse is a risk, report immediately to the office or responsible person. (4) Before moving a belt conveyor, confirm that its power is switched off. (5) When connecting two or more conveyors, appoint a work leader to direct and coordinate the operation. (6) Belt conveyors must be equipped with an emergency-stop button for use in an emergency.",
+      "si": "නවවන කොටස — Container මෙහෙයුම්: (1) Vanning: භාණ්ඩවල බර සමතුලිතතාව සහ ස්ථාවරත්වය සලකා පටවන්න; අවශ්‍ය නම් lashing හෝ shoring මඟින් භාණ්ඩ සුරක්ෂිතව බැඳ තබන්න. (2) Devanning: container ඇතුළත භාණ්ඩ මාරු වී හෝ කඩා වැටී තිබිය හැකි බැවින් දොරවල් එකවර දෙකම නොව එකින් එක සෙමින් විවෘත කර භාණ්ඩ පරීක්ෂා කරන්න. දොරවල් චලනය නොවන ලෙස බැඳ සුරක්ෂිත කරන්න. (3) භාණ්ඩ කඩා වැටීමේ අවදානමක් ඇත්නම් වහාම කාර්යාලයට හෝ වගකිවයුතු නිලධාරියාට වාර්තා කරන්න. (4) Belt conveyor එකක් ගෙන යාමට පෙර විදුලි බලය විසන්ධි කර ඇති බව තහවුරු කරන්න. (5) Conveyor දෙකක් හෝ වැඩි ගණනක් සම්බන්ධ කර භාවිත කරන විට මෙහෙයුම් නායකයෙකු පත් කර කාර්යය මෙහෙයවන්න සහ සම්බන්ධීකරණය කරන්න. (6) හදිසි අවස්ථාවක නවත්වීමට belt conveyor එකක emergency stop බොත්තමක් අනිවාර්යයෙන් තිබිය යුතුය.",
+      "visuals": [
+        {
+          "type": "container_vanning_devanning",
+          "description": "Source-based workflow for loading a container, securing cargo and cautiously opening doors for unloading."
+        },
+        {
+          "type": "conveyor_emergency_stop",
+          "description": "Emergency stop and power isolation safety visual."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 122,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-122-container-conveyor-safety.svg",
+        "external_visual_references": [],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    },
+    {
+      "pdf_page": 123,
+      "printed_page": 123,
+      "source_ja": "本書は特定技能制度（物流倉庫分野）に係る技能試験の内容を整理するため、一般社団法人日本倉庫協会外国人就労調査チーム、一般社団法人日本冷蔵倉庫協会外国人材雇用検討部会、公益社団法人全日本トラック協会の協力を得て作成。書名：教本 特定技能１号 評価試験 物流倉庫分野（学科・実技）。2026年7月発行（初版）。監修：一般社団法人日本冷蔵倉庫協会、一般社団法人日本倉庫協会。発行：一般社団法人日本冷蔵倉庫協会。住所：〒104-0055 東京都中央区豊海町4-18 東京水産ビル5F。TEL 03-3536-1030、FAX 03-3536-1031。Copyright © 2026 Japan Association of Refrigerated Warehouses. All rights reserved。本書の著作権は同協会に帰属し、法律上認められる場合を除き許諾なしの複製・転載・電子保存・配布は禁止。",
+      "source_furigana": "特定技能制度（とくていぎのうせいど）、物流倉庫分野（ぶつりゅうそうこぶんや）、技能試験（ぎのうしけん）、協力（きょうりょく）、一般社団法人（いっぱんしゃだんほうじん）、公益社団法人（こうえきしゃだんほうじん）、外国人就労調査（がいこくじんしゅうろうちょうさ）、雇用検討部会（こようけんとうぶかい）、初版（しょはん）、監修（かんしゅう）、発行（はっこう）、著作権（ちょさくけん）、複製（ふくせい）、転載（てんさい）、配布（はいふ）。",
+      "romaji": "Honsho wa tokutei ginou seido (butsuryuu souko bunya) ni kakawaru ginou shiken no naiyou o seiri suru tame, Nihon Souko Kyoukai, Nihon Reizou Souko Kyoukai, Zen-Nihon Truck Kyoukai no kyouryoku o ete sakusei shimashita. 2026-nen 7-gatsu hatsubai (shohan). Kanshuu: Nihon Reizou Souko Kyoukai, Nihon Souko Kyoukai. Hakkou: Nihon Reizou Souko Kyoukai. Chosakuken wa hakkousha ni kizoku shimasu.",
+      "en": "This book was prepared to organize the contents of the specified skilled worker skills test for the logistics warehouse field with the cooperation of: the Japan Warehouse Association Foreign Worker Employment Research Team; the Japan Association of Refrigerated Warehouses Foreign Talent Employment Study Group; and the Japan Trucking Association. Title: Textbook — Specified Skilled Worker (i), Evaluation Test, Logistics Warehouse Field (Academic and Practical). First edition, July 2026. Supervised by the Japan Association of Refrigerated Warehouses and Japan Warehouse Association. Published by the Japan Association of Refrigerated Warehouses, Tokyo Suisan Building 5F, 4-18 Toyomicho, Chuo-ku, Tokyo 104-0055. Tel. 03-3536-1030; Fax 03-3536-1031. Copyright © 2026 Japan Association of Refrigerated Warehouses. All rights reserved. The publisher owns the copyright; reproduction, reprinting, electronic storage or distribution without permission is prohibited except where permitted by copyright law.",
+      "si": "මෙම පොත ජපානයේ Specified Skilled Worker (Logistics Warehouse) කුසලතා විභාගයේ අන්තර්ගතය සකස් කිරීම සඳහා පහත ආයතනවල සහයෝගයෙන් සකස් කර ඇත: Japan Warehouse Association හි විදේශීය සේවක රැකියා පර්යේෂණ කණ්ඩායම; Japan Association of Refrigerated Warehouses හි විදේශීය මානව සම්පත් රැකියා අධ්‍යයන කමිටුව; සහ Japan Trucking Association. පොතේ නම: Specified Skilled Worker (i) ඇගයීම් විභාගය — Logistics Warehouse ක්ෂේත්‍රය (ලිඛිත හා ප්‍රායෝගික). පළමු මුද්‍රණය: 2026 ජූලි. අධීක්ෂණය: Japan Association of Refrigerated Warehouses සහ Japan Warehouse Association. ප්‍රකාශකයා: Japan Association of Refrigerated Warehouses, Tokyo Suisan Building 5F, 4-18 Toyomicho, Chuo-ku, Tokyo 104-0055. දුරකථන 03-3536-1030; ෆැක්ස් 03-3536-1031. Copyright © 2026 Japan Association of Refrigerated Warehouses. සියලු හිමිකම් ඇවිරිණි. නීතියෙන් අවසර දී ඇති අවස්ථා හැර ප්‍රකාශකයාගේ අවසරයකින් තොරව පිටපත් කිරීම, නැවත පළ කිරීම, ඉලෙක්ට්‍රොනිකව ගබඩා කිරීම හෝ බෙදාහැරීම තහනම්ය.",
+      "visuals": [
+        {
+          "type": "publisher_colophon",
+          "description": "Publisher, edition date, supervising organizations, address, contact numbers and copyright notice."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 123,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "use_original_pdf_visual": false,
+        "generated_asset": "/images/generated/page-123-colophon-publisher-record.svg",
+        "external_visual_references": [],
+        "status": "COMMITTED_AND_LINKED"
+      }
+    }
+  ],
+  "audit": {
+    "source_pages_read": [
+      119,
+      120,
+      121,
+      122,
+      123
+    ],
+    "page_count": 5,
+    "all_four_languages_present": true,
+    "source_pdf_visual_pages": [
+      119,
+      121
+    ],
+    "generated_visual_assets_committed": 3,
+    "repo_images_folder_checked": true,
+    "repo_image_mapping_policy": "Preserved original filenames; did not assign numeric JPG/PNG assets based on filename alone. Page 121 original photos are retained from the source PDF rendering; visual content of repository numeric assets was not verifiable through the GitHub binary endpoint.",
+    "external_visual_references": [
+      {
+        "page": 119,
+        "url": "https://www.mhlw.go.jp/content/11300000/000628483.pdf",
+        "source": "Japan MHLW forklift operator management requirements"
+      },
+      {
+        "page": 119,
+        "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift/traveling-maneuvering",
+        "source": "OSHA parking and unattended forklift procedure"
+      },
+      {
+        "page": 120,
+        "url": "https://www.osha.gov/etools/powered-industrial-trucks/operating-forklift/load-handling",
+        "source": "OSHA pallet load handling and fork insertion"
+      },
+      {
+        "page": 121,
+        "url": "https://www.mhlw.go.jp/content/000495691.pdf",
+        "source": "Japan MHLW forklift operation safety diagrams"
+      }
+    ],
+    "status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
+    "validation": [
+      "All five final physical PDF pages transcribed into Japanese, furigana, Romaji, English and Sinhala",
+      "Pages 119 and 121 use the original PDF's table/photo visuals",
+      "Pages 120, 122 and 123 have committed SVG visuals derived from source page content",
+      "Original repository image filenames preserved; no numeric-name-only image assignments",
+      "Page 123 colophon translated with publisher, contributors, contact and copyright details",
+      "No pending visual placeholders in this batch"
+    ]
+  }
+}
