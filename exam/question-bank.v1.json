@@ -4366,6 +4366,886 @@
       "sourceAnchor": "printed p78 label correction",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0227",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Tagging attaches tags with a tag gun or tag loop.",
+        "ja": "<ruby>タグ付<rt>ふだつ</rt></ruby>けでは、タグガンや<ruby>タグ付<rt>ふだつ</rt></ruby>けループを使って<ruby>商品<rt>しょうひん</rt></ruby>にタグを取り付けます。"
+      },
+      "statement": "<ruby>タグ付<rt>ふだつ</rt></ruby>けでは、タグガンや<ruby>タグ付<rt>ふだつ</rt></ruby>けループを使って<ruby>商品<rt>しょうひん</rt></ruby>にタグを取り付けます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Tagging attaches tags with a tag gun or tag loop.",
+        "si": "Tag gun හෝ tag loop භාවිතයෙන් භාණ්ඩයට tag සවි කරයි.",
+        "technicalNoteJa": "札付けの方法"
+      },
+      "sourcePage": 79,
+      "sourceAnchor": "printed p79 札付けの方法",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0228",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Insertion puts manuals and warranty cards inside the product box.",
+        "ja": "<ruby>封入<rt>ふうにゅう</rt></ruby>とは、<ruby>取扱説明書<rt>とりあつかいせつめいしょ</rt></ruby>や<ruby>保証書<rt>ほしょうしょ</rt></ruby>などを<ruby>商品<rt>しょうひん</rt></ruby>箱に入れる<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "<ruby>封入<rt>ふうにゅう</rt></ruby>とは、<ruby>取扱説明書<rt>とりあつかいせつめいしょ</rt></ruby>や<ruby>保証書<rt>ほしょうしょ</rt></ruby>などを<ruby>商品<rt>しょうひん</rt></ruby>箱に入れる<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Insertion puts manuals and warranty cards inside the product box.",
+        "si": "封入 යනු manuals සහ warranty card පෙට්ටියට ඇතුළත් කිරීමයි.",
+        "technicalNoteJa": "封入作業"
+      },
+      "sourcePage": 79,
+      "sourceAnchor": "printed p79 封入作業",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0229",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Cutting trims products to the specified size.",
+        "ja": "カッティングとは、<ruby>商品<rt>しょうひん</rt></ruby>を決められたサイズより大きく<ruby>切<rt>き</rt></ruby>ってる<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "カッティングとは、<ruby>商品<rt>しょうひん</rt></ruby>を決められたサイズより大きく<ruby>切<rt>き</rt></ruby>ってる<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Cutting trims products to the specified size.",
+        "si": "Cutting යනු භාණ්ඩ නියමිත ප්‍රමාණයට කැපීමයි.",
+        "technicalNoteJa": "カッティング"
+      },
+      "sourcePage": 79,
+      "sourceAnchor": "printed p79 カッティング",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0230",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Use a new vinyl glove over cloth or cold-protection gloves for frozen food.",
+        "ja": "<ruby>冷凍<ruby>食品<rt>しょくひん</rt></ruby><rt>れいとうしょくひん</rt></ruby>を取り出すときは、<ruby>防寒<ruby>手<rt>て</rt></ruby>袋<rt>ぼうかんてぶくろ</rt></ruby>などの<ruby>上<rt>うえ</rt></ruby>に新しいビニール<ruby>手<rt>て</rt></ruby>袋を重ねます。"
+      },
+      "statement": "<ruby>冷凍<ruby>食品<rt>しょくひん</rt></ruby><rt>れいとうしょくひん</rt></ruby>を取り出すときは、<ruby>防寒<ruby>手<rt>て</rt></ruby>袋<rt>ぼうかんてぶくろ</rt></ruby>などの<ruby>上<rt>うえ</rt></ruby>に新しいビニール<ruby>手<rt>て</rt></ruby>袋を重ねます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Use a new vinyl glove over cloth or cold-protection gloves for frozen food.",
+        "si": "ශීත කළ ආහාර සඳහා ආරක්ෂක අත්වැසුම් මත අලුත් vinyl අත්වැසුමක් පළඳින්න.",
+        "technicalNoteJa": "冷凍食品の手袋"
+      },
+      "sourcePage": 79,
+      "sourceAnchor": "printed p79 冷凍食品の手袋",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0231",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Remove work gloves and maintain hygiene when repacking fresh food.",
+        "ja": "<ruby>生鮮<ruby>食品<rt>しょくひん</rt></ruby><rt>せいせんしょくひん</rt></ruby>を詰め替えるときは、<ruby>作業<rt>さぎょう</rt></ruby><ruby>手<rt>て</rt></ruby>袋を外して<ruby>衛生<rt>えいせい</rt></ruby>に注意します。"
+      },
+      "statement": "<ruby>生鮮<ruby>食品<rt>しょくひん</rt></ruby><rt>せいせんしょくひん</rt></ruby>を詰め替えるときは、<ruby>作業<rt>さぎょう</rt></ruby><ruby>手<rt>て</rt></ruby>袋を外して<ruby>衛生<rt>えいせい</rt></ruby>に注意します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Remove work gloves and maintain hygiene when repacking fresh food.",
+        "si": "නැවුම් ආහාර නැවත ඇසුරුම් කිරීමේදී වැඩ අත්වැසුම් ඉවත් කර සනීපාරක්ෂාව රකින්න.",
+        "technicalNoteJa": "生鮮食品の衛生管理"
+      },
+      "sourcePage": 79,
+      "sourceAnchor": "printed p79 生鮮食品の衛生管理",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0232",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Set assembly groups different products into one set.",
+        "ja": "セット組みは、異なる<ruby>商品<rt>しょうひん</rt></ruby>をまとめてセットにする<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "セット組みは、異なる<ruby>商品<rt>しょうひん</rt></ruby>をまとめてセットにする<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Set assembly groups different products into one set.",
+        "si": "විවිධ භාණ්ඩ එකට එකතු කර කට්ටලයක් සකස් කිරීම set assembly වේ.",
+        "technicalNoteJa": "セット組み"
+      },
+      "sourcePage": 79,
+      "sourceAnchor": "printed p79 セット組み",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0233",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Package wrapping puts products in polybags and seals them.",
+        "ja": "パッケージ<ruby>包装<rt>ほうそう</rt></ruby>では、<ruby>商品<rt>しょうひん</rt></ruby>をポリ袋などに入れて封をします。"
+      },
+      "statement": "パッケージ<ruby>包装<rt>ほうそう</rt></ruby>では、<ruby>商品<rt>しょうひん</rt></ruby>をポリ袋などに入れて封をします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Package wrapping puts products in polybags and seals them.",
+        "si": "භාණ්ඩ poly bag එකකට දමා මුද්‍රා කිරීම package wrapping වේ.",
+        "technicalNoteJa": "パッケージ包装"
+      },
+      "sourcePage": 80,
+      "sourceAnchor": "printed p80 パッケージ包装",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0234",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Outer-carton packing places products and cushioning inside a carton.",
+        "ja": "<ruby>外装<ruby>梱包<rt>こんぽう</rt></ruby><rt>がいそうこんぽう</rt></ruby>では、<ruby>商品<rt>しょうひん</rt></ruby>とクッション材をカートンに入れます。"
+      },
+      "statement": "<ruby>外装<ruby>梱包<rt>こんぽう</rt></ruby><rt>がいそうこんぽう</rt></ruby>では、<ruby>商品<rt>しょうひん</rt></ruby>とクッション材をカートンに入れます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Outer-carton packing places products and cushioning inside a carton.",
+        "si": "භාණ්ඩ සහ cushioning material carton එකකට දමයි.",
+        "technicalNoteJa": "外装梱包"
+      },
+      "sourcePage": 80,
+      "sourceAnchor": "printed p80 外装梱包",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0235",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Seal the carton bottom first with kraft tape.",
+        "ja": "カートンを組み立てるときは、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>底<rt>そこ</rt></ruby>をクラフトテープで止めます。"
+      },
+      "statement": "カートンを組み立てるときは、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>底<rt>そこ</rt></ruby>をクラフトテープで止めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Seal the carton bottom first with kraft tape.",
+        "si": "Carton එකේ පතුල පළමුව kraft tape වලින් වසන්න.",
+        "technicalNoteJa": "カートン底面の封かん"
+      },
+      "sourcePage": 80,
+      "sourceAnchor": "printed p80 カートン底面の封かん",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0236",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The source ranks tape strength from straight to cross, K and 米, with 米 strongest.",
+        "ja": "テープ貼りの<ruby>強度<rt>きょうど</rt></ruby>は、一の字、十の字、キの字、米の字の順に強くなります。"
+      },
+      "statement": "テープ貼りの<ruby>強度<rt>きょうど</rt></ruby>は、一の字、十の字、キの字、米の字の順に強くなります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source ranks tape strength from straight to cross, K and 米, with 米 strongest.",
+        "si": "මූලාශ්‍රයේ ශක්තිය straight, cross, K, 米 ලෙස වැඩි වන අතර 米 ශක්තිමත්මය.",
+        "technicalNoteJa": "テープ貼りの強度"
+      },
+      "sourcePage": 80,
+      "sourceAnchor": "printed p80 テープ貼りの強度",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0237",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "H-taping prevents dust ingress but does not specifically strengthen the carton.",
+        "ja": "H字貼りは、特にカートンの<ruby>強度<rt>きょうど</rt></ruby>を最も高める<ruby>方法<rt>ほうほう</rt></ruby>です。"
+      },
+      "statement": "H字貼りは、特にカートンの<ruby>強度<rt>きょうど</rt></ruby>を最も高める<ruby>方法<rt>ほうほう</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "H-taping prevents dust ingress but does not specifically strengthen the carton.",
+        "si": "H-taping දූවිලි ඇතුළුවීම වළක්වයි; විශේෂයෙන් ශක්තිය වැඩි නොකරයි.",
+        "technicalNoteJa": "H字貼りの目的"
+      },
+      "sourcePage": 80,
+      "sourceAnchor": "printed p80 H字貼りの目的",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0238",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Cushioning fills gaps between products and containers.",
+        "ja": "クッション材は、<ruby>商品<rt>しょうひん</rt></ruby>と容器の隙間を埋めるために使います。"
+      },
+      "statement": "クッション材は、<ruby>商品<rt>しょうひん</rt></ruby>と容器の隙間を埋めるために使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Cushioning fills gaps between products and containers.",
+        "si": "භාණ්ඩය සහ බහාලුම අතර හිස් ඉඩ පිරවීමට cushioning භාවිත කරයි.",
+        "technicalNoteJa": "クッション材の用途"
+      },
+      "sourcePage": 81,
+      "sourceAnchor": "printed p81 クッション材の用途",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0239",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Do not insert the cutter blade deeply; it may damage the goods.",
+        "ja": "<ruby>開梱<rt>かいこん</rt></ruby>では、カッターの<ruby>刃<rt>は</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>く差し込むほど<ruby>安全<rt>あんぜん</rt></ruby>です。"
+      },
+      "statement": "<ruby>開梱<rt>かいこん</rt></ruby>では、カッターの<ruby>刃<rt>は</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>く差し込むほど<ruby>安全<rt>あんぜん</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Do not insert the cutter blade deeply; it may damage the goods.",
+        "si": "Cutter blade එක ගැඹුරට ඇතුළු නොකරන්න; භාණ්ඩයට හානි විය හැක.",
+        "technicalNoteJa": "開梱時の安全"
+      },
+      "sourcePage": 81,
+      "sourceAnchor": "printed p81 開梱時の安全",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0240",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Notify the supervisor and search until the broken blade is found.",
+        "ja": "カッターの<ruby>刃<rt>は</rt></ruby>が折れたら、<ruby>責任者<rt>せきにんしゃ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせ、<ruby>破片<rt>はへん</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかるつかるまで探します。"
+      },
+      "statement": "カッターの<ruby>刃<rt>は</rt></ruby>が折れたら、<ruby>責任者<rt>せきにんしゃ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせ、<ruby>破片<rt>はへん</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかるつかるまで探します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Notify the supervisor and search until the broken blade is found.",
+        "si": "Blade එක කැඩුණොත් වහාම දන්වා කැබැල්ල හමුවන තුරු සොයන්න.",
+        "technicalNoteJa": "折れた刃の処置"
+      },
+      "sourcePage": 81,
+      "sourceAnchor": "printed p81 折れた刃の処置",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0241",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "PP band is a thin plastic strap.",
+        "ja": "PPバンドは、プラスチック<ruby>製<rt>せい</rt></ruby>の<ruby>細<rt>ほそ</rt></ruby>いいバンドです。"
+      },
+      "statement": "PPバンドは、プラスチック<ruby>製<rt>せい</rt></ruby>の<ruby>細<rt>ほそ</rt></ruby>いいバンドです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "PP band is a thin plastic strap.",
+        "si": "PP band යනු ප්ලාස්ටික්වලින් සෑදූ සිහින් පටියකි.",
+        "technicalNoteJa": "PPバンドの定義"
+      },
+      "sourcePage": 81,
+      "sourceAnchor": "printed p81 PPバンドの定義",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0242",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Band cutting separates bundled sets into individual cartons.",
+        "ja": "バンド<ruby>切<rt>き</rt></ruby>ってりは、PPバンドを<ruby>切<rt>き</rt></ruby>ってってセット<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>単箱<rt>たんばこ</rt></ruby>に分ける<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "バンド<ruby>切<rt>き</rt></ruby>ってりは、PPバンドを<ruby>切<rt>き</rt></ruby>ってってセット<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>単箱<rt>たんばこ</rt></ruby>に分ける<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Band cutting separates bundled sets into individual cartons.",
+        "si": "PP පටි කපා කට්ටල තනි පෙට්ටිවලට වෙන් කිරීම band cutting වේ.",
+        "technicalNoteJa": "バンド切り"
+      },
+      "sourcePage": 81,
+      "sourceAnchor": "printed p81 バンド切り",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0243",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Keep the head away from the machine arm to avoid entanglement.",
+        "ja": "<ruby>自動<ruby>結束機<rt>けっそくき</rt></ruby><rt>じどうけっそくき</rt></ruby>を使うときは、アーム部分に<ruby>頭<rt>あたま</rt></ruby>を近づけます。"
+      },
+      "statement": "<ruby>自動<ruby>結束機<rt>けっそくき</rt></ruby><rt>じどうけっそくき</rt></ruby>を使うときは、アーム部分に<ruby>頭<rt>あたま</rt></ruby>を近づけます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Keep the head away from the machine arm to avoid entanglement.",
+        "si": "ඇදී යාමේ අවදානම නිසා යන්ත්‍ර arm එකෙන් හිස ඈත් කරන්න.",
+        "technicalNoteJa": "自動結束機の安全"
+      },
+      "sourcePage": 82,
+      "sourceAnchor": "printed p82 自動結束機の安全",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0244",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Keep hands and fingers away from moving parts.",
+        "ja": "<ruby>結束機<rt>けっそくき</rt></ruby>が動いている間は、<ruby>手<rt>て</rt></ruby>や<ruby>指<rt>ゆび</rt></ruby>を<ruby>動作部分<rt>どうさぶぶん</rt></ruby>に近づけません。"
+      },
+      "statement": "<ruby>結束機<rt>けっそくき</rt></ruby>が動いている間は、<ruby>手<rt>て</rt></ruby>や<ruby>指<rt>ゆび</rt></ruby>を<ruby>動作部分<rt>どうさぶぶん</rt></ruby>に近づけません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Keep hands and fingers away from moving parts.",
+        "si": "යන්ත්‍රය ක්‍රියාත්මක වන විට අත් සහ ඇඟිලි චලනය වන කොටස්වලින් ඈත් කරන්න.",
+        "technicalNoteJa": "結束機の挟まれ防止"
+      },
+      "sourcePage": 82,
+      "sourceAnchor": "printed p82 結束機の挟まれ防止",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0245",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Anchor stretch film at the pallet bottom and wrap upward.",
+        "ja": "ストレッチ<ruby>梱包<rt>こんぽう</rt></ruby>では、フィルムをパレットの<ruby><ruby>下<rt>した</rt></ruby>部<rt>かぶ</rt></ruby>に<ruby>固定<rt>こてい</rt></ruby>し、<ruby>下<rt>した</rt></ruby>から<ruby>上<rt>うえ</rt></ruby>へ巻きます。"
+      },
+      "statement": "ストレッチ<ruby>梱包<rt>こんぽう</rt></ruby>では、フィルムをパレットの<ruby><ruby>下<rt>した</rt></ruby>部<rt>かぶ</rt></ruby>に<ruby>固定<rt>こてい</rt></ruby>し、<ruby>下<rt>した</rt></ruby>から<ruby>上<rt>うえ</rt></ruby>へ巻きます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Anchor stretch film at the pallet bottom and wrap upward.",
+        "si": "Stretch film pallet පතුලේ සවි කර පහළ සිට ඉහළට ඔතන්න.",
+        "technicalNoteJa": "ストレッチ梱包の手順"
+      },
+      "sourcePage": 82,
+      "sourceAnchor": "printed p82 ストレッチ梱包の手順",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0246",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Wooden packing assembles a crate or frame around cargo.",
+        "ja": "<ruby>木箱<rt>きばこ</rt></ruby>・<ruby>木枠<rt>きわく</rt></ruby><ruby>梱包<rt>こんぽう</rt></ruby>では、<ruby>木箱<rt>きばこ</rt></ruby>や<ruby>木枠<rt>きわく</rt></ruby>を組み立てて<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>梱包<rt>こんぽう</rt></ruby>します。"
+      },
+      "statement": "<ruby>木箱<rt>きばこ</rt></ruby>・<ruby>木枠<rt>きわく</rt></ruby><ruby>梱包<rt>こんぽう</rt></ruby>では、<ruby>木箱<rt>きばこ</rt></ruby>や<ruby>木枠<rt>きわく</rt></ruby>を組み立てて<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>梱包<rt>こんぽう</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Wooden packing assembles a crate or frame around cargo.",
+        "si": "භාණ්ඩ වටා ලී පෙට්ටියක් හෝ රාමුවක් සකස් කරයි.",
+        "technicalNoteJa": "木箱・木枠梱包"
+      },
+      "sourcePage": 82,
+      "sourceAnchor": "printed p82 木箱・木枠梱包",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0247",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Returns refurbishment prepares returned goods for shipment again.",
+        "ja": "<ruby>返品再生<rt>へんぴんさいせい</rt></ruby>は、返品<ruby>商品<rt>しょうひん</rt></ruby>を再び出荷できるよう<ruby>修理<rt>しゅうり</rt></ruby>・<ruby>加工<rt>かこう</rt></ruby>する<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "<ruby>返品再生<rt>へんぴんさいせい</rt></ruby>は、返品<ruby>商品<rt>しょうひん</rt></ruby>を再び出荷できるよう<ruby>修理<rt>しゅうり</rt></ruby>・<ruby>加工<rt>かこう</rt></ruby>する<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Returns refurbishment prepares returned goods for shipment again.",
+        "si": "ආපසු ලැබුණු භාණ්ඩ නැවත යැවිය හැකි ලෙස අලුත්වැඩියා කරයි.",
+        "technicalNoteJa": "返品再生"
+      },
+      "sourcePage": 83,
+      "sourceAnchor": "printed p83 返品再生",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0248",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Needle inspection checks products for needles or metal fragments, mainly apparel.",
+        "ja": "<ruby>検針<rt>けんしん</rt></ruby>は、<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>を測るために行います。"
+      },
+      "statement": "<ruby>検針<rt>けんしん</rt></ruby>は、<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>を測るために行います。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Needle inspection checks products for needles or metal fragments, mainly apparel.",
+        "si": "検針 යනු ප්‍රධාන වශයෙන් ඇඳුම්වල ඉඳිකටු හෝ ලෝහ කැබලි පරීක්ෂා කිරීමයි.",
+        "technicalNoteJa": "検針の目的"
+      },
+      "sourcePage": 83,
+      "sourceAnchor": "printed p83 検針の目的",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0249",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Conveyor and handheld detectors are used for needle inspection.",
+        "ja": "<ruby>検針<rt>けんしん</rt></ruby>には、コンベヤ式やハンディ式の<ruby>検針<rt>けんしん</rt></ruby>機が使われます。"
+      },
+      "statement": "<ruby>検針<rt>けんしん</rt></ruby>には、コンベヤ式やハンディ式の<ruby>検針<rt>けんしん</rt></ruby>機が使われます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Conveyor and handheld detectors are used for needle inspection.",
+        "si": "Conveyor සහ handheld detector යන්ත්‍ර検針 සඳහා භාවිත කරයි.",
+        "technicalNoteJa": "検針機の種類"
+      },
+      "sourcePage": 83,
+      "sourceAnchor": "printed p83 検針機の種類",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0250",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Sewing machines attach care labels and brand labels.",
+        "ja": "縫<ruby>製<rt>せい</rt></ruby>では、ミシンで<ruby>洗濯<ruby>表示<rt>ひょうじ</rt></ruby><rt>せんたくひょうじ</rt></ruby>やブランドネームを取り付けます。"
+      },
+      "statement": "縫<ruby>製<rt>せい</rt></ruby>では、ミシンで<ruby>洗濯<ruby>表示<rt>ひょうじ</rt></ruby><rt>せんたくひょうじ</rt></ruby>やブランドネームを取り付けます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Sewing machines attach care labels and brand labels.",
+        "si": "මහන මැෂිමෙන් care label සහ brand label සවි කරයි.",
+        "technicalNoteJa": "縫製と織りネーム"
+      },
+      "sourcePage": 83,
+      "sourceAnchor": "printed p83 縫製と織りネーム",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0251",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The source describes targeted stain removal using suitable chemicals.",
+        "ja": "クリーニングは、<ruby>商品<rt>しょうひん</rt></ruby>全体を必ず水に浸す<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "クリーニングは、<ruby>商品<rt>しょうひん</rt></ruby>全体を必ず水に浸す<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source describes targeted stain removal using suitable chemicals.",
+        "si": "සුදුසු රසායනික ද්‍රව්‍ය භාවිතයෙන් පැල්ලම් ඇති ස්ථාන ඉලක්ක කර ඉවත් කරයි.",
+        "technicalNoteJa": "クリーニング"
+      },
+      "sourcePage": 83,
+      "sourceAnchor": "printed p83 クリーニング",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0252",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Plan task, sequence, staffing, materials and equipment in advance.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>計画では、<ruby>作業<rt>さぎょう</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>、<ruby>手<rt>て</rt></ruby>順、<ruby>人員<rt>じんいん</rt></ruby>、<ruby>資材<rt>しざい</rt></ruby>、<ruby>器具<rt>きぐ</rt></ruby>を事前に決めます。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>計画では、<ruby>作業<rt>さぎょう</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>、<ruby>手<rt>て</rt></ruby>順、<ruby>人員<rt>じんいん</rt></ruby>、<ruby>資材<rt>しざい</rt></ruby>、<ruby>器具<rt>きぐ</rt></ruby>を事前に決めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Plan task, sequence, staffing, materials and equipment in advance.",
+        "si": "වැඩ අන්තර්ගතය, අනුපිළිවෙළ, සේවකයන්, ද්‍රව්‍ය සහ උපකරණ කලින් සැලසුම් කරන්න.",
+        "technicalNoteJa": "作業計画の五要素"
+      },
+      "sourcePage": 84,
+      "sourceAnchor": "printed p84 作業計画の五要素",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0253",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A written plan helps workers understand the task and work safely.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>計画書は、<ruby>作業<rt>さぎょう</rt></ruby>者が<ruby>内容<rt>ないよう</rt></ruby>を理解し<ruby>安全<rt>あんぜん</rt></ruby>に働くために必要です。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>計画書は、<ruby>作業<rt>さぎょう</rt></ruby>者が<ruby>内容<rt>ないよう</rt></ruby>を理解し<ruby>安全<rt>あんぜん</rt></ruby>に働くために必要です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A written plan helps workers understand the task and work safely.",
+        "si": "ලිඛිත සැලැස්ම සේවකයන්ට වැඩේ තේරුම්ගෙන ආරක්ෂිතව වැඩ කිරීමට උපකාරී වේ.",
+        "technicalNoteJa": "作業計画書"
+      },
+      "sourcePage": 84,
+      "sourceAnchor": "printed p84 作業計画書",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0254",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Keep unnecessary products and materials out of the work area.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>準備では、<ruby>不要<rt>ふよう</rt></ruby>な<ruby>商品<rt>しょうひん</rt></ruby>や<ruby>資材<rt>しざい</rt></ruby>も<ruby>作業<rt>さぎょう</rt></ruby>スペースに置きます。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>準備では、<ruby>不要<rt>ふよう</rt></ruby>な<ruby>商品<rt>しょうひん</rt></ruby>や<ruby>資材<rt>しざい</rt></ruby>も<ruby>作業<rt>さぎょう</rt></ruby>スペースに置きます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Keep unnecessary products and materials out of the work area.",
+        "si": "අවශ්‍ය නොවන භාණ්ඩ සහ ද්‍රව්‍ය වැඩබිමේ නොතබන්න.",
+        "technicalNoteJa": "作業スペースの整理"
+      },
+      "sourcePage": 84,
+      "sourceAnchor": "printed p84 作業スペースの整理",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0255",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Secure the work area and place signs against unauthorised entry.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>準備では、<ruby>加工<rt>かこう</rt></ruby>スペースを<ruby>確保<rt>かくほ</rt></ruby>し、<ruby>無断立入<rt>むだんたちい</rt></ruby>りを防ぐ<ruby>標識<rt>ひょうしき</rt></ruby>を置きます。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>準備では、<ruby>加工<rt>かこう</rt></ruby>スペースを<ruby>確保<rt>かくほ</rt></ruby>し、<ruby>無断立入<rt>むだんたちい</rt></ruby>りを防ぐ<ruby>標識<rt>ひょうしき</rt></ruby>を置きます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Secure the work area and place signs against unauthorised entry.",
+        "si": "වැඩබිම වෙන් කර අනවසර ඇතුළුවීම වැළැක්වීමට සලකුණු තබන්න.",
+        "technicalNoteJa": "作業区域の確保"
+      },
+      "sourcePage": 84,
+      "sourceAnchor": "printed p84 作業区域の確保",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0256",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Follow the process sheet and precautions during work.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>実施中は、<ruby>作業<rt>さぎょう</rt></ruby>工程表の<ruby>指<rt>ゆび</rt></ruby>示や<ruby>注意事項<rt>ちゅういじこう</rt></ruby>を守ります。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>実施中は、<ruby>作業<rt>さぎょう</rt></ruby>工程表の<ruby>指<rt>ゆび</rt></ruby>示や<ruby>注意事項<rt>ちゅういじこう</rt></ruby>を守ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Follow the process sheet and precautions during work.",
+        "si": "වැඩ කරන විට process sheet උපදෙස් සහ අවවාද පිළිපදින්න.",
+        "technicalNoteJa": "作業工程表の遵守"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "printed p85 作業工程表の遵守",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0257",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Batching in groups such as 20 or 50 helps prevent omissions.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>漏れを防ぐため、20個や50個などのまとまった<ruby>数量<rt>すうりょう</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>漏れを防ぐため、20個や50個などのまとまった<ruby>数量<rt>すうりょう</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Batching in groups such as 20 or 50 helps prevent omissions.",
+        "si": "20ක් හෝ 50ක් වැනි කණ්ඩායම් ලෙස ගණන් පරීක්ෂා කිරීමෙන් අතපසුවීම් වළක්වයි.",
+        "technicalNoteJa": "数量単位での確認"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "printed p85 数量単位での確認",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0258",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Report product damage and tool faults to the supervisor.",
+        "ja": "<ruby>商品<rt>しょうひん</rt></ruby>を傷つけたり<ruby>用具<rt>ようぐ</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>したりしても、<ruby>責任者<rt>せきにんしゃ</rt></ruby>への<ruby>報告<rt>ほうこく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>です。"
+      },
+      "statement": "<ruby>商品<rt>しょうひん</rt></ruby>を傷つけたり<ruby>用具<rt>ようぐ</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>したりしても、<ruby>責任者<rt>せきにんしゃ</rt></ruby>への<ruby>報告<rt>ほうこく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Report product damage and tool faults to the supervisor.",
+        "si": "භාණ්ඩ හානි හෝ උපකරණ දෝෂ වගකිවයුතු නිලධාරියාට වාර්තා කරන්න.",
+        "technicalNoteJa": "異常発生時の報告"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "printed p85 異常発生時の報告",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0259",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Store each day's completed goods in the assigned warehouse location.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>が数日続く場合、毎日の完了品を<ruby>指<rt>ゆび</rt></ruby>定倉庫に保管します。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>が数日続く場合、毎日の完了品を<ruby>指<rt>ゆび</rt></ruby>定倉庫に保管します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Store each day's completed goods in the assigned warehouse location.",
+        "si": "දිනපතා අවසන් කළ භාණ්ඩ නියමිත ගබඩා ස්ථානයේ තබන්න.",
+        "technicalNoteJa": "日ごとの完了品保管"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "printed p85 日ごとの完了品保管",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0260",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Count and hand over finished and defective products separately.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>完了時は、<ruby>完成品<rt>かんせいひん</rt></ruby>と<ruby>不良品<rt>ふりょうひん</rt></ruby>を分けて<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>し、引き渡します。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>完了時は、<ruby>完成品<rt>かんせいひん</rt></ruby>と<ruby>不良品<rt>ふりょうひん</rt></ruby>を分けて<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>し、引き渡します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Count and hand over finished and defective products separately.",
+        "si": "හොඳ සහ දෝෂ සහිත භාණ්ඩ වෙන වෙනම ගණන් කර භාරදෙන්න.",
+        "technicalNoteJa": "完成品・不良品の区分"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "printed p85 完成品・不良品の区分",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0261",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Reconcile tools against starting quantities and return them to their places.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>は、<ruby>開始前<rt>かいしまえ</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>と<ruby>照合<rt>しょうごう</rt></ruby>せずに戻してもよいです。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>は、<ruby>開始前<rt>かいしまえ</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>と<ruby>照合<rt>しょうごう</rt></ruby>せずに戻してもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Reconcile tools against starting quantities and return them to their places.",
+        "si": "උපකරණ ආරම්භක ගණන සමඟ සසඳා මුල් ස්ථානයට ආපසු තබන්න.",
+        "technicalNoteJa": "用具数量の照合"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "printed p85 用具数量の照合",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0262",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Disposal means discarding unnecessary items by the designated method.",
+        "ja": "<ruby>廃棄<rt>はいき</rt></ruby>とは、<ruby>不要<rt>ふよう</rt></ruby>なものを決められた<ruby>方法<rt>ほうほう</rt></ruby>で捨てることです。"
+      },
+      "statement": "<ruby>廃棄<rt>はいき</rt></ruby>とは、<ruby>不要<rt>ふよう</rt></ruby>なものを決められた<ruby>方法<rt>ほうほう</rt></ruby>で捨てることです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Disposal means discarding unnecessary items by the designated method.",
+        "si": "廃棄 යනු අනවශ්‍ය දෑ නියමිත ක්‍රමයට බැහැර කිරීමයි.",
+        "technicalNoteJa": "廃棄の定義"
+      },
+      "sourcePage": 86,
+      "sourceAnchor": "printed p86 廃棄の定義",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0263",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Care marks show how cartons should be handled.",
+        "ja": "ケアマークは、<ruby><ruby>段<rt>だん</rt></ruby><rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>の<ruby>扱<rt>あつか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を絵で伝える<ruby>表示<rt>ひょうじ</rt></ruby>です。"
+      },
+      "statement": "ケアマークは、<ruby><ruby>段<rt>だん</rt></ruby><rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>の<ruby>扱<rt>あつか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を絵で伝える<ruby>表示<rt>ひょうじ</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Care marks show how cartons should be handled.",
+        "si": "Care marks මඟින් carton හැසිරවිය යුතු ආකාරය රූපයෙන් පෙන්වයි.",
+        "technicalNoteJa": "ケアマークの役割"
+      },
+      "sourcePage": 87,
+      "sourceAnchor": "printed p87 ケアマークの役割",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0264",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Handle with care means avoid strong impacts.",
+        "ja": "<ruby>取扱注意<rt>とりあつかいちゅうい</rt></ruby>の箱には、強い<ruby>衝撃<rt>しょうげき</rt></ruby>を与えてもかまいません。"
+      },
+      "statement": "<ruby>取扱注意<rt>とりあつかいちゅうい</rt></ruby>の箱には、強い<ruby>衝撃<rt>しょうげき</rt></ruby>を与えてもかまいません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Handle with care means avoid strong impacts.",
+        "si": "取扱注意 යනු තද ගැටීම් වළක්වා ප්‍රවේශමෙන් හසුරුවන්න යන්නයි.",
+        "technicalNoteJa": "取扱注意"
+      },
+      "sourcePage": 87,
+      "sourceAnchor": "printed p87 取扱注意",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0265",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Fragile marks are used for glassware and ceramics.",
+        "ja": "<ruby>壊<rt>こわ</rt></ruby>れものの<ruby>表示<rt>ひょうじ</rt></ruby>は、ガラスや<ruby>陶器<rt>とうき</rt></ruby>など<ruby>壊<rt>こわ</rt></ruby>れやすい物に使います。"
+      },
+      "statement": "<ruby>壊<rt>こわ</rt></ruby>れものの<ruby>表示<rt>ひょうじ</rt></ruby>は、ガラスや<ruby>陶器<rt>とうき</rt></ruby>など<ruby>壊<rt>こわ</rt></ruby>れやすい物に使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Fragile marks are used for glassware and ceramics.",
+        "si": "Fragile සලකුණ වීදුරු සහ පිඟන් වැනි පහසුවෙන් කැඩෙන දෑ සඳහා යොදයි.",
+        "technicalNoteJa": "壊れもの表示"
+      },
+      "sourcePage": 87,
+      "sourceAnchor": "printed p87 壊れもの表示",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0266",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Keep-dry means prevent the carton from getting wet.",
+        "ja": "<ruby>水濡<rt>みずぬ</rt></ruby>れ<ruby>防止<rt>ぼうし</rt></ruby>の<ruby>表示<rt>ひょうじ</rt></ruby>は、箱を水に濡らしてよいことを示します。"
+      },
+      "statement": "<ruby>水濡<rt>みずぬ</rt></ruby>れ<ruby>防止<rt>ぼうし</rt></ruby>の<ruby>表示<rt>ひょうじ</rt></ruby>は、箱を水に濡らしてよいことを示します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Keep-dry means prevent the carton from getting wet.",
+        "si": "水濡れ防止 යනු පෙට්ටිය තෙත් නොවන ලෙස ආරක්ෂා කරන්න යන්නයි.",
+        "technicalNoteJa": "水濡れ防止"
+      },
+      "sourcePage": 87,
+      "sourceAnchor": "printed p87 水濡れ防止",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0267",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Do not turn the carton upside down or lay it on its side.",
+        "ja": "<ruby>横<ruby>積<rt>つ</rt></ruby>み禁止<rt>よこづみきんし</rt></ruby>は、箱を<ruby>逆<rt>さか</rt></ruby>さまや<ruby>横倒<rt>よこだお</rt></ruby>しにしないよう示します。"
+      },
+      "statement": "<ruby>横<ruby>積<rt>つ</rt></ruby>み禁止<rt>よこづみきんし</rt></ruby>は、箱を<ruby>逆<rt>さか</rt></ruby>さまや<ruby>横倒<rt>よこだお</rt></ruby>しにしないよう示します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Do not turn the carton upside down or lay it on its side.",
+        "si": "පෙට්ටිය උඩුයටිකුරු කිරීම හෝ පැත්තට හරවා තැබීම තහනම්ය.",
+        "technicalNoteJa": "横積禁止"
+      },
+      "sourcePage": 88,
+      "sourceAnchor": "printed p88 横積禁止",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0268",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Never stand or tread on a carton marked do not step on.",
+        "ja": "<ruby>踏<rt>ふ</rt></ruby>みつけ<ruby>厳禁<rt>げんきん</rt></ruby>の箱の<ruby>上<rt>うえ</rt></ruby>には、乗ったり踏んだりしてはいけません。"
+      },
+      "statement": "<ruby>踏<rt>ふ</rt></ruby>みつけ<ruby>厳禁<rt>げんきん</rt></ruby>の箱の<ruby>上<rt>うえ</rt></ruby>には、乗ったり踏んだりしてはいけません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Never stand or tread on a carton marked do not step on.",
+        "si": "踏みつけ厳禁 සලකුණ ඇති පෙට්ටිය මත නැගීම හෝ පාගා දැමීම තහනම්ය.",
+        "technicalNoteJa": "踏みつけ厳禁"
+      },
+      "sourcePage": 88,
+      "sourceAnchor": "printed p88 踏みつけ厳禁",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0269",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A stacking-limit number 5 means up to five tiers maximum.",
+        "ja": "<ruby><ruby>積<rt>つ</rt></ruby>み<ruby>段<rt>だん</rt></ruby>数制限<rt>つみだんすうせいげん</rt></ruby>の数字「5」は、<ruby>最大<rt>さいだい</rt></ruby>5<ruby>段<rt>だん</rt></ruby>まで<ruby>積<rt>つ</rt></ruby>みめることを示します。"
+      },
+      "statement": "<ruby><ruby>積<rt>つ</rt></ruby>み<ruby>段<rt>だん</rt></ruby>数制限<rt>つみだんすうせいげん</rt></ruby>の数字「5」は、<ruby>最大<rt>さいだい</rt></ruby>5<ruby>段<rt>だん</rt></ruby>まで<ruby>積<rt>つ</rt></ruby>みめることを示します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A stacking-limit number 5 means up to five tiers maximum.",
+        "si": "අංකය 5 නම් උපරිම තට්ටු පහක් දක්වා ගොඩගැසිය හැක.",
+        "technicalNoteJa": "積段数制限"
+      },
+      "sourcePage": 88,
+      "sourceAnchor": "printed p88 積段数制限",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0270",
+      "section": "distribution_processing_work_management_care_marks",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Do not use a hand hook on cargo marked no hand hooks.",
+        "ja": "<ruby>手<rt>て</rt></ruby>かぎ禁止の<ruby>貨物<rt>かもつ</rt></ruby>には、<ruby>手<rt>て</rt></ruby>かぎを使って引っかけて移動させます。"
+      },
+      "statement": "<ruby>手<rt>て</rt></ruby>かぎ禁止の<ruby>貨物<rt>かもつ</rt></ruby>には、<ruby>手<rt>て</rt></ruby>かぎを使って引っかけて移動させます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Do not use a hand hook on cargo marked no hand hooks.",
+        "si": "手かぎ禁止 සලකුණ ඇති භාණ්ඩයට hand hook භාවිත නොකරන්න.",
+        "technicalNoteJa": "手かぎ禁止"
+      },
+      "sourcePage": 88,
+      "sourceAnchor": "printed p88 手かぎ禁止",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
