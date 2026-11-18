@@ -1383,6 +1383,519 @@
       "sourceAnchor": "p28-s1",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0070",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>金属探知機<rt>きんぞくたんちき</rt></ruby>は、<ruby>製品<rt>せいひん</rt></ruby>の中に<ruby>針<rt>はり</rt></ruby>などの<ruby>金属<rt>きんぞく</rt></ruby>が入っていないか<ruby>調<rt>しら</rt></ruby>べます。"
+      },
+      "statement": "<ruby>金属探知機<rt>きんぞくたんちき</rt></ruby>は、<ruby>製品<rt>せいひん</rt></ruby>の中に<ruby>針<rt>はり</rt></ruby>などの<ruby>金属<rt>きんぞく</rt></ruby>が入っていないか<ruby>調<rt>しら</rt></ruby>べます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A metal detector checks products for metal objects such as needles.",
+        "si": "Metal detector යන්ත්‍රය භාණ්ඩ තුළ ඉඳිකටු වැනි ලෝහ තිබේදැයි පරීක්ෂා කරයි.",
+        "technicalNoteJa": "金属探知機＝製品内の金属を検査する機械"
+      },
+      "sourcePage": 29,
+      "sourceAnchor": "p29 metal detector",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0071",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>業務用掃除機<rt>ぎょうむようそうじき</rt></ruby>は、<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さを<ruby>量<rt>はか</rt></ruby>るための<ruby>機械<rt>きかい</rt></ruby>です。"
+      },
+      "statement": "<ruby>業務用掃除機<rt>ぎょうむようそうじき</rt></ruby>は、<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さを<ruby>量<rt>はか</rt></ruby>るための<ruby>機械<rt>きかい</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "An industrial vacuum cleaner cleans the warehouse; it does not weigh goods.",
+        "si": "කාර්මික වැකුම් ක්ලීනරය ගබඩාව පිරිසිදු කරයි. එය භාණ්ඩවල බර මනින යන්ත්‍රයක් නොවේ.",
+        "technicalNoteJa": "業務用掃除機＝倉庫を清掃する機械"
+      },
+      "sourcePage": 29,
+      "sourceAnchor": "p29 industrial vacuum",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0072",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>台秤<rt>だいはかり</rt></ruby>は、<ruby>台<rt>だい</rt></ruby>の上に<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せて<ruby>重<rt>おも</rt></ruby>さを<ruby>量<rt>はか</rt></ruby>ります。"
+      },
+      "statement": "<ruby>台秤<rt>だいはかり</rt></ruby>は、<ruby>台<rt>だい</rt></ruby>の上に<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せて<ruby>重<rt>おも</rt></ruby>さを<ruby>量<rt>はか</rt></ruby>ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A platform scale weighs cargo placed on its platform.",
+        "si": "Platform scale එක මත භාණ්ඩ තබා ඒවායේ බර මනියි.",
+        "technicalNoteJa": "台秤＝貨物の重量を測定する"
+      },
+      "sourcePage": 29,
+      "sourceAnchor": "p29 platform scale",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0073",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>採寸計量器<rt>さいすんけいりょうき</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさだけを<ruby>自動<rt>じどう</rt></ruby>で<ruby>測<rt>はか</rt></ruby>ります。"
+      },
+      "statement": "<ruby>採寸計量器<rt>さいすんけいりょうき</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさだけを<ruby>自動<rt>じどう</rt></ruby>で<ruby>測<rt>はか</rt></ruby>ります。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "It automatically measures both cargo dimensions and weight.",
+        "si": "මෙම යන්ත්‍රය භාණ්ඩයේ මානයන් පමණක් නොව බරද එකවර ස්වයංක්‍රීයව මනියි.",
+        "technicalNoteJa": "採寸＝大きさを測る／計量＝重さを測る"
+      },
+      "sourcePage": 29,
+      "sourceAnchor": "p29 dimension and weight system",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0074",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>海上<rt>かいじょう</rt></ruby>コンテナは、コンテナ<ruby>船<rt>せん</rt></ruby>で<ruby>外国<rt>がいこく</rt></ruby>へ<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶために<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>海上<rt>かいじょう</rt></ruby>コンテナは、コンテナ<ruby>船<rt>せん</rt></ruby>で<ruby>外国<rt>がいこく</rt></ruby>へ<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶために<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A maritime container is used to transport cargo overseas by container ship.",
+        "si": "මුහුදු කන්ටේනරයක් කන්ටේනර් නෞකාවකින් විදේශ රටවලට භාණ්ඩ ප්‍රවාහනයට භාවිත කරයි.",
+        "technicalNoteJa": "海上コンテナ＝船で貨物を国際輸送する容器"
+      },
+      "sourcePage": 30,
+      "sourceAnchor": "p30 maritime container",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0075",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>リーファーコンテナ<rt>りーふぁーこんてな</rt></ruby>には、<ruby>冷凍<rt>れいとう</rt></ruby>・<ruby>冷蔵<rt>れいぞう</rt></ruby>のための<ruby>冷凍<rt>れいとう</rt></ruby>ユニットがありません。"
+      },
+      "statement": "<ruby>リーファーコンテナ<rt>りーふぁーこんてな</rt></ruby>には、<ruby>冷凍<rt>れいとう</rt></ruby>・<ruby>冷蔵<rt>れいぞう</rt></ruby>のための<ruby>冷凍<rt>れいとう</rt></ruby>ユニットがありません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A reefer container has a refrigeration unit for chilled or frozen cargo.",
+        "si": "Reefer container එකේ ශීත කළ හෝ ශීතකරණයේ තැබිය යුතු භාණ්ඩ සඳහා සිසිලන ඒකකයක් ඇත.",
+        "technicalNoteJa": "リーファーコンテナ＝冷凍・冷蔵貨物用"
+      },
+      "sourcePage": 30,
+      "sourceAnchor": "p30 reefer container",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0076",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>海上<rt>かいじょう</rt></ruby>コンテナの<ruby>陸上輸送<rt>りくじょうゆそう</rt></ruby>では、シャーシがコンテナを<ruby>載<rt>の</rt></ruby>せ、ヘッドがシャーシを<ruby>牽引<rt>けんいん</rt></ruby>します。"
+      },
+      "statement": "<ruby>海上<rt>かいじょう</rt></ruby>コンテナの<ruby>陸上輸送<rt>りくじょうゆそう</rt></ruby>では、シャーシがコンテナを<ruby>載<rt>の</rt></ruby>せ、ヘッドがシャーシを<ruby>牽引<rt>けんいん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The chassis carries the container and the truck head tows the chassis.",
+        "si": "Chassis එක මත කන්ටේනරය තබන අතර truck head එක chassis එක ඇදගෙන යයි.",
+        "technicalNoteJa": "シャーシ＝コンテナを載せる台車／ヘッド＝牽引する車両前部"
+      },
+      "sourcePage": 31,
+      "sourceAnchor": "p31 chassis and head",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0077",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>デバンニング<rt>でばんにんぐ</rt></ruby>は、コンテナに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>む<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "<ruby>デバンニング<rt>でばんにんぐ</rt></ruby>は、コンテナに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>む<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Devanning means unloading cargo from a container, not loading it.",
+        "si": "Devanning යනු කන්ටේනරයකින් භාණ්ඩ බෑමයි; පැටවීම නොවේ.",
+        "technicalNoteJa": "デバンニング＝コンテナから貨物を取り卸す作業"
+      },
+      "sourcePage": 31,
+      "sourceAnchor": "p31 devanning",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0078",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>大型<rt>おおがた</rt></ruby>１０トン<ruby>車<rt>しゃ</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>１０トンの<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積載<rt>せきさい</rt></ruby>できます。"
+      },
+      "statement": "<ruby>大型<rt>おおがた</rt></ruby>１０トン<ruby>車<rt>しゃ</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>１０トンの<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積載<rt>せきさい</rt></ruby>できます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source classifies a large 10-ton truck as carrying about 10 tonnes.",
+        "si": "මූලාශ්‍රයේ විශාල 10-ton truck එකකට ආසන්න වශයෙන් ටොන් 10ක් පැටවිය හැකි බව දක්වයි.",
+        "technicalNoteJa": "大型10トン車＝約10トン積載"
+      },
+      "sourcePage": 32,
+      "sourceAnchor": "p32 10-ton truck",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0079",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>平<rt>ひら</rt></ruby>ボディ<ruby>車<rt>しゃ</rt></ruby>の<ruby>荷台<rt>にだい</rt></ruby>には、<ruby>屋根<rt>やね</rt></ruby>があります。"
+      },
+      "statement": "<ruby>平<rt>ひら</rt></ruby>ボディ<ruby>車<rt>しゃ</rt></ruby>の<ruby>荷台<rt>にだい</rt></ruby>には、<ruby>屋根<rt>やね</rt></ruby>があります。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A flatbed truck has no roof over its cargo platform.",
+        "si": "Flatbed truck එකේ භාණ්ඩ තට්ටුවට වහලක් නොමැත.",
+        "technicalNoteJa": "平ボディ車＝屋根のない荷台"
+      },
+      "sourcePage": 32,
+      "sourceAnchor": "p32 flatbed",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0080",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "トレーラ／セミトレーラは、ヘッドと<ruby>荷台<rt>にだい</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かれています。"
+      },
+      "statement": "トレーラ／セミトレーラは、ヘッドと<ruby>荷台<rt>にだい</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かれています。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A trailer or semi-trailer has a separate tractor head and cargo platform.",
+        "si": "Trailer/semi-trailer රථයේ ඉදිරිපස head කොටස සහ භාණ්ඩ තට්ටුව වෙන්ව පවතී.",
+        "technicalNoteJa": "トレーラ＝ヘッドと荷台が分離した車両"
+      },
+      "sourcePage": 32,
+      "sourceAnchor": "p32 trailer",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0081",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ウイング<ruby>車<rt>しゃ</rt></ruby>は、<ruby>荷台<rt>にだい</rt></ruby>の<ruby>側面<rt>そくめん</rt></ruby>と<ruby>天井<rt>てんじょう</rt></ruby>が<ruby>翼<rt>つばさ</rt></ruby>のように<ruby>開<rt>ひら</rt></ruby>きます。"
+      },
+      "statement": "ウイング<ruby>車<rt>しゃ</rt></ruby>は、<ruby>荷台<rt>にだい</rt></ruby>の<ruby>側面<rt>そくめん</rt></ruby>と<ruby>天井<rt>てんじょう</rt></ruby>が<ruby>翼<rt>つばさ</rt></ruby>のように<ruby>開<rt>ひら</rt></ruby>きます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A wing-body truck opens its sides and roof like wings.",
+        "si": "Wing truck එකේ දෙපස සහ ඉහළ කොටස පියාපත් මෙන් විවෘත වේ.",
+        "technicalNoteJa": "ウイング車＝側面と天井が開くトラック"
+      },
+      "sourcePage": 33,
+      "sourceAnchor": "p33 wing-body truck",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0082",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "パワーゲートは、トラックの<ruby>前部<rt>ぜんぶ</rt></ruby>に<ruby>付<rt>つ</rt></ruby>きます。"
+      },
+      "statement": "パワーゲートは、トラックの<ruby>前部<rt>ぜんぶ</rt></ruby>に<ruby>付<rt>つ</rt></ruby>きます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The power gate is mounted at the rear of the truck.",
+        "si": "Power gate එක සවි කරන්නේ ට්‍රක් රථයේ පසුපස කොටසේය.",
+        "technicalNoteJa": "パワーゲート＝トラック後部の昇降装置"
+      },
+      "sourcePage": 33,
+      "sourceAnchor": "p33 power gate",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0083",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "パワーゲートを<ruby>使<rt>つか</rt></ruby>うには、<ruby>特別教育<rt>とくべつきょういく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
+      },
+      "statement": "パワーゲートを<ruby>使<rt>つか</rt></ruby>うには、<ruby>特別教育<rt>とくべつきょういく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Special education is required to operate a tailgate lifter.",
+        "si": "Tailgate lifter භාවිතයට විශේෂ පුහුණුව අවශ්‍ය වේ.",
+        "technicalNoteJa": "テールゲートリフターの使用には特別教育が必要"
+      },
+      "sourcePage": 33,
+      "sourceAnchor": "p33 tailgate lifter",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0084",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>倉庫寄託約款<rt>そうこきたくやっかん</rt></ruby>は、<ruby>倉庫<rt>そうこ</rt></ruby>が<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かるときの<ruby>約束事<rt>やくそくごと</rt></ruby>をまとめた<ruby>文書<rt>ぶんしょ</rt></ruby>です。"
+      },
+      "statement": "<ruby>倉庫寄託約款<rt>そうこきたくやっかん</rt></ruby>は、<ruby>倉庫<rt>そうこ</rt></ruby>が<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かるときの<ruby>約束事<rt>やくそくごと</rt></ruby>をまとめた<ruby>文書<rt>ぶんしょ</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Warehouse deposit terms set out the conditions for accepting goods into storage.",
+        "si": "ගබඩා භාරකාර කොන්දේසි යනු ගබඩාව භාණ්ඩ භාරගන්නා විට අදාළ වන එකඟතා ලේඛනයයි.",
+        "technicalNoteJa": "倉庫寄託約款＝貨物を預かる際の契約条件"
+      },
+      "sourcePage": 35,
+      "sourceAnchor": "p35 warehouse deposit terms",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0085",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>寄託者<rt>きたくしゃ</rt></ruby>とは、<ruby>倉庫<rt>そうこ</rt></ruby>を<ruby>運営<rt>うんえい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>のことです。"
+      },
+      "statement": "<ruby>寄託者<rt>きたくしゃ</rt></ruby>とは、<ruby>倉庫<rt>そうこ</rt></ruby>を<ruby>運営<rt>うんえい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>のことです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The depositor is the person or company entrusting goods; the warehouse operator runs the warehouse.",
+        "si": "寄託者 යනු ගබඩාවට භාණ්ඩ භාරදෙන පුද්ගලයා/සමාගමයි. ගබඩාව පවත්වාගෙන යන්නේ 倉庫業者 ය.",
+        "technicalNoteJa": "寄託者＝貨物を預ける人・会社"
+      },
+      "sourcePage": 35,
+      "sourceAnchor": "p35 depositor",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0086",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>入庫時<rt>にゅうこじ</rt></ruby>には、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>外側<rt>そとがわ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>中身<rt>なかみ</rt></ruby>も<ruby>検査<rt>けんさ</rt></ruby>します。"
+      },
+      "statement": "<ruby>入庫時<rt>にゅうこじ</rt></ruby>には、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>外側<rt>そとがわ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>中身<rt>なかみ</rt></ruby>も<ruby>検査<rt>けんさ</rt></ruby>します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The described receiving check examines the outside only, not the contents.",
+        "si": "භාණ්ඩ ඇතුළත් කිරීමේදී පිටත පෙනුම පමණක් පරීක්ෂා කරන අතර ඇතුළත අන්තර්ගතය පරීක්ෂා නොකරයි.",
+        "technicalNoteJa": "入庫時の確認＝貨物の外側のみ"
+      },
+      "sourcePage": 36,
+      "sourceAnchor": "p36 receiving inspection",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0087",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>保管期間<rt>ほかんきかん</rt></ruby>は、<ruby>入庫日<rt>にゅうこび</rt></ruby>から<ruby>数<rt>かぞ</rt></ruby>えます。"
+      },
+      "statement": "<ruby>保管期間<rt>ほかんきかん</rt></ruby>は、<ruby>入庫日<rt>にゅうこび</rt></ruby>から<ruby>数<rt>かぞ</rt></ruby>えます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The storage period is counted from the date the goods enter the warehouse.",
+        "si": "ගබඩා කාලය ගණනය කරන්නේ භාණ්ඩ ගබඩාවට ඇතුළත් කළ දිනයේ සිටය.",
+        "technicalNoteJa": "保管期間の起算日＝入庫日"
+      },
+      "sourcePage": 36,
+      "sourceAnchor": "p36 storage period",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0088",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>倉庫料金<rt>そうこりょうきん</rt></ruby>は、<ruby>保管料<rt>ほかんりょう</rt></ruby>と<ruby>荷役料<rt>にやくりょう</rt></ruby>で<ruby>構成<rt>こうせい</rt></ruby>されます。"
+      },
+      "statement": "<ruby>倉庫料金<rt>そうこりょうきん</rt></ruby>は、<ruby>保管料<rt>ほかんりょう</rt></ruby>と<ruby>荷役料<rt>にやくりょう</rt></ruby>で<ruby>構成<rt>こうせい</rt></ruby>されます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Warehouse charges consist of storage fees and cargo-handling fees.",
+        "si": "ගබඩා ගාස්තු ගබඩා කිරීමේ ගාස්තුව සහ භාණ්ඩ හැසිරවීමේ ගාස්තුව යන කොටස් දෙකෙන් සමන්විත වේ.",
+        "technicalNoteJa": "倉庫料金＝保管料＋荷役料"
+      },
+      "sourcePage": 37,
+      "sourceAnchor": "p37 warehouse charges",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0089",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>保管料<rt>ほかんりょう</rt></ruby>は、<ruby>料率<rt>りょうりつ</rt></ruby>と<ruby>保管期間<rt>ほかんきかん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>計算<rt>けいさん</rt></ruby>します。"
+      },
+      "statement": "<ruby>保管料<rt>ほかんりょう</rt></ruby>は、<ruby>料率<rt>りょうりつ</rt></ruby>と<ruby>保管期間<rt>ほかんきかん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>計算<rt>けいさん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Storage fees are calculated using the rate multiplied by the storage period.",
+        "si": "ගබඩා ගාස්තුව ගණනය කරන්නේ අනුපාතය × ගබඩා කාලය ලෙසය.",
+        "technicalNoteJa": "保管料＝料率×保管期間"
+      },
+      "sourcePage": 37,
+      "sourceAnchor": "p37 storage fee",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0090",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "１，０００kgは、１トンです。"
+      },
+      "statement": "１，０００kgは、１トンです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source conversion is 1,000 kilograms equals one tonne.",
+        "si": "කිලෝග්‍රෑම් 1,000ක් යනු ටොන් 1කි.",
+        "technicalNoteJa": "重量換算：1,000kg＝1トン"
+      },
+      "sourcePage": 37,
+      "sourceAnchor": "p37 weight conversion",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0091",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "１．１３３立方メートルは、１トンに<ruby>換算<rt>かんさん</rt></ruby>します。"
+      },
+      "statement": "１．１３３立方メートルは、１トンに<ruby>換算<rt>かんさん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source volume conversion is 1.133 cubic metres per tonne.",
+        "si": "මූලාශ්‍රයේ පරිමාව පරිවර්තනය 1.133 m³ = ටොන් 1 ලෙස දක්වා ඇත.",
+        "technicalNoteJa": "体積換算：1.133m³＝1トン"
+      },
+      "sourcePage": 37,
+      "sourceAnchor": "p37 volume conversion",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0092",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>三期制<rt>さんきせい</rt></ruby>では、１か月を１～１５日と１６日～月末の２つに<ruby>分<rt>わ</rt></ruby>けます。"
+      },
+      "statement": "<ruby>三期制<rt>さんきせい</rt></ruby>では、１か月を１～１５日と１６日～月末の２つに<ruby>分<rt>わ</rt></ruby>けます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The three-period system divides the month into 1–10, 11–20 and 21–month end.",
+        "si": "තුන් කාල ක්‍රමය මාසය 1–10, 11–20 සහ 21–මාස අවසානය ලෙස කොටස් තුනකට බෙදයි.",
+        "technicalNoteJa": "三期制＝1～10日／11～20日／21日～月末"
+      },
+      "sourcePage": 37,
+      "sourceAnchor": "p37 three-period system",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0093",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>では、<ruby>温度<rt>おんど</rt></ruby>によって<ruby>料率<rt>りょうりつ</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なります。"
+      },
+      "statement": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>では、<ruby>温度<rt>おんど</rt></ruby>によって<ruby>料率<rt>りょうりつ</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Refrigerated warehouse rates differ according to temperature.",
+        "si": "ශීත ගබඩාවල ගාස්තු අනුපාත උෂ්ණත්වය අනුව වෙනස් වේ.",
+        "technicalNoteJa": "冷蔵倉庫の料率＝温度によって異なる"
+      },
+      "sourcePage": 38,
+      "sourceAnchor": "p38 refrigerated storage rate",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0094",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>二期制<rt>にきせい</rt></ruby>の<ruby>第一期<rt>だいいっき</rt></ruby>は１～１５日、<ruby>第二期<rt>だいにき</rt></ruby>は１６日～月末です。"
+      },
+      "statement": "<ruby>二期制<rt>にきせい</rt></ruby>の<ruby>第一期<rt>だいいっき</rt></ruby>は１～１５日、<ruby>第二期<rt>だいにき</rt></ruby>は１６日～月末です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The refrigerated warehouse two-period system is days 1–15 and 16–month end.",
+        "si": "ශීත ගබඩාවල කාල කොටස් දෙකේ ක්‍රමය 1–15 සහ 16 සිට මාස අවසානය දක්වා වේ.",
+        "technicalNoteJa": "二期制＝1～15日／16日～月末"
+      },
+      "sourcePage": 38,
+      "sourceAnchor": "p38 two-period system",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0095",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>荷役料<rt>にやくりょう</rt></ruby>は、<ruby>作業種類<rt>さぎょうしゅるい</rt></ruby>ごとの<ruby>料率<rt>りょうりつ</rt></ruby>×<ruby>作業量<rt>さぎょうりょう</rt></ruby>で<ruby>計算<rt>けいさん</rt></ruby>します。"
+      },
+      "statement": "<ruby>荷役料<rt>にやくりょう</rt></ruby>は、<ruby>作業種類<rt>さぎょうしゅるい</rt></ruby>ごとの<ruby>料率<rt>りょうりつ</rt></ruby>×<ruby>作業量<rt>さぎょうりょう</rt></ruby>で<ruby>計算<rt>けいさん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Handling fees are calculated by the rate for each work type multiplied by the work quantity.",
+        "si": "භාණ්ඩ හැසිරවීමේ ගාස්තුව එක් එක් වැඩ වර්ගයේ අනුපාතය × වැඩ ප්‍රමාණය ලෙස ගණනය කරයි.",
+        "technicalNoteJa": "荷役料＝作業種類ごとの料率×作業量"
+      },
+      "sourcePage": 38,
+      "sourceAnchor": "p38 handling fee",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0096",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>入出庫料<rt>にゅうしゅっこりょう</rt></ruby>は、<ruby>仕分<rt>しわ</rt></ruby>けや<ruby>袋詰<rt>ふくろづ</rt></ruby>めの<ruby>料金<rt>りょうきん</rt></ruby>です。"
+      },
+      "statement": "<ruby>入出庫料<rt>にゅうしゅっこりょう</rt></ruby>は、<ruby>仕分<rt>しわ</rt></ruby>けや<ruby>袋詰<rt>ふくろづ</rt></ruby>めの<ruby>料金<rt>りょうきん</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Inbound/outbound fees are the basic charges for putting goods into or taking them out; sorting and bagging are distribution-processing tasks.",
+        "si": "入出庫料 යනු භාණ්ඩ ඇතුළත් කිරීම/පිටත් කිරීමේ මූලික ගාස්තුවයි. වර්ග කිරීම සහ බෑග්වලට දැමීම流通加工料 වේ.",
+        "technicalNoteJa": "入出庫料＝入庫・出庫の基本料金／流通加工料＝仕分け・袋詰め"
+      },
+      "sourcePage": 38,
+      "sourceAnchor": "p38 handling charge categories",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
