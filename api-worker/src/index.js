@@ -12,7 +12,7 @@ const b64 = bytes => btoa(String.fromCharCode(...new Uint8Array(bytes)));
 const fromB64 = value => Uint8Array.from(atob(value), c=>c.charCodeAt(0));
 const randomId = (n=32) => { const a=new Uint8Array(n); crypto.getRandomValues(a); return b64(a).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,""); };
 const sha256 = async value => b64(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
-async function hashPassword(password) { const salt=new Uint8Array(16); crypto.getRandomValues(salt); const key=await crypto.subtle.importKey("raw",new TextEncoder().encode(password),"PBKDF2",false,["deriveBits"]); const bits=await crypto.subtle.deriveBits({name:"PBKDF2",salt,iterations:310000,hash:"SHA-256"},key,256); return {salt:b64(salt),hash:b64(bits),iterations:310000};}
+async function hashPassword(password) { const salt=new Uint8Array(16); crypto.getRandomValues(salt); const key=await crypto.subtle.importKey("raw",new TextEncoder().encode(password),"PBKDF2",false,["deriveBits"]); const bits=await crypto.subtle.deriveBits({name:"PBKDF2",salt,iterations:100000,hash:"SHA-256"},key,256); return {salt:b64(salt),hash:b64(bits),iterations:100000};}
 async function verifyPassword(password, salt, expected, iterations) {
   const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(password), "PBKDF2", false, ["deriveBits"]);
   const bits = await crypto.subtle.deriveBits({name:"PBKDF2",salt:fromB64(salt),iterations,hash:"SHA-256"},key,256);
