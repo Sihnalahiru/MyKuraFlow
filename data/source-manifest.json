@@ -494,7 +494,7 @@
     "Map images only after visual comparison with the original PDF page.",
     "A part is complete only after source-page coverage and translation audit pass."
   ],
-  "current_status": "SOURCE_PAGE_COVERAGE_RECONCILED_123_PHYSICAL_PAGES; 121 NUMBERED LABELS (2-122) UNIQUE; FRONT MATTER INCLUDED; CONTENT AND IMAGE QA STILL IN PROGRESS",
+  "current_status": "ALL_123_PHYSICAL_PAGES_ACCOUNTED_FOR; 121 NUMBERED SOURCE IMAGE FILES INVENTORIED; MULTILINGUAL AND PAGE-LEVEL IMAGE QA STILL PENDING",
   "audit_notes": [
     "Batch pages 19-28 added with Japanese, Romaji, English, Sinhala, source-page visual descriptions and image mapping status.",
     "Original PDF page renders visually inspected for pages 19-21 and 23-28; page 22 image unavailable in Files render and remains pending.",
@@ -509,5 +509,14 @@
     "Active source records now cover all 121 numbered page labels 2-122 exactly once; 123 physical PDF pages have ledger entries. All 172 repository image assets exist; 80 unique image asset paths currently referenced and resolve, but all binary images have not been visually matched."
   ],
   "final_audit_report": "data/source-page-ledger-123.json",
-  "final_audit_status": "PAGE COVERAGE PASS; TRANSLATION / ROMAJI / FURIGANA / IMAGE VISUAL QA PENDING"
+  "final_audit_status": "PAGE COVERAGE PASS; TRANSLATION / ROMAJI / FURIGANA / IMAGE VISUAL QA PENDING",
+  "service_worker_audit": {
+    "cache_version": "mykuraflow-shell-v5",
+    "study_json_precache": "All 15 JSON source batches listed by app.js are in CORE precache.",
+    "status": "CODE_UPDATED; RUNTIME_OFFLINE_TEST_PENDING"
+  },
+  "runtime_audit": {
+    "schema_normalization": "app.js normalize() now handles nested lesson.pages and joins translated sections with actual newline separators.",
+    "status": "CODE_UPDATED; BROWSER_RUNTIME_TEST_PENDING"
+  }
 }
