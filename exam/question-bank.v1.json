@@ -3650,9 +3650,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "RTIは、繰り返し使用できる物流用容器です。"
+        "ja": "RTIは、<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>し<ruby>使用<rt>しよう</rt></ruby>できる物流用容器です。"
       },
-      "statement": "RTIは、繰り返し使用できる物流用容器です。",
+      "statement": "RTIは、<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>し<ruby>使用<rt>しよう</rt></ruby>できる物流用容器です。",
       "correctAnswer": true,
       "explanation": {
         "en": "An RTI is a reusable transport/logistics item.",
@@ -3669,9 +3669,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "折りたたみ式のRTIは、空になっても折りたたむことができません。"
+        "ja": "<ruby>折<rt>お</rt></ruby>りたたみ<ruby>式<rt>しき</rt></ruby>のRTIは、<ruby>空<rt>から</rt></ruby>になっても折りたたむことができません。"
       },
-      "statement": "折りたたみ式のRTIは、空になっても折りたたむことができません。",
+      "statement": "<ruby>折<rt>お</rt></ruby>りたたみ<ruby>式<rt>しき</rt></ruby>のRTIは、<ruby>空<rt>から</rt></ruby>になっても折りたたむことができません。",
       "correctAnswer": false,
       "explanation": {
         "en": "Some RTIs are foldable when empty.",
@@ -3688,9 +3688,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "入庫数量に差異がある場合は、運転手の立会いで記録し、署名を受けます。"
+        "ja": "入庫<ruby>数量<rt>すうりょう</rt></ruby>に<ruby>差異<rt>さい</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>運転手<rt>うんてんしゅ</rt></ruby>の<ruby>立会<rt>たちあ</rt></ruby>いで<ruby>記録<rt>きろく</rt></ruby>し、<ruby>署名<rt>しょめい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます。"
       },
-      "statement": "入庫数量に差異がある場合は、運転手の立会いで記録し、署名を受けます。",
+      "statement": "入庫<ruby>数量<rt>すうりょう</rt></ruby>に<ruby>差異<rt>さい</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>運転手<rt>うんてんしゅ</rt></ruby>の<ruby>立会<rt>たちあ</rt></ruby>いで<ruby>記録<rt>きろく</rt></ruby>し、<ruby>署名<rt>しょめい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Record discrepancies with the driver present and obtain a signature.",
@@ -3707,9 +3707,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "外装に損傷があっても、写真を撮ったり荷主へ報告したりする必要はありません。"
+        "ja": "<ruby>外装<rt>がいそう</rt></ruby>に<ruby>損傷<rt>そんしょう</rt></ruby>があっても、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったり<ruby>荷主<rt>にぬし</rt></ruby>へ<ruby>報告<rt>ほうこく</rt></ruby>したりする<ruby>必要<rt>ひつよう</rt></ruby>はありません。"
       },
-      "statement": "外装に損傷があっても、写真を撮ったり荷主へ報告したりする必要はありません。",
+      "statement": "<ruby>外装<rt>がいそう</rt></ruby>に<ruby>損傷<rt>そんしょう</rt></ruby>があっても、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったり<ruby>荷主<rt>にぬし</rt></ruby>へ<ruby>報告<rt>ほうこく</rt></ruby>したりする<ruby>必要<rt>ひつよう</rt></ruby>はありません。",
       "correctAnswer": false,
       "explanation": {
         "en": "Visible external damage may indicate internal defects; photograph when needed and report to the owner.",
@@ -3726,9 +3726,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "DENTは、貨物や包装にへこみがある状態を表します。"
+        "ja": "DENTは、<ruby>貨物<rt>かもつ</rt></ruby>や<ruby>包装<rt>ほうそう</rt></ruby>にへこみがある<ruby>状態<rt>じょうたい</rt></ruby>を表します。"
       },
-      "statement": "DENTは、貨物や包装にへこみがある状態を表します。",
+      "statement": "DENTは、<ruby>貨物<rt>かもつ</rt></ruby>や<ruby>包装<rt>ほうそう</rt></ruby>にへこみがある<ruby>状態<rt>じょうたい</rt></ruby>を表します。",
       "correctAnswer": true,
       "explanation": {
         "en": "DENT indicates a dent.",
@@ -3745,9 +3745,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "WETは、貨物が濡れていることを示す表示です。"
+        "ja": "WETは、<ruby>貨物<rt>かもつ</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れていることを<ruby>示<rt>しめ</rt></ruby>す<ruby>表示<rt>ひょうじ</rt></ruby>です。"
       },
-      "statement": "WETは、貨物が濡れていることを示す表示です。",
+      "statement": "WETは、<ruby>貨物<rt>かもつ</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れていることを<ruby>示<rt>しめ</rt></ruby>す<ruby>表示<rt>ひょうじ</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "WET indicates that cargo is wet.",
@@ -3764,9 +3764,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "バーコードが読み取れない場合、自分の判断で作業を続けます。"
+        "ja": "バーコードが<ruby>読<rt>よ</rt></ruby>み<ruby>取<rt>と</rt></ruby>れない<ruby>場合<rt>ばあい</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けます。"
       },
-      "statement": "バーコードが読み取れない場合、自分の判断で作業を続けます。",
+      "statement": "バーコードが<ruby>読<rt>よ</rt></ruby>み<ruby>取<rt>と</rt></ruby>れない<ruby>場合<rt>ばあい</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けます。",
       "correctAnswer": false,
       "explanation": {
         "en": "Report an unreadable barcode to the supervisor and follow instructions.",
@@ -3783,9 +3783,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "破損品や損傷品は、正常な貨物と分けて別のパレットに置きます。"
+        "ja": "<ruby>破損品<rt>はそんひん</rt></ruby>や<ruby>損傷品<rt>そんしょうひん</rt></ruby>は、<ruby>正常<rt>せいじょう</rt></ruby>な<ruby>貨物<rt>かもつ</rt></ruby>と<ruby>分<rt>わ</rt></ruby>けて<ruby>別<rt>べつ</rt></ruby>のパレットに<ruby>置<rt>お</rt></ruby>きます。"
       },
-      "statement": "破損品や損傷品は、正常な貨物と分けて別のパレットに置きます。",
+      "statement": "<ruby>破損品<rt>はそんひん</rt></ruby>や<ruby>損傷品<rt>そんしょうひん</rt></ruby>は、<ruby>正常<rt>せいじょう</rt></ruby>な<ruby>貨物<rt>かもつ</rt></ruby>と<ruby>分<rt>わ</rt></ruby>けて<ruby>別<rt>べつ</rt></ruby>のパレットに<ruby>置<rt>お</rt></ruby>きます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Damaged goods should be separated on a different pallet.",
@@ -3802,9 +3802,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ロケーションは、倉庫内の保管場所を示す住所のようなものです。"
+        "ja": "ロケーションは、<ruby>倉庫内<rt>そうこない</rt></ruby>の<ruby>保管場所<rt>ほかんばしょ</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>住所<rt>じゅうしょ</rt></ruby>のようなものです。"
       },
-      "statement": "ロケーションは、倉庫内の保管場所を示す住所のようなものです。",
+      "statement": "ロケーションは、<ruby>倉庫内<rt>そうこない</rt></ruby>の<ruby>保管場所<rt>ほかんばしょ</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>住所<rt>じゅうしょ</rt></ruby>のようなものです。",
       "correctAnswer": true,
       "explanation": {
         "en": "A location is like an address identifying a warehouse storage position.",
@@ -3821,9 +3821,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "固定ロケーションでは、貨物の種類ごとに決まった保管場所を使います。"
+        "ja": "固定ロケーションでは、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>ごとに<ruby>決<rt>き</rt></ruby>まった<ruby>保管場所<rt>ほかんばしょ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。"
       },
-      "statement": "固定ロケーションでは、貨物の種類ごとに決まった保管場所を使います。",
+      "statement": "固定ロケーションでは、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>ごとに<ruby>決<rt>き</rt></ruby>まった<ruby>保管場所<rt>ほかんばしょ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
       "correctAnswer": true,
       "explanation": {
         "en": "Fixed location assigns a designated place to each cargo type.",
@@ -3840,9 +3840,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "フリーロケーションでは、空いている場所を利用して保管できます。"
+        "ja": "フリーロケーションでは、<ruby>空<rt>あ</rt></ruby>いている<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>保管<rt>ほかん</rt></ruby>できます。"
       },
-      "statement": "フリーロケーションでは、空いている場所を利用して保管できます。",
+      "statement": "フリーロケーションでは、<ruby>空<rt>あ</rt></ruby>いている<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>保管<rt>ほかん</rt></ruby>できます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Free location stores goods in any available slot.",
@@ -3859,9 +3859,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ダブルトランザクションでは、ピッキングエリアと在庫エリアの両方を固定ロケーションにします。"
+        "ja": "ダブルトランザクションでは、ピッキングエリアと<ruby>在庫<rt>ざいこ</rt></ruby>エリアの<ruby>両方<rt>りょうほう</rt></ruby>を<ruby>固定<rt>こてい</rt></ruby>ロケーションにします。"
       },
-      "statement": "ダブルトランザクションでは、ピッキングエリアと在庫エリアの両方を固定ロケーションにします。",
+      "statement": "ダブルトランザクションでは、ピッキングエリアと<ruby>在庫<rt>ざいこ</rt></ruby>エリアの<ruby>両方<rt>りょうほう</rt></ruby>を<ruby>固定<rt>こてい</rt></ruby>ロケーションにします。",
       "correctAnswer": false,
       "explanation": {
         "en": "The picking area is fixed and the bulk stock area is free location.",
@@ -3878,9 +3878,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "FIFOは、先に入庫した貨物を先に出庫する考え方です。"
+        "ja": "FIFOは、<ruby>先<rt>さき</rt></ruby>に<ruby>入庫<rt>にゅうこ</rt></ruby>した<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>先<rt>さき</rt></ruby>に<ruby>出庫<rt>しゅっこ</rt></ruby>する<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>です。"
       },
-      "statement": "FIFOは、先に入庫した貨物を先に出庫する考え方です。",
+      "statement": "FIFOは、<ruby>先<rt>さき</rt></ruby>に<ruby>入庫<rt>にゅうこ</rt></ruby>した<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>先<rt>さき</rt></ruby>に<ruby>出庫<rt>しゅっこ</rt></ruby>する<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "FIFO means first in, first out.",
@@ -3897,9 +3897,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "差し札は、貨物の情報や入出庫記録を示す在庫カードです。"
+        "ja": "差し札は、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>や<ruby>入出庫記録<rt>にゅうしゅっこきろく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>在庫<rt>ざいこ</rt></ruby>カードです。"
       },
-      "statement": "差し札は、貨物の情報や入出庫記録を示す在庫カードです。",
+      "statement": "差し札は、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>や<ruby>入出庫記録<rt>にゅうしゅっこきろく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>在庫<rt>ざいこ</rt></ruby>カードです。",
       "correctAnswer": true,
       "explanation": {
         "en": "A sashifuda is a stock card showing cargo details and inbound/outbound records.",
@@ -3916,9 +3916,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "出庫作業は、荷主の出庫依頼を受けて貨物を引き渡すまでの作業です。"
+        "ja": "出庫作業は、<ruby>荷主<rt>にぬし</rt></ruby>の<ruby>出庫依頼<rt>しゅっこいらい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>渡<rt>わた</rt></ruby>すまでの<ruby>作業<rt>さぎょう</rt></ruby>です。"
       },
-      "statement": "出庫作業は、荷主の出庫依頼を受けて貨物を引き渡すまでの作業です。",
+      "statement": "出庫作業は、<ruby>荷主<rt>にぬし</rt></ruby>の<ruby>出庫依頼<rt>しゅっこいらい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>渡<rt>わた</rt></ruby>すまでの<ruby>作業<rt>さぎょう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "Outbound operations start with the owner's release request and end with handover.",
@@ -3935,9 +3935,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ピッキングでは、指示された数量だけを取り出します。"
+        "ja": "ピッキングでは、<ruby>指示<rt>しじ</rt></ruby>された<ruby>数量<rt>すうりょう</rt></ruby>だけを<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>します。"
       },
-      "statement": "ピッキングでは、指示された数量だけを取り出します。",
+      "statement": "ピッキングでは、<ruby>指示<rt>しじ</rt></ruby>された<ruby>数量<rt>すうりょう</rt></ruby>だけを<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "Picking retrieves only the instructed quantity.",
@@ -3954,9 +3954,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "欠品があった場合、作業者は出庫指示書の数量を自分で変更してよいです。"
+        "ja": "<ruby>欠品<rt>けっぴん</rt></ruby>があった<ruby>場合<rt>ばあい</rt></ruby>、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>は<ruby>出庫指示書<rt>しゅっこしじしょ</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>変更<rt>へんこう</rt></ruby>してよいです。"
       },
-      "statement": "欠品があった場合、作業者は出庫指示書の数量を自分で変更してよいです。",
+      "statement": "<ruby>欠品<rt>けっぴん</rt></ruby>があった<ruby>場合<rt>ばあい</rt></ruby>、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>は<ruby>出庫指示書<rt>しゅっこしじしょ</rt></ruby>の<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>変更<rt>へんこう</rt></ruby>してよいです。",
       "correctAnswer": false,
       "explanation": {
         "en": "Report a shortage and follow instructions; do not change the release quantity yourself.",
@@ -3973,9 +3973,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ピッキング後は、在庫カードから取り出した数量を差し引いて残数を記録します。"
+        "ja": "ピッキング<ruby>後<rt>ご</rt></ruby>は、<ruby>在庫<rt>ざいこ</rt></ruby>カードから<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>した<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>差<rt>さ</rt></ruby>し<ruby>引<rt>ひ</rt></ruby>いて<ruby>残数<rt>ざんすう</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>します。"
       },
-      "statement": "ピッキング後は、在庫カードから取り出した数量を差し引いて残数を記録します。",
+      "statement": "ピッキング<ruby>後<rt>ご</rt></ruby>は、<ruby>在庫<rt>ざいこ</rt></ruby>カードから<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>した<ruby>数量<rt>すうりょう</rt></ruby>を<ruby>差<rt>さ</rt></ruby>し<ruby>引<rt>ひ</rt></ruby>いて<ruby>残数<rt>ざんすう</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "After picking, subtract the picked quantity from the stock card and record the balance.",
@@ -3992,9 +3992,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "シングルピッキングは、納品先ごとに貨物を集める方法です。"
+        "ja": "シングルピッキングは、<ruby>納品先<rt>のうひんさき</rt></ruby>ごとに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>める<ruby>方法<rt>ほうほう</rt></ruby>です。"
       },
-      "statement": "シングルピッキングは、納品先ごとに貨物を集める方法です。",
+      "statement": "シングルピッキングは、<ruby>納品先<rt>のうひんさき</rt></ruby>ごとに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>める<ruby>方法<rt>ほうほう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "Single/order picking gathers goods separately for each destination.",
@@ -4011,9 +4011,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "トータルピッキングでは、必要な貨物をまとめて集め、後で納品先ごとに仕分けします。"
+        "ja": "トータルピッキングでは、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>貨物<rt>かもつ</rt></ruby>をまとめて<ruby>集<rt>あつ</rt></ruby>め、<ruby>後<rt>あと</rt></ruby>で<ruby>納品先<rt>のうひんさき</rt></ruby>ごとに<ruby>仕分<rt>しわ</rt></ruby>けします。"
       },
-      "statement": "トータルピッキングでは、必要な貨物をまとめて集め、後で納品先ごとに仕分けします。",
+      "statement": "トータルピッキングでは、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>貨物<rt>かもつ</rt></ruby>をまとめて<ruby>集<rt>あつ</rt></ruby>め、<ruby>後<rt>あと</rt></ruby>で<ruby>納品先<rt>のうひんさき</rt></ruby>ごとに<ruby>仕分<rt>しわ</rt></ruby>けします。",
       "correctAnswer": true,
       "explanation": {
         "en": "Total picking gathers goods together and sorts them later by destination.",
@@ -4030,9 +4030,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "トータルピッキングは、仕分けスペースが不要で、仕分け間違いも起きません。"
+        "ja": "トータルピッキングは、<ruby>仕分<rt>しわ</rt></ruby>けスペースが<ruby>不要<rt>ふよう</rt></ruby>で、<ruby>仕分<rt>しわ</rt></ruby>け<ruby>間違<rt>まちが</rt></ruby>いも<ruby>起<rt>お</rt></ruby>きません。"
       },
-      "statement": "トータルピッキングは、仕分けスペースが不要で、仕分け間違いも起きません。",
+      "statement": "トータルピッキングは、<ruby>仕分<rt>しわ</rt></ruby>けスペースが<ruby>不要<rt>ふよう</rt></ruby>で、<ruby>仕分<rt>しわ</rt></ruby>け<ruby>間違<rt>まちが</rt></ruby>いも<ruby>起<rt>お</rt></ruby>きません。",
       "correctAnswer": false,
       "explanation": {
         "en": "It needs sorting space and has a risk of sorting errors.",
@@ -4049,9 +4049,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ラベルピッキングでは、商品を取り出すたびに対応するラベルを貼ります。"
+        "ja": "ラベルピッキングでは、<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>すたびに<ruby>対応<rt>たいおう</rt></ruby>するラベルを<ruby>貼<rt>は</rt></ruby>ります。"
       },
-      "statement": "ラベルピッキングでは、商品を取り出すたびに対応するラベルを貼ります。",
+      "statement": "ラベルピッキングでは、<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>すたびに<ruby>対応<rt>たいおう</rt></ruby>するラベルを<ruby>貼<rt>は</rt></ruby>ります。",
       "correctAnswer": true,
       "explanation": {
         "en": "In label picking, the corresponding label is attached each time an item is picked.",
@@ -4068,9 +4068,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "梱包は、輸送中に貨物を保護するために箱や袋などで包む作業です。"
+        "ja": "梱包は、<ruby>輸送中<rt>ゆそうちゅう</rt></ruby>に<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>保護<rt>ほご</rt></ruby>するために<ruby>箱<rt>はこ</rt></ruby>や<ruby>袋<rt>ふくろ</rt></ruby>などで<ruby>包<rt>つつ</rt></ruby>む<ruby>作業<rt>さぎょう</rt></ruby>です。"
       },
-      "statement": "梱包は、輸送中に貨物を保護するために箱や袋などで包む作業です。",
+      "statement": "梱包は、<ruby>輸送中<rt>ゆそうちゅう</rt></ruby>に<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>保護<rt>ほご</rt></ruby>するために<ruby>箱<rt>はこ</rt></ruby>や<ruby>袋<rt>ふくろ</rt></ruby>などで<ruby>包<rt>つつ</rt></ruby>む<ruby>作業<rt>さぎょう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "Packing protects cargo during transport using boxes, bags or similar materials.",
@@ -4087,9 +4087,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "出庫検品では、ピッキングリストと実際の貨物を照合します。"
+        "ja": "出庫検品では、ピッキングリストと<ruby>実際<rt>じっさい</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>照合<rt>しょうごう</rt></ruby>します。"
       },
-      "statement": "出庫検品では、ピッキングリストと実際の貨物を照合します。",
+      "statement": "出庫検品では、ピッキングリストと<ruby>実際<rt>じっさい</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>照合<rt>しょうごう</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "Outbound inspection compares the picking list with the actual cargo.",
@@ -4106,9 +4106,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "出庫検品は、必ず一人だけで行い、二人目の確認は避けます。"
+        "ja": "出庫検品は、<ruby>必<rt>かなら</rt></ruby>ず<ruby>一人<rt>ひとり</rt></ruby>だけで<ruby>行<rt>おこな</rt></ruby>い、<ruby>二人目<rt>ふたりめ</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>は<ruby>避<rt>さ</rt></ruby>けます。"
       },
-      "statement": "出庫検品は、必ず一人だけで行い、二人目の確認は避けます。",
+      "statement": "出庫検品は、<ruby>必<rt>かなら</rt></ruby>ず<ruby>一人<rt>ひとり</rt></ruby>だけで<ruby>行<rt>おこな</rt></ruby>い、<ruby>二人目<rt>ふたりめ</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>は<ruby>避<rt>さ</rt></ruby>けます。",
       "correctAnswer": false,
       "explanation": {
         "en": "A second-person double-check is recommended by the source.",
@@ -4125,9 +4125,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "貨物の損傷を発見したら、直ちに上司へ報告します。"
+        "ja": "<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>損傷<rt>そんしょう</rt></ruby>を<ruby>発見<rt>はっけん</rt></ruby>したら、<ruby>直<rt>ただ</rt></ruby>ちに<ruby>上司<rt>じょうし</rt></ruby>へ<ruby>報告<rt>ほうこく</rt></ruby>します。"
       },
-      "statement": "貨物の損傷を発見したら、直ちに上司へ報告します。",
+      "statement": "<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>損傷<rt>そんしょう</rt></ruby>を<ruby>発見<rt>はっけん</rt></ruby>したら、<ruby>直<rt>ただ</rt></ruby>ちに<ruby>上司<rt>じょうし</rt></ruby>へ<ruby>報告<rt>ほうこく</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "Report discovered cargo damage immediately to the supervisor.",
@@ -4144,9 +4144,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "損傷の原因には、人為的ミス、保管環境、包装の問題などがあります。"
+        "ja": "<ruby>損傷<rt>そんしょう</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>には、<ruby>人為的<rt>じんいてき</rt></ruby>ミス、<ruby>保管環境<rt>ほかんかんきょう</rt></ruby>、<ruby>包装<rt>ほうそう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>などがあります。"
       },
-      "statement": "損傷の原因には、人為的ミス、保管環境、包装の問題などがあります。",
+      "statement": "<ruby>損傷<rt>そんしょう</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>には、<ruby>人為的<rt>じんいてき</rt></ruby>ミス、<ruby>保管環境<rt>ほかんかんきょう</rt></ruby>、<ruby>包装<rt>ほうそう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>などがあります。",
       "correctAnswer": true,
       "explanation": {
         "en": "Damage causes include human error, storage/transport conditions and packaging issues.",
@@ -4163,9 +4163,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ケージ台車では、重くて丈夫な箱を下に置き、つぶれやすい物を上に置きます。"
+        "ja": "ケージ台車では、<ruby>重<rt>おも</rt></ruby>くて<ruby>丈夫<rt>じょうぶ</rt></ruby>な<ruby>箱<rt>はこ</rt></ruby>を<ruby>下<rt>した</rt></ruby>に<ruby>置<rt>お</rt></ruby>き、つぶれやすい<ruby>物<rt>もの</rt></ruby>を<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>きます。"
       },
-      "statement": "ケージ台車では、重くて丈夫な箱を下に置き、つぶれやすい物を上に置きます。",
+      "statement": "ケージ台車では、<ruby>重<rt>おも</rt></ruby>くて<ruby>丈夫<rt>じょうぶ</rt></ruby>な<ruby>箱<rt>はこ</rt></ruby>を<ruby>下<rt>した</rt></ruby>に<ruby>置<rt>お</rt></ruby>き、つぶれやすい<ruby>物<rt>もの</rt></ruby>を<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>きます。",
       "correctAnswer": true,
       "explanation": {
         "en": "On a cage trolley, heavy strong cartons go below and crushable goods above.",
@@ -4182,9 +4182,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "パレットを使う前に、割れた板や突き出た釘などを確認します。"
+        "ja": "パレットを<ruby>使<rt>つか</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>に、<ruby>割<rt>わ</rt></ruby>れた<ruby>板<rt>いた</rt></ruby>や<ruby>突<rt>つ</rt></ruby>き<ruby>出<rt>で</rt></ruby>た<ruby>釘<rt>くぎ</rt></ruby>などを<ruby>確認<rt>かくにん</rt></ruby>します。"
       },
-      "statement": "パレットを使う前に、割れた板や突き出た釘などを確認します。",
+      "statement": "パレットを<ruby>使<rt>つか</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>に、<ruby>割<rt>わ</rt></ruby>れた<ruby>板<rt>いた</rt></ruby>や<ruby>突<rt>つ</rt></ruby>き<ruby>出<rt>で</rt></ruby>た<ruby>釘<rt>くぎ</rt></ruby>などを<ruby>確認<rt>かくにん</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "Before use, inspect wooden pallets for cracked boards and protruding nails.",
@@ -4201,9 +4201,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "貨物がパレットの端からはみ出す状態を、オーバーハングといいます。"
+        "ja": "<ruby>貨物<rt>かもつ</rt></ruby>がパレットの<ruby>端<rt>はし</rt></ruby>からはみ<ruby>出<rt>で</rt></ruby>す<ruby>状態<rt>じょうたい</rt></ruby>を、オーバーハングといいます。"
       },
-      "statement": "貨物がパレットの端からはみ出す状態を、オーバーハングといいます。",
+      "statement": "<ruby>貨物<rt>かもつ</rt></ruby>がパレットの<ruby>端<rt>はし</rt></ruby>からはみ<ruby>出<rt>で</rt></ruby>す<ruby>状態<rt>じょうたい</rt></ruby>を、オーバーハングといいます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Cargo extending beyond the pallet edge is called overhang.",
@@ -4220,9 +4220,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ブロック積みは横からの力に強く、荷崩れしにくい積み方です。"
+        "ja": "ブロック<ruby>積<rt>づ</rt></ruby>みは<ruby>横<rt>よこ</rt></ruby>からの<ruby>力<rt>ちから</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>く、<ruby>荷崩<rt>にくず</rt></ruby>れしにくい<ruby>積<rt>つ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>です。"
       },
-      "statement": "ブロック積みは横からの力に強く、荷崩れしにくい積み方です。",
+      "statement": "ブロック<ruby>積<rt>づ</rt></ruby>みは<ruby>横<rt>よこ</rt></ruby>からの<ruby>力<rt>ちから</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>く、<ruby>荷崩<rt>にくず</rt></ruby>れしにくい<ruby>積<rt>つ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>です。",
       "correctAnswer": false,
       "explanation": {
         "en": "Block stacking is weaker against lateral force and more prone to collapse.",
@@ -4239,9 +4239,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "交互積みでは、段ごとに貨物の向きを90度変えます。"
+        "ja": "交互積みでは、<ruby>段<rt>だん</rt></ruby>ごとに<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>向<rt>む</rt></ruby>きを90<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>えます。"
       },
-      "statement": "交互積みでは、段ごとに貨物の向きを90度変えます。",
+      "statement": "交互積みでは、<ruby>段<rt>だん</rt></ruby>ごとに<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>向<rt>む</rt></ruby>きを90<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>えます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Alternate/interlocking stacking rotates the arrangement by 90 degrees on each tier.",
@@ -4258,9 +4258,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ピンホール積みは、中央に空気の通り道を作るため、冷蔵輸送に適しています。"
+        "ja": "ピンホール積みは、<ruby>中央<rt>ちゅうおう</rt></ruby>に<ruby>空気<rt>くうき</rt></ruby>の<ruby>通<rt>とお</rt></ruby>り<ruby>道<rt>みち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るため、<ruby>冷蔵輸送<rt>れいぞうゆそう</rt></ruby>に<ruby>適<rt>てき</rt></ruby>しています。"
       },
-      "statement": "ピンホール積みは、中央に空気の通り道を作るため、冷蔵輸送に適しています。",
+      "statement": "ピンホール積みは、<ruby>中央<rt>ちゅうおう</rt></ruby>に<ruby>空気<rt>くうき</rt></ruby>の<ruby>通<rt>とお</rt></ruby>り<ruby>道<rt>みち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るため、<ruby>冷蔵輸送<rt>れいぞうゆそう</rt></ruby>に<ruby>適<rt>てき</rt></ruby>しています。",
       "correctAnswer": true,
       "explanation": {
         "en": "Pinwheel/pinhole stacking creates a central airflow channel and suits refrigerated transport.",
@@ -4277,9 +4277,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "引き渡し時は、回収に来た車両番号と出庫指示書を確認します。"
+        "ja": "<ruby>引<rt>ひ</rt></ruby>き<ruby>渡<rt>わた</rt></ruby>し<ruby>時<rt>じ</rt></ruby>は、<ruby>回収<rt>かいしゅう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>車両番号<rt>しゃりょうばんごう</rt></ruby>と<ruby>出庫指示書<rt>しゅっこしじしょ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。"
       },
-      "statement": "引き渡し時は、回収に来た車両番号と出庫指示書を確認します。",
+      "statement": "<ruby>引<rt>ひ</rt></ruby>き<ruby>渡<rt>わた</rt></ruby>し<ruby>時<rt>じ</rt></ruby>は、<ruby>回収<rt>かいしゅう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>車両番号<rt>しゃりょうばんごう</rt></ruby>と<ruby>出庫指示書<rt>しゅっこしじしょ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "At dispatch, verify the collecting vehicle number against the release instruction.",
@@ -4296,9 +4296,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "積込み後は、貨物が残っていないか確認し、残貨（ざんか）を防ぎます。"
+        "ja": "<ruby>積込<rt>つみこ</rt></ruby>み<ruby>後<rt>ご</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>っていないか<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>残貨<rt>ざんか</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぎます。"
       },
-      "statement": "積込み後は、貨物が残っていないか確認し、残貨（ざんか）を防ぎます。",
+      "statement": "<ruby>積込<rt>つみこ</rt></ruby>み<ruby>後<rt>ご</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>っていないか<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>残貨<rt>ざんか</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぎます。",
       "correctAnswer": true,
       "explanation": {
         "en": "After loading, check that no cargo remains behind to prevent leftover cargo.",
@@ -4315,9 +4315,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "流通加工は、包装、ラベル貼り、小分けなど、流通に適した状態にする作業です。"
+        "ja": "流通加工は、<ruby>包装<rt>ほうそう</rt></ruby>、ラベル<ruby>貼<rt>は</rt></ruby>り、<ruby>小分<rt>こわ</rt></ruby>けなど、<ruby>流通<rt>りゅうつう</rt></ruby>に<ruby>適<rt>てき</rt></ruby>した<ruby>状態<rt>じょうたい</rt></ruby>にする<ruby>作業<rt>さぎょう</rt></ruby>です。"
       },
-      "statement": "流通加工は、包装、ラベル貼り、小分けなど、流通に適した状態にする作業です。",
+      "statement": "流通加工は、<ruby>包装<rt>ほうそう</rt></ruby>、ラベル<ruby>貼<rt>は</rt></ruby>り、<ruby>小分<rt>こわ</rt></ruby>けなど、<ruby>流通<rt>りゅうつう</rt></ruby>に<ruby>適<rt>てき</rt></ruby>した<ruby>状態<rt>じょうたい</rt></ruby>にする<ruby>作業<rt>さぎょう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "Distribution processing includes packaging, labelling and splitting/repacking for distribution.",
@@ -4334,9 +4334,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ラベルの位置や向きは、荷主の指定を確認して正確に貼ります。"
+        "ja": "ラベルの<ruby>位置<rt>いち</rt></ruby>や<ruby>向<rt>む</rt></ruby>きは、<ruby>荷主<rt>にぬし</rt></ruby>の<ruby>指定<rt>してい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>して<ruby>正確<rt>せいかく</rt></ruby>に<ruby>貼<rt>は</rt></ruby>ります。"
       },
-      "statement": "ラベルの位置や向きは、荷主の指定を確認して正確に貼ります。",
+      "statement": "ラベルの<ruby>位置<rt>いち</rt></ruby>や<ruby>向<rt>む</rt></ruby>きは、<ruby>荷主<rt>にぬし</rt></ruby>の<ruby>指定<rt>してい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>して<ruby>正確<rt>せいかく</rt></ruby>に<ruby>貼<rt>は</rt></ruby>ります。",
       "correctAnswer": true,
       "explanation": {
         "en": "Apply labels accurately according to the owner's specified position and orientation.",
@@ -4353,9 +4353,9 @@
       "section": "inbound_outbound_distribution_processing",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ラベルの内容が間違っている場合、作業者は報告せずにそのまま出荷します。"
+        "ja": "ラベルの<ruby>内容<rt>ないよう</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>っている<ruby>場合<rt>ばあい</rt></ruby>、作業者は<ruby>報告<rt>ほうこく</rt></ruby>せずにそのまま<ruby>出荷<rt>しゅっか</rt></ruby>します。"
       },
-      "statement": "ラベルの内容が間違っている場合、作業者は報告せずにそのまま出荷します。",
+      "statement": "ラベルの<ruby>内容<rt>ないよう</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>っている<ruby>場合<rt>ばあい</rt></ruby>、作業者は<ruby>報告<rt>ほうこく</rt></ruby>せずにそのまま<ruby>出荷<rt>しゅっか</rt></ruby>します。",
       "correctAnswer": false,
       "explanation": {
         "en": "Report incorrect label content to the supervisor and replace it with the correct label.",
