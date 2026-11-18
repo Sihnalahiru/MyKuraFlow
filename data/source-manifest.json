@@ -61,8 +61,8 @@
       "90–109",
       "114–122"
     ],
-    "physical_pdf_page_mapping": "PENDING_PAGE_BY_PAGE_AUDIT",
-    "known_exception": "A prior direct-render audit reported physical PDF page 51 as blank. Do not assume a constant offset between printed and physical page numbers.",
+    "physical_pdf_page_mapping": "Partial correction verified: physical PDF page 39 is blank; physical pages 40-49 display printed pages 39-48 respectively. Remaining pages require page-by-page reconciliation.",
+    "known_exception": "Physical PDF page 39 is blank. Physical pages 40-49 map to printed pages 39-48. Do not assume a constant offset for the rest of the document; verify every page label.",
     "unassigned_or_transition_printed_ranges": [
       "52–53",
       "88–89",
@@ -420,6 +420,38 @@
       ],
       "audit_status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
       "commit": "7ecda5b3089e24e45706894108cbe4f02fa50fe5"
+    },
+    {
+      "lesson_id": "p01-l05-corrected-pages-039-048",
+      "path": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "printed_pages": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "pdf_pages": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "content_status": "BULK_DRAFT_CREATED",
+      "visual_status": "INDIVIDUAL_DIAGRAM_MAPPING_PENDING",
+      "audit_status": "SOURCE_TEXT_REOPENED_TRANSLATION_AND_VISUAL_PROOFING_PENDING",
+      "commit": "d3738ce9a4830e795ce4e282c4032bd7d2e87bf5"
     }
   ],
   "completeness_rules": [
@@ -437,7 +469,8 @@
     "ZIP image asset filenames have not yet been retrieved; exact ZIP filename mapping remains pending.",
     "No full-book completion claim is valid until every physical page, source image, table, diagram, and translation is reconciled.",
     "Batch pages 29-38 added. Source page images visually inspected for pages 29-33,36-37; pages 34,35,38 image render unavailable and flagged. Text and translations populated for pages 29-38.",
-    "2026-11-18 final repository audit: all 12 JSON batches parse, but front matter physical pages 1-8 and printed pages 39-48 are not represented; page 13-18 lack image_mapping; early batch schema differs; physical PDF page mapping is inconsistent around blank physical page 39 and previously reported blank physical page 51; full binary image visual comparison and line-by-line translation proofing are not signed off. See data/final-source-audit-123-pages.json."
+    "2026-11-18 final repository audit: all 12 JSON batches parse, but front matter physical pages 1-8 and printed pages 39-48 are not represented; page 13-18 lack image_mapping; early batch schema differs; physical PDF page mapping is inconsistent around blank physical page 39 and previously reported blank physical page 51; full binary image visual comparison and line-by-line translation proofing are not signed off. See data/final-source-audit-123-pages.json.",
+    "2026-11-18 bulk draft added for printed pages 39-48 from reopened original PDF physical pages 40-49; commit d3738ce9a4830e795ce4e282c4032bd7d2e87bf5. This closes the missing-page draft gap only; translations, visual mapping, and full page reconciliation remain pending."
   ],
   "final_audit_report": "data/final-source-audit-123-pages.json",
   "final_audit_status": "FAIL — MISSING FRONT MATTER AND PRINTED PAGES 39-48; PHYSICAL PAGE RECONCILIATION AND FULL VISUAL/TEXT PROOFING REQUIRED"
