@@ -44,7 +44,7 @@ async function handle(request, env) {
     if(limiter?.attempts>10) return json({error:"Too many attempts. Try again in 15 minutes."},429);
     const user=await env.DB.prepare("SELECT * FROM users WHERE username=? COLLATE NOCASE").bind(username).first();
     if(!user || !(await verifyPassword(password,user.password_salt,user.password_hash,user.password_iterations))) return json({error:"Incorrect username or password"},401);
-    const token=randomId(), tokenHash=await sha256(token), days=Math.min(30,Math.max(1,Number(env.SESSION_DAYS)||30)), expires=now+days*86400;
+    const token=randomId(), tokenHash=await sha256(token), days=Math.min(3650,Math.max(1,Number(env.SESSION_DAYS)||3650)), expires=now+days*86400;
     await env.DB.batch([
       env.DB.prepare("INSERT INTO sessions(token_hash,user_id,expires_at) VALUES(?,?,?)").bind(tokenHash,user.id,expires),
       env.DB.prepare("UPDATE users SET last_active=CURRENT_TIMESTAMP WHERE id=?").bind(user.id),
