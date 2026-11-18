@@ -293,6 +293,52 @@
       ],
       "audit_status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
       "commit": "43e7412a31b106ee5d6f429e1350b20467d8312c"
+    },
+    {
+      "lesson_id": "p03-l02",
+      "path": "data/part-03/lesson-02-pages-099-108.json",
+      "pdf_pages": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "printed_pages": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "content_status": "COMPLETE",
+      "visual_assets": 5,
+      "visual_status": "COMMITTED_AND_LINKED",
+      "source_pdf_visual_pages": [
+        99,
+        100,
+        102,
+        105,
+        107
+      ],
+      "external_visual_pages": [
+        103,
+        104,
+        107,
+        108
+      ],
+      "audit_status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
+      "commit": "9ef99254b01d90a0865105889ef61afeaa3383d3"
     }
   ],
   "completeness_rules": [
