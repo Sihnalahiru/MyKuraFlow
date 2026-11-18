@@ -21,7 +21,7 @@
       "title_en": "Logistics Warehouse Fundamentals",
       "title_si": "ලොජිස්ටික්ස් ගබඩා පිළිබඳ මූලික කරුණු",
       "printed_pages": "9–51",
-      "pdf_pages": "9–51",
+      "pdf_pages": "PENDING_PHYSICAL_PAGE_RECONCILIATION",
       "status": "IN_PROGRESS"
     },
     {
@@ -30,7 +30,7 @@
       "title_en": "Work Manual",
       "title_si": "වැඩ ක්‍රියාපටිපාටි අත්පොත",
       "printed_pages": "54–87",
-      "pdf_pages": "54–87",
+      "pdf_pages": "PENDING_PHYSICAL_PAGE_RECONCILIATION",
       "status": "NOT_STARTED"
     },
     {
@@ -39,7 +39,7 @@
       "title_en": "Logistics Warehouse Occupational Safety and Health",
       "title_si": "ලොජිස්ටික්ස් ගබඩා වෘත්තීය ආරක්ෂාව සහ සෞඛ්‍යය",
       "printed_pages": "90–109",
-      "pdf_pages": "90–109",
+      "pdf_pages": "PENDING_PHYSICAL_PAGE_RECONCILIATION",
       "status": "NOT_STARTED"
     },
     {
@@ -48,26 +48,27 @@
       "title_en": "Forklift Work Standards",
       "title_si": "ෆෝක්ලිෆ්ට් මෙහෙයුම් ප්‍රමිතීන්",
       "printed_pages": "114–122",
-      "pdf_pages": "114–122",
+      "pdf_pages": "PENDING_PHYSICAL_PAGE_RECONCILIATION",
       "status": "NOT_STARTED"
     }
   ],
   "page_accounting": {
     "cover_pdf_page": 1,
-    "table_of_contents_pdf_pages": "2–8",
-    "textbook_content_pages": [
+    "table_of_contents_pdf_pages": "2–8 (from rendered source page labels)",
+    "printed_content_ranges": [
       "9–51",
       "54–87",
       "90–109",
       "114–122"
     ],
-    "unassigned_or_transition_pages": [
+    "physical_pdf_page_mapping": "PENDING_PAGE_BY_PAGE_AUDIT",
+    "known_exception": "A prior direct-render audit reported physical PDF page 51 as blank. Do not assume a constant offset between printed and physical page numbers.",
+    "unassigned_or_transition_printed_ranges": [
       "52–53",
       "88–89",
-      "110–113",
-      "123"
+      "110–113"
     ],
-    "instruction": "Do not discard unassigned pages. Inspect and classify them as blank, separator, appendix, or other source material before final completion."
+    "final_pdf_page": "123 (must be inspected and assigned; do not omit)"
   },
   "batches": [
     {
@@ -79,8 +80,8 @@
     }
   ],
   "completeness_rules": [
-    "Every one of the 123 physical PDF pages must have a ledger entry, including cover, contents, separators and final page.",
-    "Every printed textbook page must be assigned to a part, lesson, appendix or explicitly classified non-content page.",
+    "Every one of the 123 physical PDF pages must have a ledger entry, including cover, contents, blank pages, separators, appendices and final page.",
+    "Every printed textbook page must be assigned to a part, lesson, appendix or explicitly classified non-content page; reconcile printed page labels with physical PDF indices individually.",
     "Preserve original Japanese text and supplied furigana; do not silently shorten tables, warnings, examples, labels or numbered steps.",
     "Each source content unit must contain Japanese, Romaji, English and Sinhala.",
     "Map images only after visual comparison with the original PDF page.",
