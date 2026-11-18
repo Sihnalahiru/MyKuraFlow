@@ -52,7 +52,12 @@
       ],
       "image_mapping": {
         "source_pdf_page": 29,
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED_ZIP_FILENAME_PENDING"
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repo_images": [
+          "public/images/28.jpg",
+          "public/images/29.jpg"
+        ],
+        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
       }
     },
     {
