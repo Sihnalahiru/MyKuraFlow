@@ -169,7 +169,7 @@
     "proofreading_status": "NOT_FINAL — field presence and page coverage do not prove source fidelity or translation correctness."
   },
   "image_audit": {
-    "repo_image_assets": 172,
+    "repo_image_assets": 121,
     "unique_referenced_assets": 80,
     "missing_asset_paths": [],
     "pages_with_image_refs": 51,
@@ -240,18 +240,24 @@
       121
     ],
     "all_assets_visually_mapped": false,
-    "status": "PARTIAL — all references resolve to existing assets, but 172 assets have not all been individually compared with the source PDF."
+    "status": "121/121 INVENTORIED; CONTACT SHEET REVIEWED; SOURCE PAGE VISUAL MAPPING PARTIAL",
+    "inventory_source": "uploaded ZIP specified_skilled_worker_textbook_202607(2).zip",
+    "zip_numbered_assets": 121,
+    "numbered_asset_range": "0-120",
+    "zip_sha256_duplicate_count": 0,
+    "legacy_expected_count": 172,
+    "count_reconciliation": "Uploaded ZIP and repo numbered assets both contain 121 files. Legacy 172 figure is unsupported by supplied archive; discrepancy 51 is tracked without inventing files."
   },
   "remaining_qa": [
-    "Line-by-line Japanese source transcription proofing for all printed pages 9-122.",
+    "Line-by-line Japanese source transcription proofing for printed pages 9-122.",
     "Romaji accuracy and completeness audit.",
     "Furigana normalization and lexical reading proofing.",
     "English and Sinhala translation proofreading against the original Japanese.",
     "Tables, warnings, numeric values, units, labels and numbered procedures audit.",
-    "Visual comparison of all 172 image assets with source PDF; map remaining applicable images only to verified topics.",
+    "Source-PDF figure-to-image visual matching for all 121 supplied numbered assets; identify which assets are not used as study illustrations.",
     "Mobile UI verification that every mapped image renders at its intended page and offline cache includes new assets."
   ],
-  "overall_status": "ALL_123_PHYSICAL_PAGES_ACCOUNTED_FOR; NUMBERED_PAGES_2_TO_122_HAVE_UNIQUE_RECORDS; CONTENT_AND_VISUAL_QA_PENDING",
+  "overall_status": "ALL_123_PHYSICAL_PAGES_ACCOUNTED_FOR; 121 NUMBERED PAGE LABELS UNIQUE; ZIP AND REPO IMAGE INVENTORY 121; LANGUAGE/CONTENT VISUAL QA PENDING",
   "physical_page_ledger": [
     {
       "physical_pdf_page": 1,
@@ -1078,7 +1084,8 @@
       },
       "visual_assets": [],
       "visual_status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 55,
@@ -1094,7 +1101,8 @@
       },
       "visual_assets": [],
       "visual_status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 56,
@@ -1110,7 +1118,8 @@
       },
       "visual_assets": [],
       "visual_status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 57,
@@ -1126,7 +1135,8 @@
       },
       "visual_assets": [],
       "visual_status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 58,
@@ -1142,7 +1152,8 @@
       },
       "visual_assets": [],
       "visual_status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 59,
@@ -1158,7 +1169,8 @@
       },
       "visual_assets": [],
       "visual_status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 60,
@@ -1176,7 +1188,8 @@
         "/images/generated/page-060-time-temperature-light.svg"
       ],
       "visual_status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 61,
@@ -1194,7 +1207,8 @@
         "/images/generated/page-061-warehouse-counters-a.svg"
       ],
       "visual_status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 62,
@@ -1215,7 +1229,8 @@
         "/images/generated/page-062-warehouse-counters-b.svg"
       ],
       "visual_status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 63,
@@ -1233,7 +1248,8 @@
         "/images/generated/page-063-warehouse-counters-c.svg"
       ],
       "visual_status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 64,
@@ -1251,7 +1267,8 @@
         "/images/generated/page-064-inbound-preparation-dock.svg"
       ],
       "visual_status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 65,
@@ -1269,7 +1286,8 @@
         "/images/generated/page-065-unloading-inspection.svg"
       ],
       "visual_status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 66,
@@ -1287,7 +1305,8 @@
         "/images/generated/page-066-lot-packaging-weight.svg"
       ],
       "visual_status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 67,
@@ -1305,7 +1324,8 @@
         "/images/generated/page-067-cargo-forms-a.svg"
       ],
       "visual_status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 68,
@@ -1323,7 +1343,8 @@
         "/images/generated/page-068-bales-roll-cans.svg"
       ],
       "visual_status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
-      "status": "CONTENT_RECORD_PRESENT"
+      "status": "CONTENT_RECORD_PRESENT",
+      "source_content_update": "2026-11-18: pages 55-59 Japanese source notes expanded and furigana added in commit e8697281db2a96010edefc78283079d91531de07; translation/visual QA pending."
     },
     {
       "physical_pdf_page": 69,
