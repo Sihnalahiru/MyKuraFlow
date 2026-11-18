@@ -3,23 +3,12 @@
   "source_pdf": "specified_skilled_worker_textbook_202607(2).pdf",
   "source_pdf_physical_pages": 123,
   "printed_pages": 122,
-  "overall_status": "NOT_COMPLETE_DO_NOT_MARK_MASTER_COMPLETE",
+  "overall_status": "DRAFT_COVERAGE_EXPANDED_NOT_FINAL",
   "audit_method": "Fetched and parsed every current data JSON batch from the main branch, enumerated the part directories and image directory, and inspected original PDF page renders/text for front matter and the missing printed-page interval 39-48.",
   "findings": {
     "batch_files": 12,
     "valid_json_files": 12,
-    "missing_printed_pages": [
-      39,
-      40,
-      41,
-      42,
-      43,
-      44,
-      45,
-      46,
-      47,
-      48
-    ],
+    "missing_printed_pages": [],
     "unrepresented_front_matter_physical_pages": [
       1,
       2,
@@ -55,9 +44,21 @@
       38
     ],
     "first_batch_schema": "Pages 9-12 are nested under lesson.pages, not the pages[] schema used by later batches; root source metadata only lists en/si as translation languages. Needs normalization and a Romaji completeness audit.",
-    "physical_page_reconciliation": "Critical. Existing manifest states physical PDF page 39 is blank and physical page 51 was previously reported blank, and explicitly warns not to assume a constant offset. Several batches nevertheless set pdf_page equal to printed_page. Example: source physical page 40 displays printed page 39. Page 49-58 batch must be reconciled against actual PDF page labels and the blank physical page.",
-    "content_integrity": "JSON parsing passed, but line-by-line source fidelity and translation proofreading are not signed off. Earlier batches explicitly carry DRAFT/NOT_FINAL statuses. The 49-58 batch also crosses the Part 1/Part 2 boundary and needs correct part assignment.",
-    "image_inventory": "Repository has numbered JPG/PNG assets and generated assets. GitHub text fetch cannot inspect binary image contents; filenames alone cannot prove visual match. The repository IMAGE_MAPPING_STATUS.md itself says full page-by-page visual comparison remains required."
+    "physical_page_reconciliation": "Partial correction committed: physical page 39 is blank; physical pages 40-49 display printed pages 39-48. The remaining page ranges, especially the existing 49-58 batch, still require full reconciliation.",
+    "content_integrity": "The new printed pages 39-48 batch is a bulk draft transcribed from reopened source extraction. Translation proofing and visual review are pending; the older batches also remain unapproved.",
+    "image_inventory": "Repository has numbered JPG/PNG assets and generated assets. GitHub text fetch cannot inspect binary image contents; filenames alone cannot prove visual match. The repository IMAGE_MAPPING_STATUS.md itself says full page-by-page visual comparison remains required.",
+    "draft_added_printed_pages": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
   },
   "verified_positive": [
     "All 12 current JSON batch files were fetched and parsed successfully.",
@@ -68,13 +69,14 @@
   ],
   "required_closeout": [
     "Add explicit cover and table-of-contents records for physical PDF pages 1-8.",
-    "Create content records for printed pages 39-48 from the original PDF.",
+    "Proofread and approve the new draft records for printed pages 39-48; do not count them as final until source fidelity and translations pass.",
     "Normalize pages 9-12 to the common schema and add page-level image mapping.",
     "Correct every physical PDF page number by inspecting actual PDF labels; reconcile blank physical page 39 and the previously reported blank physical page 51.",
     "Visually inspect every binary asset in public/images against source PDF pages; preserve original filenames and map only proven matches.",
     "Resolve every image gap with source PDF visuals, matching repository assets or suitable external visuals, recording provenance.",
     "Complete line-by-line Japanese/furigana/Romaji/English/Sinhala proofreading, including tables, warnings, numeric values, captions and numbered steps.",
-    "Re-run automated coverage checks for physical pages 1-123 exactly once, no duplicates, all four languages, and all referenced visual assets present."
+    "Re-run automated coverage checks for physical pages 1-123 exactly once, no duplicates, all four languages, and all referenced visual assets present.",
+    "Reconcile and correct the existing printed pages 49-58 batch against actual physical PDF labels; it currently assumes printed_page equals pdf_page."
   ],
-  "final_decision": "A full-book PASS is not supportable from the current repository state. Keep the master status IN_PROGRESS_NOT_COMPLETE."
+  "final_decision": "The missing printed pages 39-48 now have draft records, but the full-book audit remains open because translation proofing, image mapping, physical-page reconciliation and app QA are incomplete."
 }
