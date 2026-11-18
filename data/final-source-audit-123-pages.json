@@ -44,7 +44,7 @@
       38
     ],
     "first_batch_schema": "Pages 9-12 are nested under lesson.pages, not the pages[] schema used by later batches; root source metadata only lists en/si as translation languages. Needs normalization and a Romaji completeness audit.",
-    "physical_page_reconciliation": "Partial correction committed: physical page 39 is blank; physical pages 40-49 display printed pages 39-48. The remaining page ranges, especially the existing 49-58 batch, still require full reconciliation.",
+    "physical_page_reconciliation": "Verified physical pages 40-49 => printed pages 39-48; physical page 50 blank; physical pages 51-60 => printed pages 50-59.",
     "content_integrity": "The new printed pages 39-48 batch is a bulk draft transcribed from reopened source extraction. Translation proofing and visual review are pending; the older batches also remain unapproved.",
     "image_inventory": "Repository has numbered JPG/PNG assets and generated assets. GitHub text fetch cannot inspect binary image contents; filenames alone cannot prove visual match. The repository IMAGE_MAPPING_STATUS.md itself says full page-by-page visual comparison remains required.",
     "draft_added_printed_pages": [
@@ -57,8 +57,20 @@
       45,
       46,
       47,
-      48
-    ]
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "unresolved_printed_page_49": "Physical PDF page 50 is blank in the extracted source. Physical pages 51-60 show printed pages 50-59. Printed page 49 has not been located in the reopened sequence and must not be fabricated.",
+    "legacy_batch_warning": "The previous data/part-01/lesson-05-pages-049-058.json batch is legacy/unverified and overlaps corrected records; do not use it as authoritative until reconciled."
   },
   "verified_positive": [
     "All 12 current JSON batch files were fetched and parsed successfully.",
@@ -76,7 +88,8 @@
     "Resolve every image gap with source PDF visuals, matching repository assets or suitable external visuals, recording provenance.",
     "Complete line-by-line Japanese/furigana/Romaji/English/Sinhala proofreading, including tables, warnings, numeric values, captions and numbered steps.",
     "Re-run automated coverage checks for physical pages 1-123 exactly once, no duplicates, all four languages, and all referenced visual assets present.",
-    "Reconcile and correct the existing printed pages 49-58 batch against actual physical PDF labels; it currently assumes printed_page equals pdf_page."
+    "Reconcile and correct the existing printed pages 49-58 batch against actual physical PDF labels; it currently assumes printed_page equals pdf_page.",
+    "Locate/verify printed page 49; source extraction shows physical page 50 blank between printed pages 48 and 50."
   ],
-  "final_decision": "The missing printed pages 39-48 now have draft records, but the full-book audit remains open because translation proofing, image mapping, physical-page reconciliation and app QA are incomplete."
+  "final_decision": "Printed pages 39-48 and 50-59 now have source-derived bulk drafts. Printed page 49 remains unresolved; translation proofreading, visual mapping, earlier page reconciliation and app QA remain incomplete."
 }
