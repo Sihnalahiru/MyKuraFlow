@@ -503,6 +503,386 @@
       "sourceAnchor": "p12-s1",
       "difficulty": "hard",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0026",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Floor load capacity is the maximum permitted weight on the floor, expressed per square metre or per tsubo.",
+        "ja": "<ruby>床耐荷重<rt>ゆかたいかじゅう</rt></ruby>は、床（ゆか）に置（お）ける貨物（かもつ）の重（おも）さには限界（げんかい）があり、その値（あたい）は１㎡または１坪（つぼ）あたりで表（あらわ）されます。"
+      },
+      "statement": "床（ゆか）に置（お）ける貨物（かもつ）の重（おも）さには限界（げんかい）があり、その値（あたい）は１㎡または１坪（つぼ）あたりで表（あらわ）されます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Floor load capacity is the maximum permitted weight on the floor, expressed per square metre or per tsubo.",
+        "si": "බිම් දරාගැනීමේ උපරිම බර යනු බිම මත තැබිය හැකි බර සීමාවයි. එය වර්ග මීටරයකට හෝ ත්සුබෝ එකකට දක්වයි.",
+        "technicalNoteJa": "床耐荷重は単位面積あたりの許容荷重を示します。"
+      },
+      "sourcePage": 13,
+      "sourceAnchor": "p13-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0027",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Exceeding the rated floor load can damage the floor and create danger; the capacity must be checked.",
+        "ja": "<ruby>床耐荷重<rt>ゆかたいかじゅう</rt></ruby>は、床耐荷重（ゆかたいかじゅう）を超（こ）える重（おも）さの貨物（かもつ）を置（お）いても、床（ゆか）が壊（こわ）れる危険（きけん）はありません。"
+      },
+      "statement": "床耐荷重（ゆかたいかじゅう）を超（こ）える重（おも）さの貨物（かもつ）を置（お）いても、床（ゆか）が壊（こわ）れる危険（きけん）はありません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Exceeding the rated floor load can damage the floor and create danger; the capacity must be checked.",
+        "si": "බිම් බර සීමාව ඉක්මවා භාණ්ඩ තැබීමෙන් බිමට හානි වී අනතුරු ඇති විය හැකිය. එබැවින් සීමාව පරීක්ෂා කළ යුතුය.",
+        "technicalNoteJa": "許容荷重を超える積載は床の破損につながるため、事前確認が必要です。"
+      },
+      "sourcePage": 13,
+      "sourceAnchor": "p13-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0028",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Dust-proof coating reduces dust, makes cleaning easier, helps keep goods clean and supports hygiene.",
+        "ja": "<ruby>防塵塗装<rt>ぼうじんとそう</rt></ruby>は、床（ゆか）のほこりを防（ふせ）ぎ、掃除（そうじ）をしやすくするために使（つか）われます。"
+      },
+      "statement": "防塵塗装（ぼうじんとそう）は、床（ゆか）のほこりを防（ふせ）ぎ、掃除（そうじ）をしやすくするために使（つか）われます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Dust-proof coating reduces dust, makes cleaning easier, helps keep goods clean and supports hygiene.",
+        "si": "දූවිලි වැළැක්වීමේ ආලේපනය දූවිලි අඩු කර පිරිසිදු කිරීම පහසු කරයි; භාණ්ඩ පිරිසිදුව හා සෞඛ්‍යාරක්ෂිතව තබා ගැනීමටද උපකාරී වේ.",
+        "technicalNoteJa": "防塵塗装は粉じんの発生を抑え、清掃性と衛生環境を改善します。"
+      },
+      "sourcePage": 13,
+      "sourceAnchor": "p13-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0029",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A dock leveller bridges the height difference between the warehouse platform and a truck/container floor.",
+        "ja": "<ruby>ドックレベラー<rt>ドックレベラー</rt></ruby>は、倉庫（そうこ）のプラットホームとトラックの床（ゆか）の高（たか）さの差（さ）をなくす装置（そうち）です。"
+      },
+      "statement": "ドックレベラーは、倉庫（そうこ）のプラットホームとトラックの床（ゆか）の高（たか）さの差（さ）をなくす装置（そうち）です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A dock leveller bridges the height difference between the warehouse platform and a truck/container floor.",
+        "si": "ඩොක් ලෙවලර් එක ගබඩා වේදිකාව සහ ට්‍රක්/කන්ටේනර් බිම අතර උස වෙනස පියවයි.",
+        "technicalNoteJa": "ドックレベラーは荷役時の段差を解消する設備です。"
+      },
+      "sourcePage": 14,
+      "sourceAnchor": "p14-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0030",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Nizuri is fitted to the inside wall to protect it if goods collapse against it; it is not a rain barrier.",
+        "ja": "<ruby>荷摺り<rt>にずり</rt></ruby>は、倉庫（そうこ）の外側（そとがわ）の壁（かべ）に取（と）り付（つ）け、雨（あめ）を防（ふせ）ぐ設備（せつび）です。"
+      },
+      "statement": "荷摺（にず）りは、倉庫（そうこ）の外側（そとがわ）の壁（かべ）に取（と）り付（つ）け、雨（あめ）を防（ふせ）ぐ設備（せつび）です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Nizuri is fitted to the inside wall to protect it if goods collapse against it; it is not a rain barrier.",
+        "si": "荷摺り බිත්තියේ ඇතුළත සවි කර භාණ්ඩ කඩා වැටී වැදුණත් බිත්තිය ආරක්ෂා කරයි. එය වැසි වැළැක්වීමේ උපකරණයක් නොවේ.",
+        "technicalNoteJa": "荷摺りは倉庫内壁を貨物の衝突から保護します。"
+      },
+      "sourcePage": 14,
+      "sourceAnchor": "p14-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0031",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A dock shelter closes the gap around the truck body to keep out wind, rain and insects.",
+        "ja": "<ruby>ドックシェルター<rt>ドックシェルター</rt></ruby>は、トラックの荷台（にだい）との隙間（すきま）を埋（う）め、風（かぜ）や雨（あめ）、虫（むし）の侵入（しんにゅう）を防（ふせ）ぎます。"
+      },
+      "statement": "ドックシェルターは、トラックの荷台（にだい）との隙間（すきま）を埋（う）め、風（かぜ）や雨（あめ）、虫（むし）の侵入（しんにゅう）を防（ふせ）ぎます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A dock shelter closes the gap around the truck body to keep out wind, rain and insects.",
+        "si": "ඩොක් ෂෙල්ටර් එක ට්‍රක් රථයේ භාණ්ඩ තට්ටුව වටා ඇති හිඩැස් වසා සුළඟ, වැසි සහ කෘමීන් ඇතුළුවීම වළක්වයි.",
+        "technicalNoteJa": "ドックシェルターは荷台周辺の隙間をふさぐ設備です。"
+      },
+      "sourcePage": 14,
+      "sourceAnchor": "p14-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0032",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Warehouse clear height is measured from the underside of the beam to the floor.",
+        "ja": "<ruby>梁<rt>はり</rt></ruby>は、梁（はり）の下（した）から床（ゆか）までの高（たか）さです。"
+      },
+      "statement": "倉庫（そうこ）の天井高（てんじょうだか）は、梁（はり）の下（した）から床（ゆか）までの高（たか）さです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Warehouse clear height is measured from the underside of the beam to the floor.",
+        "si": "ගබඩාවේ සිවිලිමේ භාවිත කළ හැකි උස මනිනු ලබන්නේ බීම් එකේ පහළ සිට බිම දක්වාය.",
+        "technicalNoteJa": "倉庫の天井高は梁下から床面までを測ります。"
+      },
+      "sourcePage": 15,
+      "sourceAnchor": "p14-s2",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0033",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A sprinkler system automatically releases water when sensors detect heat or smoke.",
+        "ja": "<ruby>スプリンクラー<rt>スプリンクラー</rt></ruby>は、熱（ねつ）や煙（けむり）をセンサーが感知（かんち）すると、自動的（じどうてき）に水（みず）を出（だ）す設備（せつび）です。"
+      },
+      "statement": "スプリンクラーは、熱（ねつ）や煙（けむり）をセンサーが感知（かんち）すると、自動的（じどうてき）に水（みず）を出（だ）す設備（せつび）です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A sprinkler system automatically releases water when sensors detect heat or smoke.",
+        "si": "තාපය හෝ දුම සංවේදක මඟින් හඳුනාගත් විට ස්ප්‍රින්ක්ලර් පද්ධතිය ස්වයංක්‍රීයව ජලය නිකුත් කරයි.",
+        "technicalNoteJa": "スプリンクラーは熱や煙を感知して作動する自動消火設備です。"
+      },
+      "sourcePage": 15,
+      "sourceAnchor": "p15-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0034",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "When the fire alarm sounds, workers should evacuate to a safe place, not continue working.",
+        "ja": "<ruby>火災報知設備<rt>かさいほうちせつび</rt></ruby>は、火災報知設備（かさいほうちせつび）のベルが鳴（な）ったら、倉庫（そうこ）で作業（さぎょう）を続（つづ）けてください。"
+      },
+      "statement": "火災報知設備（かさいほうちせつび）のベルが鳴（な）ったら、倉庫（そうこ）で作業（さぎょう）を続（つづ）けてください。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "When the fire alarm sounds, workers should evacuate to a safe place, not continue working.",
+        "si": "ගිනි අනතුරු ඇඟවීමේ සීනුව නාද වූ විට වැඩ දිගටම නොකර ආරක්ෂිත ස්ථානයකට ඉවත් විය යුතුය.",
+        "technicalNoteJa": "火災報知設備の警報時は安全な場所へ避難します。"
+      },
+      "sourcePage": 15,
+      "sourceAnchor": "p15-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0035",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A fixed rack is secured to the floor and does not move.",
+        "ja": "<ruby>固定ラック<rt>こていラック</rt></ruby>は、固定（こてい）ラックは床（ゆか）に固定（こてい）され、通常（つうじょう）は動（うご）かない棚（たな）です。"
+      },
+      "statement": "固定（こてい）ラックは床（ゆか）に固定（こてい）され、通常（つうじょう）は動（うご）かない棚（たな）です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A fixed rack is secured to the floor and does not move.",
+        "si": "Fixed rack එක බිමට සවි කර ඇති බැවින් සාමාන්‍යයෙන් චලනය නොවේ.",
+        "technicalNoteJa": "固定ラックは床に固定された保管棚です。"
+      },
+      "sourcePage": 15,
+      "sourceAnchor": "p15-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0036",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Mobile racks move along the floor and can be brought together to use horizontal space efficiently.",
+        "ja": "<ruby>移動ラック<rt>いどうラック</rt></ruby>は、移動（いどう）ラックは床（ゆか）の上（うえ）を動（うご）かすことができ、棚（たな）同士（どうし）を寄（よ）せて空間（くうかん）を有効利用（ゆうこうりよう）できます。"
+      },
+      "statement": "移動（いどう）ラックは床（ゆか）の上（うえ）を動（うご）かすことができ、棚（たな）同士（どうし）を寄（よ）せて空間（くうかん）を有効利用（ゆうこうりよう）できます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Mobile racks move along the floor and can be brought together to use horizontal space efficiently.",
+        "si": "Mobile rack බිම මත ගෙන යා හැකි අතර රාක්ක එකිනෙකට ළං කිරීමෙන් තිරස් ඉඩ කාර්යක්ෂමව භාවිත කළ හැකිය.",
+        "technicalNoteJa": "移動ラックは可動式で、棚を寄せて保管空間を節約できます。"
+      },
+      "sourcePage": 16,
+      "sourceAnchor": "p16-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0037",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The source defines 正ネス as having the load-supporting grid at the lower level; the upper-grid type is 逆ネス.",
+        "ja": "<ruby>正ネス<rt>せいネス</rt></ruby>は、貨物（かもつ）を置（お）く格子状（こうしじょう）の面（めん）が上段（じょうだん）にある型（かた）です。"
+      },
+      "statement": "正（せい）ネスは、貨物（かもつ）を置（お）く格子状（こうしじょう）の面（めん）が上段（じょうだん）にある型（かた）です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source defines 正ネス as having the load-supporting grid at the lower level; the upper-grid type is 逆ネス.",
+        "si": "正ネス වර්ගයේ භාණ්ඩ තබන grid එක පහළ කොටසේ ඇත. ඉහළ grid එක ඇති වර්ගය 逆ネス ය.",
+        "technicalNoteJa": "正ネスは格子面が下段にあり、逆ネスは上段にあります。"
+      },
+      "sourcePage": 16,
+      "sourceAnchor": "p16-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0038",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "逆ネス allows two-level stacking per unit, but the complete nestainer cannot be moved as a unit.",
+        "ja": "<ruby>逆ネス<rt>ぎゃくネス</rt></ruby>は、１台（いちだい）で２段積（にだんづ）みができ、ネステナーごと移動（いどう）することもできます。"
+      },
+      "statement": "逆（ぎゃく）ネスは、１台（いちだい）で２段積（にだんづ）みができ、ネステナーごと移動（いどう）することもできます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "逆ネス allows two-level stacking per unit, but the complete nestainer cannot be moved as a unit.",
+        "si": "逆ネス එකකින් තට්ටු දෙකක් ගොඩගැසිය හැකි නමුත් සම්පූර්ණ nestainer එක ඒ ආකාරයෙන් ගෙන යා නොහැකිය.",
+        "technicalNoteJa": "逆ネスは二段積みが可能ですが、ネステナーごとの移動はできません。"
+      },
+      "sourcePage": 16,
+      "sourceAnchor": "p16-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0039",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A pallet supporter supports pallets, helps prevent falls and distributes loads more evenly.",
+        "ja": "<ruby>パレットサポーター<rt>パレットサポーター</rt></ruby>は、パレットを支（ささ）え、落下（らっか）防止（ぼうし）や荷重（かじゅう）の分散（ぶんさん）に役立（やくだ）ちます。"
+      },
+      "statement": "パレットサポーターは、パレットを支（ささ）え、落下（らっか）防止（ぼうし）や荷重（かじゅう）の分散（ぶんさん）に役立（やくだ）ちます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A pallet supporter supports pallets, helps prevent falls and distributes loads more evenly.",
+        "si": "Pallet supporter එක pallet වලට ආධාර දී වැටීම වැළැක්වීමට සහ බර සමව බෙදාහැරීමට උපකාරී වේ.",
+        "technicalNoteJa": "パレットサポーターはパレット支持と荷重分散に使います。"
+      },
+      "sourcePage": 16,
+      "sourceAnchor": "p16-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0040",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "An automated warehouse system uses computers and machinery to manage receiving, dispatch and storage automatically.",
+        "ja": "<ruby>自動倉庫システム<rt>じどうそうこシステム</rt></ruby>は、コンピューターと機械（きかい）で入庫（にゅうこ）・出庫（しゅっこ）・保管（ほかん）を自動管理（じどうかんり）します。"
+      },
+      "statement": "自動倉庫（じどうそうこ）システムは、コンピューターと機械（きかい）で入庫（にゅうこ）・出庫（しゅっこ）・保管（ほかん）を自動管理（じどうかんり）します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "An automated warehouse system uses computers and machinery to manage receiving, dispatch and storage automatically.",
+        "si": "ස්වයංක්‍රීය ගබඩා පද්ධතිය පරිගණක සහ යන්ත්‍ර මඟින් භාණ්ඩ ඇතුළත් කිරීම, පිටත් කිරීම සහ ගබඩා කිරීම පාලනය කරයි.",
+        "technicalNoteJa": "自動倉庫は入庫・出庫・保管を自動管理します。"
+      },
+      "sourcePage": 17,
+      "sourceAnchor": "p17-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0041",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Surveillance cameras also help check whether work is performed correctly and identify waste or inefficiency.",
+        "ja": "<ruby>監視カメラ<rt>かんしカメラ</rt></ruby>は、監視（かんし）カメラは盗難防止（とうなんぼうし）だけに使（つか）われ、作業（さぎょう）の確認（かくにん）には使（つか）われません。"
+      },
+      "statement": "監視（かんし）カメラは盗難防止（とうなんぼうし）だけに使（つか）われ、作業（さぎょう）の確認（かくにん）には使（つか）われません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Surveillance cameras also help check whether work is performed correctly and identify waste or inefficiency.",
+        "si": "CCTV සොරකම් වැළැක්වීමට පමණක් නොව වැඩ නිවැරදිව සිදුවේද සහ අපතේ යාමක් තිබේද යන්න පරීක්ෂා කිරීමටද භාවිත වේ.",
+        "technicalNoteJa": "監視カメラは防犯に加え、作業状況の確認にも使われます。"
+      },
+      "sourcePage": 17,
+      "sourceAnchor": "p17-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0042",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Illuminated guidance signs indicate exits during disasters or power failures; the green EXIT sign is the cue.",
+        "ja": "<ruby>誘導灯<rt>ゆうどうとう</rt></ruby>は、災害（さいがい）や停電（ていでん）のときに出口（でぐち）の場所（ばしょ）を示（しめ）します。"
+      },
+      "statement": "誘導灯（ゆうどうとう）は、災害（さいがい）や停電（ていでん）のときに出口（でぐち）の場所（ばしょ）を示（しめ）します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Illuminated guidance signs indicate exits during disasters or power failures; the green EXIT sign is the cue.",
+        "si": "ආපදා හෝ විදුලිය විසන්ධි වූ විට පිටවීමේ ස්ථානය පෙන්වන්නේ මාර්ගෝපදේශක ආලෝකයයි. හරිත EXIT සලකුණ එහි දෘශ්‍ය සලකුණයි.",
+        "technicalNoteJa": "誘導灯は非常時に出口を示す照明設備です。"
+      },
+      "sourcePage": 17,
+      "sourceAnchor": "p17-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0043",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A seismic-isolation device is installed below the building and reduces earthquake shaking, helping prevent goods falling from racks.",
+        "ja": "<ruby>免震装置<rt>めんしんそうち</rt></ruby>は、免震装置（めんしんそうち）は建物（たてもの）の地下（ちか）に設置（せっち）され、地震（じしん）の揺（ゆ）れを減（へ）らします。"
+      },
+      "statement": "免震装置（めんしんそうち）は建物（たてもの）の地下（ちか）に設置（せっち）され、地震（じしん）の揺（ゆ）れを減（へ）らします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A seismic-isolation device is installed below the building and reduces earthquake shaking, helping prevent goods falling from racks.",
+        "si": "භූකම්පන හුදකලා උපකරණය ගොඩනැගිල්ලේ භූගත කොටසේ සවි කර කම්පනය අඩු කරයි; එමඟින් රාක්කවලින් භාණ්ඩ වැටීම වැළැක්වීමට උපකාරී වේ.",
+        "technicalNoteJa": "免震装置は建物の揺れを低減し、貨物の落下防止に役立ちます。"
+      },
+      "sourcePage": 18,
+      "sourceAnchor": "p18-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0044",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Fire shutters help prevent fire from spreading between warehouse areas.",
+        "ja": "<ruby>防火シャッター<rt>ぼうかシャッター</rt></ruby>は、火（ひ）が区域（くいき）から区域（くいき）へ広（ひろ）がるのを防（ふせ）ぐために使（つか）われます。"
+      },
+      "statement": "防火（ぼうか）シャッターは、火（ひ）が区域（くいき）から区域（くいき）へ広（ひろ）がるのを防（ふせ）ぐために使（つか）われます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Fire shutters help prevent fire from spreading between warehouse areas.",
+        "si": "ගිනි ආරක්ෂක ෂටර් ගබඩාවේ එක් ප්‍රදේශයකින් තවත් ප්‍රදේශයකට ගින්න පැතිරීම වැළැක්වීමට උපකාරී වේ.",
+        "technicalNoteJa": "防火シャッターは火災の延焼を防ぐ設備です。"
+      },
+      "sourcePage": 18,
+      "sourceAnchor": "p14-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
