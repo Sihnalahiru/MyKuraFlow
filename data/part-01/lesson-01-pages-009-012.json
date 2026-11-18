@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "project": "MyKuraFlow",
+  "source": {
+    "title_ja": "特定技能１号 評価試験 物流倉庫分野（学科・実技）",
+    "filename": "specified_skilled_worker_textbook_202607(2).pdf",
+    "pdf_total_pages": 123,
+    "printed_page_total": 122,
+    "source_language": "ja",
+    "translation_languages": [
+      "en",
+      "si"
+    ],
+    "note": "This batch covers only the visible textbook content on printed pages 9–12 (physical PDF pages 9–12 in the extracted page labels). Do not treat this file as the completed Part 1."
+  },
+  "part": {
+    "id": "part-01",
+    "number": 1,
+    "title_ja": "物流倉庫の基本",
+    "title_romaji": "Butsuryuu souko no kihon",
+    "title_en": "Logistics Warehouse Fundamentals",
+    "title_si": "ලොජිස්ටික්ස් ගබඩා පිළිබඳ මූලික කරුණු"
+  },
+  "lesson": {
+    "id": "p01-l01",
+    "title_ja": "倉庫の種類",
+    "title_romaji": "Souko no shurui",
+    "title_en": "Types of warehouses",
+    "title_si": "ගබඩා වර්ග",
+    "source_pages": [
+      {
+        "pdf_page": 9,
+        "printed_page": 9
+      },
+      {
+        "pdf_page": 10,
+        "printed_page": 10
+      },
+      {
+        "pdf_page": 11,
+        "printed_page": 11
+      },
+      {
+        "pdf_page": 12,
+        "printed_page": 12
+      }
+    ],
+    "pages": [
+      {
+        "pdf_page": 9,
+        "printed_page": 9,
+        "sections": [
+          {
+            "id": "p9-s1",
+            "heading_ja": "倉庫とは？",
+            "heading_furigana": "倉庫（そうこ）とは？",
+            "heading_romaji": "Souko to wa?",
+            "heading_en": "What is a warehouse?",
+            "heading_si": "ගබඩාවක් යනු කුමක්ද?",
+            "source_ja": "倉庫(そうこ)は、物(もの)を保管(ほかん)する場所(ばしょ)です。\n「保管(ほかん)」とは、次(つぎ)の２つのことです：\n・物(もの)を置(お)いておくこと\n・物(もの)が壊(こわ)れたり、なくなったりしないように、管理(かんり)すること\n倉庫(そうこ)では、物(もの)の価値(かち)（ねうち）を守(まも)ることがとても大切(たいせつ)です。",
+            "romaji": "Souko wa, mono o hokan suru basho desu.\n'Hokan' to wa, tsugi no futatsu no koto desu:\n- Mono o oite oku koto.\n- Mono ga kowaretari, nakunattari shinai you ni, kanri suru koto.\nSouko de wa, mono no kachi (neuchi) o mamoru koto ga totemo taisetsu desu.",
+            "english": "A warehouse is a place where goods are stored. Storage has two parts: keeping goods in a designated place, and managing them so that they are not damaged or lost. Protecting the value of the goods is very important in warehouse operations.",
+            "sinhala": "ගබඩාවක් යනු භාණ්ඩ ගබඩා කර තබන ස්ථානයකි. “ගබඩා කිරීම” යන්නට කරුණු දෙකක් ඇතුළත් වේ: භාණ්ඩ නියමිත ස්ථානයක තබා ගැනීම සහ ඒවා කැඩී යාම හෝ නැතිවීම වැළැක්වීමට නිසි ලෙස කළමනාකරණය කිරීම. ගබඩා කාර්යයේදී භාණ්ඩවල වටිනාකම ආරක්ෂා කිරීම ඉතා වැදගත්ය."
+          },
+          {
+            "id": "p9-s2",
+            "heading_ja": "倉庫の種類（２つあります）",
+            "heading_furigana": "倉庫（そうこ）の種類（しゅるい）（２つあります）",
+            "heading_romaji": "Souko no shurui (futatsu arimasu)",
+            "heading_en": "Two basic warehouse categories",
+            "heading_si": "මූලික ගබඩා වර්ග දෙක",
+            "source_ja": "① 自家用倉庫(じかようそうこ)\n・自分(じぶん)の物(もの)を、自分(じぶん)の倉庫(そうこ)に入(い)れる場合(ばあい)です。\n・自分(じぶん)の会社(かいしゃ)の物(もの)を、自分(じぶん)の会社(かいしゃ)の倉庫(そうこ)に保管(ほかん)します。\n・他(ほか)の人(ひと)の物(もの)は入(い)れません。\n\n② 営業倉庫(えいぎょうそうこ)\n他(ほか)の人(ひと)・会社(かいしゃ)の物(もの)を、預(あず)かって保管(ほかん)する倉庫(そうこ)です。\n国(くに)＜国土交通大臣(こくどこうつうだいじん)＞に登録(とうろく)した会社(かいしゃ)だけが、営業倉庫(えいぎょうそうこ)を運営(うんえい)できます。登録(とうろく)していない会社(かいしゃ)は、この仕事(しごと)ができません。",
+            "romaji": "1. Jikayou souko\n- Jibun no mono o, jibun no souko ni ireru baai desu.\n- Jibun no kaisha no mono o, jibun no kaisha no souko ni hokan shimasu.\n- Hoka no hito no mono wa iremasen.\n\n2. Eigyou souko\nHoka no hito ya kaisha no mono o, azukatte hokan suru souko desu.\nKuni (Kokudokoutsuu Daijin) ni touroku shita kaisha dake ga, eigyou souko o unei dekimasu. Touroku shite inai kaisha wa, kono shigoto ga dekimasen.",
+            "english": "1. Private-use warehouse (jikayou souko): A company stores its own goods in its own warehouse. Goods belonging to other people or companies are not stored there.\n\n2. Commercial warehouse (eigyou souko): A warehouse that accepts and stores goods belonging to other people or companies. Only companies registered with the national authority (the Minister of Land, Infrastructure, Transport and Tourism) may operate a commercial warehouse. An unregistered company cannot carry out this business.",
+            "sinhala": "1. තමන්ගේ භාවිතය සඳහා වන ගබඩාව (自家用倉庫): තමන්ගේ භාණ්ඩ තමන්ගේම ගබඩාවේ තැන්පත් කරන අවස්ථාවයි. තම සමාගමේ භාණ්ඩ තම සමාගමේ ගබඩාවේ තබයි. වෙනත් පුද්ගලයන්ගේ භාණ්ඩ මෙහි තැන්පත් නොකරයි.\n\n2. වාණිජ ගබඩාව (営業倉庫): වෙනත් පුද්ගලයන්ගේ හෝ සමාගම්වල භාණ්ඩ භාරගෙන ගබඩා කරන ස්ථානයකි. ජපානයේ ඉඩම්, යටිතල පහසුකම්, ප්‍රවාහන හා සංචාරක අමාත්‍යවරයා යටතේ ලියාපදිංචි වූ සමාගම්වලට පමණක් වාණිජ ගබඩා පවත්වාගෙන යා හැකිය. ලියාපදිංචි නොවූ සමාගමකට මෙම ව්‍යාපාරය කළ නොහැක."
+          },
+          {
+            "id": "p9-s3",
+            "heading_ja": "営業倉庫の会社が守らなければならないルール",
+            "heading_furigana": "営業倉庫（えいぎょうそうこ）の会社（かいしゃ）が守（まも）らなければならないルール",
+            "heading_romaji": "Eigyou souko no kaisha ga mamoranakereba naranai ruuru",
+            "heading_en": "Rules commercial warehouse operators must follow",
+            "heading_si": "වාණිජ ගබඩා සමාගම් අනුගමනය කළ යුතු නීති",
+            "source_ja": "仕事(しごと)の内容(ないよう)：どのような物(もの)を預(あず)かるか、決(き)まったルールがあります。\n料金(りょうきん)：お客(きゃく)さんからもらうお金(かね)のルールがあります。\n建物(たてもの)・設備(せつび)：倉庫(そうこ)の建物(たてもの)や設備・機器(せつび・きき)は、決(き)まった基準(きじゅん)を満(み)たす必要(ひつよう)があります。\n「基準(きじゅん)」とは、「最低限(さいていげん)これは守(まも)ってください」というルールのことです。",
+            "romaji": "Shigoto no naiyou: Dono you na mono o azukaru ka, kimatta ruuru ga arimasu.\nRyoukin: Okyaku-san kara morau okane no ruuru ga arimasu.\nTatemono / setsubi: Souko no tatemono ya setsubi-kiki wa, kimatta kijun o mitasu hitsuyou ga arimasu.\n'Kijun' to wa, 'saiteigen kore wa mamotte kudasai' to iu ruuru no koto desu.",
+            "english": "Commercial warehouse operators must follow set rules concerning: (1) the types of goods they may accept, (2) fees charged to customers, and (3) standards that the warehouse building, facilities and equipment must meet. A standard is a minimum requirement that must be observed.",
+            "sinhala": "වාණිජ ගබඩා සමාගම් නියමිත නීති අනුගමනය කළ යුතු ක්ෂේත්‍ර තුනක් ඇත: (1) භාරගත හැකි භාණ්ඩ වර්ග, (2) පාරිභෝගිකයන්ගෙන් අය කරන ගාස්තු සහ (3) ගබඩා ගොඩනැගිල්ල, පහසුකම් හා උපකරණ සපුරාලිය යුතු ප්‍රමිතීන්. “ප්‍රමිතිය” යනු අවම වශයෙන් අනිවාර්යයෙන් පිළිපැදිය යුතු අවශ්‍යතාවයකි."
+          },
+          {
+            "id": "p9-s4",
+            "heading_ja": "営業倉庫を始めるときの手順",
+            "heading_furigana": "営業倉庫（えいぎょうそうこ）を始（はじ）めるときの手順（てじゅん）",
+            "heading_romaji": "Eigyou souko o hajimeru toki no tejun",
+            "heading_en": "Steps for starting a commercial warehouse",
+            "heading_si": "වාණිජ ගබඩාවක් ආරම්භ කිරීමේ පියවර",
+            "source_ja": "① 国土交通大臣(こくどこうつうだいじん)に申請(しんせい)する。\n② 登録(とうろく)を受(う)ける。\n③ 営業倉庫(えいぎょうそうこ)として仕事(しごと)を始(はじ)められる。",
+            "romaji": "1. Kokudokoutsuu Daijin ni shinsei suru.\n2. Touroku o ukeru.\n3. Eigyou souko to shite shigoto o hajimerareru.",
+            "english": "The process is: (1) apply to the Minister of Land, Infrastructure, Transport and Tourism; (2) obtain registration; and (3) begin operating as a commercial warehouse.",
+            "sinhala": "ක්‍රියාපටිපාටිය: (1) ජපානයේ ඉඩම්, යටිතල පහසුකම්, ප්‍රවාහන හා සංචාරක අමාත්‍යවරයා වෙත අයදුම් කිරීම, (2) ලියාපදිංචිය ලබාගැනීම සහ (3) වාණිජ ගබඩාවක් ලෙස කටයුතු ආරම්භ කිරීම."
+          }
+        ],
+        "source_image": {
+          "status": "PENDING_VISUAL_MATCH",
+          "asset_path": null,
+          "note": "Do not assign a numbered image until its visual content is compared with the original rendered PDF page."
+        }
+      },
+      {
+        "pdf_page": 10,
+        "printed_page": 10,
+        "sections": [
+          {
+            "id": "p10-s1",
+            "heading_ja": "営業倉庫の種類",
+            "heading_furigana": "営業倉庫（えいぎょうそうこ）の種類（しゅるい）",
+            "heading_romaji": "Eigyou souko no shurui",
+            "heading_en": "Types of commercial warehouses",
+            "heading_si": "වාණිජ ගබඩා වර්ග",
+            "source_ja": "営業倉庫(えいぎょうそうこ)は、建物(たてもの)や設備(せつび)の基準(きじゅん)によって、次(つぎ)の種類(しゅるい)に分(わ)けられます。\n\n１類倉庫(いちるいそうこ)：危険物(きけんぶつ)を除(のぞ)き、どんな物(もの)でも保管(ほかん)できる倉庫(そうこ)です。保管できる物の制限が、一番少ない倉庫です。「危険物」とは、火がつきやすい物や、爆発する可能性がある物のことです。\n\n２類倉庫(にるいそうこ)：火に強い設備＜防火性能＞がない倉庫です。保管できる物に制限があります。「防火性能」とは、火事になりにくい、または火事が広がりにくい機能のことです。\n\n３類倉庫(さんるいそうこ)：以下の機能がない倉庫です。保管できる物に制限があります。\n・防火性能（火に強い機能）がない\n・防湿性能（湿気を防ぐ機能）がない\n・遮断性能（外の空気や温度を遮る機能）がない\n\n野積倉庫(のづみそうこ)：屋根のない場所で、物を積み上げて保管する倉庫です。例：木材、製材、瓦など。\n\n貯蔵槽倉庫(ちょぞうそうそうこ)：粒状の物や液体を大量に保管する倉庫です。粒状の例：穀物（お米・小麦など）。液体の例：石油など。\n\n危険品倉庫(きけんひんそうこ)：危険な物を保管する特別な倉庫です。例：石油、化学薬品などの危険物。一般の倉庫とは別の特別なルールがあります。",
+            "romaji": "Eigyou souko wa, tatemono ya setsubi no kijun ni yotte, tsugi no shurui ni wakeraremasu.\n\nIchirui souko: Kikenbutsu o nozoki, donna mono demo hokan dekiru souko desu. Hokan dekiru mono no seigen ga, ichiban sukunai souko desu. 'Kikenbutsu' to wa, hi ga tsukiyasui mono ya, bakuhatsu suru kanousei ga aru mono no koto desu.\n\nNirui souko: Hi ni tsuyoi setsubi (boukaseinou) ga nai souko desu. Hokan dekiru mono ni seigen ga arimasu. 'Boukaseinou' to wa, kaji ni nari nikui, mata wa kaji ga hirogarinikui kinou no koto desu.\n\nSanrui souko: Tsugi no kinou ga nai souko desu. Hokan dekiru mono ni seigen ga arimasu: boukaseinou, boshitsuseinou, shadanseinou.\n\nNozumi souko: Yane no nai basho de, mono o tsumiagete hokan suru souko desu. Rei: mokuzai, seizai, kawara nado.\n\nChozousou souko: Tsubujou no mono ya ekitai o tairyou ni hokan suru souko desu. Tsubujou no rei: kokumotsu (okome, komugi nado). Ekitai no rei: sekiyu nado.\n\nKikenhin souko: Kiken na mono o hokan suru tokubetsu na souko desu. Rei: sekiyu, kagakuyakuhin nado no kikenbutsu. Ippan no souko to wa betsu no tokubetsu na ruuru ga arimasu.",
+            "english": "Commercial warehouses are classified according to building and equipment standards. The source lists: Class 1 warehouses, which can store almost any goods except dangerous goods and have the fewest storage restrictions; Class 2 warehouses, which lack fire-resistant performance and therefore have storage restrictions; Class 3 warehouses, which lack fire-resistant, moisture-proof and external-condition shielding performance and therefore have restrictions; open-yard warehouses, where goods such as timber, processed lumber and roof tiles are stored outdoors without a roof; silo/tank warehouses, which store large quantities of granular goods or liquids such as grain and petroleum; and dangerous-goods warehouses, special facilities for hazardous goods such as petroleum and chemicals, governed by separate rules.",
+            "sinhala": "වාණිජ ගබඩා ගොඩනැගිලි හා උපකරණ සපුරාලන ප්‍රමිතීන් අනුව වර්ග කරයි. මූලාශ්‍රයේ සඳහන් වර්ග: 1 වන පන්තියේ ගබඩාව — අනතුරුදායක ද්‍රව්‍ය හැර බොහෝ භාණ්ඩ ගබඩා කළ හැකි අතර ගබඩා සීමා අඩුමය; 2 වන පන්තියේ ගබඩාව — ගිනි ආරක්ෂක හැකියාව නොමැති බැවින් ගබඩා කළ හැකි භාණ්ඩ සීමා වේ; 3 වන පන්තියේ ගබඩාව — ගිනි ආරක්ෂාව, තෙතමනය වැළැක්වීම සහ පිටත වාතය/උෂ්ණත්වය වෙන් කිරීමේ හැකියාව නොමැති බැවින් සීමා ඇත; විවෘත භූමි ගබඩාව — වහලක් නොමැති එළිමහන් ස්ථානයක දැව, සකස් කළ ලී සහ උළු වැනි දේ ගොඩගසා තබයි; සිලෝ/ටැංකි ගබඩාව — ධාන්‍ය වැනි කැට සහිත ද්‍රව්‍ය හෝ පෙට්‍රෝලියම් වැනි ද්‍රව විශාල ප්‍රමාණයක් තබයි; අනතුරුදායක භාණ්ඩ ගබඩාව — පෙට්‍රෝලියම් සහ රසායනික ද්‍රව්‍ය වැනි අනතුරුදායක ද්‍රව්‍ය සඳහා වෙනම නීති යටතේ පවත්වාගෙන යන විශේෂ ගබඩාවකි."
+          }
+        ],
+        "source_image": {
+          "status": "PENDING_VISUAL_MATCH",
+          "asset_path": null
+        }
+      },
+      {
+        "pdf_page": 11,
+        "printed_page": 11,
+        "sections": [
+          {
+            "id": "p11-s1",
+            "heading_ja": "冷蔵倉庫・水面倉庫・トランクルーム・特別の倉庫",
+            "heading_romaji": "Reizou souko, suimen souko, torankuruumu, tokubetsu no souko",
+            "heading_en": "Refrigerated, water-surface, trunk-room and special warehouses",
+            "heading_si": "ශීත ගබඩා, ජල මතුපිට ගබඩා, ට්‍රන්ක් රූම් සහ විශේෂ ගබඩා",
+            "source_ja": "冷蔵倉庫：＋10℃以下の低い温度で、物を保管する倉庫です。例：冷凍した魚・肉など。以下の温度帯があります。\n\n水面倉庫：川や池などの水の上で、物を保管する倉庫です。例：原木、丸太。木は水に浮かぶので、水の上に浮かべたまま保管できます。\n\nトランクルーム：一般の消費者（個人のお客さん）の物を保管する倉庫です。「トランクルーム」と呼ぶサービスは、倉庫業法に基づく「トランクルーム＜営業倉庫型＞」と、倉庫業法の対象外「レンタル収納スペース型」の２種類あります。\n\n特別の倉庫：国土交通大臣が特別に定めた倉庫です。例：災害（地震・洪水など）のときに使う物品を保管する倉庫。",
+            "romaji": "Reizou souko: +10-do C ika no hikui ondo de, mono o hokan suru souko desu. Rei: reitou shita sakana, niku nado. Ika no ondotai ga arimasu.\n\nSuimen souko: Kawa ya ike nado no mizu no ue de, mono o hokan suru souko desu. Rei: genboku, maruta. Ki wa mizu ni ukabu node, mizu no ue ni ukabeta mama hokan dekimasu.\n\nTorankuruumu: Ippan no shouhisha (kojin no okyakusan) no mono o hokan suru souko desu. Torankuruumu to yobu saabisu ni wa, Souko Gyou Hou ni motozuku eigyou souko-gata to, Souko Gyou Hou no taishou-gai rentaru shuunou supesu-gata no futatsu no shurui ga arimasu.\n\nTokubetsu no souko: Kokudokoutsuu Daijin ga tokubetsu ni sadameta souko desu. Rei: saigai (jishin, kouzui nado) no toki ni tsukau buppin o hokan suru souko.",
+            "english": "Refrigerated warehouse: stores goods at temperatures of +10°C or below; examples include frozen fish and meat. The source then introduces temperature bands.\n\nWater-surface warehouse: stores goods on water, such as rivers or ponds. Examples are logs and round timber, which can be stored floating because wood floats.\n\nTrunk room: stores personal belongings of general consumers. The source distinguishes two services: a trunk-room type operated as a registered commercial warehouse under the Warehouse Business Act, and a rental-storage-space type outside the scope of that Act.\n\nSpecial warehouse: a warehouse specially designated by the Minister of Land, Infrastructure, Transport and Tourism. Example: a warehouse storing supplies used during disasters such as earthquakes and floods.",
+            "sinhala": "ශීත ගබඩාව: +10°C හෝ ඊට අඩු උෂ්ණත්වයක භාණ්ඩ තබන ගබඩාවකි. උදාහරණ ලෙස ශීත කළ මාළු සහ මස් දැක්වේ. මෙහි විවිධ උෂ්ණත්ව කලාප ඇත.\n\nජල මතුපිට ගබඩාව: ගංගා හෝ පොකුණු වැනි ජල මතුපිට භාණ්ඩ ගබඩා කරන ක්‍රමයකි. උදාහරණ ලෙස අමු දැව සහ ලී කොට දැක්වේ. දැව ජලයේ පාවෙන නිසා ජලය මත පාවෙමින් තබා ගත හැකිය.\n\nට්‍රන්ක් රූම්: සාමාන්‍ය පාරිභෝගිකයන්ගේ පුද්ගලික භාණ්ඩ ගබඩා කරන ස්ථානයකි. මූලාශ්‍රය සේවා වර්ග දෙකක් වෙන් කරයි: ගබඩා ව්‍යාපාර පනත යටතේ ලියාපදිංචි වාණිජ ගබඩා ආකාරය සහ එම පනතට අයත් නොවන කුලියට ගන්නා ගබඩා ඉඩකඩ ආකාරය.\n\nවිශේෂ ගබඩාව: ජපානයේ අදාළ අමාත්‍යවරයා විසින් විශේෂයෙන් නම් කරන ගබඩාවකි. උදාහරණයක් ලෙස භූමිකම්පා හෝ ගංවතුර වැනි ආපදාවලදී භාවිත කරන සැපයුම් තබන ගබඩාවක් දැක්විය හැකිය."
+          }
+        ],
+        "source_image": {
+          "status": "PENDING_VISUAL_MATCH",
+          "asset_path": null
+        }
+      },
+      {
+        "pdf_page": 12,
+        "printed_page": 12,
+        "sections": [
+          {
+            "id": "p12-s1",
+            "heading_ja": "温度による倉庫の区分",
+            "heading_furigana": "温度（おんど）による倉庫（そうこ）の区分（くぶん）",
+            "heading_romaji": "Ondo ni yoru souko no kubun",
+            "heading_en": "Warehouse classifications by temperature",
+            "heading_si": "උෂ්ණත්වය අනුව ගබඩා වර්ගීකරණය",
+            "source_ja": "常温（じょうおん）・ドライ：＋15℃〜＋25℃。温度に影響を受けない商品。\n定温（ていおん）：＋10℃〜＋20℃。低すぎると結露や品質変化、高すぎると劣化や風味の損失が起きるような商材のために設けられた倉庫。例：チョコレート・菓子類、ワイン・日本酒、医薬品、種子・花苗。\nC級：C3級 −2℃を超え＋10℃以下（一般冷蔵品）、C2級 −10℃を超え−2℃以下（チルド食品・精肉・鮮魚など）、C1級 −18℃を超え−10℃以下（軽冷凍食品、冷凍前の一時保管など）。\nF級：F1級 −24℃を超え−18℃以下（一般冷蔵品）、F2級 −30℃を超え−24℃以下（冷凍加工食品・魚介など）、F3級 −35℃を超え−30℃以下（低温冷凍品・業務用冷凍食品）。\nSF級：SF1級 −40℃を超え−35℃以下（高品質保持が必要な冷凍食品）、SF2級 −45℃を超え−40℃以下（マグロなどの高級水産物）、SF3級 −50℃を超え−45℃以下（超低温帯の水産加工・輸出水産物）、SF4級 −50℃以下（マグロなどの長期高品質保存）。\n温度帯の表記：「●●℃を超え ●●℃以下」。",
+            "romaji": "Jouon / dorai: +15-do C kara +25-do C. Ondo ni eikyou o ukenai shouhin.\nTeion: +10-do C kara +20-do C. Hikuku narisugiru to ketsuro ya hinshitsu henka, takakusugiru to rekka ya fuumi no soushitsu ga okiru shouzai no tame ni mouketa souko. Rei: chokoreeto, kashirui, wain, nihonshu, iyakuhin, shushi, hananae.\nC-kyuu: C3-kyuu wa -2-do C o koe +10-do C ika; C2-kyuu wa -10-do C o koe -2-do C ika; C1-kyuu wa -18-do C o koe -10-do C ika.\nF-kyuu: F1-kyuu wa -24-do C o koe -18-do C ika; F2-kyuu wa -30-do C o koe -24-do C ika; F3-kyuu wa -35-do C o koe -30-do C ika.\nSF-kyuu: SF1-kyuu wa -40-do C o koe -35-do C ika; SF2-kyuu wa -45-do C o koe -40-do C ika; SF3-kyuu wa -50-do C o koe -45-do C ika; SF4-kyuu wa -50-do C ika.\nOndotai no hyouki: '... do C o koe ... do C ika'.",
+            "english": "The page classifies warehouses by controlled temperature. Normal/dry storage is +15°C to +25°C. Constant-temperature storage is +10°C to +20°C and is used for products whose quality is affected if the temperature is too low or too high; examples include chocolate and confectionery, wine and sake, medicines, seeds and flower seedlings. C-class bands are C3: above −2°C to +10°C (general chilled goods); C2: above −10°C to −2°C (chilled foods, meat and fresh fish); C1: above −18°C to −10°C (lightly frozen goods and temporary storage before freezing). F-class bands are F1: above −24°C to −18°C; F2: above −30°C to −24°C (processed frozen foods and seafood); F3: above −35°C to −30°C (low-temperature frozen goods and commercial frozen foods). SF-class bands are SF1: above −40°C to −35°C; SF2: above −45°C to −40°C (premium seafood such as tuna); SF3: above −50°C to −45°C (ultra-low-temperature seafood processing/export); SF4: −50°C or below (long-term high-quality storage of tuna and similar products). The source expresses each band as “above X°C and at or below Y°C.”",
+            "sinhala": "මෙම පිටුවේ උෂ්ණත්ව පාලනය අනුව ගබඩා වර්ග දක්වයි. සාමාන්‍ය/වියළි ගබඩා උෂ්ණත්වය +15°C සිට +25°C දක්වාය. ස්ථාවර උෂ්ණත්ව ගබඩා +10°C සිට +20°C දක්වා පවත්වා ගනී. උෂ්ණත්වය ඉතා අඩු වුවහොත් ඝනීභවනය හෝ ගුණාත්මක වෙනස්වීම්ද, ඉතා වැඩි වුවහොත් නරක්වීම හෝ රස/සුවඳ අහිමිවීමද සිදුවිය හැකි භාණ්ඩ සඳහා මෙය යොදා ගනී. උදාහරණ: චොකලට් සහ රසකැවිලි, වයින් සහ ජපන් සाके, ඖෂධ, බීජ සහ මල් පැළ.\nC පන්තිය: C3 — −2°C ට වැඩි සහ +10°C දක්වා (සාමාන්‍ය ශීත කළ භාණ්ඩ); C2 — −10°C ට වැඩි සහ −2°C දක්වා (චිල්ඩ් ආහාර, මස් සහ නැවුම් මාළු); C1 — −18°C ට වැඩි සහ −10°C දක්වා (අඩු මට්ටමින් ශීත කළ භාණ්ඩ සහ ශීත කිරීමට පෙර තාවකාලික ගබඩා කිරීම).\nF පන්තිය: F1 — −24°C ට වැඩි සහ −18°C දක්වා; F2 — −30°C ට වැඩි සහ −24°C දක්වා (සකස් කළ ශීත කළ ආහාර සහ මුහුදු ආහාර); F3 — −35°C ට වැඩි සහ −30°C දක්වා (අඩු උෂ්ණත්ව ශීත කළ භාණ්ඩ සහ වාණිජ ශීත කළ ආහාර).\nSF පන්තිය: SF1 — −40°C ට වැඩි සහ −35°C දක්වා; SF2 — −45°C ට වැඩි සහ −40°C දක්වා (ටූනා වැනි ඉහළ වටිනාකමක් ඇති මුහුදු ආහාර); SF3 — −50°C ට වැඩි සහ −45°C දක්වා (අතිශය අඩු උෂ්ණත්වයේ මුහුදු ආහාර සැකසීම/අපනයනය); SF4 — −50°C හෝ ඊට අඩු (ටූනා වැනි ද්‍රව්‍ය දිගුකාලීනව ඉහළ ගුණාත්මකභාවයෙන් තබා ගැනීම).\nමූලාශ්‍රයේ උෂ්ණත්ව පරාසය ලියන ආකාරය “X°C ට වැඩි සහ Y°C හෝ ඊට අඩු” යන්නයි."
+          }
+        ],
+        "source_image": {
+          "status": "PENDING_VISUAL_MATCH",
+          "asset_path": null
+        }
+      }
+    ],
+    "audit": {
+      "batch_status": "DRAFT_TRANSLATED",
+      "pages_included": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "page_coverage": "4 of 4 pages in this batch",
+      "content_verification": "Based on extracted source text visible for printed pages 9–12. Visual tables/illustrations must be checked against page renders before final approval.",
+      "image_mapping": "PENDING",
+      "review_required": [
+        "Verify all source text against full-resolution page render, especially the detailed temperature-band table on page 12.",
+        "Complete visual image-to-page matching before assigning asset paths."
+      ]
+    }
+  }
+}
