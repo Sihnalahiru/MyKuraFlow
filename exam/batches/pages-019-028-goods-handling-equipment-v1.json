@@ -1,0 +1,63 @@
+{
+  "batchId": "pages-019-028-goods-handling-equipment-v1",
+  "sourceFile": "data/part-01/lesson-03-pages-019-028.json",
+  "sourcePdfPages": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "sourceAnchors": [
+    "p19-s1",
+    "p20-s1",
+    "p21-s1",
+    "p22-s1",
+    "p23-s1",
+    "p24-s1",
+    "p25-s1",
+    "p26-s1",
+    "p27-s1",
+    "p28-s1"
+  ],
+  "questionIds": [
+    "MKF-WR-0045",
+    "MKF-WR-0046",
+    "MKF-WR-0047",
+    "MKF-WR-0048",
+    "MKF-WR-0049",
+    "MKF-WR-0050",
+    "MKF-WR-0051",
+    "MKF-WR-0052",
+    "MKF-WR-0053",
+    "MKF-WR-0054",
+    "MKF-WR-0055",
+    "MKF-WR-0056",
+    "MKF-WR-0057",
+    "MKF-WR-0058",
+    "MKF-WR-0059",
+    "MKF-WR-0060",
+    "MKF-WR-0061",
+    "MKF-WR-0062",
+    "MKF-WR-0063",
+    "MKF-WR-0064",
+    "MKF-WR-0065",
+    "MKF-WR-0066",
+    "MKF-WR-0067",
+    "MKF-WR-0068",
+    "MKF-WR-0069"
+  ],
+  "count": 25,
+  "types": {
+    "written_true_false": 25,
+    "practical_mcq": 0
+  },
+  "reviewStatus": "DRAFT",
+  "visualRequirement": "Visual items are deferred; only Japanese written statements are included in this batch. Existing Study Mode assets remain unchanged.",
+  "releaseEligible": false
+}
