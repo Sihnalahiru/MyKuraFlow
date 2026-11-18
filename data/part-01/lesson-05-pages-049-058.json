@@ -1,0 +1,361 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-01",
+  "lesson_id": "p01-l05",
+  "lesson_title": {
+    "ja": "防犯・災害対策とパレットの基礎、作業に必要な知識",
+    "furigana": "防犯（ぼうはん）・災害対策（さいがいたいさく）とパレットの基礎（きそ）、作業（さぎょう）に必要（ひつよう）な知識（ちしき）",
+    "romaji": "Bouhan / saigai taisaku to pallet no kiso, sagyou ni hitsuyou na chishiki",
+    "en": "Security and disaster preparedness, pallet fundamentals, and essential work knowledge",
+    "si": "ගබඩා ආරක්ෂාව හා ආපදා සූදානම, පැලට් මූලික කරුණු සහ වැඩ සඳහා අවශ්‍ය දැනුම"
+  },
+  "page_range": {
+    "pdf_pages": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "printed_pages": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 49,
+      "printed_page": 49,
+      "source_ja": "４. 火事を防ぐために\n倉庫の中では、火を使ってはいけません。\nフォークリフトを充電するときの注意：バッテリーを充電しているとき、水素ガスと酸素ガスが発生します。このガスに火が近づくと、引火や爆発の危険があります。\n日頃から行うこと：消火器の前に貨物を置かない。消火栓の前には扉を開閉できる空間を確保する。消火設備を定期点検する。\n消防法で定められたこと：防火管理者の選任、自衛消防組織の編成。大規模建物、多人数が利用する施設、高層建築物や地下街などでは自衛消防組織の編成が義務となる。\n５. 水害について：大雨、河川氾濫、台風・地震による高潮や津波の危険がある倉庫では、土のうを準備し、水害時の対応を覚えておく。ハザードマップで倉庫周辺の危険を確認する。",
+      "romaji": "4. Kaji o fusegu tame ni. Souko no naka de wa hi o tsukatte wa ikemasen. Forklift o juuden suru toki, battery kara suiso gasu to sanso gasu ga hasshimasu. Hi ga chikazuku to inka ya bakuhatsu no kiken ga arimasu. Shouka ki no mae ni nimotsu o okazu, shoukasen no mae ni kuukan o kakuhou shi, setsubi o teiki tenken shimasu. Shoubouhou ni motozuki bouka kanrisha o sen'nin shi, jieishoubou soshiki o hensei shimasu. Suigai ni sonaete donou o junbi shi, hazard map de kiken o kakunin shimasu.",
+      "en": "4. Fire prevention: Open flames are prohibited inside the warehouse. When a forklift battery is charging, hydrogen and oxygen gases are released; a nearby ignition source can cause fire or explosion. Keep cargo clear of fire extinguishers, leave enough space to open fire-hydrant cabinets, and inspect fire equipment regularly. The source lists appointment of a fire-prevention manager and formation of an in-house fire brigade as requirements under the Fire Service Act, with the latter required for specified large or high-occupancy buildings. 5. Flooding: Warehouses exposed to heavy rain, river overflow, storm surge or tsunami should keep sandbags ready and know the response procedure. Check local hazards using a hazard map.",
+      "si": "4. ගින්න වැළැක්වීම: ගබඩාව ඇතුළත ගිනි භාවිතය තහනම්ය. Forklift බැටරිය ආරෝපණය කරන විට හයිඩ්‍රජන් සහ ඔක්සිජන් වායු නිකුත් වේ. ඒ අසල ගිනි පුපුරක් හෝ දැල්ලක් ඇති වුවහොත් ගිනිගැනීමක් හෝ පිපිරීමක් සිදුවිය හැකිය. ගිනි නිවන උපකරණ ඉදිරිපිට භාණ්ඩ නොතබන්න; ගිනි නිවන ජල පද්ධති කැබිනට් විවෘත කිරීමට ඉඩ තබන්න; උපකරණ නියමිත කාලයට පරීක්ෂා කරන්න. මූලාශ්‍රයේ සඳහන් පරිදි Fire Service Act යටතේ ගිනි ආරක්ෂණ කළමනාකරුවෙකු පත් කිරීම සහ අදාළ ගොඩනැගිලිවල අභ්‍යන්තර ගිනි නිවන කණ්ඩායමක් සකස් කිරීම අවශ්‍ය වේ. 5. ගංවතුර: අධික වැසි, ගංගා පිටාර ගැලීම, කුණාටු රළ හෝ සුනාමි අවදානම ඇති ගබඩා වැලි බෑග් සූදානම් කර තබා හදිසි ක්‍රියාමාර්ග දැන සිටිය යුතුය. අවට අවදානම් සිතියම පරීක්ෂා කරන්න.",
+      "visuals": [
+        {
+          "type": "safety_infographic",
+          "description": "Fire prevention layout: clear access to extinguisher and hydrant, forklift battery charging zone with no ignition sources, routine inspection checklist."
+        },
+        {
+          "type": "hazard_map_illustration",
+          "description": "Flood preparedness illustration showing warehouse, rising water, sandbag barrier and hazard-map review."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 49,
+        "repo_images": [],
+        "supplementary_visuals": [
+          "created:fire-prevention-clearance.svg",
+          "created:flood-preparedness-hazard-map.svg"
+        ],
+        "mapping_basis": "Source page text contains safety instructions but no embedded photo; custom instructional visuals are required."
+      }
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": 50,
+      "source_ja": "６. 緊急のときの対応\n普段から非常口と避難ルートを確認し、そこに貨物やパレットを置かない。緊急時はエレベーターを使わず、誘導灯の矢印に従って避難する。\n（１）地震：揺れを感じたら、貨物の落下・崩壊から離れた安全な場所へ移動し、自分の身を守る。揺れが止まったら避難ルートで指定避難場所へ行き、責任者に無事を伝える。エレベーター内で揺れたら全階ボタンを押し、停止階で降りる。閉じ込められたら非常ブザーまたはインターフォンで知らせる。\n（２）火事：大声で周囲に知らせる。火が小さければ消火器を使う。警報器が鳴ったら作業を止め、非常口から避難する。消火器の手順：①安全ピンを抜く ②ノズルを火に向ける ③レバーを握って放射する。\n（３）停電：冷蔵倉庫で停電したら落ち着き、携帯ライトまたはフォークリフトのライトで明かりを確保し、出口へ移動し、ドアを手動で開けて外へ出る。",
+      "romaji": "6. Kinkyuu no toki no taiou. Heijou kara hijouguchi to hinan route o kakunin shi, nimotsu ya pallet o okanai. Kinkyuuji ni elevator wa tsukawazu yuudoutou ni shitagau. Jishin: anzen na basho e idou shi, yure ga tomattara hinan basho e mukai, sekininsha ni anpi o tsutaeru. KajI: ookina koe de shirase, chiisai hi nara shoukaki o tsukai, keihou ga nattara hinan suru. Shoukaki wa pin o nuki, nozzle o hi ni mukete, lever o nigiru. Teiden: light de akari o kakuhou shi, deguchi made idou shite door o shudou de hiraku.",
+      "en": "6. Emergency response: Know the emergency exits and evacuation routes in advance; never block them with cargo or pallets. Do not use elevators during an emergency; follow the green exit-direction signs. Earthquake: move away from falling or collapsing cargo to a safer open area, protect yourself, and after shaking stops follow the evacuation route to the designated assembly point; report your safety to the supervisor. If shaking occurs in an elevator, press all floor buttons and leave at the first available floor; if trapped, use the emergency buzzer or intercom. Fire: shout to warn others; use an extinguisher only if the fire is still small; when the alarm sounds, stop work and evacuate. Extinguisher sequence: pull safety pin, aim nozzle at fire, squeeze lever. Power failure in a refrigerated warehouse: stay calm, use a portable or forklift light, move to the exit, and open the door manually.",
+      "si": "6. හදිසි අවස්ථාවක ක්‍රියාමාර්ග: හදිසි පිටවීම් සහ පලායන මාර්ග කලින් හඳුනාගන්න. ඒවා අවහිර වන ලෙස භාණ්ඩ හෝ පැලට් නොතබන්න. හදිසි අවස්ථාවක lift භාවිත නොකර හරිත පිටවීමේ සලකුණු අනුව යන්න. භූමිකම්පාවකදී වැටෙන හෝ කඩා වැටෙන භාණ්ඩවලින් ඈත්ව ආරක්ෂිත විවෘත ස්ථානයකට යන්න. කම්පනය නතර වූ පසු නියමිත රැස්වීමේ ස්ථානයට ගොස් වගකිවයුතු නිලධාරියාට ඔබ ආරක්ෂිත බව දන්වන්න. Lift එක තුළ නම් සියලුම මහල් බොත්තම් ඔබා නතර වන මහලකින් පිටවන්න; සිරවුණොත් හදිසි buzzer/intercom භාවිත කරන්න. ගින්නක් දුටුවොත් අනෙක් අයට හඬ නඟා දන්වන්න; ගින්න කුඩා නම් පමණක් නිවනය භාවිත කරන්න; alarm එක නාද වූ විට වැඩ නවතා පිටවන්න. නිවනය භාවිතයේ පියවර: safety pin ඉවත් කිරීම, nozzle එක ගින්න දෙසට යොමු කිරීම, lever එක තද කිරීම. ශීත ගබඩාවක විදුලිය විසන්ධි වුවහොත් සන්සුන්ව portable/forklift light භාවිත කර පිටවීමේ දොරට ගොස් අතින් විවෘත කරන්න.",
+      "visuals": [
+        {
+          "type": "step_diagram",
+          "description": "Three emergency response flowcharts: earthquake, fire and refrigerated-warehouse power outage."
+        },
+        {
+          "type": "extinguisher_sequence",
+          "description": "Three-panel fire extinguisher operation: pull pin, aim nozzle, squeeze lever."
+        },
+        {
+          "type": "evacuation_plan",
+          "description": "Warehouse plan with marked emergency exit, clear route, assembly point and no-elevator instruction."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 50,
+        "repo_images": [],
+        "supplementary_visuals": [
+          "created:emergency-response-flow.svg",
+          "created:fire-extinguisher-steps.svg",
+          "created:warehouse-evacuation-plan.svg"
+        ],
+        "mapping_basis": "Original source includes procedural text and a printed flow/table; visual teaching diagrams are recreated from those exact steps."
+      }
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": 51,
+      "source_ja": "第1編 物流倉庫の基本 付録：パレットの種類\nパレットとは、貨物を載せて運ぶための平らな台であり、フォークリフトの爪を差し込んで貨物をまとめて運べる。\n（１）平面サイズ：11型 1,100×1,100mm（標準的）、12型 1,200×1,000mm（冷蔵倉庫で多い）、14型 1,400×1,100mm（大型貨物向け）、9型 1,100×900mm（飲料用、Pパレともいう）。\nT11型は11型のうちJIS規格で定められた厚さ144mmのもの。TはThrough Transitの略。\n（２）高さ：フォークリフトの爪に合わせ144～150mmが標準。",
+      "romaji": "Dai ichi hen, butsuryuu souko no kihon, furoku: pallet no shurui. Pallet to wa nimotsu o nosete hakobu tame no hiratai dai desu. Forklift no tsume o sashikonde nimotsu o matomete hakobemasu. 11-gata wa 1,100 x 1,100 mm, 12-gata wa 1,200 x 1,000 mm, 14-gata wa 1,400 x 1,100 mm, 9-gata wa 1,100 x 900 mm desu. T11-gata wa JIS kikaku no atsusa 144 mm no pallet desu. Hyoujun no takasa wa 144 kara 150 mm desu.",
+      "en": "Part 1 appendix: pallet types. A pallet is a flat platform used to carry goods; forklift forks enter its openings so cargo can be moved as a unit. Common plan sizes in the source are: Type 11, 1,100 × 1,100 mm (widely used standard); Type 12, 1,200 × 1,000 mm (often used in refrigerated warehouses); Type 14, 1,400 × 1,100 mm (large cargo); Type 9, 1,100 × 900 mm (beverage pallet, also called P-pallet). T11 is a JIS-defined Type 11 pallet with a thickness of 144 mm; T stands for Through Transit. Standard pallet height is 144–150 mm to accommodate forklift forks.",
+      "si": "1 වන කොටස – ගබඩා මූලික කරුණු, අතිරේකය: පැලට් වර්ග. පැලට් යනු භාණ්ඩ තබා ප්‍රවාහනය කරන පැතලි වේදිකාවකි. Forklift එකේ forks පැලට් විවරයන්ට ඇතුළු කර භාණ්ඩ එක ඒකකයක් ලෙස ගෙන යා හැකිය. මූලාශ්‍රයේ දැක්වෙන ප්‍රධාන ප්‍රමාණ: Type 11 – 1,100 × 1,100 mm (බහුල සම්මතය); Type 12 – 1,200 × 1,000 mm (ශීත ගබඩා සඳහා බහුල); Type 14 – 1,400 × 1,100 mm (විශාල භාණ්ඩ); Type 9 – 1,100 × 900 mm (පානීය ද්‍රව්‍ය සඳහා, P-pallet). T11 යනු JIS සම්මතයට අයත්, 144 mm ඝනකම ඇති Type 11 පැලට් එකකි. T යනු Through Transit යන්නයි. Forklift forks ඇතුළු කිරීමට සාමාන්‍ය පැලට් උස 144–150 mm වේ.",
+      "visuals": [
+        {
+          "type": "dimension_comparison",
+          "description": "Four top-view pallet outlines labelled Type 11, Type 12, Type 14 and Type 9 with exact dimensions."
+        },
+        {
+          "type": "forklift_interface",
+          "description": "Side cross-section showing 144–150 mm pallet fork-entry clearance and 144 mm T11 thickness."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 51,
+        "repo_images": [
+          "public/images/57.jpg"
+        ],
+        "supplementary_visuals": [
+          "created:pallet-size-comparison.svg",
+          "created:t11-height-fork-entry.svg"
+        ],
+        "mapping_basis": "Repo image 57 is a plastic pallet/container-style item; use only as supplementary material photo, not as the dimension diagram. Exact size diagram is recreated from source dimensions."
+      }
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": 52,
+      "source_ja": "（３）材質：木材、プラスチック、鉄製、紙・段ボール製。（４）最大積載質量：標準は1t。積載質量は載せられる貨物の重量限界。（５）使用面：単面使用形は片面だけに載せ、両面使用形は両面に載せられる。（６）フォーク差し方向：二方差しと四方差しの２種類。二方差しは２方向からのみフォークを差し込める。",
+      "romaji": "(3) Zai-shitsu: mokuzai, plastic, tetsu, kami / cardboard. (4) Saidai sekisai shitsuryou: hyoujun wa 1 ton. Sekisai shitsuryou wa noseru koto ga dekiru nimotsu no omosa no genkai desu. (5) Shiyoumen: tanmen shiyou-gata wa katahou dake, ryoumen shiyou-gata wa ryomen ni noseraremasu. (6) Fork sashikomi houkou: nihou-sashi to shihou-sashi. Nihou-sashi wa futsuu no houkou kara dake fork o sashikomemasu.",
+      "en": "(3) Materials: wood, plastic, steel, and paper/corrugated cardboard. (4) Maximum load mass: the source gives 1 tonne as the standard; this is the maximum cargo weight the pallet may carry. (5) Usable faces: a single-face pallet carries goods on one side only; a double-face pallet can be used on either face. (6) Fork-entry direction: two-way-entry and four-way-entry pallets. A two-way-entry pallet accepts forklift forks from only two directions.",
+      "si": "(3) ද්‍රව්‍ය: ලී, ප්ලාස්ටික්, වානේ සහ කඩදාසි/කාඩ්බෝඩ්. (4) උපරිම පැටවුම් බර: මූලාශ්‍රයේ සම්මත අගය ටොන් 1කි. මෙය පැලට් එක මත තැබිය හැකි භාණ්ඩ බරේ සීමාවයි. (5) භාවිත කළ හැකි පැති: single-face වර්ගයේ එක් පැත්තක පමණක් භාණ්ඩ තබයි; double-face වර්ගයේ දෙපැත්තෙන්ම භාවිත කළ හැකිය. (6) Fork ඇතුළු කරන දිශාව අනුව two-way සහ four-way පැලට් ඇත. Two-way පැලට් එකකට දිශා දෙකකින් පමණක් forklift forks ඇතුළු කළ හැකිය.",
+      "visuals": [
+        {
+          "type": "comparison_diagram",
+          "description": "Pallet material comparison and single-face versus double-face cross-sections."
+        },
+        {
+          "type": "fork_entry_diagram",
+          "description": "Top-view arrows showing two-way-entry versus four-way-entry forklift access."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 52,
+        "repo_images": [
+          "public/images/57.jpg",
+          "public/images/60.jpg"
+        ],
+        "supplementary_visuals": [
+          "created:pallet-material-types.svg",
+          "created:single-double-face-pallet.svg",
+          "created:two-way-four-way-entry.svg"
+        ],
+        "mapping_basis": "Use repo pallet photo where it visually matches; create accurate explanatory diagrams for entry directions and face construction."
+      }
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": 53,
+      "source_ja": "四方差し：４方向すべてからフォークリフトの爪を差し込めるタイプ。どの方向からでもフォークリフトが入れるため作業しやすい。注意：パレットに貨物を載せるときは最大積載質量1tを超えない。超えるとパレットが壊れ事故につながる危険がある。",
+      "romaji": "Shihou-sashi: yon houkou subete kara forklift no tsume o sashikomeru type desu. Dono houkou kara demo forklift ga haireru tame sagyou shi-yasui desu. Chuui: pallet ni nimotsu o noseru toki wa saidai sekisai shitsuryou 1 ton o koenai you ni shimasu. Koeru to pallet ga koware jiko ni tsunagaru kiken ga arimasu.",
+      "en": "Four-way entry: forklift forks can enter from all four sides. This makes handling easier because the forklift can approach from any direction. Safety warning: do not exceed the source-stated maximum load mass of 1 tonne. Overloading can break the pallet and cause an accident.",
+      "si": "Four-way entry පැලට් එකකට පැති හතරෙන්ම forklift forks ඇතුළු කළ හැකිය. එම නිසා forklift එක ඕනෑම දිශාවකින් ළඟා විය හැකි අතර වැඩ පහසු වේ. ආරක්ෂක අවවාදය: මූලාශ්‍රයේ දක්වා ඇති උපරිම ටොන් 1 බර ඉක්මවා භාණ්ඩ නොපටවන්න. අධික බර නිසා පැලට් එක කැඩී අනතුරක් සිදුවිය හැකිය.",
+      "visuals": [
+        {
+          "type": "top_view_diagram",
+          "description": "Four-way-entry pallet with four directional fork-entry arrows."
+        },
+        {
+          "type": "load_limit_visual",
+          "description": "Pallet load-limit infographic: 1,000 kg maximum as stated by source, with overload breakage hazard."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 53,
+        "repo_images": [
+          "public/images/60.jpg"
+        ],
+        "supplementary_visuals": [
+          "created:four-way-entry-pallet.svg",
+          "created:pallet-one-tonne-load-limit.svg"
+        ],
+        "mapping_basis": "Repo stacking illustration is contextual only; create a dedicated four-way fork-entry and 1-tonne limit diagram."
+      }
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": 54,
+      "source_ja": "第2編 作業マニュアル Ⅰ. 作業に必要な知識 １. 作業時に身に着けるもの\n作業時は身体を守るための装備を着用する。作業着：ワークシャツ、ジャンパー、ワークパンツの３点セット。熱中症予防のファン付き作業服も使われる。安全ベスト：反射テープ付きで周囲から作業者の位置を見やすくする。安全帽（ヘルメット）：頭を守り、倉庫内では必ず着用。安全靴：先端の金属等で落下物から足先を守る。手袋：手と指を守るため作業中は着用。流通加工では衛生用の別手袋を使う場合がある。",
+      "romaji": "Dai ni hen, sagyou manual. Sagyouji ni mi ni tsukeru mono. Sagyougi wa work shirt, jumper, work pants no san-ten setto desu. Fan-tsuki fuku wa heatstroke o fusegimasu. Anzen vest wa hansha tape-tsuki de, sagyousha no ichi o wakari-yasuku shimasu. Anzenbou / helmet wa atama o mamori, souko de wa kanarazu chakuyou shimasu. Anzen-gutsu wa tsumasaki o mamorimasu. Tebukuro wa te to yubi o mamorimasu.",
+      "en": "Part 2: Work Manual. Essential personal protective equipment (PPE): workwear consists of a work shirt, jacket and work trousers; fan-equipped clothing may help prevent heat illness. A reflective safety vest makes the worker more visible. A safety helmet protects the head and must be worn inside the warehouse. Safety shoes have protective toe caps to guard against falling objects. Gloves protect hands and fingers and must be worn during work; food or distribution-processing tasks may require separate hygienic gloves.",
+      "si": "2 වන කොටස – වැඩ අත්පොත. වැඩ කරන විට ශරීරය ආරක්ෂා කිරීමට PPE පැළඳිය යුතුය. Workwear කට්ටලයට වැඩ කමිසය, ජැකට්/ජම්පරය සහ වැඩ කලිසම ඇතුළත් වේ. පංකා සවිකළ ඇඳුම් උෂ්ණත්ව ආබාධ වැළැක්වීමට උපකාරී විය හැකිය. Reflective safety vest එකෙන් අනෙක් අයට සේවකයාගේ පිහිටීම පැහැදිලි වේ. Helmet එක හිස ආරක්ෂා කරන අතර ගබඩාව තුළ අනිවාර්යයෙන් පැළඳිය යුතුය. Safety shoes හි ආරක්ෂිත toe cap එක වැටෙන භාණ්ඩවලින් පාදයේ ඇඟිලි ආරක්ෂා කරයි. Gloves අත් සහ ඇඟිලි ආරක්ෂා කරයි; ආහාර/භාණ්ඩ සැකසුම් කටයුතුවලදී සනීපාරක්ෂක අරමුණින් වෙනම අත්වැසුම් අවශ්‍ය විය හැකිය.",
+      "visuals": [
+        {
+          "type": "ppe_illustration",
+          "description": "Warehouse worker wearing workwear, reflective vest, helmet, safety shoes and gloves, each item labelled."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 54,
+        "repo_images": [
+          "public/images/47.jpg"
+        ],
+        "supplementary_visuals": [
+          "created:warehouse-ppe-labelled.svg"
+        ],
+        "mapping_basis": "Repo image 47 is a reflective safety vest and matches one PPE item; create a complete labelled PPE set for all five items."
+      }
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": 55,
+      "source_ja": "２. 帳票・ラベル\n帳票とは、仕事で使う帳簿・伝票などの記録用紙。\n（１）入庫関係帳票：入庫伝票。①寄託申込書：貨物を預ける申込みで、倉庫の約款に同意する内容。記載事項は貨物の種類・品名、個数・数量・単位、荷造りの種類、記号・規格・サイズ・形状。②入庫指図票：貨物到着時に使う書類または担当者への指示書。③貨物受領書：運送人に渡す受領証。④入庫通知書：寄託者に入庫を知らせる書類。\n（２）出庫関係帳票：①出庫伝票：出庫依頼に基づき倉庫側が作る伝票。",
+      "romaji": "2. Chouhyou / label. Chouhyou wa shigoto de tsukau choubo ya denpyou nado no kiroku youshi desu. Nyuko kankei: kitaku moushikomisho wa azukeru moushikomi to souko yakkan e no doui; nyuko sashizuhyou wa cargo arrival / staff instruction document; kamotsu juryousho wa carrier ni watasu receipt; nyuko tsuuchisho wa depositor ni arrival o shiraseru document. Shukko denpyou wa shukko irai ni motozuki souko ga tsukuru denpyou desu.",
+      "en": "2. Forms and labels. A form/document (chōhyō) is a record sheet such as a ledger or voucher used for work. Inbound documents: (1) Storage/deposit application, recording the depositor’s agreement to warehouse terms and details such as cargo type/name, count/quantity/unit, packing type, marks, specifications, dimensions and shape. (2) Inbound instruction sheet, used when cargo arrives or as instructions to warehouse staff. (3) Cargo receipt, given to the carrier as confirmation of receipt. (4) Inbound notice, informing the depositor that cargo has arrived. Outbound documents begin with the outbound voucher prepared by the warehouse in response to a release request.",
+      "si": "2. ලේඛන සහ ලේබල්. 帳票 (chōhyō) යනු වැඩ කටයුතු සඳහා භාවිත කරන ලෙජර්, වවුචර් සහ වාර්තා පත්‍ර වැනි ලේඛනයකි. ඇතුළත් කිරීමේ ලේඛන: (1) භාණ්ඩ භාරදීමේ අයදුම්පත – ගබඩා කොන්දේසි පිළිගැනීම සහ භාණ්ඩ වර්ගය/නම, ගණන, ප්‍රමාණය, ඒකකය, ඇසුරුම් වර්ගය, සලකුණු, ප්‍රමිතිය, ප්‍රමාණමාන සහ හැඩය සඳහන් කරයි. (2) Inbound instruction sheet – භාණ්ඩ පැමිණි විට හෝ සේවකයන්ට උපදෙස් දීමට භාවිත කරයි. (3) Cargo receipt – ප්‍රවාහකයාට භාරදෙන ලැබීම් තහවුරු කිරීමේ ලේඛනය. (4) Inbound notice – භාණ්ඩ ගබඩාවට ඇතුළු වූ බව භාරකරුට දන්වයි. Outbound voucher එක ගබඩාවෙන් භාණ්ඩ නිකුත් කරන ලෙස ලැබෙන ඉල්ලීම මත ගබඩාව විසින් සකස් කරයි.",
+      "visuals": [
+        {
+          "type": "document_flow",
+          "description": "Inbound document flow: depositor application → inbound instruction/inspection → cargo receipt → inbound arrival notice."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 55,
+        "repo_images": [],
+        "supplementary_visuals": [
+          "created:inbound-warehouse-documents-flow.svg"
+        ],
+        "mapping_basis": "No suitable photo required; create document workflow visual based on source-defined forms."
+      }
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": 56,
+      "source_ja": "ピッキングリストとは、注文された商品を倉庫内から探して集める作業を指示するリスト。\n②出庫指図書：倉庫担当者に指定貨物を出すよう指示する書類。③送り状：貨物を引き取る運送人に渡す書類。④出庫通知書：貨物を出庫したことを寄託者に知らせる書類。\n（３）ラベル：出庫ラベルには送り先住所と受取人名などを記載。入庫ラベルは入庫時の商品管理に貼り、管理番号・LOT番号・商品情報を記載。入庫番号・LOT番号は貨物グループ番号で、問題発生時の特定に役立つ。ラベラーで個々の商品に貼る場合もある。\nJANコード：会社と商品を識別する共通バーコード。本文は12桁と記載。海外ではGTINと呼ばれる。QRコードはより多くの情報を持てる二次元バーコード。QRはQuick Responseの略。",
+      "romaji": "Picking list wa chuumon sareta shouhin o souko kara sagashite atsumeru sagyou no shiji list desu. Shukko sashizusho wa shitei cargo o dasu shiji, okurijou wa carrier ni watasu document, shukko tsuuchisho wa depositor e no shuppin notice desu. Shukko label ni okurisaki juusho to uketorinin, nyuko label ni kanri bangou, LOT bangou, shouhin jouhou o kakimasu. JAN code wa kaisha to shouhin o shikibetsu suru barcode desu. QR code wa yori ooku no jouhou o motsu nijigen barcode de, Quick Response no ryakudesu.",
+      "en": "A picking list instructs workers to locate and collect ordered goods. (2) An outbound instruction tells warehouse staff which cargo to release. (3) A waybill is given to the carrier collecting the goods. (4) An outbound notice informs the depositor that goods have been dispatched. Labels: outbound labels show destination and recipient; inbound labels support stock control and show management/LOT numbers and product information. LOT numbers identify cargo groups and help trace problems. A labeller may apply individual labels. JAN barcode identifies company/product; the source states 12 digits and notes GTIN as the international name. A QR code is a two-dimensional barcode capable of holding more information; QR means Quick Response.",
+      "si": "Picking list එකෙන් ඇණවුම් කළ භාණ්ඩ ගබඩාවෙන් සොයා එකතු කළ යුතු ආකාරය සේවකයාට උපදෙස් දෙයි. (2) Outbound instruction එකෙන් නිකුත් කළ යුතු භාණ්ඩ සේවකයාට දන්වයි. (3) Waybill එක භාණ්ඩ රැගෙන යන ප්‍රවාහකයාට ලබාදෙන ලේඛනයකි. (4) Outbound notice එක භාණ්ඩ නිකුත් කළ බව භාණ්ඩ භාරකරුට දන්වයි. ලේබල්: outbound label එකේ ගමනාන්ත ලිපිනය සහ ලබන්නාගේ නම ඇත. Inbound label එක ගබඩාවට ඇතුළු කරන විට stock control සඳහා අලවයි; එහි management number, LOT number සහ භාණ්ඩ තොරතුරු ඇත. LOT number එක භාණ්ඩ කාණ්ඩය හඳුනාගෙන ගැටලුවක් ඇති විට trace කිරීමට උපකාරී වේ. JAN barcode එක සමාගම සහ භාණ්ඩය හඳුනාගනී; මූලාශ්‍රයේ එය ඉලක්කම් 12ක් ලෙස සඳහන් කරයි. QR code යනු වැඩි තොරතුරු ගබඩා කළ හැකි ද්විමාන barcode එකකි; QR යනු Quick Response යන්නයි.",
+      "visuals": [
+        {
+          "type": "label_examples",
+          "description": "Example inbound and outbound cargo labels with fictional sample data, destination, recipient, SKU and LOT field labels."
+        },
+        {
+          "type": "barcode_comparison",
+          "description": "Linear JAN barcode versus two-dimensional QR code, explaining source definitions."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 56,
+        "repo_images": [
+          "public/images/67.jpg"
+        ],
+        "supplementary_visuals": [
+          "created:inbound-outbound-label-examples.svg",
+          "created:jan-vs-qr-code.svg"
+        ],
+        "mapping_basis": "Repo image 67 is a label printer and supports label application; custom diagrams explain label fields and barcode types."
+      }
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": 57,
+      "source_ja": "③ RFID：Radio Frequency Identificationの略。電波を使い、タグから情報を読み取る技術。タグに触れずに読める（非接触）、多数のタグを一度にスキャンできる、離れた場所のタグも読める。ICチップを入れた電子タグを使う無線通信システム。\n（４）ケアマーク・GHSラベル：ケアマークは貨物の扱い方（壊れやすい、逆さにしない等）を示す。GHSラベルは危険成分など貨物の性状を示す。\n３. 単位（１）長さ：基本単位はメートル。1m、1cm=1/100m、1mm=1/1000m。換算：1m=100cm=1000mm、1cm=0.01m=10mm、1mm=0.001m=0.1cm。",
+      "romaji": "RFID wa Radio Frequency Identification no ryaku desu. Denpa o tsukatte tag kara jouhou o yomitoru gijutsu desu. Tag ni furenakute mo yomitoreru, takusan no tag o ichido ni scan dekiru, hanareta basho no tag mo yomitoreru. Care mark wa nimotsu no atsukai-kata o shimeshi, GHS label wa kiken seibun nado no seijou o shimeshimasu. Tani: nagasa no kihon wa metre. 1 metre = 100 centimetres = 1,000 millimetres.",
+      "en": "RFID (Radio Frequency Identification) uses radio waves to read information from tags. It is contactless, can scan many tags at once and can read tags from a distance. It uses electronic tags containing IC chips in a wireless communication system. Care marks show handling instructions (e.g. fragile, do not turn upside down). GHS labels describe hazardous properties/ingredients. Units: the basic length unit is the metre; 1 cm is 1/100 m and 1 mm is 1/1,000 m. Conversions: 1 m = 100 cm = 1,000 mm; 1 cm = 0.01 m = 10 mm; 1 mm = 0.001 m = 0.1 cm.",
+      "si": "RFID (Radio Frequency Identification) යනු රේඩියෝ තරංග භාවිත කර tag එකක තොරතුරු කියවන තාක්ෂණයයි. Tag එක ස්පර්ශ නොකර කියවිය හැකිය; එකවර tags බොහොමයක් scan කළ හැකිය; දුරින් ඇති tag ද කියවිය හැකිය. IC chip සහිත electronic tags භාවිත කරන wireless communication පද්ධතියකි. Care marks මඟින් භාණ්ඩ හසුරුවන ආකාරය (උදා: බිඳෙන සුළුය, උඩුයටිකුරු නොකරන්න) පෙන්වයි. GHS label මඟින් අනතුරුදායක ද්‍රව්‍ය හෝ භාණ්ඩයේ අවදානම් ගුණාංග පෙන්වයි. ඒකක: දිග මැනීමේ මූලික ඒකකය metre වේ. 1 cm = 1/100 m; 1 mm = 1/1000 m. 1 m = 100 cm = 1,000 mm; 1 cm = 0.01 m = 10 mm; 1 mm = 0.001 m = 0.1 cm.",
+      "visuals": [
+        {
+          "type": "technology_comparison",
+          "description": "RFID system: reader emits radio waves, tag with IC chip responds; contactless and multi-tag reading."
+        },
+        {
+          "type": "label_symbols",
+          "description": "Care-mark examples (fragile, keep dry, this side up) contrasted with GHS hazard pictogram category panel; use original standardized symbols."
+        },
+        {
+          "type": "unit_conversion_chart",
+          "description": "Metre-centimetre-millimetre conversion ladder and worked examples."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 57,
+        "repo_images": [
+          "public/images/68.jpg"
+        ],
+        "supplementary_visuals": [
+          "created:rfid-reader-tag-system.svg",
+          "created:care-marks-ghs-comparison.svg",
+          "created:length-unit-conversion.svg"
+        ],
+        "mapping_basis": "Repo image 68 is a tag gun, not an RFID reader; use only as an identification-tagging tool example and create a separate RFID system diagram."
+      }
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": 58,
+      "source_ja": "インチとフィート：1インチ=2.54cm、1フィート=30.48cm（12インチ）。日本で使われる長さ：1寸=3.03cm、1尺=30.3cm（10寸）、1間=1.82m（6尺）。\n（２）面積：縦×横=面積。1m×1m=1㎡。倉庫では坪も使い、1間×1間=約3.306㎡=1坪。畳2枚分が約1坪。\n（３）体積・容積：面積×高さ=体積。1m×1m×1m=1㎥。容積は容器の中に入る量。10cm×10cm×10cm=1dm³=1L。体積・容積の換算表：㎥、dm³、kL、L、dL、cL、mLの相互換算。",
+      "romaji": "Inch to feet: 1 inch wa 2.54 cm, 1 foot wa 30.48 cm (12 inches). Nihon no units: 1 sun = 3.03 cm, 1 shaku = 30.3 cm, 1 ken = 1.82 m. Menseki wa tate x yoko; 1 m x 1 m = 1 square metre. 1 ken x 1 ken = yaku 3.306 square metres = 1 tsubo. Taiseki wa menseki x takasa; 1 m x 1 m x 1 m = 1 cubic metre. 10 cm cube = 1 cubic decimetre = 1 litre.",
+      "en": "Length conversions: 1 inch = 2.54 cm; 1 foot = 30.48 cm (12 inches). Traditional Japanese units: 1 sun = 3.03 cm; 1 shaku = 30.3 cm (10 sun); 1 ken = 1.82 m (6 shaku). Area = length × width; 1 m × 1 m = 1 m². Warehouses may use tsubo: 1 ken × 1 ken ≈ 3.306 m² = 1 tsubo, approximately the area of two tatami mats. Volume = area × height; 1 m × 1 m × 1 m = 1 m³. Capacity is the amount a container holds. A 10 cm cube has a volume of 1 dm³ and capacity of 1 litre. The source provides a conversion table for m³, dm³, kL, L, dL, cL and mL.",
+      "si": "දිග ඒකක: අඟල් 1 = සෙ.මී. 2.54; අඩි 1 = සෙ.මී. 30.48 (අඟල් 12). ජපානයේ සම්ප්‍රදායික ඒකක: sun 1 = සෙ.මී. 3.03; shaku 1 = සෙ.මී. 30.3 (sun 10); ken 1 = මීටර් 1.82 (shaku 6). වර්ගඵලය = දිග × පළල; මීටර් 1 × මීටර් 1 = 1 m². ගබඩා ක්ෂේත්‍රයේ tsubo ඒකකයද භාවිත වේ: ken 1 × ken 1 ≈ 3.306 m² = 1 tsubo; මෙය tatami පැදුරු දෙකක පමණ වර්ගඵලයකි. පරිමාව = වර්ගඵලය × උස; මීටර් 1 × මීටර් 1 × මීටර් 1 = 1 m³. ධාරිතාව යනු භාජනයක් තුළ අඩංගු කළ හැකි ප්‍රමාණයයි. සෙ.මී. 10 × 10 × 10 ඝනකයක පරිමාව 1 dm³ වන අතර එහි ධාරිතාව ලීටර් 1කි. මූලාශ්‍රයේ m³, dm³, kL, L, dL, cL සහ mL අතර පරිවර්තන වගුවක් ඇත.",
+      "visuals": [
+        {
+          "type": "unit_conversion_infographic",
+          "description": "Length conversions including inch, foot, sun, shaku and ken."
+        },
+        {
+          "type": "area_volume_diagram",
+          "description": "Rectangle area and 3D cube volume illustrations with labelled dimensions; 1 m² and 1 m³."
+        },
+        {
+          "type": "capacity_cube",
+          "description": "10 cm × 10 cm × 10 cm cube = 1 dm³ = 1 litre."
+        },
+        {
+          "type": "conversion_table",
+          "description": "Readable metric volume/capacity conversion matrix for m³, dm³, kL, L, dL, cL and mL."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 58,
+        "repo_images": [],
+        "supplementary_visuals": [
+          "created:length-units-international-japanese.svg",
+          "created:area-volume-geometry.svg",
+          "created:one-litre-cube.svg",
+          "created:volume-capacity-conversion-table.svg"
+        ],
+        "mapping_basis": "Source page is primarily formulas and conversion tables; create accurate mathematical visuals directly from its printed values."
+      }
+    }
+  ],
+  "audit": {
+    "source_pages_read": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "page_count": 10,
+    "four_language_fields_present": true,
+    "visual_plan_per_page": true,
+    "source_visuals_reviewed": [
+      50,
+      51,
+      52,
+      57,
+      58
+    ],
+    "limitations": "This is a content-data draft assembled from extracted source text. Exact full-page visual comparison and rendered SVG asset creation still need to be completed before this batch can be called fully audited. Do not mark this batch COMPLETE yet.",
+    "status": "CONTENT_DRAFT_VISUAL_ASSET_BUILD_REQUIRED"
+  }
+}
