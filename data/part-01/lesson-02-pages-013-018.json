@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-01",
+  "lesson_id": "p01-l02",
+  "lesson_title": {
+    "ja": "倉庫に関係する設備・用語",
+    "furigana": "倉庫（そうこ）に関係（かんけい）する設備（せつび）・用語（ようご）",
+    "romaji": "Souko ni kankei suru setsubi / yougo",
+    "en": "Warehouse facilities and terminology",
+    "si": "ගබඩාවට අදාළ පහසුකම් සහ තාක්ෂණික පද"
+  },
+  "page_range": {
+    "pdf_pages": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "printed_pages": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 13,
+      "printed_page": 13,
+      "source_ja": "Ⅱ．倉庫（そうこ）に関係（かんけい）する設備（せつび）・用語（ようご）\n◆ この章（しょう）で学（まな）ぶこと：倉庫（そうこ）の中（なか）にある設備（せつび）や、仕事（しごと）で使（つか）う大切（たいせつ）な用語（ようご）を学（まな）びましょう。\n１．建物（たてもの）の中（なか）にある設備（せつび）と用語（ようご）\n（１）床（ゆか）に関係（かんけい）する設備（せつび）と用語（ようご）\n① 床耐荷重（ゆかたいかじゅう）：床（ゆか）の上（うえ）に置（お）くことができる重（おも）さの限界（げんかい）。倉庫（そうこ）の床（ゆか）には「何（なん）トンまで置（お）いてよい」という決（き）まりがあります。この重（おも）さは、１㎡（いちへいほうメートル：１メートル×１メートル）または１坪（ひとつぼ：約（やく）3.3㎡）あたりで表（あらわ）します。床耐荷重（ゆかたいかじゅう）より重（おも）いものを置（お）くと床（ゆか）が壊（こわ）れて危険（きけん）です。必（かなら）ず確認（かくにん）してください。\n② 防塵塗装（ぼうじんとそう）：床（ゆか）に特別（とくべつ）な塗料（とりょう）を塗（ぬ）る技術（ぎじゅつ）。防塵（ぼうじん）は「ほこりを防（ふせ）ぐ」、塗装（とそう）は「塗料（とりょう）を塗（ぬ）ること」です。運搬機器（うんぱんきき）が走（はし）る倉庫（そうこ）では、ほこりが出（で）やすくなります。この塗装（とそう）により、掃除（そうじ）がしやすい、貨物（かもつ）が汚（よご）れにくい、衛生的（えいせいてき）な環境（かんきょう）を保（たも）てるという利点（りてん）があります。\n③ プラットフォームとバース（トラックバース）：トラックに貨物（かもつ）を積（つ）んだり卸（お）ろしたりする場所（ばしょ）。バースは積（つ）み卸（お）ろしをするトラックを停（と）めておく場所（ばしょ）で、トラックバースとも呼（よ）びます。",
+      "romaji": "Souko ni kankei suru setsubi / yougo. Kono shou de wa souko no naka no setsubi to shigoto de tsukau taisetsu na yougo o manabimasu. Yuka taikajuu wa yuka ni oite mo ii omosa no genkai desu. 1 heihou meetoru wa 1 meetoru kakeru 1 meetoru, 1 tsubo wa yaku 3.3 heihou meetoru desu. Boujin tosou wa hokori o fusegu tame ni yuka ni tokubetsu na toryou o nuru koto desu. Puraattofoomu to baasu wa torakku ni kamotsu o tsumi-oroshi suru basho desu.",
+      "en": "This section introduces warehouse building facilities and important workplace terms. Floor load capacity is the maximum weight that may be placed on a floor, expressed per square metre or per tsubo (about 3.3 m²). Exceeding the rated capacity can damage the floor and create serious danger, so it must be checked. Dust-proof floor coating helps prevent dust and makes cleaning easier, keeps goods cleaner and supports hygienic conditions. A platform/truck berth is the place where trucks stop so goods can be loaded or unloaded.",
+      "si": "මෙම කොටසෙන් ගබඩා ගොඩනැගිල්ලේ ඇති පහසුකම් සහ රැකියාවේදී භාවිත කරන වැදගත් පද හඳුන්වා දෙයි. බිම් දරාගැනීමේ උපරිම බර (床耐荷重) යනු බිම මත තැබිය හැකි උපරිම බරයි. එය වර්ග මීටරයකට හෝ ත්සුබෝ එකකට (ආසන්න වශයෙන් වර්ග මීටර් 3.3) දක්වයි. එම සීමාව ඉක්මවා බර තැබීමෙන් බිම කැඩී අනතුරු ඇති විය හැකි බැවින් අනිවාර්යයෙන් පරීක්ෂා කළ යුතුය. දූවිලි වැළැක්වීමේ බිම් ආලේපනයෙන් දූවිලි අඩු කර පිරිසිදු කිරීම පහසු කරයි, භාණ්ඩ අපිරිසිදු වීම අඩු කරයි සහ සෞඛ්‍යාරක්ෂිත පරිසරයක් පවත්වා ගැනීමට උපකාරී වේ. ප්ලැට්ෆෝම්/ට්‍රක් බර්ත් යනු ට්‍රක් රථවලට භාණ්ඩ පැටවීමට හෝ බෑමට නවත්වන ස්ථානයයි.",
+      "source_image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "asset_path": null
+      }
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": 14,
+      "source_ja": "④ ドックレベラー：倉庫（そうこ）のプラットホームの床（ゆか）と、トラックや海上（かいじょう）コンテナの床（ゆか）の高（たか）さが違（ちが）うとき、その差（さ）をなくす装置（そうち）です。貨物（かもつ）をスムーズに出（だ）し入（い）れできます。\n（２）壁（かべ）に関係（かんけい）する設備（せつび）と用語（ようご）\n① 荷摺（にず）り：倉庫（そうこ）の内側（うちがわ）の壁（かべ）に取（と）り付（つ）ける厚（あつ）い板（いた）や棒（ぼう）。貨物（かもつ）が崩（くず）れて壁（かべ）にぶつかっても、壁（かべ）が壊（こわ）れないように守（まも）ります。\n② シャッター：細長（ほそなが）い板（いた）をつなげて作（つく）り、開閉（かいへい）するもの。出入口（でいりぐち）や、火事（かじ）のときに火（ひ）が広（ひろ）がるのを防（ふせ）ぐ防火（ぼうか）シャッターとして使（つか）います。防火（ぼうか）シャッターは区域（くいき）ごとに設置（せっち）することが法律（ほうりつ）で決（き）まっています。\n③ ドックシェルター：トラックやコンテナが倉庫（そうこ）・プラットホームに着（つ）けたとき、荷台（にだい）との隙間（すきま）を埋（う）める装置（そうち）。外（そと）の風（かぜ）、雨（あめ）、虫（むし）などの侵入（しんにゅう）を防（ふせ）ぎます。\n（３）天井（てんじょう）に関係（かんけい）する設備（せつび）と用語（ようご）\n① 梁（はり）：柱（はしら）とともに天井（てんじょう）を支（ささ）える横方向（よこほうこう）の構造物（こうぞうぶつ）。倉庫（そうこ）でいう天井高（てんじょうだか）は梁（はり）の下（した）から床（ゆか）までの高（たか）さです。\n② 吊（つ）り天井（てんじょう）：天井（てんじょう）の裏（うら）からボルトなどで枠組（わくぐ）みを吊（つ）り下（さ）げ、その表面（ひょうめん）に板（いた）を取（と）り付（つ）けた天井（てんじょう）。倉庫（そうこ）の中（なか）に事務所（じむしょ）を作（つく）るときなどに使（つか）います。",
+      "romaji": "Dokku reberaa wa souko no puraattofoomu to torakku ya kaijou kontena no yuka no takasa no sa o nakusu souchi desu. Nizuri wa souko no kabe no uchigawa ni tsukeru atsui ita ya bou de, kamotsu ga kuzureta toki ni kabe o mamorimasu. Shattaa wa aketari shimettari suru mono de, bouka shattaa wa kaji no hirogari o fusegimasu. Dokku sherutaa wa torakku no nidai to souko no sukima o umete, kaze, ame, mushi no shinnyuu o fusegimasu. Hari wa tenjou o sasaeru yokohoukou no kouzoubutsu desu. Tsuritenjou wa bolt nado de waku o tsurishita tenjou desu.",
+      "en": "A dock leveller bridges the height difference between the warehouse platform and the floor of a truck or shipping container, allowing goods to move smoothly. Wall-related facilities include wall-protection boards/bars (nizuri), which protect the wall if goods collapse against it; shutters, including legally required fire shutters that help stop fire spreading between areas; and dock shelters, which close the gap around a truck body to keep out wind, rain and insects. Ceiling-related terms include a beam (the horizontal structural member supporting the ceiling; warehouse clear height is measured from the underside of the beam to the floor) and a suspended ceiling made by hanging a frame from the ceiling structure and attaching panels.",
+      "si": "ඩොක් ලෙවලර් යනු ගබඩා වේදිකාවේ බිම සහ ට්‍රක් රථයේ හෝ මුහුදු කන්ටේනරයේ බිම අතර උස වෙනස පියවන උපකරණයකි. එමඟින් භාණ්ඩ පහසුවෙන් ඇතුළට/පිටතට ගෙන යා හැකිය. බිත්ති සම්බන්ධ පහසුකම් අතර භාණ්ඩ කඩා වැටී බිත්තියේ වැදුණත් බිත්තිය ආරක්ෂා කරන ඝන පුවරු/දඬු (荷摺り), ගිනි පැතිරීම වැළැක්වීමට භාවිත කරන ගිනි ආරක්ෂක ෂටර් සහ ට්‍රක් රථයේ භාණ්ඩ තට්ටුව වටා ඇති හිඩැස් වසා සුළඟ, වැසි සහ කෘමීන් ඇතුළුවීම වළක්වන ඩොක් ෂෙල්ටර් ඇතුළත් වේ. සිවිලිම සම්බන්ධයෙන් 梁 (බීම්) යනු සිවිලිමට ආධාර කරන තිරස් ව්‍යුහාත්මක කොටසයි. ගබඩාවේ සිවිලිමේ උස මනිනු ලබන්නේ බීම් එකේ පහළ සිට බිම දක්වාය. Suspended ceiling යනු බෝල්ට් ආධාරයෙන් රාමුවක් එල්ලා එයට පුවරු සවි කළ සිවිලිමකි.",
+      "source_image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "asset_path": null
+      }
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": 15,
+      "source_ja": "③ メザニン＜中二階（ちゅうにかい）＞：倉庫（そうこ）の中（なか）に作（つく）る組（く）み立（た）て式（しき）の中二階（ちゅうにかい）の棚（たな）。天井（てんじょう）と床（ゆか）の間（あいだ）にもう一段（いちだん）の空間（くうかん）を作（つく）り、保管場所（ほかんばしょ）を増（ふ）やします。\n（４）消防用（しょうぼうよう）の設備（せつび）と用語（ようご）：火事（かじ）のときに使（つか）う設備（せつび）。場所（ばしょ）と使（つか）い方（かた）を覚（おぼ）えてください。\n① 消火器（しょうかき）：火事（かじ）の初期（しょき）に使（つか）い、小（ちい）さな火（ひ）を消（け）す機器（きき）。\n② 消火栓（しょうかせん）：内部（ないぶ）のホースから水（みず）を出（だ）して火（ひ）を消（け）します。\n③ スプリンクラー：天井（てんじょう）に取（と）り付（つ）けた自動消火装置（じどうしょうかそうち）。火事（かじ）の熱（ねつ）や煙（けむり）をセンサーが感知（かんち）すると、自動的（じどうてき）に水（みず）が出（で）ます。大（おお）きな倉庫（そうこ）や自動倉庫（じどうそうこ）には設置（せっち）が法律（ほうりつ）で定（さだ）められています。\n④ 火災報知設備（かさいほうちせつび）：熱（ねつ）や煙（けむり）を感知（かんち）して非常（ひじょう）ベルを鳴（な）らす装置（そうち）。ベルが鳴（な）ったら安全（あんぜん）な場所（ばしょ）へ避難（ひなん）してください。\n（５）貨物（かもつ）を保管（ほかん）する設備（せつび）と用語（ようご）\n① 棚（たな）・ラック：貨物（かもつ）を段（だん）に重（かさ）ねて保管（ほかん）する棚（たな）。固定（こてい）ラックは床（ゆか）に固定（こてい）され動（うご）きません。パレット上（じょう）の貨物（かもつ）を保管（ほかん）します。",
+      "romaji": "Mezanin (chuunikai) wa souko no naka ni tsukuru kumitate-shiki no chuunikai no tana desu. Hokan basho o fueru tame ni tenjou to yuka no aida ni mou ichidan no kuukan o tsukurimasu. Shoubou you setsubi ni wa shoukaki, shousasen, supurinkuraa, kasai houchi setsubi ga arimasu. Shoukaki wa shoki no chiisana hi o kesu dougu; shousasen wa hoosu kara mizu o dasu setsubi; supurinkuraa wa netsu ya kemuri o k感知 shite jidouteki ni mizu o dasu; kasai houchi setsubi wa hijou beru o narasu souchi desu. Kotei rack wa yuka ni kotei sareta ugokanai tana desu.",
+      "en": "A mezzanine is an assembled intermediate storage level inside a warehouse, adding usable storage space between the floor and ceiling. Fire-protection equipment includes: a fire extinguisher for putting out a small fire at its early stage; a fire hydrant with a hose that supplies water; an automatic sprinkler activated when sensors detect heat or smoke (the source notes legal installation requirements for large and automated warehouses); and a fire alarm system that detects heat or smoke and sounds an emergency bell. When the bell sounds, evacuate to a safe place. A rack is shelving used to store goods in tiers; a fixed rack is secured to the floor and does not move.",
+      "si": "මෙසානින් යනු ගබඩාවක් ඇතුළත එකලස් කර සකස් කරන අතරමැදි මහලක්/ගබඩා තට්ටුවකි. එමඟින් බිම සහ සිවිලිම අතර අමතර ගබඩා ඉඩක් ලැබේ. ගිනි ආරක්ෂක උපකරණවලට ආරම්භක කුඩා ගින්නක් නිවීමට භාවිත කරන ගිනි නිවන උපකරණය, හෝස් එකකින් ජලය ලබාදෙන ගිනි නිවන හයිඩ්‍රන්ට් එක, තාපය හෝ දුම හඳුනාගත් විට ස්වයංක්‍රීයව ජලය නිකුත් කරන ස්ප්‍රින්ක්ලර් පද්ධතිය සහ හදිසි අනතුරු ඇඟවීමේ සීනුව නිකුත් කරන ගිනි අනතුරු ඇඟවීමේ පද්ධතිය ඇතුළත් වේ. සීනුව නාද වුවහොත් ආරක්ෂිත ස්ථානයකට ඉවත් විය යුතුය. Rack යනු භාණ්ඩ තට්ටු වශයෙන් තබන රාක්කයකි. Fixed rack එක බිමට සවි කර ඇති නිසා චලනය නොවේ.",
+      "source_image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "asset_path": null
+      }
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": 16,
+      "source_ja": "固定（こてい）ラックの利点（りてん）：空間（くうかん）を有効（ゆうこう）に使（つか）える、荷役作業（にやくさぎょう）が楽（らく）になる。３段（さんだん）ラックでも天井（てんじょう）まで余裕（よゆう）があれば最上段（さいじょうだん）にパレットを置（お）き、合計（ごうけい）４段（よんだん）で保管（ほかん）できます。\n移動（いどう）ラック：床（ゆか）の上（うえ）を動（うご）かせる棚（たな）。保管中（ほかんちゅう）は棚（たな）同士（どうし）を寄（よ）せて水平方向（すいへいほうこう）の空間（くうかん）を有効利用（ゆうこうりよう）できます。\n② ネステナー（ネスティングラック・テナー）とパレットサポーター：使（つか）わないときは重（かさ）ねて収納（しゅうのう）し、使用時（しようじ）に組（く）み立（た）てる棚（たな）。貨物量（かもつりょう）に合（あ）わせてスペースを調整（ちょうせい）できます。\n正（せい）ネス：貨物（かもつ）を置（お）く格子状（こうしじょう）の面（めん）が下段（かだん）にある型（かた）。貨物（かもつ）を載（の）せたままフォークリフトで移動（いどう）・積（つ）み重（かさ）ねができ、レイアウト変更（へんこう）の多（おお）い現場（げんば）に向（む）きます。パレットトップを付（つ）けるとさらに積（つ）み重（かさ）ねできます。\n逆（ぎゃく）ネス：格子状（こうしじょう）の面（めん）が上段（じょうだん）にある型（かた）。１台（いちだい）で２段積（にだんづ）みでき、パレットトップなしでも保管効率（ほかんこうりつ）がよい。１段目（いちだんめ）のパレットは地面（じめん）に直接（ちょくせつ）置（お）き、ハンドリフトで出（だ）し入（い）れできます。ただしネステナーごと移動（いどう）できません。\nパレットサポーター：ラック上（じょう）に設置（せっち）しパレットを支（ささ）える補助部材（ほじょぶざい）。パレット間（かん）を支（ささ）え落下（らっか）を防（ふせ）ぐ、サイズが合（あ）わなくても安全（あんぜん）に保管（ほかん）する、荷重（かじゅう）を均等（きんとう）に分散（ぶんさん）しラック負担（ふたん）を減（へ）らす。木製（もくせい）・プラスチック製（せい）パレットにも使用（しよう）できます。",
+      "romaji": "Idou rack wa yuka no ue o ugokaseru tana desu. Nestener wa tsukawanai toki ni kasanete shuunou shi, tsukau toki ni kumitateru tana desu. Seinesu wa kamotsu o oku men ga kadan ni aru type; gyakunessu wa jou dan ni aru type desu. Pallet supporter wa rack no ue ni secchi shite pallet o sasaeru hojo buzai desu.",
+      "en": "A fixed rack can use vertical space efficiently and make handling easier; if there is sufficient ceiling clearance, a three-tier rack may allow a pallet on top, creating four storage levels. A mobile rack moves along the floor and can be compacted by bringing racks together when goods are stored. Nesting racks can be stacked compactly when unused and assembled when needed. The source distinguishes 正ネス (the load-supporting grid is at the lower level), which can be moved/stacked with goods using a forklift and suits frequently changed layouts, and 逆ネス (the grid is at the upper level), which allows two-level stacking per unit and good storage efficiency but cannot be moved as a complete nestainer. A pallet supporter is an auxiliary member installed on a rack to support pallets, prevent falling, accommodate different pallet sizes and distribute loads more evenly.",
+      "si": "Fixed rack එකෙන් ඉඩ කාර්යක්ෂමව භාවිත කළ හැකි අතර භාණ්ඩ හැසිරවීම පහසු වේ. සිවිලිමට ප්‍රමාණවත් ඉඩ තිබේ නම් තට්ටු තුනේ රාක්කයක ඉහළින් තවත් pallet එකක් තබා තට්ටු හතරක් ලෙස ගබඩා කළ හැකිය. Mobile rack එක බිම මත ගෙන යා හැකි අතර ගබඩා කිරීමේදී රාක්ක එකිනෙකට ළං කර තිරස් ඉඩ ඉතිරි කරයි. Nestainer භාවිත නොකරන විට එක මත එක තබා කුඩාවට ගබඩා කර, භාවිතයේදී එකලස් කරයි. 正ネス වර්ගයේ භාණ්ඩ තබන grid එක පහළ කොටසේ ඇති අතර භාණ්ඩ සහිතව forklift මඟින් ගෙන යාමට/ගොඩගැසීමට හැකිය. 逆ネス වර්ගයේ grid එක ඉහළ කොටසේ ඇති අතර එක් ඒකකයකින් තට්ටු දෙකක් ගොඩගැසිය හැකි නමුත් සම්පූර්ණ nestainer එක ගෙන යා නොහැක. Pallet supporter යනු rack එක මත සවි කර pallet වලට ආධාර දෙන අමතර කොටසකි. එය pallet වැටීම වැළැක්වීමට, වෙනස් ප්‍රමාණවල pallet ආරක්ෂිතව තැබීමට සහ බර සමව බෙදා rack එකට ඇති පීඩනය අඩු කිරීමට උපකාරී වේ.",
+      "source_image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "asset_path": null
+      }
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": 17,
+      "source_ja": "③ 自動倉庫（じどうそうこ）システム：コンピューターと機械（きかい）で貨物（かもつ）の入庫（にゅうこ）・出庫（しゅっこ）・保管（ほかん）を自動管理（じどうかんり）するシステム。「スタッカークレーン」が自動（じどう）で貨物（かもつ）を動（うご）かします。利点（りてん）：作業（さぎょう）が速（はや）くなり、人手（ひとで）が少（すく）なくてすみます。\n（６）その他（た）の設備（せつび）と用語（ようご）\n① 監視（かんし）カメラ：倉庫内（そうこない）を記録（きろく）するカメラ。盗難防止（とうなんぼうし）のほか、作業（さぎょう）が正（ただ）しく行（おこな）われているか、無駄（むだ）がないかの確認（かくにん）にも使（つか）います。\n② 誘導灯（ゆうどうとう）：災害（さいがい）や停電（ていでん）のとき、出口（でぐち）の場所（ばしょ）を示（しめ）す照明（しょうめい）。緊急時（きんきゅうじ）は光（ひかり）に従（したが）って安全（あんぜん）に避難（ひなん）します。緑色（みどりいろ）のEXITマークが目印（めじるし）です。\n③ ねずみ返（がえ）し：ねずみが倉庫（そうこ）に入（はい）らないようにする板状（いたじょう）の設備（せつび）。\n④ トラップ（防虫殺虫灯（ぼうちゅうさっちゅうとう）など）：虫（むし）が入（はい）る場所（ばしょ）に設置（せっち）し、虫（むし）を捕（つか）まえる設備（せつび）。",
+      "romaji": "Jidou souko system wa computer to kikai de nyuuko, shukko, hokan o jidou kanri shimasu. Stacker crane ga jidou de kamotsu o ugokashimasu. Kanshi camera wa boushi ya sagyou kakunin ni tsukaimasu. Yuudoutou wa saigai ya teiden no toki ni deguchi o shimesu shoumei desu. Nezumi gaeshi wa nezumi no shinnyuu o fusegu setsubi desu. Torappu wa mushi o tsukamaeru setsubi desu.",
+      "en": "An automated warehouse system uses computers and machinery to control receiving, dispatch and storage automatically. A stacker crane moves goods automatically. Benefits include faster work and reduced labour. Other facilities include surveillance cameras for theft prevention and checking work quality/inefficiency; illuminated exit guidance signs used during disasters or power failures (the green EXIT sign is the visual cue); rodent barriers that prevent rats from entering; and insect traps/light traps installed where insects may enter.",
+      "si": "ස්වයංක්‍රීය ගබඩා පද්ධතියක් පරිගණක සහ යන්ත්‍ර භාවිතයෙන් භාණ්ඩ ඇතුළත් කිරීම, පිටත් කිරීම සහ ගබඩා කිරීම ස්වයංක්‍රීයව පාලනය කරයි. Stacker crane යන්ත්‍රය භාණ්ඩ ස්වයංක්‍රීයව ගෙන යයි. මෙහි වාසි වන්නේ වැඩ වේගවත් වීම සහ අවශ්‍ය මිනිස් ශ්‍රමය අඩු වීමයි. වෙනත් පහසුකම් ලෙස සොරකම් වැළැක්වීමට සහ වැඩ නිවැරදිව සිදුවේද/අපතේ යාමක් තිබේද පරීක්ෂා කිරීමට CCTV කැමරා, ආපදා හෝ විදුලිය විසන්ධි වූ විට පිටවීම පෙන්වන හරිත EXIT මාර්ගෝපදේශක ආලෝක, මීයන් ඇතුළුවීම වළක්වන පුවරු සහ කෘමීන් අල්ලා ගැනීමට යොදන උගුල්/කෘමිනාශක ආලෝක ඇතුළත් වේ.",
+      "source_image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "asset_path": null
+      }
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": 18,
+      "source_ja": "⑤ 免震装置（めんしんそうち）：建物（たてもの）の地下（ちか）に設置（せっち）され、強化（きょうか）ゴムで建物（たてもの）を支（ささ）えます。地震（じしん）の揺（ゆ）れを減（へ）らし、保管（ほかん）している貨物（かもつ）が棚（たな）から落（お）ちるのを防（ふせ）ぎます。\n■ この章（しょう）のまとめ：床耐荷重（ゆかたいかじゅう）＝床（ゆか）に置（お）ける重（おも）さの限界（げんかい）；防塵塗装（ぼうじんとそう）＝ほこりを防（ふせ）ぐ床（ゆか）の塗料（とりょう）；ドックレベラー＝床（ゆか）の高（たか）さの差（さ）をなくす装置（そうち）；防火（ぼうか）シャッター＝火（ひ）の広（ひろ）がりを防（ふせ）ぐシャッター；スプリンクラー＝自動（じどう）で水（みず）を出（だ）す消火装置（しょうかそうち）；固定（こてい）ラック＝動（うご）かない棚（たな）；移動（いどう）ラック＝動（うご）かせる棚（たな）；免震装置（めんしんそうち）＝地震（じしん）の揺（ゆ）れを減（へ）らす装置（そうち）。",
+      "romaji": "Menshin souchi wa tatemono no chika ni secchi sare, kyouka gomu de tatemono o sasaemasu. Jishin no yure o herashi, hokan shite iru kamotsu ga tana kara ochiru no o fusegimasu. Kono shou no yougo: yuka taikajuu, boujin tosou, dokku reberaa, bouka shattaa, supurinkuraa, kotei rack, idou rack, menshin souchi.",
+      "en": "A seismic-isolation device is installed below a building and supports it with reinforced rubber. It reduces shaking during an earthquake and helps prevent stored goods from falling off racks. The page summary reviews: floor load capacity; dust-proof coating; dock leveller; fire shutter; sprinkler; fixed rack; mobile rack; and seismic-isolation device.",
+      "si": "භූකම්පන හුදකලා කිරීමේ උපකරණය ගොඩනැගිල්ලේ භූගත කොටසේ සවි කර ශක්තිමත් රබර් ආධාරයෙන් ගොඩනැගිල්ලට සහාය දෙයි. භූමිකම්පාවකදී ගොඩනැගිල්ලේ කම්පනය අඩු කර ගබඩා කර ඇති භාණ්ඩ රාක්කවලින් වැටීම වැළැක්වීමට උපකාරී වේ. මෙම පරිච්ඡේදයේ සාරාංශ පද: බිම් දරාගැනීමේ උපරිම බර, දූවිලි වැළැක්වීමේ බිම් ආලේපනය, ඩොක් ලෙවලර්, ගිනි ආරක්ෂක ෂටර්, ස්ප්‍රින්ක්ලර්, ස්ථාවර රාක්කය, චලනය කළ හැකි රාක්කය සහ භූකම්පන හුදකලා උපකරණය.",
+      "source_image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "asset_path": null
+      }
+    }
+  ],
+  "audit": {
+    "pages_included": 6,
+    "page_coverage": "printed pages 13–18 included in this batch",
+    "source_text_method": "Reconstructed from extracted original PDF page text. This JSON uses a normalized transcription of the source content; verify exact line-by-line wording and all diagrams against page images before marking source fidelity complete.",
+    "translation_status": "Draft translations present in Japanese/Romaji/English/Sinhala fields. Human review still required for exact technical nuance and Romaji quality.",
+    "image_mapping_status": "PENDING_VISUAL_MATCH",
+    "overall_status": "DRAFT_NOT_FINAL"
+  }
+}
