@@ -1,4 +1,4 @@
-const CACHE="mykuraflow-shell-v9";
+const CACHE="mykuraflow-shell-v10";
 const SOURCES=[
 "data/front-matter-pages-001-008.json",
 "data/part-01/lesson-01-pages-009-012.json",
