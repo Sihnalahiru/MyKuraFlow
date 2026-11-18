@@ -84,6 +84,13 @@
       "pages": "13–18",
       "status": "DRAFT_TRANSLATED_NOT_FINAL",
       "commit": "4ebfd2a1b2bd47272798f89eef953dbcbc9a141c"
+    },
+    {
+      "file": "data/part-01/lesson-03-pages-019-028.json",
+      "part": "part-01",
+      "pages": "19–28",
+      "status": "DRAFT_BULK_BATCH_VISUAL_PARTIAL",
+      "commit": "6fa6040943e484b7a84ae7a585be5aeaa1328d4a"
     }
   ],
   "completeness_rules": [
@@ -94,5 +101,11 @@
     "Map images only after visual comparison with the original PDF page.",
     "A part is complete only after source-page coverage and translation audit pass."
   ],
-  "current_status": "IN_PROGRESS_NOT_COMPLETE"
+  "current_status": "IN_PROGRESS_NOT_COMPLETE",
+  "audit_notes": [
+    "Batch pages 19-28 added with Japanese, Romaji, English, Sinhala, source-page visual descriptions and image mapping status.",
+    "Original PDF page renders visually inspected for pages 19-21 and 23-28; page 22 image unavailable in Files render and remains pending.",
+    "ZIP image asset filenames have not yet been retrieved; exact ZIP filename mapping remains pending.",
+    "No full-book completion claim is valid until every physical page, source image, table, diagram, and translation is reconciled."
+  ]
 }
