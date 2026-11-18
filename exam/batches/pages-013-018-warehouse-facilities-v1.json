@@ -1,0 +1,50 @@
+{
+  "batchId": "pages-013-018-warehouse-facilities-v1",
+  "sourceFile": "data/part-01/lesson-02-pages-013-018.json",
+  "sourcePdfPages": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "sourceAnchors": [
+    "p13-s1",
+    "p14-s1",
+    "p14-s2",
+    "p15-s1",
+    "p16-s1",
+    "p17-s1",
+    "p18-s1"
+  ],
+  "questionIds": [
+    "MKF-WR-0026",
+    "MKF-WR-0027",
+    "MKF-WR-0028",
+    "MKF-WR-0029",
+    "MKF-WR-0030",
+    "MKF-WR-0031",
+    "MKF-WR-0032",
+    "MKF-WR-0033",
+    "MKF-WR-0034",
+    "MKF-WR-0035",
+    "MKF-WR-0036",
+    "MKF-WR-0037",
+    "MKF-WR-0038",
+    "MKF-WR-0039",
+    "MKF-WR-0040",
+    "MKF-WR-0041",
+    "MKF-WR-0042",
+    "MKF-WR-0043",
+    "MKF-WR-0044"
+  ],
+  "count": 19,
+  "types": {
+    "written_true_false": 19,
+    "practical_mcq": 0
+  },
+  "reviewStatus": "DRAFT",
+  "visualRequirement": "Practical visual questions are deferred until matching Study Mode assets are visually rechecked against the original PDF pages.",
+  "releaseEligible": false
+}
