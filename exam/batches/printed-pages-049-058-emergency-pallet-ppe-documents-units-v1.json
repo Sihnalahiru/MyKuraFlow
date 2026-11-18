@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "printed-pages-049-058-emergency-pallet-ppe-documents-units-v1",
+  "status": "DRAFT_SOURCE_GROUNDED_TEXT_ONLY",
+  "sourceFile": "data/part-01/lesson-05-pages-049-058.json",
+  "sourcePdf": "specified_skilled_worker_textbook_202607(2).pdf",
+  "printedPages": [
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58
+  ],
+  "physicalPdfPages": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "questionIds": [
+    "MKF-WR-0122",
+    "MKF-WR-0123",
+    "MKF-WR-0124",
+    "MKF-WR-0125",
+    "MKF-WR-0126",
+    "MKF-WR-0127",
+    "MKF-WR-0128",
+    "MKF-WR-0129",
+    "MKF-WR-0130",
+    "MKF-WR-0131",
+    "MKF-WR-0132",
+    "MKF-WR-0133",
+    "MKF-WR-0134",
+    "MKF-WR-0135",
+    "MKF-WR-0136",
+    "MKF-WR-0137",
+    "MKF-WR-0138",
+    "MKF-WR-0139",
+    "MKF-WR-0140",
+    "MKF-WR-0141",
+    "MKF-WR-0142",
+    "MKF-WR-0143",
+    "MKF-WR-0144",
+    "MKF-WR-0145",
+    "MKF-WR-0146",
+    "MKF-WR-0147",
+    "MKF-WR-0148",
+    "MKF-WR-0149",
+    "MKF-WR-0150",
+    "MKF-WR-0151",
+    "MKF-WR-0152",
+    "MKF-WR-0153"
+  ],
+  "questionCount": 32,
+  "examType": "written_true_false",
+  "section": "warehouse_fundamentals",
+  "coverage": [
+    {
+      "page": 49,
+      "topics": [
+        "fire prevention",
+        "forklift battery charging gas hazard",
+        "fire equipment access",
+        "flood hazard maps"
+      ]
+    },
+    {
+      "page": 50,
+      "topics": [
+        "clear emergency exits",
+        "earthquake response",
+        "fire response and extinguisher sequence",
+        "refrigerated warehouse power outage"
+      ]
+    },
+    {
+      "page": 51,
+      "topics": [
+        "pallet definition",
+        "pallet plan dimensions",
+        "T11 JIS thickness"
+      ]
+    },
+    {
+      "page": 52,
+      "topics": [
+        "pallet materials",
+        "maximum load mass",
+        "single-face pallets",
+        "two-way entry"
+      ]
+    },
+    {
+      "page": 53,
+      "topics": [
+        "four-way entry",
+        "pallet overload prevention"
+      ]
+    },
+    {
+      "page": 54,
+      "topics": [
+        "warehouse PPE",
+        "helmet",
+        "safety shoes",
+        "reflective vest"
+      ]
+    },
+    {
+      "page": 55,
+      "topics": [
+        "deposit application",
+        "cargo receipt",
+        "inbound documents"
+      ]
+    },
+    {
+      "page": 56,
+      "topics": [
+        "picking list",
+        "outbound instruction",
+        "labels and barcodes"
+      ]
+    },
+    {
+      "page": 57,
+      "topics": [
+        "RFID",
+        "care marks",
+        "length conversion"
+      ]
+    },
+    {
+      "page": 58,
+      "topics": [
+        "inch conversion",
+        "area calculation",
+        "volume and capacity"
+      ]
+    }
+  ],
+  "visualQuestionsAdded": 0,
+  "imagePolicy": "No practical image questions added. Existing Study Mode images/assets and generated visual assets were not changed, duplicated, or remapped. Visual questions require verified reuse of matching existing assets.",
+  "examLanguagePolicy": "Japanese question and answer content with furigana only during an exam attempt. English, Sinhala and Romaji remain hidden during both question and answer display; multilingual explanations are reserved for post-attempt review. Existing exam presentation policy was not modified.",
+  "reviewGate": "All added questions remain DRAFT pending Japanese-language and source accuracy review.",
+  "appImpact": "No existing app UI, navigation, Study Mode, source JSON, image assets, authentication, user progress/history, legacy quick quiz or XP formula changed."
+}
