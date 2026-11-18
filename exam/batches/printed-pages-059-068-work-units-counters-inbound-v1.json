@@ -1,0 +1,161 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "printed-pages-059-068-work-units-counters-inbound-v1",
+  "status": "DRAFT_SOURCE_GROUNDED_TEXT_ONLY",
+  "sourceFile": "data/part-02/lesson-01-pages-059-068.json",
+  "sourcePdf": "specified_skilled_worker_textbook_202607(2).pdf",
+  "printedPages": [
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68
+  ],
+  "physicalPdfPages": [
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "questionIds": [
+    "MKF-WR-0154",
+    "MKF-WR-0155",
+    "MKF-WR-0156",
+    "MKF-WR-0157",
+    "MKF-WR-0158",
+    "MKF-WR-0159",
+    "MKF-WR-0160",
+    "MKF-WR-0161",
+    "MKF-WR-0162",
+    "MKF-WR-0163",
+    "MKF-WR-0164",
+    "MKF-WR-0165",
+    "MKF-WR-0166",
+    "MKF-WR-0167",
+    "MKF-WR-0168",
+    "MKF-WR-0169",
+    "MKF-WR-0170",
+    "MKF-WR-0171",
+    "MKF-WR-0172",
+    "MKF-WR-0173",
+    "MKF-WR-0174",
+    "MKF-WR-0175",
+    "MKF-WR-0176",
+    "MKF-WR-0177",
+    "MKF-WR-0178",
+    "MKF-WR-0179",
+    "MKF-WR-0180",
+    "MKF-WR-0181",
+    "MKF-WR-0182",
+    "MKF-WR-0183",
+    "MKF-WR-0184",
+    "MKF-WR-0185",
+    "MKF-WR-0186",
+    "MKF-WR-0187",
+    "MKF-WR-0188"
+  ],
+  "questionCount": 35,
+  "examType": "written_true_false",
+  "section": "warehouse_fundamentals",
+  "coverage": [
+    {
+      "page": 59,
+      "topics": [
+        "metric prefixes",
+        "Japanese capacity units",
+        "water mass",
+        "specific gravity",
+        "pound and ounce"
+      ]
+    },
+    {
+      "page": 60,
+      "topics": [
+        "measurement tonne",
+        "refrigerated equipment tonnage",
+        "effective height",
+        "humidity",
+        "lux and lighting"
+      ]
+    },
+    {
+      "page": 61,
+      "topics": [
+        "Japanese warehouse counters: 本, 個, 箱, 袋, 枚, 台, 脚, 体, 束"
+      ]
+    },
+    {
+      "page": 62,
+      "topics": [
+        "counters for books, clothing, footwear, buildings, floors, documents and more"
+      ]
+    },
+    {
+      "page": 63,
+      "topics": [
+        "counters for cycles, surfaces, heaps, locations, occurrences, rolls and periods"
+      ]
+    },
+    {
+      "page": 64,
+      "topics": [
+        "inbound process",
+        "inbound preparation",
+        "vehicle bay guidance",
+        "safe container door opening"
+      ]
+    },
+    {
+      "page": 65,
+      "topics": [
+        "vehicle/container unloading",
+        "inbound inspection",
+        "cargo-document matching",
+        "inspection fields"
+      ]
+    },
+    {
+      "page": 66,
+      "topics": [
+        "split delivery",
+        "LOT traceability",
+        "packaging hierarchy",
+        "variable-weight cargo methods"
+      ]
+    },
+    {
+      "page": 67,
+      "topics": [
+        "wooden cases",
+        "corrugated cartons",
+        "paper sacks",
+        "FIBC"
+      ]
+    },
+    {
+      "page": 68,
+      "topics": [
+        "bales and bale clamps",
+        "bundles",
+        "rolls and roll clamps",
+        "drum, 18L and pail cans"
+      ]
+    }
+  ],
+  "visualQuestionsAdded": 0,
+  "imagePolicy": "No practical visual questions added. Existing Study Mode images and source visual assets remain untouched. Visual questions require individual asset verification and exact matching.",
+  "examLanguagePolicy": "Japanese-only question and answer display with furigana during attempts; English, Sinhala and Romaji remain hidden until post-attempt review. Existing presentation spec was not modified.",
+  "reviewGate": "All added questions remain DRAFT pending Japanese-language and source accuracy review.",
+  "appImpact": "No existing app UI, navigation, Study Mode, source JSON, images, authentication, progress/history, legacy Quick Quiz, XP formula or frozen exam rules changed."
+}
