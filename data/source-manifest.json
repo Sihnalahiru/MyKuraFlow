@@ -494,7 +494,7 @@
     "Map images only after visual comparison with the original PDF page.",
     "A part is complete only after source-page coverage and translation audit pass."
   ],
-  "current_status": "IN_PROGRESS_NOT_COMPLETE",
+  "current_status": "SOURCE_PAGE_COVERAGE_RECONCILED_123_PHYSICAL_PAGES; 121 NUMBERED LABELS (2-122) UNIQUE; FRONT MATTER INCLUDED; CONTENT AND IMAGE QA STILL IN PROGRESS",
   "audit_notes": [
     "Batch pages 19-28 added with Japanese, Romaji, English, Sinhala, source-page visual descriptions and image mapping status.",
     "Original PDF page renders visually inspected for pages 19-21 and 23-28; page 22 image unavailable in Files render and remains pending.",
@@ -503,8 +503,11 @@
     "Batch pages 29-38 added. Source page images visually inspected for pages 29-33,36-37; pages 34,35,38 image render unavailable and flagged. Text and translations populated for pages 29-38.",
     "2026-11-18 final repository audit: all 12 JSON batches parse, but front matter physical pages 1-8 and printed pages 39-48 are not represented; page 13-18 lack image_mapping; early batch schema differs; physical PDF page mapping is inconsistent around blank physical page 39 and previously reported blank physical page 51; full binary image visual comparison and line-by-line translation proofing are not signed off. See data/final-source-audit-123-pages.json.",
     "2026-11-18 bulk draft added for printed pages 39-48 from reopened original PDF physical pages 40-49; commit d3738ce9a4830e795ce4e282c4032bd7d2e87bf5. This closes the missing-page draft gap only; translations, visual mapping, and full page reconciliation remain pending.",
-    "2026-11-18 bulk batch for printed pages 50-59 committed at ce3ca6e15b9ee992d47f10790107d91e62342209 from original PDF physical pages 51-60. Physical page 50 was blank; printed page 49 remains unresolved. Older 49-58 batch must be treated as legacy/unverified."
+    "2026-11-18 bulk batch for printed pages 50-59 committed at ce3ca6e15b9ee992d47f10790107d91e62342209 from original PDF physical pages 51-60. Physical page 50 was blank; printed page 49 remains unresolved. Older 49-58 batch must be treated as legacy/unverified.",
+    "2026-11-18 reconciliation correction: reopened original PDF physical pages and confirmed printed page 49 exists; physical pages 39-50 are not blank. Physical page 1 is cover; pages 2-8 are TOC; pages 9-122 are numbered textbook content; physical page 123 is unprinted publisher/copyright colophon.",
+    "Normalized pages 9-12 to common page schema; added front matter pages 1-8; added page 49; corrected PDF page numbers for 39-48 and 50-53; merged Part 2 pages 54-68 and removed duplicate printed page 59 from active app sources.",
+    "Active source records now cover all 121 numbered page labels 2-122 exactly once; 123 physical PDF pages have ledger entries. All 172 repository image assets exist; 80 unique image asset paths currently referenced and resolve, but all binary images have not been visually matched."
   ],
-  "final_audit_report": "data/final-source-audit-123-pages.json",
-  "final_audit_status": "FAIL — MISSING FRONT MATTER AND PRINTED PAGES 39-48; PHYSICAL PAGE RECONCILIATION AND FULL VISUAL/TEXT PROOFING REQUIRED"
+  "final_audit_report": "data/source-page-ledger-123.json",
+  "final_audit_status": "PAGE COVERAGE PASS; TRANSLATION / ROMAJI / FURIGANA / IMAGE VISUAL QA PENDING"
 }
