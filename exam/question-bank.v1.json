@@ -512,7 +512,7 @@
         "en": "Floor load capacity is the maximum permitted weight on the floor, expressed per square metre or per tsubo.",
         "ja": "<ruby>床耐荷重<rt>ゆかたいかじゅう</rt></ruby>は、床（ゆか）に置（お）ける貨物（かもつ）の重（おも）さには限界（げんかい）があり、その値（あたい）は１㎡または１坪（つぼ）あたりで表（あらわ）されます。"
       },
-      "statement": "床（ゆか）に置（お）ける貨物（かもつ）の重（おも）さには限界（げんかい）があり、その値（あたい）は１㎡または１坪（つぼ）あたりで表（あらわ）されます。",
+      "statement": "<ruby>床耐荷重<rt>ゆかたいかじゅう</rt></ruby>は、床（ゆか）に置（お）ける貨物（かもつ）の重（おも）さには限界（げんかい）があり、その値（あたい）は１㎡または１坪（つぼ）あたりで表（あらわ）されます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Floor load capacity is the maximum permitted weight on the floor, expressed per square metre or per tsubo.",
@@ -532,7 +532,7 @@
         "en": "Exceeding the rated floor load can damage the floor and create danger; the capacity must be checked.",
         "ja": "<ruby>床耐荷重<rt>ゆかたいかじゅう</rt></ruby>は、床耐荷重（ゆかたいかじゅう）を超（こ）える重（おも）さの貨物（かもつ）を置（お）いても、床（ゆか）が壊（こわ）れる危険（きけん）はありません。"
       },
-      "statement": "床耐荷重（ゆかたいかじゅう）を超（こ）える重（おも）さの貨物（かもつ）を置（お）いても、床（ゆか）が壊（こわ）れる危険（きけん）はありません。",
+      "statement": "<ruby>床耐荷重<rt>ゆかたいかじゅう</rt></ruby>は、床耐荷重（ゆかたいかじゅう）を超（こ）える重（おも）さの貨物（かもつ）を置（お）いても、床（ゆか）が壊（こわ）れる危険（きけん）はありません。",
       "correctAnswer": false,
       "explanation": {
         "en": "Exceeding the rated floor load can damage the floor and create danger; the capacity must be checked.",
@@ -552,7 +552,7 @@
         "en": "Dust-proof coating reduces dust, makes cleaning easier, helps keep goods clean and supports hygiene.",
         "ja": "<ruby>防塵塗装<rt>ぼうじんとそう</rt></ruby>は、床（ゆか）のほこりを防（ふせ）ぎ、掃除（そうじ）をしやすくするために使（つか）われます。"
       },
-      "statement": "防塵塗装（ぼうじんとそう）は、床（ゆか）のほこりを防（ふせ）ぎ、掃除（そうじ）をしやすくするために使（つか）われます。",
+      "statement": "<ruby>防塵塗装<rt>ぼうじんとそう</rt></ruby>は、床（ゆか）のほこりを防（ふせ）ぎ、掃除（そうじ）をしやすくするために使（つか）われます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Dust-proof coating reduces dust, makes cleaning easier, helps keep goods clean and supports hygiene.",
@@ -572,7 +572,7 @@
         "en": "A dock leveller bridges the height difference between the warehouse platform and a truck/container floor.",
         "ja": "<ruby>ドックレベラー<rt>ドックレベラー</rt></ruby>は、倉庫（そうこ）のプラットホームとトラックの床（ゆか）の高（たか）さの差（さ）をなくす装置（そうち）です。"
       },
-      "statement": "ドックレベラーは、倉庫（そうこ）のプラットホームとトラックの床（ゆか）の高（たか）さの差（さ）をなくす装置（そうち）です。",
+      "statement": "<ruby>ドックレベラー<rt>ドックレベラー</rt></ruby>は、倉庫（そうこ）のプラットホームとトラックの床（ゆか）の高（たか）さの差（さ）をなくす装置（そうち）です。",
       "correctAnswer": true,
       "explanation": {
         "en": "A dock leveller bridges the height difference between the warehouse platform and a truck/container floor.",
@@ -592,7 +592,7 @@
         "en": "Nizuri is fitted to the inside wall to protect it if goods collapse against it; it is not a rain barrier.",
         "ja": "<ruby>荷摺り<rt>にずり</rt></ruby>は、倉庫（そうこ）の外側（そとがわ）の壁（かべ）に取（と）り付（つ）け、雨（あめ）を防（ふせ）ぐ設備（せつび）です。"
       },
-      "statement": "荷摺（にず）りは、倉庫（そうこ）の外側（そとがわ）の壁（かべ）に取（と）り付（つ）け、雨（あめ）を防（ふせ）ぐ設備（せつび）です。",
+      "statement": "<ruby>荷摺り<rt>にずり</rt></ruby>は、倉庫（そうこ）の外側（そとがわ）の壁（かべ）に取（と）り付（つ）け、雨（あめ）を防（ふせ）ぐ設備（せつび）です。",
       "correctAnswer": false,
       "explanation": {
         "en": "Nizuri is fitted to the inside wall to protect it if goods collapse against it; it is not a rain barrier.",
@@ -612,7 +612,7 @@
         "en": "A dock shelter closes the gap around the truck body to keep out wind, rain and insects.",
         "ja": "<ruby>ドックシェルター<rt>ドックシェルター</rt></ruby>は、トラックの荷台（にだい）との隙間（すきま）を埋（う）め、風（かぜ）や雨（あめ）、虫（むし）の侵入（しんにゅう）を防（ふせ）ぎます。"
       },
-      "statement": "ドックシェルターは、トラックの荷台（にだい）との隙間（すきま）を埋（う）め、風（かぜ）や雨（あめ）、虫（むし）の侵入（しんにゅう）を防（ふせ）ぎます。",
+      "statement": "<ruby>ドックシェルター<rt>ドックシェルター</rt></ruby>は、トラックの荷台（にだい）との隙間（すきま）を埋（う）め、風（かぜ）や雨（あめ）、虫（むし）の侵入（しんにゅう）を防（ふせ）ぎます。",
       "correctAnswer": true,
       "explanation": {
         "en": "A dock shelter closes the gap around the truck body to keep out wind, rain and insects.",
@@ -652,7 +652,7 @@
         "en": "A sprinkler system automatically releases water when sensors detect heat or smoke.",
         "ja": "<ruby>スプリンクラー<rt>スプリンクラー</rt></ruby>は、熱（ねつ）や煙（けむり）をセンサーが感知（かんち）すると、自動的（じどうてき）に水（みず）を出（だ）す設備（せつび）です。"
       },
-      "statement": "スプリンクラーは、熱（ねつ）や煙（けむり）をセンサーが感知（かんち）すると、自動的（じどうてき）に水（みず）を出（だ）す設備（せつび）です。",
+      "statement": "<ruby>スプリンクラー<rt>スプリンクラー</rt></ruby>は、熱（ねつ）や煙（けむり）をセンサーが感知（かんち）すると、自動的（じどうてき）に水（みず）を出（だ）す設備（せつび）です。",
       "correctAnswer": true,
       "explanation": {
         "en": "A sprinkler system automatically releases water when sensors detect heat or smoke.",
@@ -672,7 +672,7 @@
         "en": "When the fire alarm sounds, workers should evacuate to a safe place, not continue working.",
         "ja": "<ruby>火災報知設備<rt>かさいほうちせつび</rt></ruby>は、火災報知設備（かさいほうちせつび）のベルが鳴（な）ったら、倉庫（そうこ）で作業（さぎょう）を続（つづ）けてください。"
       },
-      "statement": "火災報知設備（かさいほうちせつび）のベルが鳴（な）ったら、倉庫（そうこ）で作業（さぎょう）を続（つづ）けてください。",
+      "statement": "<ruby>火災報知設備<rt>かさいほうちせつび</rt></ruby>は、火災報知設備（かさいほうちせつび）のベルが鳴（な）ったら、倉庫（そうこ）で作業（さぎょう）を続（つづ）けてください。",
       "correctAnswer": false,
       "explanation": {
         "en": "When the fire alarm sounds, workers should evacuate to a safe place, not continue working.",
@@ -692,7 +692,7 @@
         "en": "A fixed rack is secured to the floor and does not move.",
         "ja": "<ruby>固定ラック<rt>こていラック</rt></ruby>は、固定（こてい）ラックは床（ゆか）に固定（こてい）され、通常（つうじょう）は動（うご）かない棚（たな）です。"
       },
-      "statement": "固定（こてい）ラックは床（ゆか）に固定（こてい）され、通常（つうじょう）は動（うご）かない棚（たな）です。",
+      "statement": "<ruby>固定ラック<rt>こていラック</rt></ruby>は、固定（こてい）ラックは床（ゆか）に固定（こてい）され、通常（つうじょう）は動（うご）かない棚（たな）です。",
       "correctAnswer": true,
       "explanation": {
         "en": "A fixed rack is secured to the floor and does not move.",
@@ -712,7 +712,7 @@
         "en": "Mobile racks move along the floor and can be brought together to use horizontal space efficiently.",
         "ja": "<ruby>移動ラック<rt>いどうラック</rt></ruby>は、移動（いどう）ラックは床（ゆか）の上（うえ）を動（うご）かすことができ、棚（たな）同士（どうし）を寄（よ）せて空間（くうかん）を有効利用（ゆうこうりよう）できます。"
       },
-      "statement": "移動（いどう）ラックは床（ゆか）の上（うえ）を動（うご）かすことができ、棚（たな）同士（どうし）を寄（よ）せて空間（くうかん）を有効利用（ゆうこうりよう）できます。",
+      "statement": "<ruby>移動ラック<rt>いどうラック</rt></ruby>は、移動（いどう）ラックは床（ゆか）の上（うえ）を動（うご）かすことができ、棚（たな）同士（どうし）を寄（よ）せて空間（くうかん）を有効利用（ゆうこうりよう）できます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Mobile racks move along the floor and can be brought together to use horizontal space efficiently.",
@@ -732,7 +732,7 @@
         "en": "The source defines 正ネス as having the load-supporting grid at the lower level; the upper-grid type is 逆ネス.",
         "ja": "<ruby>正ネス<rt>せいネス</rt></ruby>は、貨物（かもつ）を置（お）く格子状（こうしじょう）の面（めん）が上段（じょうだん）にある型（かた）です。"
       },
-      "statement": "正（せい）ネスは、貨物（かもつ）を置（お）く格子状（こうしじょう）の面（めん）が上段（じょうだん）にある型（かた）です。",
+      "statement": "<ruby>正ネス<rt>せいネス</rt></ruby>は、貨物（かもつ）を置（お）く格子状（こうしじょう）の面（めん）が上段（じょうだん）にある型（かた）です。",
       "correctAnswer": false,
       "explanation": {
         "en": "The source defines 正ネス as having the load-supporting grid at the lower level; the upper-grid type is 逆ネス.",
@@ -752,7 +752,7 @@
         "en": "逆ネス allows two-level stacking per unit, but the complete nestainer cannot be moved as a unit.",
         "ja": "<ruby>逆ネス<rt>ぎゃくネス</rt></ruby>は、１台（いちだい）で２段積（にだんづ）みができ、ネステナーごと移動（いどう）することもできます。"
       },
-      "statement": "逆（ぎゃく）ネスは、１台（いちだい）で２段積（にだんづ）みができ、ネステナーごと移動（いどう）することもできます。",
+      "statement": "<ruby>逆ネス<rt>ぎゃくネス</rt></ruby>は、１台（いちだい）で２段積（にだんづ）みができ、ネステナーごと移動（いどう）することもできます。",
       "correctAnswer": false,
       "explanation": {
         "en": "逆ネス allows two-level stacking per unit, but the complete nestainer cannot be moved as a unit.",
@@ -772,7 +772,7 @@
         "en": "A pallet supporter supports pallets, helps prevent falls and distributes loads more evenly.",
         "ja": "<ruby>パレットサポーター<rt>パレットサポーター</rt></ruby>は、パレットを支（ささ）え、落下（らっか）防止（ぼうし）や荷重（かじゅう）の分散（ぶんさん）に役立（やくだ）ちます。"
       },
-      "statement": "パレットサポーターは、パレットを支（ささ）え、落下（らっか）防止（ぼうし）や荷重（かじゅう）の分散（ぶんさん）に役立（やくだ）ちます。",
+      "statement": "<ruby>パレットサポーター<rt>パレットサポーター</rt></ruby>は、パレットを支（ささ）え、落下（らっか）防止（ぼうし）や荷重（かじゅう）の分散（ぶんさん）に役立（やくだ）ちます。",
       "correctAnswer": true,
       "explanation": {
         "en": "A pallet supporter supports pallets, helps prevent falls and distributes loads more evenly.",
@@ -792,7 +792,7 @@
         "en": "An automated warehouse system uses computers and machinery to manage receiving, dispatch and storage automatically.",
         "ja": "<ruby>自動倉庫システム<rt>じどうそうこシステム</rt></ruby>は、コンピューターと機械（きかい）で入庫（にゅうこ）・出庫（しゅっこ）・保管（ほかん）を自動管理（じどうかんり）します。"
       },
-      "statement": "自動倉庫（じどうそうこ）システムは、コンピューターと機械（きかい）で入庫（にゅうこ）・出庫（しゅっこ）・保管（ほかん）を自動管理（じどうかんり）します。",
+      "statement": "<ruby>自動倉庫システム<rt>じどうそうこシステム</rt></ruby>は、コンピューターと機械（きかい）で入庫（にゅうこ）・出庫（しゅっこ）・保管（ほかん）を自動管理（じどうかんり）します。",
       "correctAnswer": true,
       "explanation": {
         "en": "An automated warehouse system uses computers and machinery to manage receiving, dispatch and storage automatically.",
@@ -812,7 +812,7 @@
         "en": "Surveillance cameras also help check whether work is performed correctly and identify waste or inefficiency.",
         "ja": "<ruby>監視カメラ<rt>かんしカメラ</rt></ruby>は、監視（かんし）カメラは盗難防止（とうなんぼうし）だけに使（つか）われ、作業（さぎょう）の確認（かくにん）には使（つか）われません。"
       },
-      "statement": "監視（かんし）カメラは盗難防止（とうなんぼうし）だけに使（つか）われ、作業（さぎょう）の確認（かくにん）には使（つか）われません。",
+      "statement": "<ruby>監視カメラ<rt>かんしカメラ</rt></ruby>は、監視（かんし）カメラは盗難防止（とうなんぼうし）だけに使（つか）われ、作業（さぎょう）の確認（かくにん）には使（つか）われません。",
       "correctAnswer": false,
       "explanation": {
         "en": "Surveillance cameras also help check whether work is performed correctly and identify waste or inefficiency.",
@@ -832,7 +832,7 @@
         "en": "Illuminated guidance signs indicate exits during disasters or power failures; the green EXIT sign is the cue.",
         "ja": "<ruby>誘導灯<rt>ゆうどうとう</rt></ruby>は、災害（さいがい）や停電（ていでん）のときに出口（でぐち）の場所（ばしょ）を示（しめ）します。"
       },
-      "statement": "誘導灯（ゆうどうとう）は、災害（さいがい）や停電（ていでん）のときに出口（でぐち）の場所（ばしょ）を示（しめ）します。",
+      "statement": "<ruby>誘導灯<rt>ゆうどうとう</rt></ruby>は、災害（さいがい）や停電（ていでん）のときに出口（でぐち）の場所（ばしょ）を示（しめ）します。",
       "correctAnswer": true,
       "explanation": {
         "en": "Illuminated guidance signs indicate exits during disasters or power failures; the green EXIT sign is the cue.",
@@ -852,7 +852,7 @@
         "en": "A seismic-isolation device is installed below the building and reduces earthquake shaking, helping prevent goods falling from racks.",
         "ja": "<ruby>免震装置<rt>めんしんそうち</rt></ruby>は、免震装置（めんしんそうち）は建物（たてもの）の地下（ちか）に設置（せっち）され、地震（じしん）の揺（ゆ）れを減（へ）らします。"
       },
-      "statement": "免震装置（めんしんそうち）は建物（たてもの）の地下（ちか）に設置（せっち）され、地震（じしん）の揺（ゆ）れを減（へ）らします。",
+      "statement": "<ruby>免震装置<rt>めんしんそうち</rt></ruby>は、免震装置（めんしんそうち）は建物（たてもの）の地下（ちか）に設置（せっち）され、地震（じしん）の揺（ゆ）れを減（へ）らします。",
       "correctAnswer": true,
       "explanation": {
         "en": "A seismic-isolation device is installed below the building and reduces earthquake shaking, helping prevent goods falling from racks.",
@@ -872,7 +872,7 @@
         "en": "Fire shutters help prevent fire from spreading between warehouse areas.",
         "ja": "<ruby>防火シャッター<rt>ぼうかシャッター</rt></ruby>は、火（ひ）が区域（くいき）から区域（くいき）へ広（ひろ）がるのを防（ふせ）ぐために使（つか）われます。"
       },
-      "statement": "防火（ぼうか）シャッターは、火（ひ）が区域（くいき）から区域（くいき）へ広（ひろ）がるのを防（ふせ）ぐために使（つか）われます。",
+      "statement": "<ruby>防火シャッター<rt>ぼうかシャッター</rt></ruby>は、火（ひ）が区域（くいき）から区域（くいき）へ広（ひろ）がるのを防（ふせ）ぐために使（つか）われます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Fire shutters help prevent fire from spreading between warehouse areas.",
