@@ -5246,6 +5246,746 @@
       "sourceAnchor": "printed p88 手かぎ禁止",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0271",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>直射日光<rt>ちょくしゃにっこう</rt></ruby>・<ruby>熱<rt>ねつ</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けるマークは、<ruby>箱<rt>はこ</rt></ruby>を<ruby>日光<rt>にっこう</rt></ruby>や<ruby>熱<rt>ねつ</rt></ruby>から<ruby>守<rt>まも</rt></ruby>ることを<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>直射日光<rt>ちょくしゃにっこう</rt></ruby>・<ruby>熱<rt>ねつ</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けるマークは、<ruby>箱<rt>はこ</rt></ruby>を<ruby>日光<rt>にっこう</rt></ruby>や<ruby>熱<rt>ねつ</rt></ruby>から<ruby>守<rt>まも</rt></ruby>ることを<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": "This mark tells handlers to protect cartons from direct sunlight and heat.",
+      "explanation": {
+        "en": true,
+        "si": "මෙම සලකුණ පෙට්ටි සෘජු හිරු එළියෙන් සහ තාපයෙන් ආරක්ෂා කළ යුතු බව දක්වයි.",
+        "technicalNoteJa": "直射日光・熱遮へい＝日光と熱から守る"
+      },
+      "sourcePage": 89,
+      "sourceAnchor": "p89-s9 直射日光・熱遮へい",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0272",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": false,
+        "ja": "<ruby>火気厳禁<rt>かきげんきん</rt></ruby>のマークがある<ruby>場所<rt>ばしょ</rt></ruby>では、ライターを<ruby>使<rt>つか</rt></ruby>ってもよいです。"
+      },
+      "statement": "<ruby>火気厳禁<rt>かきげんきん</rt></ruby>のマークがある<ruby>場所<rt>ばしょ</rt></ruby>では、ライターを<ruby>使<rt>つか</rt></ruby>ってもよいです。",
+      "correctAnswer": "The no-open-flames instruction prohibits lighters and other sources of fire.",
+      "explanation": {
+        "en": false,
+        "si": "ගිනි දැල් තහනම් සලකුණ ඇති ස්ථානයක ලයිටර් හෝ ගිනි ඇති කරන දේ භාවිතය තහනම්ය.",
+        "technicalNoteJa": "火気厳禁＝火を近づけない"
+      },
+      "sourcePage": 89,
+      "sourceAnchor": "p89-s10 火気厳禁",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0273",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>パレットパターン<rt>ぱれっとぱたーん</rt></ruby>は、<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>をパレットに<ruby>積<rt>つ</rt></ruby>む<ruby>並<rt>なら</rt></ruby>べ<ruby>方<rt>かた</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>パレットパターン<rt>ぱれっとぱたーん</rt></ruby>は、<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>をパレットに<ruby>積<rt>つ</rt></ruby>む<ruby>並<rt>なら</rt></ruby>べ<ruby>方<rt>かた</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": "A pallet pattern shows how cartons should be arranged on a pallet; it is not itself a warning mark.",
+      "explanation": {
+        "en": true,
+        "si": "Pallet pattern යනු pallet එක මත carton පෙට්ටි පෙළගැස්විය යුතු ආකාරයයි; එය අනතුරු ඇඟවීමේ සලකුණක් නොවේ.",
+        "technicalNoteJa": "パレットパターン＝積み付けの配置"
+      },
+      "sourcePage": 89,
+      "sourceAnchor": "p89-s11 パレットパターン",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0274",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>められた<ruby>労働時間<rt>ろうどうじかん</rt></ruby>の<ruby>上限<rt>じょうげん</rt></ruby>は、<ruby>１日<rt>いちにち</rt></ruby>８<ruby>時間<rt>じかん</rt></ruby>・<ruby>１週間<rt>いっしゅうかん</rt></ruby>40<ruby>時間<rt>じかん</rt></ruby>です。"
+      },
+      "statement": "<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>められた<ruby>労働時間<rt>ろうどうじかん</rt></ruby>の<ruby>上限<rt>じょうげん</rt></ruby>は、<ruby>１日<rt>いちにち</rt></ruby>８<ruby>時間<rt>じかん</rt></ruby>・<ruby>１週間<rt>いっしゅうかん</rt></ruby>40<ruby>時間<rt>じかん</rt></ruby>です。",
+      "correctAnswer": "The textbook states limits of 8 hours per day and 40 hours per week.",
+      "explanation": {
+        "en": true,
+        "si": "පෙළපොතේ දක්වා ඇති සීමාව දිනකට පැය 8ක් සහ සතියකට පැය 40කි.",
+        "technicalNoteJa": "労働時間の上限＝1日8時間・週40時間（教材記載）"
+      },
+      "sourcePage": 90,
+      "sourceAnchor": "p90-s1 労働時間",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0275",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>労働時間<rt>ろうどうじかん</rt></ruby>が６<ruby>時間<rt>じかん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>える<ruby>場合<rt>ばあい</rt></ruby>、<ruby>休憩<rt>きゅうけい</rt></ruby>は45<ruby>分以上<rt>ふんいじょう</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>です。"
+      },
+      "statement": "<ruby>労働時間<rt>ろうどうじかん</rt></ruby>が６<ruby>時間<rt>じかん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>える<ruby>場合<rt>ばあい</rt></ruby>、<ruby>休憩<rt>きゅうけい</rt></ruby>は45<ruby>分以上<rt>ふんいじょう</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "correctAnswer": "For work exceeding six hours, the source specifies at least 45 minutes of break.",
+      "explanation": {
+        "en": true,
+        "si": "වැඩ කාලය පැය 6 ඉක්මවූ විට අවම වශයෙන් මිනිත්තු 45ක විවේකයක් අවශ්‍යය.",
+        "technicalNoteJa": "6時間超＝45分以上の休憩"
+      },
+      "sourcePage": 90,
+      "sourceAnchor": "p90-s1 休憩時間",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0276",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": false,
+        "ja": "<ruby>朝礼<rt>ちょうれい</rt></ruby>と<ruby>終礼<rt>しゅうれい</rt></ruby>は<ruby>勤務時間<rt>きんむじかん</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれません。"
+      },
+      "statement": "<ruby>朝礼<rt>ちょうれい</rt></ruby>と<ruby>終礼<rt>しゅうれい</rt></ruby>は<ruby>勤務時間<rt>きんむじかん</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれません。",
+      "correctAnswer": "Morning and end-of-day briefings count as working time.",
+      "explanation": {
+        "en": false,
+        "si": "උදෑසන සහ දවස අවසානයේ රැස්වීම් වැඩ කාලයට ඇතුළත් වේ.",
+        "technicalNoteJa": "朝礼・終礼＝勤務時間に含む"
+      },
+      "sourcePage": 90,
+      "sourceAnchor": "p90-s1 朝礼と終礼",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0277",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>通勤時間<rt>つうきんじかん</rt></ruby>は<ruby>勤務時間<rt>きんむじかん</rt></ruby>ではありません。"
+      },
+      "statement": "<ruby>通勤時間<rt>つうきんじかん</rt></ruby>は<ruby>勤務時間<rt>きんむじかん</rt></ruby>ではありません。",
+      "correctAnswer": "The source distinguishes commuting time from working time.",
+      "explanation": {
+        "en": true,
+        "si": "ගමනාගමන කාලය වැඩ කරන කාලය ලෙස ගණන් නොගනී.",
+        "technicalNoteJa": "通勤時間≠勤務時間"
+      },
+      "sourcePage": 90,
+      "sourceAnchor": "p90-s1 通勤時間",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0278",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>労働災害<rt>ろうどうさいがい</rt></ruby>とは、<ruby>仕事中<rt>しごとちゅう</rt></ruby>に<ruby>起<rt>お</rt></ruby>きた<ruby>事故<rt>じこ</rt></ruby>・けが・<ruby>病気<rt>びょうき</rt></ruby>です。"
+      },
+      "statement": "<ruby>労働災害<rt>ろうどうさいがい</rt></ruby>とは、<ruby>仕事中<rt>しごとちゅう</rt></ruby>に<ruby>起<rt>お</rt></ruby>きた<ruby>事故<rt>じこ</rt></ruby>・けが・<ruby>病気<rt>びょうき</rt></ruby>です。",
+      "correctAnswer": "Occupational accidents include work-related accidents, injuries and illnesses.",
+      "explanation": {
+        "en": true,
+        "si": "වෘත්තීය අනතුරු යනු රැකියාවේදී සිදුවන අනතුරු, තුවාල සහ රෝග වේ.",
+        "technicalNoteJa": "労働災害＝仕事中の事故・けが・病気"
+      },
+      "sourcePage": 91,
+      "sourceAnchor": "p91-s1 労働災害",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0279",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "2024<ruby>年<rt>ねん</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>では、<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い<ruby>労働災害<rt>ろうどうさいがい</rt></ruby>は<ruby>転倒<rt>てんとう</rt></ruby>です。"
+      },
+      "statement": "2024<ruby>年<rt>ねん</rt></ruby>の<ruby>資料<rt>しりょう</rt></ruby>では、<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い<ruby>労働災害<rt>ろうどうさいがい</rt></ruby>は<ruby>転倒<rt>てんとう</rt></ruby>です。",
+      "correctAnswer": "The cited 2024 figures list falls/slips as the largest category.",
+      "explanation": {
+        "en": true,
+        "si": "2024 දත්තවල වැඩිම වෘත්තීය අනතුරු කාණ්ඩය ලිස්සා වැටීමයි.",
+        "technicalNoteJa": "2024年資料：転倒が最多（教材記載）"
+      },
+      "sourcePage": 91,
+      "sourceAnchor": "p91-s1 2024年労働災害統計",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0280",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": false,
+        "ja": "コンベアやソーターに<ruby>挟<rt>はさ</rt></ruby>まれることは、<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>労働災害<rt>ろうどうさいがい</rt></ruby>の<ruby>例<rt>れい</rt></ruby>ではありません。"
+      },
+      "statement": "コンベアやソーターに<ruby>挟<rt>はさ</rt></ruby>まれることは、<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>労働災害<rt>ろうどうさいがい</rt></ruby>の<ruby>例<rt>れい</rt></ruby>ではありません。",
+      "correctAnswer": "Being caught in conveyors or sorters is specifically given as an occupational accident example.",
+      "explanation": {
+        "en": false,
+        "si": "Conveyor හෝ sorter අතර සිරවීම ගබඩා වෘත්තීය අනතුරකට උදාහරණයකි.",
+        "technicalNoteJa": "機械への挟まれ・巻き込まれに注意"
+      },
+      "sourcePage": 91,
+      "sourceAnchor": "p91-s1 労働災害の例",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0281",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>出勤前<rt>しゅっきんまえ</rt></ruby>に<ruby>発熱<rt>はつねつ</rt></ruby>や<ruby>体調不良<rt>たいちょうふりょう</rt></ruby>があれば、<ruby>無理<rt>むり</rt></ruby>に<ruby>出勤<rt>しゅっきん</rt></ruby>しません。"
+      },
+      "statement": "<ruby>出勤前<rt>しゅっきんまえ</rt></ruby>に<ruby>発熱<rt>はつねつ</rt></ruby>や<ruby>体調不良<rt>たいちょうふりょう</rt></ruby>があれば、<ruby>無理<rt>むり</rt></ruby>に<ruby>出勤<rt>しゅっきん</rt></ruby>しません。",
+      "correctAnswer": "If fever or illness is present before work, do not force yourself to attend.",
+      "explanation": {
+        "en": true,
+        "si": "වැඩට යාමට පෙර උණ හෝ අසනීප බවක් ඇත්නම් බලෙන් සේවයට නොයන්න.",
+        "technicalNoteJa": "体調不良時は無理に出勤しない"
+      },
+      "sourcePage": 92,
+      "sourceAnchor": "p92-s1 日常の健康管理",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0282",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いときは、まず<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>します。"
+      },
+      "statement": "<ruby>体調<rt>たいちょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いときは、まず<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>します。",
+      "correctAnswer": "The first step listed is to contact someone at the company.",
+      "explanation": {
+        "en": true,
+        "si": "අසනීප වූ විට පළමුව සමාගමේ අයෙකුට දැනුම් දිය යුතුය.",
+        "technicalNoteJa": "体調不良時：会社へ連絡・休養・必要なら受診"
+      },
+      "sourcePage": 92,
+      "sourceAnchor": "p92-s1 体調不良時の対応",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0283",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>病院<rt>びょういん</rt></ruby>への<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>がわからない<ruby>特定技能外国人<rt>とくていぎのうがいこくじん</rt></ruby>は、<ruby>登録支援機関<rt>とうろくしえんきかん</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>できます。"
+      },
+      "statement": "<ruby>病院<rt>びょういん</rt></ruby>への<ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>がわからない<ruby>特定技能外国人<rt>とくていぎのうがいこくじん</rt></ruby>は、<ruby>登録支援機関<rt>とうろくしえんきかん</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>できます。",
+      "correctAnswer": "Specified Skilled Workers can consult their registered support organization if they do not know how to access a hospital.",
+      "explanation": {
+        "en": true,
+        "si": "රෝහලට යන ආකාරය නොදන්නා Specified Skilled Worker කෙනෙකුට registered support organization එකෙන් උපදෙස් ගත හැක.",
+        "technicalNoteJa": "登録支援機関＝生活・医療相談の支援先"
+      },
+      "sourcePage": 92,
+      "sourceAnchor": "p92-s1 登録支援機関",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0284",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>朝礼<rt>ちょうれい</rt></ruby>の<ruby>準備体操<rt>じゅんびたいそう</rt></ruby>は、けがや<ruby>病気<rt>びょうき</rt></ruby>の<ruby>予防<rt>よぼう</rt></ruby>に<ruby>役立<rt>やくだ</rt></ruby>ちます。"
+      },
+      "statement": "<ruby>朝礼<rt>ちょうれい</rt></ruby>の<ruby>準備体操<rt>じゅんびたいそう</rt></ruby>は、けがや<ruby>病気<rt>びょうき</rt></ruby>の<ruby>予防<rt>よぼう</rt></ruby>に<ruby>役立<rt>やくだ</rt></ruby>ちます。",
+      "correctAnswer": "Morning warm-up exercises are part of injury and illness prevention.",
+      "explanation": {
+        "en": true,
+        "si": "උදෑසන warm-up ව්‍යායාම තුවාල සහ රෝග වැළැක්වීමට උපකාරී වේ.",
+        "technicalNoteJa": "準備体操＝作業前の身体準備"
+      },
+      "sourcePage": 92,
+      "sourceAnchor": "p92-s2 けが・病気の予防",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0285",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": false,
+        "ja": "<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐため、のどが<ruby>渇<rt>かわ</rt></ruby>くまで<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>まなくてもよいです。"
+      },
+      "statement": "<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐため、のどが<ruby>渇<rt>かわ</rt></ruby>くまで<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>まなくてもよいです。",
+      "correctAnswer": "The source says to drink water frequently even before feeling thirsty.",
+      "explanation": {
+        "en": false,
+        "si": "පිපාසය දැනෙන තුරු නොසිට නිතර ජලය පානය කළ යුතුය.",
+        "technicalNoteJa": "熱中症予防＝こまめな水分補給"
+      },
+      "sourcePage": 93,
+      "sourceAnchor": "p93-s3 熱中症予防",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0286",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>作業服<rt>さぎょうふく</rt></ruby>やヘルメットを<ruby>脱<rt>ぬ</rt></ruby>いで<ruby>作業<rt>さぎょう</rt></ruby>してはいけません。"
+      },
+      "statement": "<ruby>作業服<rt>さぎょうふく</rt></ruby>やヘルメットを<ruby>脱<rt>ぬ</rt></ruby>いで<ruby>作業<rt>さぎょう</rt></ruby>してはいけません。",
+      "correctAnswer": "Required workwear and helmets must not be removed during work.",
+      "explanation": {
+        "en": true,
+        "si": "වැඩ කරන අතරතුර නියමිත වැඩ ඇඳුම් සහ helmet ඉවත් නොකළ යුතුය.",
+        "technicalNoteJa": "作業服・ヘルメットを着用する"
+      },
+      "sourcePage": 93,
+      "sourceAnchor": "p93-s3 熱中症予防と服装",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0287",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>大量<rt>たいりょう</rt></ruby>の<ruby>汗<rt>あせ</rt></ruby>や<ruby>気分不良<rt>きぶんふりょう</rt></ruby>は、<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>大量<rt>たいりょう</rt></ruby>の<ruby>汗<rt>あせ</rt></ruby>や<ruby>気分不良<rt>きぶんふりょう</rt></ruby>は、<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": "Heavy sweating or feeling unwell may indicate heatstroke.",
+      "explanation": {
+        "en": true,
+        "si": "අධික දහඩිය හෝ අසනීප බව heatstroke ලක්ෂණ විය හැක.",
+        "technicalNoteJa": "熱中症の兆候＝大量の汗・気分不良"
+      },
+      "sourcePage": 93,
+      "sourceAnchor": "p93-s3 熱中症の兆候",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0288",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": false,
+        "ja": "<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>が<ruby>疑<rt>うたが</rt></ruby>われても、<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けます。"
+      },
+      "statement": "<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>が<ruby>疑<rt>うたが</rt></ruby>われても、<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けます。",
+      "correctAnswer": "If heatstroke is suspected, stop work immediately and begin first aid.",
+      "explanation": {
+        "en": false,
+        "si": "Heatstroke සැක වූ විට වහාම වැඩ නවතා ප්‍රථමාධාර ආරම්භ කළ යුතුය.",
+        "technicalNoteJa": "熱中症疑い＝作業中止・応急処置"
+      },
+      "sourcePage": 93,
+      "sourceAnchor": "p93-s3 熱中症時の対応",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0289",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>の<ruby>応急処置<rt>おうきゅうしょち</rt></ruby>では、<ruby>涼<rt>すず</rt></ruby>しい<ruby>部屋<rt>へや</rt></ruby>へ<ruby>移動<rt>いどう</rt></ruby>させます。"
+      },
+      "statement": "<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>の<ruby>応急処置<rt>おうきゅうしょち</rt></ruby>では、<ruby>涼<rt>すず</rt></ruby>しい<ruby>部屋<rt>へや</rt></ruby>へ<ruby>移動<rt>いどう</rt></ruby>させます。",
+      "correctAnswer": "Move the person to a cool, air-conditioned room.",
+      "explanation": {
+        "en": true,
+        "si": "Heatstroke ඇති අයෙකු සිසිල් වායුසමීකරණය කළ කාමරයකට ගෙන යන්න.",
+        "technicalNoteJa": "応急処置① 涼しい場所へ移動"
+      },
+      "sourcePage": 94,
+      "sourceAnchor": "p94 熱中症の応急処置",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0290",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": false,
+        "ja": "<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>の<ruby>応急処置<rt>おうきゅうしょち</rt></ruby>では、<ruby>衣服<rt>いふく</rt></ruby>をきつく<ruby>締<rt>し</rt></ruby>めます。"
+      },
+      "statement": "<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>の<ruby>応急処置<rt>おうきゅうしょち</rt></ruby>では、<ruby>衣服<rt>いふく</rt></ruby>をきつく<ruby>締<rt>し</rt></ruby>めます。",
+      "correctAnswer": "The source says to loosen clothing and cool the body.",
+      "explanation": {
+        "en": false,
+        "si": "ප්‍රථමාධාරයේදී ඇඳුම් ලිහිල් කර ශරීරය සිසිල් කළ යුතුය.",
+        "technicalNoteJa": "応急処置② 衣服をゆるめて体を冷やす"
+      },
+      "sourcePage": 94,
+      "sourceAnchor": "p94 熱中症の応急処置",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0291",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>応急処置<rt>おうきゅうしょち</rt></ruby>をしても<ruby>改善<rt>かいぜん</rt></ruby>しない<ruby>場合<rt>ばあい</rt></ruby>は、すぐ<ruby>医療機関<rt>いりょうきかん</rt></ruby>を<ruby>受診<rt>じゅしん</rt></ruby>します。"
+      },
+      "statement": "<ruby>応急処置<rt>おうきゅうしょち</rt></ruby>をしても<ruby>改善<rt>かいぜん</rt></ruby>しない<ruby>場合<rt>ばあい</rt></ruby>は、すぐ<ruby>医療機関<rt>いりょうきかん</rt></ruby>を<ruby>受診<rt>じゅしん</rt></ruby>します。",
+      "correctAnswer": "If the condition does not improve after first aid, seek medical care immediately.",
+      "explanation": {
+        "en": true,
+        "si": "ප්‍රථමාධාරයෙන් පසුවත් සුව නොවන්නේ නම් වහාම වෛද්‍ය ප්‍රතිකාර ලබාගන්න.",
+        "technicalNoteJa": "改善しない場合＝医療機関を受診"
+      },
+      "sourcePage": 94,
+      "sourceAnchor": "p94 熱中症の応急処置",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0292",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るときは、<ruby>作業<rt>さぎょう</rt></ruby>をしていなくてもヘルメットを<ruby>着用<rt>ちゃくよう</rt></ruby>します。"
+      },
+      "statement": "<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るときは、<ruby>作業<rt>さぎょう</rt></ruby>をしていなくてもヘルメットを<ruby>着用<rt>ちゃくよう</rt></ruby>します。",
+      "correctAnswer": "The helmet must be worn whenever entering the warehouse, even when not actively working.",
+      "explanation": {
+        "en": true,
+        "si": "වැඩ නොකරන අවස්ථාවක වුවද ගබඩාවට ඇතුළු වන විට helmet පැළඳිය යුතුය.",
+        "technicalNoteJa": "倉庫入場時＝ヘルメット着用"
+      },
+      "sourcePage": 95,
+      "sourceAnchor": "p95-s1 安全帽",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0293",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "ヘルメットのあごひもは、ずれないように<ruby>締<rt>し</rt></ruby>めます。"
+      },
+      "statement": "ヘルメットのあごひもは、ずれないように<ruby>締<rt>し</rt></ruby>めます。",
+      "correctAnswer": "Secure the chin strap so the helmet does not shift.",
+      "explanation": {
+        "en": true,
+        "si": "Helmet එක ලිස්සා නොයන ලෙස chin strap එක සවි කරන්න.",
+        "technicalNoteJa": "あごひもを締める"
+      },
+      "sourcePage": 95,
+      "sourceAnchor": "p95-s1 安全帽",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0294",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>倉庫<rt>そうこ</rt></ruby>では<ruby>安全靴<rt>あんぜんぐつ</rt></ruby>を<ruby>必<rt>かなら</rt></ruby>ず<ruby>着用<rt>ちゃくよう</rt></ruby>します。"
+      },
+      "statement": "<ruby>倉庫<rt>そうこ</rt></ruby>では<ruby>安全靴<rt>あんぜんぐつ</rt></ruby>を<ruby>必<rt>かなら</rt></ruby>ず<ruby>着用<rt>ちゃくよう</rt></ruby>します。",
+      "correctAnswer": "Safety shoes protect the feet and are required in the warehouse.",
+      "explanation": {
+        "en": true,
+        "si": "ගබඩාවේදී පාද ආරක්ෂා කරන safety shoes අනිවාර්යයෙන් පැළඳිය යුතුය.",
+        "technicalNoteJa": "安全靴＝足先を保護"
+      },
+      "sourcePage": 95,
+      "sourceAnchor": "p95-s1 安全靴",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0295",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": false,
+        "ja": "<ruby>貨物<rt>かもつ</rt></ruby>や<ruby>機械<rt>きかい</rt></ruby>は、<ruby>素手<rt>すで</rt></ruby>で<ruby>触<rt>さわ</rt></ruby>っても<ruby>問題<rt>もんだい</rt></ruby>ありません。"
+      },
+      "statement": "<ruby>貨物<rt>かもつ</rt></ruby>や<ruby>機械<rt>きかい</rt></ruby>は、<ruby>素手<rt>すで</rt></ruby>で<ruby>触<rt>さわ</rt></ruby>っても<ruby>問題<rt>もんだい</rt></ruby>ありません。",
+      "correctAnswer": "Wear work gloves rather than handling cargo or machinery with bare hands.",
+      "explanation": {
+        "en": false,
+        "si": "භාණ්ඩ හෝ යන්ත්‍ර හිස් අතින් නොඅල්ලා වැඩ අත්වැසුම් පැළඳිය යුතුය.",
+        "technicalNoteJa": "作業用手袋を着用する"
+      },
+      "sourcePage": 95,
+      "sourceAnchor": "p95-s1 手袋",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0296",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>流通加工<rt>りゅうつうかこう</rt></ruby>では、<ruby>衛生<rt>えいせい</rt></ruby>のためビニール<ruby>手袋<rt>てぶくろ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>流通加工<rt>りゅうつうかこう</rt></ruby>では、<ruby>衛生<rt>えいせい</rt></ruby>のためビニール<ruby>手袋<rt>てぶくろ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": "Vinyl gloves are used for hygiene in food-related distribution processing.",
+      "explanation": {
+        "en": true,
+        "si": "ආහාර සම්බන්ධ distribution processing කටයුතුවල සනීපාරක්ෂාව සඳහා vinyl gloves භාවිත කරයි.",
+        "technicalNoteJa": "食品流通加工＝衛生用ビニール手袋"
+      },
+      "sourcePage": 95,
+      "sourceAnchor": "p95-s1 手袋",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0297",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>人力作業<rt>じんりきさぎょう</rt></ruby>では、できるだけ<ruby>水平<rt>すいへい</rt></ruby>で<ruby>短<rt>みじか</rt></ruby>い<ruby>道<rt>みち</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>人力作業<rt>じんりきさぎょう</rt></ruby>では、できるだけ<ruby>水平<rt>すいへい</rt></ruby>で<ruby>短<rt>みじか</rt></ruby>い<ruby>道<rt>みち</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": "Manual handling should use a level, straight and short route where possible.",
+      "explanation": {
+        "en": true,
+        "si": "අතින් භාණ්ඩ ගෙනයන විට හැකි තරම් සමතලා, සෘජු සහ කෙටි මාර්ගයක් භාවිත කරන්න.",
+        "technicalNoteJa": "人力作業＝水平・直線・短距離"
+      },
+      "sourcePage": 96,
+      "sourceAnchor": "p96 人力作業のルール",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0298",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>積<rt>つ</rt></ruby>み<ruby>重<rt>かさ</rt></ruby>なった<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>途中<rt>とちゅう</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>き<ruby>取<rt>と</rt></ruby>ってはいけません。"
+      },
+      "statement": "<ruby>積<rt>つ</rt></ruby>み<ruby>重<rt>かさ</rt></ruby>なった<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>途中<rt>とちゅう</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>き<ruby>取<rt>と</rt></ruby>ってはいけません。",
+      "correctAnswer": "Do not remove goods from the middle of a stack; this can destabilise it.",
+      "explanation": {
+        "en": true,
+        "si": "ගොඩගසා ඇති භාණ්ඩ අතර මැදින් භාණ්ඩ ඇද ඉවත් නොකළ යුතුය; එය ගොඩ අස්ථාවර කරයි.",
+        "technicalNoteJa": "中抜き禁止＝積荷の崩れ防止"
+      },
+      "sourcePage": 96,
+      "sourceAnchor": "p96 人力作業のルール",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0299",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>体重<rt>たいじゅう</rt></ruby>の40％（<ruby>女性<rt>じょせい</rt></ruby>は24％）より<ruby>重<rt>おも</rt></ruby>い<ruby>貨物<rt>かもつ</rt></ruby>は、２<ruby>人以上<rt>にんいじょう</rt></ruby>で<ruby>持<rt>も</rt></ruby>ちます。"
+      },
+      "statement": "<ruby>体重<rt>たいじゅう</rt></ruby>の40％（<ruby>女性<rt>じょせい</rt></ruby>は24％）より<ruby>重<rt>おも</rt></ruby>い<ruby>貨物<rt>かもつ</rt></ruby>は、２<ruby>人以上<rt>にんいじょう</rt></ruby>で<ruby>持<rt>も</rt></ruby>ちます。",
+      "correctAnswer": "The source specifies team lifting for loads above 40% of body weight (24% for women).",
+      "explanation": {
+        "en": true,
+        "si": "මූලාශ්‍රයේ ශරීර බරෙන් 40% (කාන්තාවන් සඳහා 24%) ඉක්මවන භාණ්ඩ දෙදෙනෙකු හෝ වැඩි පිරිසක් එක්ව ඔසවන්නැයි දක්වයි.",
+        "technicalNoteJa": "重量物＝複数人で持つ（教材記載基準）"
+      },
+      "sourcePage": 96,
+      "sourceAnchor": "p96 重量物の取扱い",
+      "difficulty": "hard",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0300",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げるときは、<ruby>膝<rt>ひざ</rt></ruby>を<ruby>曲<rt>ま</rt></ruby>げて<ruby>荷物<rt>にもつ</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>づきます。"
+      },
+      "statement": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げるときは、<ruby>膝<rt>ひざ</rt></ruby>を<ruby>曲<rt>ま</rt></ruby>げて<ruby>荷物<rt>にもつ</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>づきます。",
+      "correctAnswer": "The first lifting step is to bend the knees and move close to the load.",
+      "explanation": {
+        "en": true,
+        "si": "භාණ්ඩ ඔසවන පළමු පියවරේදී දණහිස් නමා භාණ්ඩයට ළං වන්න.",
+        "technicalNoteJa": "正しい持ち上げ方① 膝を曲げて近づく"
+      },
+      "sourcePage": 96,
+      "sourceAnchor": "p96 腰痛防止の持ち上げ方",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0301",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": false,
+        "ja": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>体<rt>からだ</rt></ruby>から<ruby>離<rt>はな</rt></ruby>して<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げるのが<ruby>正<rt>ただ</rt></ruby>しい<ruby>方法<rt>ほうほう</rt></ruby>です。"
+      },
+      "statement": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>体<rt>からだ</rt></ruby>から<ruby>離<rt>はな</rt></ruby>して<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げるのが<ruby>正<rt>ただ</rt></ruby>しい<ruby>方法<rt>ほうほう</rt></ruby>です。",
+      "correctAnswer": "Keep the load close to the body around waist level; do not lift it far away.",
+      "explanation": {
+        "en": false,
+        "si": "භාණ්ඩය ඉණ මට්ටමේදී ශරීරයට සමීපව තබා ඔසවන්න; ශරීරයෙන් ඈත් කර නොගන්න.",
+        "technicalNoteJa": "荷物を体に密着させる"
+      },
+      "sourcePage": 96,
+      "sourceAnchor": "p96 腰痛防止の持ち上げ方",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0302",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "カゴ<ruby>台車<rt>だいしゃ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かす<ruby>前<rt>まえ</rt></ruby>に、キャスターのストッパーがフリーか<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "カゴ<ruby>台車<rt>だいしゃ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かす<ruby>前<rt>まえ</rt></ruby>に、キャスターのストッパーがフリーか<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": "Before moving a roll-box pallet, check that the caster brakes are released.",
+      "explanation": {
+        "en": true,
+        "si": "Cage trolley එක ගෙනයාමට පෙර caster brake නිදහස්දැයි පරීක්ෂා කරන්න.",
+        "technicalNoteJa": "移動前＝キャスターストッパー確認"
+      },
+      "sourcePage": 97,
+      "sourceAnchor": "p97 カゴ台車の操作",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0303",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "カゴ<ruby>台車<rt>だいしゃ</rt></ruby>は、<ruby>止<rt>と</rt></ruby>まる<ruby>場所<rt>ばしょ</rt></ruby>や<ruby>曲<rt>ま</rt></ruby>がる<ruby>場所<rt>ばしょ</rt></ruby>の２メートル<ruby>手前<rt>てまえ</rt></ruby>から<ruby>減速<rt>げんそく</rt></ruby>します。"
+      },
+      "statement": "カゴ<ruby>台車<rt>だいしゃ</rt></ruby>は、<ruby>止<rt>と</rt></ruby>まる<ruby>場所<rt>ばしょ</rt></ruby>や<ruby>曲<rt>ま</rt></ruby>がる<ruby>場所<rt>ばしょ</rt></ruby>の２メートル<ruby>手前<rt>てまえ</rt></ruby>から<ruby>減速<rt>げんそく</rt></ruby>します。",
+      "correctAnswer": "Slow down from two metres before a stop or turn.",
+      "explanation": {
+        "en": true,
+        "si": "නවත්වන හෝ හැරෙන ස්ථානයට මීටර් 2කට පෙර වේගය අඩු කරන්න.",
+        "technicalNoteJa": "停止・旋回の2m手前から減速"
+      },
+      "sourcePage": 97,
+      "sourceAnchor": "p97 カゴ台車の減速",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0304",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>使用後<rt>しようご</rt></ruby>はカゴ<ruby>台車<rt>だいしゃ</rt></ruby>のストッパーをロックします。"
+      },
+      "statement": "<ruby>使用後<rt>しようご</rt></ruby>はカゴ<ruby>台車<rt>だいしゃ</rt></ruby>のストッパーをロックします。",
+      "correctAnswer": "Lock the brakes after using the roll-box pallet.",
+      "explanation": {
+        "en": true,
+        "si": "භාවිතයෙන් පසු cage trolley එකේ brake lock කරන්න.",
+        "technicalNoteJa": "使用後＝ストッパーをロック"
+      },
+      "sourcePage": 97,
+      "sourceAnchor": "p97 カゴ台車の使用後",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0305",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>棚<rt>たな</rt></ruby>や<ruby>柱<rt>はしら</rt></ruby>によじ<ruby>登<rt>のぼ</rt></ruby>って<ruby>高<rt>たか</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>してはいけません。"
+      },
+      "statement": "<ruby>棚<rt>たな</rt></ruby>や<ruby>柱<rt>はしら</rt></ruby>によじ<ruby>登<rt>のぼ</rt></ruby>って<ruby>高<rt>たか</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>してはいけません。",
+      "correctAnswer": "Never climb shelves or columns to work at height.",
+      "explanation": {
+        "en": true,
+        "si": "උස ස්ථානවල වැඩ කිරීමට රාක්ක හෝ කණු මත නැගීම තහනම්ය.",
+        "technicalNoteJa": "高所作業＝棚・柱によじ登らない"
+      },
+      "sourcePage": 98,
+      "sourceAnchor": "p98 高い場所での作業",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0306",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "フォークリフトで<ruby>人<rt>ひと</rt></ruby>をパレットごと<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げてはいけません。"
+      },
+      "statement": "フォークリフトで<ruby>人<rt>ひと</rt></ruby>をパレットごと<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げてはいけません。",
+      "correctAnswer": "Never stand on a pallet and have a forklift lift you.",
+      "explanation": {
+        "en": true,
+        "si": "Pallet එකක් මත සිට forklift එකෙන් පුද්ගලයෙකු ඔසවාගැනීම තහනම්ය.",
+        "technicalNoteJa": "フォークリフトで人を持ち上げない"
+      },
+      "sourcePage": 98,
+      "sourceAnchor": "p98 高い場所での作業",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0307",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": true,
+        "ja": "<ruby>動<rt>うご</rt></ruby>いているベルトコンベアに<ruby>寄<rt>よ</rt></ruby>りかかると、<ruby>手<rt>て</rt></ruby>や<ruby>服<rt>ふく</rt></ruby>が<ruby>巻<rt>ま</rt></ruby>き<ruby>込<rt>こ</rt></ruby>まれるおそれがあります。"
+      },
+      "statement": "<ruby>動<rt>うご</rt></ruby>いているベルトコンベアに<ruby>寄<rt>よ</rt></ruby>りかかると、<ruby>手<rt>て</rt></ruby>や<ruby>服<rt>ふく</rt></ruby>が<ruby>巻<rt>ま</rt></ruby>き<ruby>込<rt>こ</rt></ruby>まれるおそれがあります。",
+      "correctAnswer": "Leaning on a moving conveyor can pull in hands or clothing and cause serious injury.",
+      "explanation": {
+        "en": true,
+        "si": "චලනය වන conveyor එකට හේත්තු වීමෙන් අත් හෝ ඇඳුම් ඇදී ගොස් බරපතළ තුවාල විය හැක.",
+        "technicalNoteJa": "ベルトコンベアに寄りかからない"
+      },
+      "sourcePage": 98,
+      "sourceAnchor": "p98 機械から貨物を取るとき",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
