@@ -91,6 +91,13 @@
       "pages": "19–28",
       "status": "DRAFT_BULK_BATCH_VISUAL_PARTIAL",
       "commit": "6fa6040943e484b7a84ae7a585be5aeaa1328d4a"
+    },
+    {
+      "file": "data/part-01/lesson-04-pages-029-038.json",
+      "part": "part-01",
+      "pages": "29–38",
+      "status": "DRAFT_BULK_BATCH_VISUAL_PARTIAL",
+      "commit": "7a759bd1c70a618fdeb08a8466ecacf1175a531b"
     }
   ],
   "completeness_rules": [
@@ -106,6 +113,7 @@
     "Batch pages 19-28 added with Japanese, Romaji, English, Sinhala, source-page visual descriptions and image mapping status.",
     "Original PDF page renders visually inspected for pages 19-21 and 23-28; page 22 image unavailable in Files render and remains pending.",
     "ZIP image asset filenames have not yet been retrieved; exact ZIP filename mapping remains pending.",
-    "No full-book completion claim is valid until every physical page, source image, table, diagram, and translation is reconciled."
+    "No full-book completion claim is valid until every physical page, source image, table, diagram, and translation is reconciled.",
+    "Batch pages 29-38 added. Source page images visually inspected for pages 29-33,36-37; pages 34,35,38 image render unavailable and flagged. Text and translations populated for pages 29-38."
   ]
 }
