@@ -154,5 +154,230 @@
     "A coverage gate that fails release if any source item has no app note or is marked unresolved."
   ],
   "release_rule": "Do not mark complete or release as fully audited until every source item has status VERIFIED_IN_APP or VERIFIED_NOT_APPLICABLE with evidence, and there are zero unresolved source items.",
-  "next_scope": "Continue original PDF page-by-page, beginning with Part 2 pages 55-68, then audit all remaining parts; expand every missing source item into the app data and attach evidence."
+  "next_scope": "Continue original PDF page-by-page, beginning with Part 2 pages 55-68, then audit all remaining parts; expand every missing source item into the app data and attach evidence.",
+  "latest_bulk_audit": {
+    "inspected_at": "2026-11-18",
+    "scope": "Part 2 printed pages 54-68; original PDF physical pages 55-69",
+    "source_comparison": "Original PDF pages reopened directly; active app JSON fetched from GitHub and field-by-field structure checked.",
+    "verified_findings": [
+      "Printed page 54 PPE/workwear section is now present in the active page-54 record; this is a draft restoration, not language sign-off.",
+      "Printed page 55-68 labels align with the source page numbers in the current active record.",
+      "Source printed pages 55-68 contain full lists, table rows, examples, warnings and procedures that are compressed in the current source_ja summaries; a short summary is not proof of full study-note coverage.",
+      "Printed page 61-63 warehouse-counter tables contain many individual rows and examples; current app summaries compress them and require expansion.",
+      "Printed page 64-68 include operational steps, checklists, numeric specifications and package-form descriptions that need row/step-level mapping."
+    ],
+    "language_qa": {
+      "rule": "A populated field is not proof of translation accuracy. No language is marked PASS without line-by-line comparison.",
+      "furigana_missing_pages": [
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "furigana_present_but_scope_unverified_pages": [
+        54,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "romaji_english_sinhala": "Present in active records for pages 54-68; accuracy and completeness remain unverified."
+    },
+    "visual_inventory": {
+      "repo_directory": "public/images",
+      "numbered_original_asset_files": 121,
+      "other_entries": [
+        "IMAGE_MAPPING_STATUS.md",
+        "generated/"
+      ],
+      "user_expected_assets": 172,
+      "discrepancy": 51,
+      "status": "BLOCKED_RECONCILIATION",
+      "note": "The current repository directory contains numbered assets 0-120 (121 image files), not 172. The 172-item source archive/inventory must be located and reconciled before claiming 172/172 inspection. Existing per-page image_mapping statuses are not independent visual-inspection evidence."
+    },
+    "page_statuses": [
+      {
+        "page": 54,
+        "status": "DRAFT_RESTORED",
+        "remaining": [
+          "Japanese/Furigana/Romaji/English/Sinhala proofreading",
+          "individual original image mapping"
+        ]
+      },
+      {
+        "page": 55,
+        "status": "CONTENT_EXPANSION_REQUIRED",
+        "remaining": [
+          "full subheading and document-definition mapping",
+          "furigana",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 56,
+        "status": "CONTENT_EXPANSION_REQUIRED",
+        "remaining": [
+          "picking list and all outbound document definitions",
+          "labels, LOT, JAN, QR details",
+          "furigana",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 57,
+        "status": "CONTENT_EXPANSION_REQUIRED",
+        "remaining": [
+          "RFID three feature bullets",
+          "care-mark/GHS table",
+          "length conversion table",
+          "furigana",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 58,
+        "status": "CONTENT_EXPANSION_REQUIRED",
+        "remaining": [
+          "inch/foot and Japanese traditional unit rows",
+          "area and tsubo examples",
+          "volume/capacity definitions and conversion table",
+          "furigana",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 59,
+        "status": "CONTENT_EXPANSION_REQUIRED",
+        "remaining": [
+          "prefix definitions",
+          "traditional capacity units",
+          "weight table",
+          "specific-gravity calculation",
+          "pound/ounce values",
+          "furigana",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 60,
+        "status": "NUMERIC_REVIEW_REQUIRED",
+        "remaining": [
+          "volume-ton definition",
+          "equipment-ton formula and worked example",
+          "effective-height definition",
+          "40-50% humidity",
+          "time/date examples",
+          "150 lx threshold",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 61,
+        "status": "TABLE_EXPANSION_REQUIRED",
+        "remaining": [
+          "all warehouse counter rows and examples",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 62,
+        "status": "TABLE_EXPANSION_REQUIRED",
+        "remaining": [
+          "all counter continuation rows and examples",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 63,
+        "status": "TABLE_EXPANSION_REQUIRED",
+        "remaining": [
+          "all eight final counter rows and examples",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 64,
+        "status": "PROCEDURE_REVIEW_REQUIRED",
+        "remaining": [
+          "inbound preparation steps",
+          "truck/trailer/container dock-height values",
+          "vehicle guidance and wing-truck instructions",
+          "container-door safety warnings",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 65,
+        "status": "CHECKLIST_REVIEW_REQUIRED",
+        "remaining": [
+          "unloading process",
+          "eight inspection fields",
+          "barcode scan procedure",
+          "kuchiwari warning and example",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 66,
+        "status": "TABLE_EXPANSION_REQUIRED",
+        "remaining": [
+          "manufacturing LOT traceability",
+          "piece/ball/case/combined-case/pallet hierarchy",
+          "variable-weight cargo rule",
+          "four weighing methods and inspection-record requirements",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 67,
+        "status": "VISUAL_AND_TEXT_REVIEW_REQUIRED",
+        "remaining": [
+          "wooden case",
+          "carton liner/flute construction",
+          "moisture warning",
+          "paper sack handling warning",
+          "FIBC 500-1000 kg specification",
+          "translation proof",
+          "visual asset match"
+        ]
+      },
+      {
+        "page": 68,
+        "status": "VISUAL_AND_TEXT_REVIEW_REQUIRED",
+        "remaining": [
+          "bale and bundle distinction",
+          "bale clamp and roll clamp",
+          "drum/18 L/pail can comparison table",
+          "translation proof",
+          "visual asset match"
+        ]
+      }
+    ],
+    "release_status": "BLOCKED",
+    "release_blockers": [
+      "full source-to-note item-level coverage",
+      "language-by-language proofing",
+      "numeric/table verification",
+      "172-image inventory reconciliation and visual inspection",
+      "zero unresolved items"
+    ]
+  }
 }
