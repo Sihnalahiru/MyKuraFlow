@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-01-and-part-02-transition",
+  "lesson_id": "corrected-bulk-printed-pages-050-059",
+  "lesson_title": "Emergency response, pallet appendix, workwear, warehouse forms, labels and measurement units",
+  "page_range": {
+    "printed": "50-59",
+    "physical_pdf": "51-60"
+  },
+  "languages": [
+    "ja",
+    "romaji",
+    "en",
+    "si"
+  ],
+  "pages": [
+    {
+      "pdf_page": 51,
+      "printed_page": 50,
+      "source_ja": "６．緊急のときの対応\n普段から非常口と避難ルートを確認する。非常口・避難ルートに貨物やパレットを置かない。緊急時はエレベーターを使わず、誘導灯の矢印に従って避難する。\n（１）地震：揺れを感じたら貨物の崩落・落下の危険があるため安全な場所へ移動し、自分の身を守る。揺れが止まったら避難ルートで指定避難場所へ移動し、責任者に無事を伝える。エレベーター内で揺れたら全階ボタンを押し、停止階で降りる。閉じ込められたら非常ブザーまたはインターフォンで外へ知らせる。\n（２）火事：大声で周囲に知らせる。火が小さければ消火器を使う。警報器が鳴ったら仕事を止め、非常口から避難する。消火器手順：①安全ピンを抜く ②ノズルを火に向ける ③レバーを握って放射する。\n（３）停電（冷蔵倉庫）：携帯ライトまたはフォークリフトのライトで明かりを確保し、出口へ移動し、ドアを手動で開けて外へ出る。",
+      "romaji": "Kinkyuu no toki no taiou. Fudan kara hijouguchi to hinan ruuto o kakunin suru. Jishin: anzen na basho e idou shi, yure ga tomattara hinan basho e mukai, sekininsha ni buji o tsutaeru. Kaji: ookina koe de shirase, chiisai hi nara shoukaki o tsukau. Shoukaki no junjo: pin o nuki, nozzle o hi ni mukete, lever o nigiri housha suru. Teiden: keitai light mata wa forklift light de akari o kakuhou shi, deguchi e idou shi, doa o shudou de hiraku.",
+      "en": "6. Emergency response. Know the emergency exits and evacuation routes in advance; never block them with cargo or pallets. Do not use elevators during an emergency; follow the arrows on illuminated exit signs. Earthquake: move to a safe place because cargo may collapse or fall; protect yourself. After shaking stops, use the evacuation route to the designated assembly point and report your safety to the supervisor. If shaking occurs in an elevator, press all floor buttons and exit at the floor where it stops. If trapped, use the emergency buzzer or intercom. Fire: shout to alert others; use an extinguisher only if the fire is still small; when the alarm sounds, stop work and evacuate through the emergency exit. Extinguisher steps: pull safety pin, aim nozzle at fire, squeeze lever. Power failure in a refrigerated warehouse: use a portable or forklift light, move to the exit and open the door manually.",
+      "si": "6. හදිසි අවස්ථාවලදී ක්‍රියා කිරීම. හදිසි පිටවීම් සහ පලායෑමේ මාර්ග කලින් හඳුනාගන්න. ඒවා භාණ්ඩ හෝ පැලට්වලින් අවහිර නොකරන්න. හදිසි අවස්ථාවක සෝපානය භාවිත නොකර හරිත මාර්ගෝපදේශක ආලෝකයේ ඊතල අනුගමනය කරන්න. භූමිකම්පාවකදී භාණ්ඩ වැටීමේ අවදානම නිසා ආරක්ෂිත ස්ථානයකට ගොස් තමන් ආරක්ෂා කරගන්න. කම්පනය නතර වූ පසු නියමිත රැස්වීම් ස්ථානයට ගොස් වගකිවයුතු නිලධාරියාට තමන් සුරක්ෂිත බව දන්වන්න. සෝපානයේ සිරවුණොත් හදිසි බසරය හෝ ඉන්ටර්කොම් භාවිත කරන්න. ගින්නක් දුටුවොත් හඬ නගා දැනුම් දෙන්න; කුඩා ගින්නක් නම් පමණක් නිවන උපකරණය භාවිත කරන්න; අනතුරු ඇඟවීම ඇසුණු විට වැඩ නවතා පිටවන්න. නිවන උපකරණය: ආරක්ෂක පින් එක ඉවත් කිරීම, නළය ගින්න දෙසට යොමු කිරීම, ලීවරය තද කිරීම. ශීත ගබඩාවක විදුලිය විසන්ධි වුවහොත් අතේ ගෙනයන හෝ ෆෝක්ලිෆ්ට් ආලෝකය භාවිත කර දොර අතින් විවෘත කර පිටවන්න.",
+      "visuals": [
+        {
+          "type": "flow",
+          "description": "Emergency evacuation routes and earthquake, fire and refrigerated-warehouse power-failure response steps."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": 51,
+      "source_ja": "第１編 物流倉庫の基本 付録：パレットの種類\nパレットは貨物を載せて運ぶ平らな台で、フォークリフトの爪を差し込み貨物をまとめて運べる。\n（１）平面サイズ：11型 1,100×1,100mm（最も多い標準）、12型 1,200×1,000mm（冷蔵倉庫で多い）、14型 1,400×1,100mm（大型貨物用）、9型 1,100×900mm（飲料用、Pパレ）。T11型はJIS規格で定められた11型、厚さ144mm。TはThrough Transitの略。JISは日本産業規格。\n（２）高さ：フォークリフトの爪に合わせ144～150mmが標準。",
+      "romaji": "Dai ikpen butsuryuu souko no kihon, furoku: pallet no shurui. Pallet wa kamotsu o nosete hakobu hiratai dai. 11-gata 1100 x 1100 mm, 12-gata 1200 x 1000 mm, 14-gata 1400 x 1100 mm, 9-gata 1100 x 900 mm. T11-gata wa JIS kikaku, atsusa 144 mm. Takasa wa 144 kara 150 mm ga hyoujun.",
+      "en": "Part 1 appendix: pallet types. A pallet is a flat platform for carrying cargo; forklift forks enter it so cargo can be moved together. Sizes: Type 11, 1,100 × 1,100 mm, the most common standard; Type 12, 1,200 × 1,000 mm, common in refrigerated warehouses; Type 14, 1,400 × 1,100 mm, for large cargo; Type 9, 1,100 × 900 mm, used for beverages and also called P-pallet. T11 is a JIS-standard Type 11 pallet with a thickness of 144 mm. “T” means Through Transit; JIS is the Japanese Industrial Standards. Standard height is 144–150 mm to fit forklift forks.",
+      "si": "පළමු කොටස — ලොජිස්ටික්ස් ගබඩා මූලික කරුණු, අතිරේකය: පැලට් වර්ග. පැලට් යනු භාණ්ඩ තබා ප්‍රවාහනය කරන පැතලි වේදිකාවකි. ෆෝක්ලිෆ්ට් දත් ඇතුළු කර භාණ්ඩ එකවර ගෙනයා හැකිය. වර්ග 11: 1,100×1,100 mm — බහුලම සම්මතය; වර්ග 12: 1,200×1,000 mm — ශීත ගබඩාවල බහුලයි; වර්ග 14: 1,400×1,100 mm — විශාල භාණ්ඩ සඳහා; වර්ග 9: 1,100×900 mm — පානීය භාණ්ඩ සඳහා, P-pallet ලෙසද හැඳින්වේ. T11 යනු JIS ප්‍රමිතියට අනුව ඇති 11 වර්ගයේ, ඝනකම 144 mm පැලට් එකකි. T යනු Through Transit යන්නයි. සම්මත උස 144–150 mm වේ.",
+      "visuals": [
+        {
+          "type": "comparison",
+          "description": "Pallet size comparison: 11, 12, 14 and 9 types, with T11 thickness."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": 52,
+      "source_ja": "（３）材質：木材、プラスチック（現在最も多く流通）、鉄製（重い貨物用）、紙・段ボール製（軽い貨物用）。\n（４）最大積載質量：標準1t。積載質量は載せられる貨物の重さの限界。\n（５）使用面：単面使用形は片面だけに載せる。両面使用形は両面に載せられる。\n（６）フォーク差し方向：二方差しは２方向から差し込む。四方差しは４方向すべてから差し込め、作業しやすい。\n注意：最大積載質量1tを超えない。超えるとパレットが壊れ事故の危険がある。",
+      "romaji": "Zai shitsu: mokuzai, purasuchikku, tetsu, kami・danbooru. Saidai sekisai shitsuryou wa hyoujun 1 ton. Shiyoumen: tanmen shiyou-gata wa katahou dake, ryoumen shiyou-gata wa ryomen. Fork sashihoukou: nihou-sashi wa 2 houkou, shihou-sashi wa 4 houkou. 1 ton o koete wa ikenai.",
+      "en": "(3) Materials: wood; plastic (currently the most widely distributed); steel (sometimes used for heavy cargo); paper/cardboard (sometimes used for light cargo). (4) Maximum load mass: 1 tonne is standard. This is the maximum cargo weight that may be placed on the pallet. (5) Usable surfaces: single-face pallets carry cargo on one side only; double-face pallets can carry cargo on either side. (6) Fork-entry directions: two-way entry accepts forks from two directions; four-way entry accepts forks from all four directions and is easier to work with. Warning: never exceed the 1-tonne maximum; overloading may break the pallet and cause an accident.",
+      "si": "(3) ද්‍රව්‍ය: ලී, ප්ලාස්ටික් (දැනට වෙළඳපොළේ බහුලම), යකඩ (බර භාණ්ඩ සඳහා), කඩදාසි/කාඩ්බෝඩ් (සැහැල්ලු භාණ්ඩ සඳහා). (4) උපරිම පැටවීමේ බර: සාමාන්‍ය සම්මතය ටොන් 1කි. එය පැලට් එක මත තැබිය හැකි භාණ්ඩවල උපරිම බරයි. (5) භාවිත කළ හැකි පැති: එක් පැත්තක පමණක් භාණ්ඩ තබන single-face සහ දෙපැත්තේම තැබිය හැකි double-face වර්ග. (6) ෆෝක් ඇතුළු කරන දිශා: two-way වර්ගයට දිශා දෙකකින්ද, four-way වර්ගයට දිශා හතරෙන්මද ඇතුළු කළ හැකිය. Four-way භාවිතය පහසුය. අවවාදය: ටොන් 1 උපරිම බර ඉක්මවන්න එපා. පැලට් කැඩී අනතුරු සිදුවිය හැකිය.",
+      "visuals": [
+        {
+          "type": "diagram",
+          "description": "Pallet construction material, single/double-face and two-way/four-way fork entry."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": 53,
+      "source_ja": "第２編 作業マニュアル\nⅠ．作業に必要な知識\n１．作業時に身に着けるもの\n作業着：ワークシャツ・ジャンパー・ワークパンツの３点セットが基本。熱中症対策としてファン付き作業着も使われる。\n安全ベスト：反射テープ付きで周囲から作業者の位置を見やすくする。\n安全帽（ヘルメット）：頭を守る。倉庫内では必ず着用。\n安全靴：先端に金属などが入り、落下物から足先を守る。\n手袋：作業中は必ず着用し、手・指を守る。流通加工では衛生上、通常と別の手袋を使うことがある。",
+      "romaji": "Dai ni hen sagyou manyuaru. Sagyouji ni mi ni tsukeru mono: sagyougi wa work shirt, jumper, work pants. Fan-tsuki fuku mo aru. Anzen vest wa hansha tape tsuki. Anzenbou/helmet wa atama o mamoru, soukonai de kanarazu chakuyou. Anzen kutsu wa ashi no saki o mamoru. Tebukuro wa te to yubi o mamoru tame sagyou chuu kanarazu tsukeru.",
+      "en": "Part 2: Work Manual. I. Knowledge required for work. 1. Personal protective clothing/equipment. Workwear normally consists of a work shirt, jacket and work pants. Fan-equipped clothing is also used to prevent heat illness. A safety vest has reflective tape so others can see the worker's position. A safety helmet protects the head and must always be worn inside the warehouse. Safety shoes have protective material in the toe to protect against falling objects. Gloves protect hands and fingers and must be worn during work. In distribution processing, separate gloves may be used for hygiene.",
+      "si": "දෙවන කොටස: වැඩ කිරීමේ අත්පොත. I. වැඩ සඳහා අවශ්‍ය දැනුම. 1. වැඩ කරන විට පැළඳිය යුතු ආරක්ෂක ඇඳුම්/උපකරණ. සාමාන්‍ය වැඩ ඇඳුමට work shirt, jacket සහ work pants ඇතුළත් වේ. උෂ්ණත්ව ආතතිය වැළැක්වීමට පංකා සවි කළ ඇඳුම්ද භාවිත වේ. පරාවර්තක පටි සහිත ආරක්ෂක වෙස්ට් එකෙන් සේවකයා සිටින ස්ථානය අන් අයට පෙනේ. ආරක්ෂක හිස්වැස්ම හිස ආරක්ෂා කරන අතර ගබඩාව තුළ අනිවාර්යයෙන් පැළඳිය යුතුය. ආරක්ෂක සපත්තු වැටෙන ද්‍රව්‍යවලින් පාදයේ ඇඟිලි ආරක්ෂා කරයි. අත්වැසුම් අත් සහ ඇඟිලි ආරක්ෂා කරන අතර වැඩ කරන විට අනිවාර්යය. භාණ්ඩ සැකසුම් වැඩවලදී සනීපාරක්ෂාව සඳහා වෙනත් අත්වැසුම් භාවිත කළ හැකිය.",
+      "visuals": [
+        {
+          "type": "infographic",
+          "description": "Warehouse PPE set: workwear, reflective vest, helmet, safety shoes and gloves."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": 54,
+      "source_ja": "２．帳票・ラベル\n帳票は仕事で使う帳簿・伝票などの記録用紙。\n（１）入庫関係帳票：寄託申込書は寄託者が倉庫規則・約款に同意して貨物を預ける申込書。記載事項は貨物種類・品名、個数・数量・単位、荷造り種類、記号・規格・サイズ・形状。入庫指図票は貨物到着時の書類または担当者への指示書。貨物受領書は運送人に渡す受領証。入庫通知書は寄託者へ入庫を知らせる書類。\n（２）出庫関係帳票：出庫伝票は寄託者の出庫依頼を受け倉庫側が作る伝票。",
+      "romaji": "Chouhyou・label. Chouhyou wa shigoto de tsukau kiroku youshi. Nyuuko kankei: kitaku moushikomisho, nyuuko sashizuhyou, kamotsu juryousho, nyuuko tsuuchisho. Kitaku moushikomisho ni shurui, hinmei, kosuu, suuryou, tani, nizukuri, kigou, kikaku, size, keijou o kaku. Shukko denpyou wa shukko irai o ukete souko gawa ga tsukuru.",
+      "en": "2. Forms and labels. Forms are record sheets used for work, such as ledgers and slips. (1) Inbound documents: the storage application (kitaku moushikomisho) records the depositor's agreement to warehouse rules/terms. It includes cargo type/name, item count/quantity/unit, packing type, marks, standards, size and shape. The inbound instruction sheet is used when cargo arrives or gives instructions to warehouse staff. The cargo receipt is given to the carrier as acknowledgement of receipt. The inbound notice informs the depositor that cargo has entered the warehouse. (2) Outbound documents: the outbound slip is prepared by the warehouse after the depositor requests dispatch.",
+      "si": "2. ලේඛන සහ ලේබල්. වැඩ සඳහා භාවිත කරන ලෙජර් සහ වවුචර් වැනි වාර්තා පත්‍ර ලේඛන වේ. (1) භාණ්ඩ ඇතුළත් කිරීමේ ලේඛන: භාණ්ඩ භාරදීමේ අයදුම්පතෙන් භාණ්ඩ හිමිකරු ගබඩා නීති/කොන්දේසි පිළිගෙන භාණ්ඩ භාරදෙයි. එහි භාණ්ඩ වර්ගය හා නම, ගණන/ප්‍රමාණය/ඒකකය, ඇසුරුම් වර්ගය, සලකුණු, ප්‍රමිතිය, ප්‍රමාණය සහ හැඩය ඇතුළත් වේ. Inbound instruction sheet එක භාණ්ඩ පැමිණෙන විට භාවිත කරයි හෝ සේවකයන්ට උපදෙස් දෙයි. Cargo receipt එක ප්‍රවාහකයාට භාරදීමේ පිළිගැනීමක් ලෙස ලබාදෙයි. Inbound notice එකෙන් භාණ්ඩ ගබඩාවට ඇතුළත් වූ බව හිමිකරුට දන්වයි. (2) Outbound ලේඛන: හිමිකරුගේ ඉල්ලීමෙන් පසු ගබඩාව සකස් කරන පිටත් කිරීමේ වවුචරය.",
+      "visuals": [
+        {
+          "type": "flow",
+          "description": "Inbound documentation sequence and roles of application, instruction, receipt and arrival notice."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": 55,
+      "source_ja": "出庫関係帳票の続き：ピッキングリストは注文商品を倉庫内から探して集める作業の指示リスト。出庫指図書は担当者に対象貨物の出庫を指示する書類。送り状は運送人に渡す書類。出庫通知書は寄託者に出庫を知らせる書類。\n（３）ラベル：出庫ラベルは送り先住所・受取人名を記載し出庫貨物に貼る。入庫ラベルは入庫時の管理用。管理番号・LOT番号は貨物グループ番号で問題時に対象商品を素早く特定できる。ラベラーで個別貼付する場合もある。\nJANコードは会社と商品を示す共通識別番号。本文記載では12桁。海外ではGTINと呼ぶ。QRコードはより多くの情報を持てる２次元コード。QRはQuick Responseの略。",
+      "romaji": "Shukko kankei chouhyou: picking list wa order sareta shouhin o sagashite atsumeru list. Shukko sashizusho wa kamotsu o dasu shiji. Okurijou wa unsounin ni watasu. Shukko tsuuchisho wa kitakusha ni shiraseru. Shukko label ni okurisaki juusho to uketorinin namae. Nyuuko label wa kanri you. JAN code wa kaisha to shouhin no shikibetsu bangou; GTIN to mo iu. QR wa Quick Response.",
+      "en": "Continuation of outbound documents: a picking list instructs workers to find and collect ordered products in the warehouse. An outbound instruction document tells staff which cargo to dispatch. A waybill is given to the carrier. An outbound notice informs the depositor that goods have been dispatched. (3) Labels: an outbound label is attached to dispatched cargo and shows destination address and recipient name. An inbound label is used to manage goods entering the warehouse. Management/LOT numbers identify a cargo group and help quickly identify affected products if a problem occurs. A labeller may be used to attach labels individually. A JAN barcode is a shared product identification number showing the company and product; the source states it has 12 digits. It is called GTIN overseas. A QR code is a two-dimensional code designed to hold more information; QR means Quick Response.",
+      "si": "පිටත් කිරීමේ ලේඛන: Picking list එකෙන් ඇණවුම් කළ භාණ්ඩ ගබඩාවෙන් සොයා එකතු කළ යුතු ආකාරය දක්වයි. Outbound instruction එකෙන් කුමන භාණ්ඩ පිටත් කළ යුතුදැයි සේවකයාට උපදෙස් දෙයි. Waybill එක ප්‍රවාහකයාට ලබාදෙයි. Outbound notice එකෙන් භාණ්ඩ පිටත් කළ බව හිමිකරුට දන්වයි. (3) ලේබල්: පිටත් කිරීමේ ලේබලයේ ගමනාන්ත ලිපිනය සහ භාරගන්නා පුද්ගලයාගේ නම සඳහන් වේ. Inbound label එක ඇතුළත් වන භාණ්ඩ පාලනයට යොදාගනී. LOT/කළමනාකරණ අංකය භාණ්ඩ කාණ්ඩය හඳුනාගෙන ගැටලුවක් ඇති විට අදාළ භාණ්ඩය ඉක්මනින් සොයාගැනීමට උපකාරී වේ. JAN barcode එක සමාගම සහ භාණ්ඩය හඳුනාගන්නා පොදු අංකයකි; මූලාශ්‍රයේ එය ඉලක්කම් 12ක් ලෙස සඳහන් වේ. විදේශයන්හි GTIN ලෙස හඳුන්වයි. QR යනු වැඩි තොරතුරු ගබඩා කළ හැකි ද්විමාන කේතයකි; QR යන්න Quick Response යන්නයි.",
+      "visuals": [
+        {
+          "type": "diagram",
+          "description": "Outbound picking and dispatch documents; inbound/outbound labels and barcode vs QR code."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": 56,
+      "source_ja": "③ RFID：Radio Frequency Identificationの略。電波を使いタグから情報を読み取る技術。タグに触れず読める（非接触）、一度に多数のタグをまとめてスキャンできる、離れた場所のタグも読める。ICチップ入り電子タグを使う無線通信システム。\n（４）ケアマーク・GHSラベル：ケアマークは貨物の扱い方（壊れやすい、逆さにしない等）を示す。GHSラベルは危険成分の有無など貨物の性状を示す。\n３．単位\n（１）長さ：基本単位m。1cm＝1/100m、1mm＝1/1000m。換算：1m=100cm=1000mm、1cm=0.01m、1mm=0.001m。",
+      "romaji": "RFID wa Radio Frequency Identification no ryakugo. Denpa de tag no jouhou o yomu. Hiset shoku, ichido ni takusan scan, hanareta tag mo yomeru. Care mark wa atsukai kata, GHS label wa kikenseibun nado no seijou. Tani: nagasa no kihon wa meter. 1m=100cm=1000mm.",
+      "en": "RFID means Radio Frequency Identification. It uses radio waves to read information from tags. Features: contactless reading; scanning many tags at once; and reading tags from a distance. It is a wireless communication system using electronic tags containing IC chips. (4) Care marks and GHS labels: care marks indicate handling instructions (e.g. fragile, do not turn upside down); GHS labels indicate cargo properties such as whether hazardous ingredients are present. 3. Units. (1) Length: the basic unit is the metre. 1 cm = 1/100 m; 1 mm = 1/1,000 m. Conversion: 1 m = 100 cm = 1,000 mm; 1 cm = 0.01 m; 1 mm = 0.001 m.",
+      "si": "RFID යනු Radio Frequency Identification යන්නෙහි කෙටි නාමයයි. රේඩියෝ තරංග භාවිතයෙන් tag එකක තොරතුරු කියවයි. විශේෂාංග: ස්පර්ශ නොකර කියවීම; එකවර tag විශාල ගණනක් scan කිරීම; දුරින් ඇති tag කියවීම. IC chip සහිත ඉලෙක්ට්‍රොනික tag භාවිත කරන රැහැන් රහිත සන්නිවේදන පද්ධතියකි. (4) Care mark සහ GHS label: Care mark මඟින් භාණ්ඩ හසුරුවන ආකාරය (බිඳෙනසුලු, උඩුයටිකුරු නොකරන්න) දක්වයි. GHS label මඟින් අනතුරුදායක සංඝටක තිබේද වැනි භාණ්ඩයේ ස්වභාවය දක්වයි. 3. මිනුම් ඒකක. (1) දිග: මූලික ඒකකය මීටරයයි. 1 cm = 1/100 m; 1 mm = 1/1000 m. 1 m = 100 cm = 1000 mm.",
+      "visuals": [
+        {
+          "type": "comparison",
+          "description": "RFID contactless tag reading, care marks and GHS hazard label categories."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": 57,
+      "source_ja": "長さの単位：1インチ=2.54cm、1フィート=30.48cm（12インチ）。日本独自の単位：1寸=3.03cm、1尺=30.3cm（10寸）、1間=1.82m（6尺）。\n（２）広さ・面積：縦×横＝面積。1m×1m=1㎡（平米）。1間×1間＝約3.306㎡＝1坪。畳２枚分が約１坪。\n（３）体積・容積：面積×高さ＝体積。1m×1m×1m=1㎥（立米）。容積は容器に入る量で体積と同じ意味の場合もある。10cm×10cm×10cmの箱は1dm³＝1ℓ。",
+      "romaji": "Inchi wa 2.54 cm, feet wa 30.48 cm. Sun wa 3.03 cm, shaku wa 30.3 cm, ken wa 1.82 m. Hiro sa wa tate kakeru yoko. 1 m2. 1 tsubo wa yaku 3.306 m2. Taiseki wa menseki kakeru takasa. 1 m3. 1 dm3 wa 1 liter.",
+      "en": "Length conversions: 1 inch = 2.54 cm; 1 foot = 30.48 cm (12 inches). Japanese traditional units: 1 sun = 3.03 cm; 1 shaku = 30.3 cm (10 sun); 1 ken = 1.82 m (6 shaku). (2) Area: length × width = area. 1 m × 1 m = 1 square metre (m²). 1 ken × 1 ken is approximately 3.306 m² = 1 tsubo; about two tatami mats equal one tsubo. (3) Volume/capacity: area × height = volume. 1 m × 1 m × 1 m = 1 cubic metre (m³). Capacity is the amount a container can hold and may sometimes be used with the same meaning as volume. A 10 cm cube is 1 dm³ = 1 litre.",
+      "si": "දිග ඒකක: අඟල් 1 = 2.54 cm; අඩි 1 = 30.48 cm (අඟල් 12). ජපානයේ සාම්ප්‍රදායික ඒකක: සුන් 1 = 3.03 cm; ශාකු 1 = 30.3 cm (සුන් 10); කෙන් 1 = 1.82 m (ශාකු 6). (2) වර්ගඵලය: දිග × පළල = වර්ගඵලය. 1 m × 1 m = 1 m². කෙන් 1 × කෙන් 1 ≈ 3.306 m² = ත්සුබෝ 1; ටාටාමි පැදුරු දෙකක පමණ ප්‍රමාණයයි. (3) පරිමාව/ධාරිතාව: වර්ගඵලය × උස = පරිමාව. 1 m × 1 m × 1 m = 1 m³. ධාරිතාව යනු භාජනයකට ඇතුළත් කළ හැකි ප්‍රමාණයයි. 10 cm ඝනකයක් = 1 dm³ = ලීටර් 1.",
+      "visuals": [
+        {
+          "type": "infographic",
+          "description": "Length, area, volume and capacity unit conversion reference."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": 58,
+      "source_ja": "体積・容積の換算表：㎥、dm³、kℓ、ℓ、dℓ、cℓ、mℓの単位換算。1dm³=1ℓ、1ℓ=1000mℓ、1㎥=1000ℓ、1kℓ=1000ℓ。記号：k=1000倍、d=10分の1、c=100分の1、m=1000分の1。1mℓを1cc（Cubic Centimeter）ということもある。\n日本独自の容積単位：1合=0.18ℓ、1升=1.8ℓ（10合）、1斗=18ℓ（10升）。\n（４）重さ：基本単位kg。水1ℓは約1kg。1g=1/1000kg、1t=1000kg（水1㎥の重さ）。水以外は体積×比重で計算。例：0.5㎥×比重0.9=0.45t=450kg。",
+      "romaji": "Taiseki・youseki no henkan: 1 dm3 = 1 liter, 1 liter = 1000 ml, 1 m3 = 1000 liter, 1 kl = 1000 liter. k wa 1000 bai, d wa 1/10, c wa 1/100, m wa 1/1000. 1 ml wa 1 cc. Gou 0.18 liter, shou 1.8 liter, to 18 liter. Omosa no kihon kg. Mizu 1 liter wa yaku 1 kg. 1 ton wa 1000 kg. Taiseki kakeru hijuu de omosa o keisan.",
+      "en": "Volume/capacity conversion includes m³, dm³, kL, L, dL, cL and mL. Key relationships: 1 dm³ = 1 L; 1 L = 1,000 mL; 1 m³ = 1,000 L; 1 kL = 1,000 L. Prefixes: k = 1,000 times; d = one tenth; c = one hundredth; m = one thousandth. 1 mL may also be called 1 cc (cubic centimetre). Japanese traditional capacity units: 1 go = 0.18 L; 1 shō = 1.8 L (10 go); 1 to = 18 L (10 shō). (4) Weight: basic unit kg. 1 L of water weighs about 1 kg. 1 g = 1/1,000 kg; 1 tonne = 1,000 kg (the weight of 1 m³ of water). For materials other than water, calculate weight as volume × specific gravity. Example: 0.5 m³ × specific gravity 0.9 = 0.45 t = 450 kg.",
+      "si": "පරිමාව/ධාරිතාව පරිවර්තන: m³, dm³, kL, L, dL, cL සහ mL. ප්‍රධාන සම්බන්ධතා: 1 dm³ = 1 L; 1 L = 1000 mL; 1 m³ = 1000 L; 1 kL = 1000 L. උපසර්ග: k = 1000 ගුණයක්; d = දහයෙන් එක; c = සියයෙන් එක; m = දහසෙන් එක. 1 mL එක 1 cc ලෙසද කියයි. ජපානයේ ධාරිතා ඒකක: ගෝ 1 = 0.18 L; ෂෝ 1 = 1.8 L (ගෝ 10); තෝ 1 = 18 L (ෂෝ 10). (4) බර: මූලික ඒකකය kg. ජලය 1 L ≈ 1 kg. 1 g = 1/1000 kg; ටොන් 1 = 1000 kg (ජලය 1 m³ බර). ජලය නොවන ද්‍රව්‍යවල බර = පරිමාව × සාපේක්ෂ ඝනත්වය. උදා: 0.5 m³ × 0.9 = 0.45 t = 450 kg.",
+      "visuals": [
+        {
+          "type": "table",
+          "description": "Volume/capacity conversion table and traditional Japanese capacity units."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": 59,
+      "source_ja": "重さの日本独自単位：1貫は約3.75kg（氷などの重さに使用）。輸入食品の単位：1ポンド(lb)=453.6g（16オンス）、1オンス(oz)=約28g。\n容積トン（メジャートン）：軽いが体積が大きい貨物について、体積をトン数に換算する方法。40立方フィート（1.133㎥）を1トンとして計算。\n設備トン（冷蔵倉庫の単位）：床面積（㎡）×有効高（m）×0.9×0.4＝設備トン。有効高は実際に貨物を置ける天井高（大梁下またはダクト下端の低い方）。例：100㎡×5m×0.9×0.4＝180設備トン。\n（５）温度・湿度：温度は摂氏℃、湿度は%で表す。温度計・湿度計で測る。貨物保管に適した湿度は40～50%。\n（６）時間・暦：1分=60秒、1時間=60分、1日=24時間。12時間表記（AM/PM）と24時間表記（00～23時）がある。2026年4月1日は2026/04/01または'26/04/01。2026年は令和8年。\n（７）明るさ：単位ルクス(lx)。普通の作業では150lx以上が基準。",
+      "romaji": "Omosa no nihon dokuj i tani: 1 kan wa yaku 3.75 kg. 1 pound wa 453.6 g, 1 ounce wa yaku 28 g. Youseki ton wa 40 cubic feet (1.133 m3) o 1 ton to shite keisan. Setsubi ton wa yuka menseki kakeru yuukoudaka kakeru 0.9 kakeru 0.4. Ondo wa Celsius, shitsudo wa percent; tekisetsu na shitsudo wa 40 kara 50 percent. 1 fun 60 byou, 1 jikan 60 fun, 1 nichi 24 jikan. AM/PM to 24 jikan hyouki. Reiwa 8 nen wa 2026 nen. Ak arusa no tani lux, futsuu no sagyou wa 150 lx ijou.",
+      "en": "Japanese traditional weight unit: 1 kan is about 3.75 kg. Imported-food units: 1 pound (lb) = 453.6 g (16 ounces); 1 ounce (oz) ≈ 28 g. Measurement ton (revenue/volume ton): used for cargo that is light but occupies a large volume; 40 cubic feet (1.133 m³) is calculated as 1 ton. Equipment ton for refrigerated warehouses: floor area (m²) × effective height (m) × 0.9 × 0.4. Effective height is the usable height for cargo, measured to the lower of the underside of the main beam or duct. Example: 100 m² × 5 m × 0.9 × 0.4 = 180 equipment tons. (5) Temperature and humidity: temperature is expressed in Celsius (°C), humidity in percent (%), measured with thermometers and hygrometers. Suitable storage humidity is stated as 40–50%. (6) Time/calendar: 1 minute = 60 seconds; 1 hour = 60 minutes; 1 day = 24 hours. Time is written in 12-hour (AM/PM) or 24-hour format. 1 April 2026 may be written 2026/04/01 or '26/04/01; 2026 is Reiwa 8. (7) Brightness: measured in lux (lx); the standard for ordinary work is at least 150 lx.",
+      "si": "ජපානයේ සාම්ප්‍රදායික බර ඒකකය: කාන් 1 ≈ 3.75 kg. ආනයනික ආහාරවල ඒකක: පවුම් 1 (lb) = 453.6 g (අවුන්ස් 16); අවුන්ස් 1 (oz) ≈ 28 g. පරිමා ටොන් (measurement ton) යනු බර අඩු නමුත් පරිමාව විශාල භාණ්ඩ සඳහා භාවිත කරන ගණනයකි; ඝන අඩි 40 (1.133 m³) = ටොන් 1 ලෙස ගණනය කරයි. ශීත ගබඩාවල උපකරණ ටොන්: බිම් වර්ගඵලය (m²) × භාවිත කළ හැකි උස (m) × 0.9 × 0.4. භාවිත කළ හැකි උස යනු ප්‍රධාන බීම් එකේ පහළ කොටස හෝ වායු නළයේ පහළ අගය යන දෙකෙන් අඩුම උසයි. උදා: 100 m² × 5 m × 0.9 × 0.4 = උපකරණ ටොන් 180. (5) උෂ්ණත්වය °C වලින්ද ආර්ද්‍රතාව % වලින්ද දක්වයි; උෂ්ණත්වමානය සහ ආර්ද්‍රතාමානයෙන් මනියි. සුදුසු ගබඩා ආර්ද්‍රතාව 40–50% ලෙස සඳහන් වේ. (6) කාලය: මිනිත්තු 1 = තත්පර 60; පැය 1 = මිනිත්තු 60; දින 1 = පැය 24. 12-hour AM/PM සහ 24-hour ක්‍රම දෙකම ඇත. 2026 අප්‍රේල් 1 = 2026/04/01 හෝ '26/04/01; 2026 යනු Reiwa 8 වසරයි. (7) ආලෝකයේ ඒකකය lux (lx) ය. සාමාන්‍ය වැඩ සඳහා අවමය 150 lx ලෙස දක්වා ඇත.",
+      "visuals": [
+        {
+          "type": "formula",
+          "description": "Warehouse equipment-ton formula, effective-height definition, temperature/humidity gauges and lighting lux reference."
+        }
+      ],
+      "image_mapping": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+      }
+    }
+  ],
+  "audit": {
+    "status": "BULK_DRAFT_SOURCE_EXTRACTED",
+    "source_verification": "Reopened original PDF physical pages 51-60; visible printed footers are 50-59.",
+    "important": "Physical PDF page 50 is blank in the extracted source; printed page 49 was not present in this physical-page sequence. Do not fabricate printed page 49. The previous 49-58 batch requires supersession/review.",
+    "translation_status": "Draft translations and Romaji; technical and linguistic proofreading remains required.",
+    "visual_status": "Descriptions supplied for individual topic visuals; actual extraction/mapping pending."
+  }
+}
