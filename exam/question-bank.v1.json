@@ -2371,6 +2371,614 @@
       "sourceAnchor": "printed p48 lock-up safety check",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0122",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>倉庫内<rt>そうこない</rt></ruby>では、<ruby>火<rt>ひ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってはいけません。"
+      },
+      "statement": "<ruby>倉庫内<rt>そうこない</rt></ruby>では、<ruby>火<rt>ひ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってはいけません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Open flames are prohibited inside the warehouse.",
+        "si": "ගබඩාව ඇතුළත විවෘත ගිනි භාවිතය තහනම්ය.",
+        "technicalNoteJa": "倉庫内の火気使用は禁止"
+      },
+      "sourcePage": 49,
+      "sourceAnchor": "printed p49 fire prevention",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0123",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "フォークリフトのバッテリーを<ruby>充電中<rt>じゅうでんちゅう</rt></ruby>は、<ruby>水素<rt>すいそ</rt></ruby>ガスと<ruby>酸素<rt>さんそ</rt></ruby>ガスが<ruby>発生<rt>はっせい</rt></ruby>することがあります。"
+      },
+      "statement": "フォークリフトのバッテリーを<ruby>充電中<rt>じゅうでんちゅう</rt></ruby>は、<ruby>水素<rt>すいそ</rt></ruby>ガスと<ruby>酸素<rt>さんそ</rt></ruby>ガスが<ruby>発生<rt>はっせい</rt></ruby>することがあります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Hydrogen and oxygen gases may be generated while charging a forklift battery.",
+        "si": "Forklift බැටරිය ආරෝපණය කරන විට හයිඩ්‍රජන් සහ ඔක්සිජන් වායු නිකුත් විය හැකිය.",
+        "technicalNoteJa": "充電中は水素・酸素ガスの発生に注意"
+      },
+      "sourcePage": 49,
+      "sourceAnchor": "printed p49 battery charging hazard",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0124",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>消火器<rt>しょうかき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>には、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いてもかまいません。"
+      },
+      "statement": "<ruby>消火器<rt>しょうかき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>には、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いてもかまいません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Cargo must not obstruct access to fire extinguishers.",
+        "si": "ගිනි නිවන උපකරණ ඉදිරිපිට භාණ්ඩ තබා අවහිර නොකළ යුතුය.",
+        "technicalNoteJa": "消火器の前を空けておく"
+      },
+      "sourcePage": 49,
+      "sourceAnchor": "printed p49 fire equipment access",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0125",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>水害<rt>すいがい</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>がある<ruby>倉庫<rt>そうこ</rt></ruby>では、ハザードマップで<ruby>周辺<rt>しゅうへん</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>水害<rt>すいがい</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>がある<ruby>倉庫<rt>そうこ</rt></ruby>では、ハザードマップで<ruby>周辺<rt>しゅうへん</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Hazard maps should be checked to understand risks around a warehouse exposed to flooding.",
+        "si": "ගංවතුර අවදානමක් ඇති ගබඩාවක අවට අවදානම් හඳුනාගැනීමට hazard map පරීක්ෂා කළ යුතුය.",
+        "technicalNoteJa": "ハザードマップで周辺リスクを確認する"
+      },
+      "sourcePage": 49,
+      "sourceAnchor": "printed p49 flood hazard map",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0126",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>非常口<rt>ひじょうぐち</rt></ruby>や<ruby>避難<rt>ひなん</rt></ruby>ルートに、パレットを<ruby>置<rt>お</rt></ruby>いてもよいです。"
+      },
+      "statement": "<ruby>非常口<rt>ひじょうぐち</rt></ruby>や<ruby>避難<rt>ひなん</rt></ruby>ルートに、パレットを<ruby>置<rt>お</rt></ruby>いてもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Emergency exits and evacuation routes must not be blocked by pallets or cargo.",
+        "si": "හදිසි පිටවීම් සහ පලායන මාර්ග පැලට් හෝ භාණ්ඩවලින් අවහිර නොකළ යුතුය.",
+        "technicalNoteJa": "避難経路に物を置かない"
+      },
+      "sourcePage": 50,
+      "sourceAnchor": "printed p50 evacuation route",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0127",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>緊急時<rt>きんきゅうじ</rt></ruby>には、エレベーターを<ruby>使<rt>つか</rt></ruby>わず、<ruby>誘導灯<rt>ゆうどうとう</rt></ruby>の<ruby>矢印<rt>やじるし</rt></ruby>に<ruby>従<rt>したが</rt></ruby>って<ruby>避難<rt>ひなん</rt></ruby>します。"
+      },
+      "statement": "<ruby>緊急時<rt>きんきゅうじ</rt></ruby>には、エレベーターを<ruby>使<rt>つか</rt></ruby>わず、<ruby>誘導灯<rt>ゆうどうとう</rt></ruby>の<ruby>矢印<rt>やじるし</rt></ruby>に<ruby>従<rt>したが</rt></ruby>って<ruby>避難<rt>ひなん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "During an emergency, do not use elevators; follow the exit-direction signs.",
+        "si": "හදිසි අවස්ථාවක lift භාවිත නොකර පිටවීමේ මඟපෙන්වන සලකුණු අනුව පලා යා යුතුය.",
+        "technicalNoteJa": "緊急時はエレベーターを使わず誘導灯に従う"
+      },
+      "sourcePage": 50,
+      "sourceAnchor": "printed p50 emergency evacuation",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0128",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>地震<rt>じしん</rt></ruby>の<ruby>揺<rt>ゆ</rt></ruby>れを<ruby>感<rt>かん</rt></ruby>じたら、<ruby>落下<rt>らっか</rt></ruby>する<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くへ<ruby>移動<rt>いどう</rt></ruby>します。"
+      },
+      "statement": "<ruby>地震<rt>じしん</rt></ruby>の<ruby>揺<rt>ゆ</rt></ruby>れを<ruby>感<rt>かん</rt></ruby>じたら、<ruby>落下<rt>らっか</rt></ruby>する<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くへ<ruby>移動<rt>いどう</rt></ruby>します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "During an earthquake, move away from cargo that may fall or collapse.",
+        "si": "භූමිකම්පාවකදී වැටීමට හෝ කඩා වැටීමට හැකි භාණ්ඩවලින් ඈත්විය යුතුය.",
+        "technicalNoteJa": "地震時は落下・崩壊する貨物から離れる"
+      },
+      "sourcePage": 50,
+      "sourceAnchor": "printed p50 earthquake safety",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0129",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>消火器<rt>しょうかき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>手順<rt>てじゅん</rt></ruby>は、安全ピンを<ruby>抜<rt>ぬ</rt></ruby>き、ノズルを<ruby>火<rt>ひ</rt></ruby>に<ruby>向<rt>む</rt></ruby>け、レバーを<ruby>握<rt>にぎ</rt></ruby>ることです。"
+      },
+      "statement": "<ruby>消火器<rt>しょうかき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>手順<rt>てじゅん</rt></ruby>は、安全ピンを<ruby>抜<rt>ぬ</rt></ruby>き、ノズルを<ruby>火<rt>ひ</rt></ruby>に<ruby>向<rt>む</rt></ruby>け、レバーを<ruby>握<rt>にぎ</rt></ruby>ることです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The sequence is pull the safety pin, aim the nozzle at the fire, then squeeze the lever.",
+        "si": "ගිනි නිවන උපකරණයේ පියවර: safety pin ඉවත් කිරීම, nozzle එක ගින්න දෙසට යොමු කිරීම, lever එක තද කිරීම.",
+        "technicalNoteJa": "消火器の基本操作：ピンを抜く→ノズルを向ける→レバーを握る"
+      },
+      "sourcePage": 50,
+      "sourceAnchor": "printed p50 extinguisher sequence",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0130",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>で<ruby>停電<rt>ていでん</rt></ruby>したときは、<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いて<ruby>携帯<rt>けいたい</rt></ruby>ライトなどで<ruby>明<rt>あ</rt></ruby>かりを<ruby>確保<rt>かくほ</rt></ruby>します。"
+      },
+      "statement": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>で<ruby>停電<rt>ていでん</rt></ruby>したときは、<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いて<ruby>携帯<rt>けいたい</rt></ruby>ライトなどで<ruby>明<rt>あ</rt></ruby>かりを<ruby>確保<rt>かくほ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "In a refrigerated warehouse power outage, stay calm and secure lighting with a portable light or forklift light.",
+        "si": "ශීත ගබඩාවක විදුලිය විසන්ධි වූ විට සන්සුන්ව portable light හෝ forklift light භාවිතයෙන් ආලෝකය සලසාගත යුතුය.",
+        "technicalNoteJa": "停電時は照明を確保して出口へ移動する"
+      },
+      "sourcePage": 50,
+      "sourceAnchor": "printed p50 refrigerated warehouse outage",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0131",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "パレットとは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せて<ruby>運<rt>はこ</rt></ruby>ぶための<ruby>平<rt>たい</rt></ruby>らな<ruby>台<rt>だい</rt></ruby>です。"
+      },
+      "statement": "パレットとは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せて<ruby>運<rt>はこ</rt></ruby>ぶための<ruby>平<rt>たい</rt></ruby>らな<ruby>台<rt>だい</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A pallet is a flat platform used to carry goods.",
+        "si": "පැලට් යනු භාණ්ඩ තබා ප්‍රවාහනය කරන පැතලි වේදිකාවකි.",
+        "technicalNoteJa": "パレット＝貨物を載せて運ぶ台"
+      },
+      "sourcePage": 51,
+      "sourceAnchor": "printed p51 pallet definition",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0132",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "11<ruby>型<rt>がた</rt></ruby>パレットの<ruby>平面<rt>へいめん</rt></ruby>サイズは、1,100×1,100mmです。"
+      },
+      "statement": "11<ruby>型<rt>がた</rt></ruby>パレットの<ruby>平面<rt>へいめん</rt></ruby>サイズは、1,100×1,100mmです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source lists Type 11 pallet dimensions as 1,100 × 1,100 mm.",
+        "si": "Type 11 පැලට් ප්‍රමාණය 1,100 × 1,100 mm ලෙස මූලාශ්‍රයේ සඳහන් වේ.",
+        "technicalNoteJa": "11型＝1,100×1,100mm"
+      },
+      "sourcePage": 51,
+      "sourceAnchor": "printed p51 pallet size",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0133",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "12<ruby>型<rt>がた</rt></ruby>パレットは、1,200×1,000mmで、<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>で<ruby>多<rt>おお</rt></ruby>く<ruby>使<rt>つか</rt></ruby>われます。"
+      },
+      "statement": "12<ruby>型<rt>がた</rt></ruby>パレットは、1,200×1,000mmで、<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>で<ruby>多<rt>おお</rt></ruby>く<ruby>使<rt>つか</rt></ruby>われます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Type 12 is 1,200 × 1,000 mm and is commonly used in refrigerated warehouses.",
+        "si": "Type 12 පැලට් එක 1,200 × 1,000 mm වන අතර ශීත ගබඩාවල බහුලව භාවිත වේ.",
+        "technicalNoteJa": "12型＝1,200×1,000mm、冷蔵倉庫で多い"
+      },
+      "sourcePage": 51,
+      "sourceAnchor": "printed p51 pallet size",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0134",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "T11<ruby>型<rt>がた</rt></ruby>は、JISで<ruby>定<rt>さだ</rt></ruby>められた<ruby>厚<rt>あつ</rt></ruby>さ144mmの11<ruby>型<rt>がた</rt></ruby>パレットです。"
+      },
+      "statement": "T11<ruby>型<rt>がた</rt></ruby>は、JISで<ruby>定<rt>さだ</rt></ruby>められた<ruby>厚<rt>あつ</rt></ruby>さ144mmの11<ruby>型<rt>がた</rt></ruby>パレットです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "T11 is a JIS-defined Type 11 pallet with a thickness of 144 mm.",
+        "si": "T11 යනු JIS සම්මතයට අනුව ඝනකම 144 mm වන Type 11 පැලට් එකකි.",
+        "technicalNoteJa": "T11＝JIS規格・厚さ144mm"
+      },
+      "sourcePage": 51,
+      "sourceAnchor": "printed p51 T11 pallet",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0135",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "パレットの<ruby>材質<rt>ざいしつ</rt></ruby>には、<ruby>木材<rt>もくざい</rt></ruby>、プラスチック、<ruby>鉄<rt>てつ</rt></ruby>、<ruby>紙<rt>かみ</rt></ruby>などがあります。"
+      },
+      "statement": "パレットの<ruby>材質<rt>ざいしつ</rt></ruby>には、<ruby>木材<rt>もくざい</rt></ruby>、プラスチック、<ruby>鉄<rt>てつ</rt></ruby>、<ruby>紙<rt>かみ</rt></ruby>などがあります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Pallet materials include wood, plastic, steel and paper/cardboard.",
+        "si": "පැලට් ද්‍රව්‍ය ලෙස ලී, ප්ලාස්ටික්, වානේ සහ කඩදාසි/කාඩ්බෝඩ් භාවිත වේ.",
+        "technicalNoteJa": "パレットの材質：木・プラスチック・鉄・紙"
+      },
+      "sourcePage": 52,
+      "sourceAnchor": "printed p52 pallet materials",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0136",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "パレットの<ruby>標準<rt>ひょうじゅん</rt></ruby>の<ruby>最大積載質量<rt>さいだいせきさいしつりょう</rt></ruby>は、10トンです。"
+      },
+      "statement": "パレットの<ruby>標準<rt>ひょうじゅん</rt></ruby>の<ruby>最大積載質量<rt>さいだいせきさいしつりょう</rt></ruby>は、10トンです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source gives 1 tonne, not 10 tonnes, as the standard maximum load mass.",
+        "si": "මූලාශ්‍රයේ සම්මත උපරිම පැටවුම් බර ටොන් 10ක් නොව ටොන් 1කි.",
+        "technicalNoteJa": "標準の最大積載質量＝1t"
+      },
+      "sourcePage": 52,
+      "sourceAnchor": "printed p52 pallet load limit",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0137",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>単面使用形<rt>たんめんしようがた</rt></ruby>パレットは、<ruby>片面<rt>かためん</rt></ruby>だけに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せます。"
+      },
+      "statement": "<ruby>単面使用形<rt>たんめんしようがた</rt></ruby>パレットは、<ruby>片面<rt>かためん</rt></ruby>だけに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A single-face pallet carries goods on one face only.",
+        "si": "Single-face පැලට් එකක භාණ්ඩ තබන්නේ එක් පැත්තක පමණි.",
+        "technicalNoteJa": "単面使用形＝片面のみ使用"
+      },
+      "sourcePage": 52,
+      "sourceAnchor": "printed p52 single-face pallet",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0138",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>二方差<rt>にほうざ</rt></ruby>しパレットには、４<ruby>方向<rt>ほうこう</rt></ruby>からフォークを<ruby>差<rt>さ</rt></ruby>し<ruby>込<rt>こ</rt></ruby>めます。"
+      },
+      "statement": "<ruby>二方差<rt>にほうざ</rt></ruby>しパレットには、４<ruby>方向<rt>ほうこう</rt></ruby>からフォークを<ruby>差<rt>さ</rt></ruby>し<ruby>込<rt>こ</rt></ruby>めます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A two-way-entry pallet accepts forklift forks from only two directions.",
+        "si": "Two-way පැලට් එකකට forklift forks ඇතුළු කළ හැක්කේ දිශා දෙකකින් පමණි.",
+        "technicalNoteJa": "二方差し＝二方向からフォークを差し込む"
+      },
+      "sourcePage": 52,
+      "sourceAnchor": "printed p52 two-way entry",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0139",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>四方差<rt>よほうざ</rt></ruby>しパレットは、４<ruby>方向<rt>ほうこう</rt></ruby>すべてからフォークを<ruby>差<rt>さ</rt></ruby>し<ruby>込<rt>こ</rt></ruby>めます。"
+      },
+      "statement": "<ruby>四方差<rt>よほうざ</rt></ruby>しパレットは、４<ruby>方向<rt>ほうこう</rt></ruby>すべてからフォークを<ruby>差<rt>さ</rt></ruby>し<ruby>込<rt>こ</rt></ruby>めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A four-way-entry pallet accepts forklift forks from all four sides.",
+        "si": "Four-way පැලට් එකකට පැති හතරෙන්ම forklift forks ඇතුළු කළ හැකිය.",
+        "technicalNoteJa": "四方差し＝四方向からフォークを差し込める"
+      },
+      "sourcePage": 53,
+      "sourceAnchor": "printed p53 four-way entry",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0140",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "パレットに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せるとき、<ruby>最大積載質量<rt>さいだいせきさいしつりょう</rt></ruby>1tを<ruby>超<rt>こ</rt></ruby>えてはいけません。"
+      },
+      "statement": "パレットに<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せるとき、<ruby>最大積載質量<rt>さいだいせきさいしつりょう</rt></ruby>1tを<ruby>超<rt>こ</rt></ruby>えてはいけません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Do not exceed the 1-tonne maximum load stated by the source.",
+        "si": "මූලාශ්‍රයේ සඳහන් ටොන් 1 උපරිම බර ඉක්මවා භාණ්ඩ පැටවීම නොකළ යුතුය.",
+        "technicalNoteJa": "最大積載質量を超えると破損・事故の危険"
+      },
+      "sourcePage": 53,
+      "sourceAnchor": "printed p53 pallet overload",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0141",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>倉庫内<rt>そうこない</rt></ruby>では、<ruby>安全帽<rt>あんぜんぼう</rt></ruby>（ヘルメット）を<ruby>必<rt>かなら</rt></ruby>ず<ruby>着用<rt>ちゃくよう</rt></ruby>します。"
+      },
+      "statement": "<ruby>倉庫内<rt>そうこない</rt></ruby>では、<ruby>安全帽<rt>あんぜんぼう</rt></ruby>（ヘルメット）を<ruby>必<rt>かなら</rt></ruby>ず<ruby>着用<rt>ちゃくよう</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A safety helmet must be worn inside the warehouse.",
+        "si": "ගබඩාව තුළ ආරක්ෂිත හිස්වැසුම අනිවාර්යයෙන් පැළඳිය යුතුය.",
+        "technicalNoteJa": "倉庫内では安全帽を着用する"
+      },
+      "sourcePage": 54,
+      "sourceAnchor": "printed p54 PPE helmet",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0142",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>安全靴<rt>あんぜんぐつ</rt></ruby>は、<ruby>落下物<rt>らっかぶつ</rt></ruby>から<ruby>足先<rt>あしさき</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るために<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>安全靴<rt>あんぜんぐつ</rt></ruby>は、<ruby>落下物<rt>らっかぶつ</rt></ruby>から<ruby>足先<rt>あしさき</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るために<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Safety shoes protect the toes from falling objects.",
+        "si": "Safety shoes වැටෙන භාණ්ඩවලින් පාදයේ ඇඟිලි ආරක්ෂා කරයි.",
+        "technicalNoteJa": "安全靴のつま先保護"
+      },
+      "sourcePage": 54,
+      "sourceAnchor": "printed p54 PPE safety shoes",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0143",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>反射<rt>はんしゃ</rt></ruby>テープのある<ruby>安全<rt>あんぜん</rt></ruby>ベストは、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけやすくします。"
+      },
+      "statement": "<ruby>反射<rt>はんしゃ</rt></ruby>テープのある<ruby>安全<rt>あんぜん</rt></ruby>ベストは、<ruby>作業者<rt>さぎょうしゃ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけやすくします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A reflective safety vest makes workers easier to see.",
+        "si": "Reflective safety vest එකෙන් සේවකයා අනෙක් අයට පැහැදිලිව පෙනේ.",
+        "technicalNoteJa": "反射材で作業者の視認性を高める"
+      },
+      "sourcePage": 54,
+      "sourceAnchor": "printed p54 PPE visibility",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0144",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>寄託申込書<rt>きたくもうしこみしょ</rt></ruby>には、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>や<ruby>数量<rt>すうりょう</rt></ruby>などを<ruby>記載<rt>きさい</rt></ruby>します。"
+      },
+      "statement": "<ruby>寄託申込書<rt>きたくもうしこみしょ</rt></ruby>には、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>や<ruby>数量<rt>すうりょう</rt></ruby>などを<ruby>記載<rt>きさい</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The deposit application records cargo details such as type and quantity.",
+        "si": "භාණ්ඩ භාරදීමේ අයදුම්පතේ භාණ්ඩ වර්ගය සහ ප්‍රමාණය වැනි තොරතුරු සටහන් කරයි.",
+        "technicalNoteJa": "寄託申込書＝貨物情報・数量などを記載"
+      },
+      "sourcePage": 55,
+      "sourceAnchor": "printed p55 inbound documents",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0145",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>貨物受領書<rt>かもつじゅりょうしょ</rt></ruby>は、<ruby>運送人<rt>うんそうにん</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>す<ruby>受領証<rt>じゅりょうしょう</rt></ruby>です。"
+      },
+      "statement": "<ruby>貨物受領書<rt>かもつじゅりょうしょ</rt></ruby>は、<ruby>運送人<rt>うんそうにん</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>す<ruby>受領証<rt>じゅりょうしょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A cargo receipt is given to the carrier as proof of receipt.",
+        "si": "Cargo receipt එක භාණ්ඩ ලැබුණු බව තහවුරු කරන ලේඛනයක් ලෙස ප්‍රවාහකයාට ලබා දෙයි.",
+        "technicalNoteJa": "貨物受領書＝運送人に渡す受領証"
+      },
+      "sourcePage": 55,
+      "sourceAnchor": "printed p55 cargo receipt",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0146",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ピッキングリストは、<ruby>注文品<rt>ちゅうもんひん</rt></ruby>を<ruby>倉庫内<rt>そうこない</rt></ruby>から<ruby>探<rt>さが</rt></ruby>して<ruby>集<rt>あつ</rt></ruby>めるためのリストです。"
+      },
+      "statement": "ピッキングリストは、<ruby>注文品<rt>ちゅうもんひん</rt></ruby>を<ruby>倉庫内<rt>そうこない</rt></ruby>から<ruby>探<rt>さが</rt></ruby>して<ruby>集<rt>あつ</rt></ruby>めるためのリストです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A picking list directs workers to find and collect ordered goods.",
+        "si": "Picking list එකෙන් ඇණවුම් කළ භාණ්ඩ සොයා එකතු කිරීමට උපදෙස් ලබා දෙයි.",
+        "technicalNoteJa": "ピッキングリスト＝注文品を集める指示リスト"
+      },
+      "sourcePage": 56,
+      "sourceAnchor": "printed p56 picking list",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0147",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>出庫指図書<rt>しゅっこさしずしょ</rt></ruby>は、<ruby>倉庫担当者<rt>そうこたんとうしゃ</rt></ruby>に<ruby>指定貨物<rt>していかもつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すよう<ruby>指示<rt>しじ</rt></ruby>する<ruby>書類<rt>しょるい</rt></ruby>です。"
+      },
+      "statement": "<ruby>出庫指図書<rt>しゅっこさしずしょ</rt></ruby>は、<ruby>倉庫担当者<rt>そうこたんとうしゃ</rt></ruby>に<ruby>指定貨物<rt>していかもつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すよう<ruby>指示<rt>しじ</rt></ruby>する<ruby>書類<rt>しょるい</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "An outbound instruction document tells warehouse staff which cargo to release.",
+        "si": "Outbound instruction ලේඛනයෙන් නිකුත් කළ යුතු භාණ්ඩ ගබඩා සේවකයාට දන්වයි.",
+        "technicalNoteJa": "出庫指図書＝指定貨物の出庫指示"
+      },
+      "sourcePage": 56,
+      "sourceAnchor": "printed p56 outbound documents",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0148",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "RFIDは、タグに<ruby>触<rt>ふ</rt></ruby>れずに<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>み<ruby>取<rt>と</rt></ruby>ることができます。"
+      },
+      "statement": "RFIDは、タグに<ruby>触<rt>ふ</rt></ruby>れずに<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>み<ruby>取<rt>と</rt></ruby>ることができます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "RFID can read tag information without physical contact.",
+        "si": "RFID මඟින් tag එක ස්පර්ශ නොකර තොරතුරු කියවිය හැකිය.",
+        "technicalNoteJa": "RFID＝電波による非接触読み取り"
+      },
+      "sourcePage": 57,
+      "sourceAnchor": "printed p57 RFID",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0149",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ケアマークは、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>取扱方法<rt>とりあつかいほうほう</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "ケアマークは、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>取扱方法<rt>とりあつかいほうほう</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Care marks show how cargo should be handled.",
+        "si": "Care marks මඟින් භාණ්ඩ හසුරුවන ආකාරය පෙන්වයි.",
+        "technicalNoteJa": "ケアマーク＝貨物の取扱方法を表示"
+      },
+      "sourcePage": 57,
+      "sourceAnchor": "printed p57 care marks",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0150",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "1mは100cmで、1cmは10mmです。"
+      },
+      "statement": "1mは100cmで、1cmは10mmです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "One metre equals 100 centimetres, and one centimetre equals 10 millimetres.",
+        "si": "මීටර් 1ක් සෙන්ටිමීටර් 100කි; සෙන්ටිමීටර් 1ක් මිලිමීටර් 10කි.",
+        "technicalNoteJa": "長さの換算：1m＝100cm＝1,000mm"
+      },
+      "sourcePage": 57,
+      "sourceAnchor": "printed p57 length conversion",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0151",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "1インチは2.54cmです。"
+      },
+      "statement": "1インチは2.54cmです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "One inch equals 2.54 centimetres.",
+        "si": "අඟල් 1ක් සෙන්ටිමීටර් 2.54කි.",
+        "technicalNoteJa": "インチからセンチメートルへの換算"
+      },
+      "sourcePage": 58,
+      "sourceAnchor": "printed p58 inch conversion",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0152",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "<ruby>面積<rt>めんせき</rt></ruby>は、<ruby>縦<rt>たて</rt></ruby>と<ruby>横<rt>よこ</rt></ruby>を<ruby>掛<rt>か</rt></ruby>けて<ruby>求<rt>もと</rt></ruby>めます。"
+      },
+      "statement": "<ruby>面積<rt>めんせき</rt></ruby>は、<ruby>縦<rt>たて</rt></ruby>と<ruby>横<rt>よこ</rt></ruby>を<ruby>掛<rt>か</rt></ruby>けて<ruby>求<rt>もと</rt></ruby>めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Area is calculated by multiplying length by width.",
+        "si": "වර්ගඵලය ගණනය කරන්නේ දිග × පළල ලෙසයි.",
+        "technicalNoteJa": "面積＝縦×横"
+      },
+      "sourcePage": 58,
+      "sourceAnchor": "printed p58 area",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0153",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "10cm×10cm×10cmの<ruby>立方体<rt>りっぽうたい</rt></ruby>の<ruby>容積<rt>ようせき</rt></ruby>は1Lです。"
+      },
+      "statement": "10cm×10cm×10cmの<ruby>立方体<rt>りっぽうたい</rt></ruby>の<ruby>容積<rt>ようせき</rt></ruby>は1Lです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A 10 cm cube has a capacity of one litre (1 dm³).",
+        "si": "සෙ.මී. 10 × 10 × 10 ඝනකයක ධාරිතාව ලීටර් 1කි (1 dm³).",
+        "technicalNoteJa": "10cm立方体＝1dm³＝1L"
+      },
+      "sourcePage": 58,
+      "sourceAnchor": "printed p58 volume and capacity",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
