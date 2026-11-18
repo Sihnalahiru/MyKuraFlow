@@ -3644,6 +3644,728 @@
       "sourceAnchor": "printed p68 container types",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0189",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "RTIは、繰り返し使用できる物流用容器です。"
+      },
+      "statement": "RTIは、繰り返し使用できる物流用容器です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "An RTI is a reusable transport/logistics item.",
+        "si": "RTI යනු නැවත නැවත භාවිත කළ හැකි ප්‍රවාහන/ලොජිස්ටික් බහාලුමකි.",
+        "technicalNoteJa": "RTI＝Returnable Transport Item"
+      },
+      "sourcePage": 69,
+      "sourceAnchor": "printed p69 RTI",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0190",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "折りたたみ式のRTIは、空になっても折りたたむことができません。"
+      },
+      "statement": "折りたたみ式のRTIは、空になっても折りたたむことができません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Some RTIs are foldable when empty.",
+        "si": "RTI සමහර වර්ග හිස් වූ විට නමා තැබිය හැකිය.",
+        "technicalNoteJa": "折りたたみ式RTI"
+      },
+      "sourcePage": 69,
+      "sourceAnchor": "printed p69 foldable RTI",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0191",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "入庫数量に差異がある場合は、運転手の立会いで記録し、署名を受けます。"
+      },
+      "statement": "入庫数量に差異がある場合は、運転手の立会いで記録し、署名を受けます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Record discrepancies with the driver present and obtain a signature.",
+        "si": "භාණ්ඩ ප්‍රමාණයේ වෙනසක් තිබේ නම් රියදුරු ඉදිරියේ සටහන් කර අත්සන ලබාගන්න.",
+        "technicalNoteJa": "数量差異の記録と署名"
+      },
+      "sourcePage": 69,
+      "sourceAnchor": "printed p69 quantity discrepancy",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0192",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "外装に損傷があっても、写真を撮ったり荷主へ報告したりする必要はありません。"
+      },
+      "statement": "外装に損傷があっても、写真を撮ったり荷主へ報告したりする必要はありません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Visible external damage may indicate internal defects; photograph when needed and report to the owner.",
+        "si": "පිටත හානි ඇත්නම් ඇතුළතද දෝෂ තිබිය හැකි බැවින් අවශ්‍ය විට ඡායාරූප ගෙන හිමිකරුට වාර්තා කළ යුතුය.",
+        "technicalNoteJa": "外装損傷時の写真・報告"
+      },
+      "sourcePage": 69,
+      "sourceAnchor": "printed p69 damage reporting",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0193",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "DENTは、貨物や包装にへこみがある状態を表します。"
+      },
+      "statement": "DENTは、貨物や包装にへこみがある状態を表します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "DENT indicates a dent.",
+        "si": "DENT යනු භාණ්ඩයේ හෝ ඇසුරුමේ තැලීමක්/ගිලීමක් ඇති බවයි.",
+        "technicalNoteJa": "DENT＝へこみ"
+      },
+      "sourcePage": 70,
+      "sourceAnchor": "printed p70 cargo remarks",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0194",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "WETは、貨物が濡れていることを示す表示です。"
+      },
+      "statement": "WETは、貨物が濡れていることを示す表示です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "WET indicates that cargo is wet.",
+        "si": "WET යනු භාණ්ඩ තෙත් වී ඇති බව දක්වන සලකුණකි.",
+        "technicalNoteJa": "WET＝濡れ"
+      },
+      "sourcePage": 70,
+      "sourceAnchor": "printed p70 cargo remarks",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0195",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "バーコードが読み取れない場合、自分の判断で作業を続けます。"
+      },
+      "statement": "バーコードが読み取れない場合、自分の判断で作業を続けます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Report an unreadable barcode to the supervisor and follow instructions.",
+        "si": "Barcode කියවිය නොහැකි නම් අධීක්ෂකයාට දන්වා උපදෙස් අනුව ක්‍රියා කළ යුතුය.",
+        "technicalNoteJa": "読取不能時は上司へ報告"
+      },
+      "sourcePage": 70,
+      "sourceAnchor": "printed p70 barcode issue",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0196",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "破損品や損傷品は、正常な貨物と分けて別のパレットに置きます。"
+      },
+      "statement": "破損品や損傷品は、正常な貨物と分けて別のパレットに置きます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Damaged goods should be separated on a different pallet.",
+        "si": "හානි වූ භාණ්ඩ හොඳ භාණ්ඩවලින් වෙන් කර වෙනම pallet එකක තැබිය යුතුය.",
+        "technicalNoteJa": "損傷品の分離保管"
+      },
+      "sourcePage": 70,
+      "sourceAnchor": "printed p70 damaged goods",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0197",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ロケーションは、倉庫内の保管場所を示す住所のようなものです。"
+      },
+      "statement": "ロケーションは、倉庫内の保管場所を示す住所のようなものです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A location is like an address identifying a warehouse storage position.",
+        "si": "Location යනු ගබඩාවේ භාණ්ඩ තබන ස්ථානය හඳුනාගන්නා ලිපිනයක් වැනිය.",
+        "technicalNoteJa": "ロケーション＝保管場所の住所"
+      },
+      "sourcePage": 70,
+      "sourceAnchor": "printed p70 warehouse location",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0198",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "固定ロケーションでは、貨物の種類ごとに決まった保管場所を使います。"
+      },
+      "statement": "固定ロケーションでは、貨物の種類ごとに決まった保管場所を使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Fixed location assigns a designated place to each cargo type.",
+        "si": "Fixed location ක්‍රමයේදී භාණ්ඩ වර්ගයකට නියමිත ස්ථානයක් වෙන් කරයි.",
+        "technicalNoteJa": "固定ロケーション"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "printed p71 fixed location",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0199",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "フリーロケーションでは、空いている場所を利用して保管できます。"
+      },
+      "statement": "フリーロケーションでは、空いている場所を利用して保管できます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Free location stores goods in any available slot.",
+        "si": "Free location ක්‍රමයේදී හිස්ව ඇති ඕනෑම ස්ථානයක භාණ්ඩ තැබිය හැකිය.",
+        "technicalNoteJa": "フリーロケーション"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "printed p71 free location",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0200",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ダブルトランザクションでは、ピッキングエリアと在庫エリアの両方を固定ロケーションにします。"
+      },
+      "statement": "ダブルトランザクションでは、ピッキングエリアと在庫エリアの両方を固定ロケーションにします。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The picking area is fixed and the bulk stock area is free location.",
+        "si": "Double transaction ක්‍රමයේ picking area එක fixed වන අතර stock area එක free location වේ.",
+        "technicalNoteJa": "ピッキング固定・在庫フリー"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "printed p71 double transaction",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0201",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "FIFOは、先に入庫した貨物を先に出庫する考え方です。"
+      },
+      "statement": "FIFOは、先に入庫した貨物を先に出庫する考え方です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "FIFO means first in, first out.",
+        "si": "FIFO යනු මුලින් ඇතුළත් කළ භාණ්ඩ මුලින් පිටතට නිකුත් කිරීමයි.",
+        "technicalNoteJa": "FIFO＝先入先出"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "printed p71 FIFO",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0202",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "差し札は、貨物の情報や入出庫記録を示す在庫カードです。"
+      },
+      "statement": "差し札は、貨物の情報や入出庫記録を示す在庫カードです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A sashifuda is a stock card showing cargo details and inbound/outbound records.",
+        "si": "Sashifuda යනු භාණ්ඩ තොරතුරු සහ inbound/outbound සටහන් දක්වන stock card එකකි.",
+        "technicalNoteJa": "差し札＝在庫カード"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "printed p71 stock card",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0203",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "出庫作業は、荷主の出庫依頼を受けて貨物を引き渡すまでの作業です。"
+      },
+      "statement": "出庫作業は、荷主の出庫依頼を受けて貨物を引き渡すまでの作業です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Outbound operations start with the owner's release request and end with handover.",
+        "si": "Outbound operation යනු හිමිකරුගේ නිකුත් කිරීමේ ඉල්ලීමේ සිට භාණ්ඩ භාරදීම දක්වා වූ ක්‍රියාවලියයි.",
+        "technicalNoteJa": "出庫作業の範囲"
+      },
+      "sourcePage": 72,
+      "sourceAnchor": "printed p72 outbound operations",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0204",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ピッキングでは、指示された数量だけを取り出します。"
+      },
+      "statement": "ピッキングでは、指示された数量だけを取り出します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Picking retrieves only the instructed quantity.",
+        "si": "Picking කිරීමේදී උපදෙස් දී ඇති ප්‍රමාණය පමණක් ඉවත් කළ යුතුය.",
+        "technicalNoteJa": "指示数量だけをピッキング"
+      },
+      "sourcePage": 72,
+      "sourceAnchor": "printed p72 picking quantity",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0205",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "欠品があった場合、作業者は出庫指示書の数量を自分で変更してよいです。"
+      },
+      "statement": "欠品があった場合、作業者は出庫指示書の数量を自分で変更してよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Report a shortage and follow instructions; do not change the release quantity yourself.",
+        "si": "තොග හිඟයක් තිබේ නම් වාර්තා කර උපදෙස් ගන්න; තමන්ම නිකුත් කිරීමේ ප්‍රමාණය වෙනස් නොකරන්න.",
+        "technicalNoteJa": "欠品時は報告し指示を受ける"
+      },
+      "sourcePage": 72,
+      "sourceAnchor": "printed p72 shortage",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0206",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ピッキング後は、在庫カードから取り出した数量を差し引いて残数を記録します。"
+      },
+      "statement": "ピッキング後は、在庫カードから取り出した数量を差し引いて残数を記録します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "After picking, subtract the picked quantity from the stock card and record the balance.",
+        "si": "Picking අවසන් වූ පසු stock card එකෙන් ඉවත් කළ ප්‍රමාණය අඩු කර ඉතිරි ප්‍රමාණය සටහන් කරන්න.",
+        "technicalNoteJa": "ピッキング後の在庫更新"
+      },
+      "sourcePage": 72,
+      "sourceAnchor": "printed p72 stock update",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0207",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "シングルピッキングは、納品先ごとに貨物を集める方法です。"
+      },
+      "statement": "シングルピッキングは、納品先ごとに貨物を集める方法です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Single/order picking gathers goods separately for each destination.",
+        "si": "Single picking ක්‍රමයේදී එක් එක් ගමනාන්තයට අදාළ භාණ්ඩ වෙන වෙනම එකතු කරයි.",
+        "technicalNoteJa": "シングルピッキング"
+      },
+      "sourcePage": 72,
+      "sourceAnchor": "printed p72 single picking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0208",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "トータルピッキングでは、必要な貨物をまとめて集め、後で納品先ごとに仕分けします。"
+      },
+      "statement": "トータルピッキングでは、必要な貨物をまとめて集め、後で納品先ごとに仕分けします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Total picking gathers goods together and sorts them later by destination.",
+        "si": "Total picking ක්‍රමයේදී අවශ්‍ය භාණ්ඩ එකවර එකතු කර පසුව ගමනාන්ත අනුව වෙන් කරයි.",
+        "technicalNoteJa": "トータルピッキング"
+      },
+      "sourcePage": 73,
+      "sourceAnchor": "printed p73 total picking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0209",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "トータルピッキングは、仕分けスペースが不要で、仕分け間違いも起きません。"
+      },
+      "statement": "トータルピッキングは、仕分けスペースが不要で、仕分け間違いも起きません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "It needs sorting space and has a risk of sorting errors.",
+        "si": "මෙම ක්‍රමයට sorting ඉඩ අවශ්‍ය වන අතර වෙන් කිරීමේ වැරදි ඇතිවිය හැකිය.",
+        "technicalNoteJa": "仕分け場所と誤仕分けリスク"
+      },
+      "sourcePage": 73,
+      "sourceAnchor": "printed p73 total picking risk",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0210",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ラベルピッキングでは、商品を取り出すたびに対応するラベルを貼ります。"
+      },
+      "statement": "ラベルピッキングでは、商品を取り出すたびに対応するラベルを貼ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "In label picking, the corresponding label is attached each time an item is picked.",
+        "si": "Label picking ක්‍රමයේදී භාණ්ඩයක් ගන්නා සෑම විටම අදාළ ලේබලය අලවයි.",
+        "technicalNoteJa": "ラベルピッキング"
+      },
+      "sourcePage": 73,
+      "sourceAnchor": "printed p73 label picking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0211",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "梱包は、輸送中に貨物を保護するために箱や袋などで包む作業です。"
+      },
+      "statement": "梱包は、輸送中に貨物を保護するために箱や袋などで包む作業です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Packing protects cargo during transport using boxes, bags or similar materials.",
+        "si": "Packing යනු ප්‍රවාහනයේදී භාණ්ඩ ආරක්ෂා කිරීමට පෙට්ටි හෝ බෑග්වලින් ඇසුරුම් කිරීමයි.",
+        "technicalNoteJa": "梱包の目的"
+      },
+      "sourcePage": 73,
+      "sourceAnchor": "printed p73 packing",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0212",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "出庫検品では、ピッキングリストと実際の貨物を照合します。"
+      },
+      "statement": "出庫検品では、ピッキングリストと実際の貨物を照合します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Outbound inspection compares the picking list with the actual cargo.",
+        "si": "Outbound inspection එකේදී picking list එක සැබෑ භාණ්ඩ සමඟ සසඳයි.",
+        "technicalNoteJa": "出庫検品"
+      },
+      "sourcePage": 74,
+      "sourceAnchor": "printed p74 outbound inspection",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0213",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "出庫検品は、必ず一人だけで行い、二人目の確認は避けます。"
+      },
+      "statement": "出庫検品は、必ず一人だけで行い、二人目の確認は避けます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A second-person double-check is recommended by the source.",
+        "si": "මූලාශ්‍රය අනුව දෙවන සේවකයෙකු ලවා double-check කිරීම කළ යුතුය.",
+        "technicalNoteJa": "二人目によるダブルチェック"
+      },
+      "sourcePage": 74,
+      "sourceAnchor": "printed p74 double-check",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0214",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "貨物の損傷を発見したら、直ちに上司へ報告します。"
+      },
+      "statement": "貨物の損傷を発見したら、直ちに上司へ報告します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Report discovered cargo damage immediately to the supervisor.",
+        "si": "භාණ්ඩ හානියක් හමුවූ විට වහාම අධීක්ෂකයාට වාර්තා කරන්න.",
+        "technicalNoteJa": "損傷発見時の報告"
+      },
+      "sourcePage": 74,
+      "sourceAnchor": "printed p74 damage escalation",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0215",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "損傷の原因には、人為的ミス、保管環境、包装の問題などがあります。"
+      },
+      "statement": "損傷の原因には、人為的ミス、保管環境、包装の問題などがあります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Damage causes include human error, storage/transport conditions and packaging issues.",
+        "si": "හානිවලට සේවක දෝෂ, ප්‍රවාහන/ගබඩා පරිසරය සහ ඇසුරුම් ගැටලු හේතු විය හැකිය.",
+        "technicalNoteJa": "貨物損傷の主な原因"
+      },
+      "sourcePage": 74,
+      "sourceAnchor": "printed p74 damage causes",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0216",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ケージ台車では、重くて丈夫な箱を下に置き、つぶれやすい物を上に置きます。"
+      },
+      "statement": "ケージ台車では、重くて丈夫な箱を下に置き、つぶれやすい物を上に置きます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "On a cage trolley, heavy strong cartons go below and crushable goods above.",
+        "si": "Cage trolley එකක බර සහ ශක්තිමත් පෙට්ටි පහළින්ද පොඩි විය හැකි භාණ්ඩ ඉහළින්ද තබන්න.",
+        "technicalNoteJa": "ケージ台車の積み方"
+      },
+      "sourcePage": 75,
+      "sourceAnchor": "printed p75 cage trolley",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0217",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "パレットを使う前に、割れた板や突き出た釘などを確認します。"
+      },
+      "statement": "パレットを使う前に、割れた板や突き出た釘などを確認します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Before use, inspect wooden pallets for cracked boards and protruding nails.",
+        "si": "Pallet භාවිතයට පෙර කැඩුණු පුවරු සහ නෙරා ඇති ඇණ පරීක්ෂා කරන්න.",
+        "technicalNoteJa": "パレット使用前点検"
+      },
+      "sourcePage": 75,
+      "sourceAnchor": "printed p75 pallet inspection",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0218",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "貨物がパレットの端からはみ出す状態を、オーバーハングといいます。"
+      },
+      "statement": "貨物がパレットの端からはみ出す状態を、オーバーハングといいます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Cargo extending beyond the pallet edge is called overhang.",
+        "si": "භාණ්ඩ pallet එකේ අගින් පිටතට නෙරා යාම overhang ලෙස හැඳින්වේ.",
+        "technicalNoteJa": "オーバーハング"
+      },
+      "sourcePage": 75,
+      "sourceAnchor": "printed p75 overhang",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0219",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ブロック積みは横からの力に強く、荷崩れしにくい積み方です。"
+      },
+      "statement": "ブロック積みは横からの力に強く、荷崩れしにくい積み方です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Block stacking is weaker against lateral force and more prone to collapse.",
+        "si": "Block stacking පැත්තෙන් එන බලයට දුර්වල වන අතර භාණ්ඩ පෙරළීමේ අවදානම වැඩිය.",
+        "technicalNoteJa": "ブロック積みの横方向の弱さ"
+      },
+      "sourcePage": 75,
+      "sourceAnchor": "printed p75 block stacking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0220",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "交互積みでは、段ごとに貨物の向きを90度変えます。"
+      },
+      "statement": "交互積みでは、段ごとに貨物の向きを90度変えます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Alternate/interlocking stacking rotates the arrangement by 90 degrees on each tier.",
+        "si": "Alternate stacking ක්‍රමයේදී එක් එක් තට්ටුවේ භාණ්ඩ දිශාව අංශක 90කින් මාරු කරයි.",
+        "technicalNoteJa": "交互積み＝90度回転"
+      },
+      "sourcePage": 76,
+      "sourceAnchor": "printed p76 interlocking stacking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0221",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ピンホール積みは、中央に空気の通り道を作るため、冷蔵輸送に適しています。"
+      },
+      "statement": "ピンホール積みは、中央に空気の通り道を作るため、冷蔵輸送に適しています。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Pinwheel/pinhole stacking creates a central airflow channel and suits refrigerated transport.",
+        "si": "Pinwheel stacking මැද වාතය ගමන් කරන ඉඩක් ඇති කරන නිසා ශීත ප්‍රවාහනයට සුදුසුය.",
+        "technicalNoteJa": "ピンホール積みの通気性"
+      },
+      "sourcePage": 76,
+      "sourceAnchor": "printed p76 pinwheel stacking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0222",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "引き渡し時は、回収に来た車両番号と出庫指示書を確認します。"
+      },
+      "statement": "引き渡し時は、回収に来た車両番号と出庫指示書を確認します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "At dispatch, verify the collecting vehicle number against the release instruction.",
+        "si": "භාණ්ඩ රැගෙන යන වාහන අංකය release instruction සමඟ තහවුරු කළ යුතුය.",
+        "technicalNoteJa": "車両番号の確認"
+      },
+      "sourcePage": 77,
+      "sourceAnchor": "printed p77 vehicle verification",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0223",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "積込み後は、貨物が残っていないか確認し、残貨（ざんか）を防ぎます。"
+      },
+      "statement": "積込み後は、貨物が残っていないか確認し、残貨（ざんか）を防ぎます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "After loading, check that no cargo remains behind to prevent leftover cargo.",
+        "si": "Loading අවසන් වූ පසු භාණ්ඩ ඉතිරිවී නැති බව පරීක්ෂා කර zanka වැළැක්විය යුතුය.",
+        "technicalNoteJa": "残貨防止"
+      },
+      "sourcePage": 77,
+      "sourceAnchor": "printed p77 leftover cargo",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0224",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "流通加工は、包装、ラベル貼り、小分けなど、流通に適した状態にする作業です。"
+      },
+      "statement": "流通加工は、包装、ラベル貼り、小分けなど、流通に適した状態にする作業です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Distribution processing includes packaging, labelling and splitting/repacking for distribution.",
+        "si": "Distribution processing යනු බෙදාහැරීමට සුදුසු කිරීමට packaging, labelling සහ කුඩා කොටස්වලට වෙන් කිරීම වැනි කටයුතුය.",
+        "technicalNoteJa": "流通加工の内容"
+      },
+      "sourcePage": 78,
+      "sourceAnchor": "printed p78 distribution processing",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0225",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ラベルの位置や向きは、荷主の指定を確認して正確に貼ります。"
+      },
+      "statement": "ラベルの位置や向きは、荷主の指定を確認して正確に貼ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Apply labels accurately according to the owner's specified position and orientation.",
+        "si": "ලේබලයේ ස්ථානය සහ දිශාව හිමිකරු නියම කළ ආකාරයට නිවැරදිව අලවන්න.",
+        "technicalNoteJa": "ラベル位置・方向の指定"
+      },
+      "sourcePage": 78,
+      "sourceAnchor": "printed p78 label placement",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0226",
+      "section": "inbound_outbound_distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "ja": "ラベルの内容が間違っている場合、作業者は報告せずにそのまま出荷します。"
+      },
+      "statement": "ラベルの内容が間違っている場合、作業者は報告せずにそのまま出荷します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Report incorrect label content to the supervisor and replace it with the correct label.",
+        "si": "ලේබලයේ අන්තර්ගතය වැරදි නම් අධීක්ෂකයාට දන්වා නිවැරදි ලේබලයකින් මාරු කළ යුතුය.",
+        "technicalNoteJa": "誤ラベルの報告と交換"
+      },
+      "sourcePage": 78,
+      "sourceAnchor": "printed p78 label correction",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
