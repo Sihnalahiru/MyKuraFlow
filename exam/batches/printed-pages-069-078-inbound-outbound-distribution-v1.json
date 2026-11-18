@@ -1,0 +1,170 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "printed-pages-069-078-inbound-outbound-distribution-v1",
+  "status": "DRAFT_SOURCE_GROUNDED_TEXT_ONLY",
+  "sourceFile": "data/part-02/lesson-02-pages-069-078.json",
+  "sourcePdf": "specified_skilled_worker_textbook_202607(2).pdf",
+  "printedPages": [
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78
+  ],
+  "physicalPdfPages": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+  ],
+  "questionIds": [
+    "MKF-WR-0189",
+    "MKF-WR-0190",
+    "MKF-WR-0191",
+    "MKF-WR-0192",
+    "MKF-WR-0193",
+    "MKF-WR-0194",
+    "MKF-WR-0195",
+    "MKF-WR-0196",
+    "MKF-WR-0197",
+    "MKF-WR-0198",
+    "MKF-WR-0199",
+    "MKF-WR-0200",
+    "MKF-WR-0201",
+    "MKF-WR-0202",
+    "MKF-WR-0203",
+    "MKF-WR-0204",
+    "MKF-WR-0205",
+    "MKF-WR-0206",
+    "MKF-WR-0207",
+    "MKF-WR-0208",
+    "MKF-WR-0209",
+    "MKF-WR-0210",
+    "MKF-WR-0211",
+    "MKF-WR-0212",
+    "MKF-WR-0213",
+    "MKF-WR-0214",
+    "MKF-WR-0215",
+    "MKF-WR-0216",
+    "MKF-WR-0217",
+    "MKF-WR-0218",
+    "MKF-WR-0219",
+    "MKF-WR-0220",
+    "MKF-WR-0221",
+    "MKF-WR-0222",
+    "MKF-WR-0223",
+    "MKF-WR-0224",
+    "MKF-WR-0225",
+    "MKF-WR-0226"
+  ],
+  "questionCount": 38,
+  "examType": "written_true_false",
+  "section": "inbound_outbound_distribution_processing",
+  "coverage": [
+    {
+      "page": 69,
+      "topics": [
+        "RTI and foldable containers",
+        "tally",
+        "quantity discrepancies",
+        "driver signature",
+        "damage reporting"
+      ]
+    },
+    {
+      "page": 70,
+      "topics": [
+        "cargo remark codes",
+        "barcode escalation",
+        "put-away",
+        "damaged-goods segregation",
+        "warehouse locations"
+      ]
+    },
+    {
+      "page": 71,
+      "topics": [
+        "fixed/free/double-transaction locations",
+        "FIFO",
+        "sashifuda stock card"
+      ]
+    },
+    {
+      "page": 72,
+      "topics": [
+        "outbound process",
+        "picking",
+        "shortage response",
+        "stock-card update",
+        "single picking"
+      ]
+    },
+    {
+      "page": 73,
+      "topics": [
+        "total/batch picking",
+        "label picking",
+        "packing"
+      ]
+    },
+    {
+      "page": 74,
+      "topics": [
+        "outbound inspection",
+        "double-check",
+        "damage causes and escalation"
+      ]
+    },
+    {
+      "page": 75,
+      "topics": [
+        "cage trolley loading",
+        "pallet inspection",
+        "overhang",
+        "block stacking"
+      ]
+    },
+    {
+      "page": 76,
+      "topics": [
+        "alternate/interlocking stacking",
+        "pinwheel airflow stacking",
+        "brick stacking"
+      ]
+    },
+    {
+      "page": 77,
+      "topics": [
+        "vehicle identity",
+        "handover receipt",
+        "loading verification",
+        "leftover cargo prevention"
+      ]
+    },
+    {
+      "page": 78,
+      "topics": [
+        "distribution processing",
+        "label application",
+        "label position and orientation",
+        "wrong-label correction"
+      ]
+    }
+  ],
+  "visualQuestionsAdded": 0,
+  "imagePolicy": "No practical visual questions added. Existing Study Mode images and visual assets were not changed or remapped. Practical questions will only be added after individual asset verification.",
+  "examLanguagePolicy": "Japanese-only exam display with furigana; Romaji, English and Sinhala hidden during attempts. Explanations remain available after attempts. Existing presentation policy was not changed.",
+  "reviewGate": "All added questions remain DRAFT pending human Japanese-language and source accuracy review.",
+  "appImpact": "No existing app UI, navigation, Study Mode, source JSON, image assets, authentication, progress/history, legacy Quick Quiz, XP formula or frozen exam rules changed."
+}
