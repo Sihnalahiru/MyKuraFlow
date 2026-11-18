@@ -3004,9 +3004,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "1升は18Lです。"
+        "ja": "1<ruby>升<rt>しょう</rt></ruby>は18Lです。"
       },
-      "statement": "1升は18Lです。",
+      "statement": "1<ruby>升<rt>しょう</rt></ruby>は18Lです。",
       "correctAnswer": false,
       "explanation": {
         "en": "One shō is 1.8 L; 18 L is one tō.",
