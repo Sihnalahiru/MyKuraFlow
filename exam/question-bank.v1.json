@@ -203,6 +203,306 @@
       "sourceAnchor": "p9-s4 登録を受ける",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0011",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Commercial warehouses are classified according to building and equipment standards.",
+        "ja": "<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>や<ruby>設備<rt>せつび</rt></ruby>の<ruby>基準<rt>きじゅん</rt></ruby>によって分類されます。"
+      },
+      "statement": "<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>や<ruby>設備<rt>せつび</rt></ruby>の<ruby>基準<rt>きじゅん</rt></ruby>によって分類されます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "වාණිජ ගබඩා ගොඩනැගිලි සහ උපකරණ සඳහා වන ප්‍රමිතීන් අනුව වර්ග කරයි.",
+        "technicalNoteJa": "営業倉庫は、建物や設備の基準によって分類されます。"
+      },
+      "sourcePage": 10,
+      "sourceAnchor": "p10-s1",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0012",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A Class 1 warehouse can store dangerous goods without restriction.",
+        "ja": "<ruby>１類倉庫<rt>いちるいそうこ</rt></ruby>では、<ruby>危険物<rt>きけんぶつ</rt></ruby>も制限なく<ruby>保管<rt>ほかん</rt></ruby>できます。"
+      },
+      "statement": "<ruby>１類倉庫<rt>いちるいそうこ</rt></ruby>では、<ruby>危険物<rt>きけんぶつ</rt></ruby>も制限なく<ruby>保管<rt>ほかん</rt></ruby>できます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source page gives a different classification or temperature range; the explanation states the correction.",
+        "si": "1 වන පන්තියේ ගබඩාවක අනතුරුදායක භාණ්ඩ හැර අනෙකුත් භාණ්ඩ ගබඩා කළ හැකිය. අනතුරුදායක භාණ්ඩ එයට ඇතුළත් නොවේ.",
+        "technicalNoteJa": "１類倉庫では、危険物も制限なく保管できます。"
+      },
+      "sourcePage": 10,
+      "sourceAnchor": "p10-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0013",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Among the warehouse classes described, Class 1 has the fewest restrictions on the goods it can store.",
+        "ja": "説明されている<ruby>倉庫<rt>そうこ</rt></ruby>の中で、<ruby>１類倉庫<rt>いちるいそうこ</rt></ruby>は<ruby>保管<rt>ほかん</rt></ruby>できる物の制限が最も少ないです。"
+      },
+      "statement": "説明されている<ruby>倉庫<rt>そうこ</rt></ruby>の中で、<ruby>１類倉庫<rt>いちるいそうこ</rt></ruby>は<ruby>保管<rt>ほかん</rt></ruby>できる物の制限が最も少ないです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "මූලාශ්‍රයේ විස්තර කරන පන්ති අතරින් ගබඩා කළ හැකි භාණ්ඩ සම්බන්ධ සීමා අඩුම වන්නේ 1 වන පන්තියේ ගබඩාවටය.",
+        "technicalNoteJa": "説明されている倉庫の中で、１類倉庫は保管できる物の制限が最も少ないです。"
+      },
+      "sourcePage": 10,
+      "sourceAnchor": "p10-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0014",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A Class 2 warehouse has fire-resistant performance as a required feature.",
+        "ja": "<ruby>２類倉庫<rt>にるいそうこ</rt></ruby>には、<ruby>防火性能<rt>ぼうかせいのう</rt></ruby>があります。"
+      },
+      "statement": "<ruby>２類倉庫<rt>にるいそうこ</rt></ruby>には、<ruby>防火性能<rt>ぼうかせいのう</rt></ruby>があります。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source page gives a different classification or temperature range; the explanation states the correction.",
+        "si": "2 වන පන්තියේ ගබඩාවට ගිනි ආරක්ෂක හැකියාව නොමැති බව මූලාශ්‍රය පැහැදිලි කරයි.",
+        "technicalNoteJa": "２類倉庫には、防火性能があります。"
+      },
+      "sourcePage": 10,
+      "sourceAnchor": "p10-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0015",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A Class 3 warehouse lacks fire-resistant, moisture-proof and shielding performance.",
+        "ja": "<ruby>３類倉庫<rt>さんるいそうこ</rt></ruby>には、防火・防湿・遮断の機能がありません。"
+      },
+      "statement": "<ruby>３類倉庫<rt>さんるいそうこ</rt></ruby>には、防火・防湿・遮断の機能がありません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "3 වන පන්තියේ ගබඩාවට ගිනි ආරක්ෂාව, තෙතමනය වැළැක්වීම සහ පිටත තත්ත්වයන් වෙන් කිරීමේ හැකියාව නොමැති බව මූලාශ්‍රයේ සඳහන් වේ.",
+        "technicalNoteJa": "３類倉庫には、防火・防湿・遮断の機能がありません。"
+      },
+      "sourcePage": 10,
+      "sourceAnchor": "p10-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0016",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "An open-yard warehouse stores goods outdoors in an area without a roof.",
+        "ja": "<ruby>野積倉庫<rt>のづみそうこ</rt></ruby>は、<ruby>屋根<rt>やね</rt></ruby>のない<ruby>屋外<rt>おくがい</rt></ruby>で物を<ruby>保管<rt>ほかん</rt></ruby>します。"
+      },
+      "statement": "<ruby>野積倉庫<rt>のづみそうこ</rt></ruby>は、<ruby>屋根<rt>やね</rt></ruby>のない<ruby>屋外<rt>おくがい</rt></ruby>で物を<ruby>保管<rt>ほかん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "විවෘත භූමි ගබඩාවක වහලක් නොමැති එළිමහන් ස්ථානයක භාණ්ඩ ගබඩා කරයි.",
+        "technicalNoteJa": "野積倉庫は、屋根のない屋外で物を保管します。"
+      },
+      "sourcePage": 10,
+      "sourceAnchor": "p10-s1",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0017",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Grain and petroleum are examples of goods stored in silo or tank warehouses.",
+        "ja": "<ruby>穀物<rt>こくもつ</rt></ruby>や<ruby>石油<rt>せきゆ</rt></ruby>は、<ruby>貯蔵槽倉庫<rt>ちょぞうそうそうこ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>する物の例です。"
+      },
+      "statement": "<ruby>穀物<rt>こくもつ</rt></ruby>や<ruby>石油<rt>せきゆ</rt></ruby>は、<ruby>貯蔵槽倉庫<rt>ちょぞうそうそうこ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>する物の例です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "ධාන්‍ය වැනි කැට සහිත ද්‍රව්‍ය සහ පෙට්‍රෝලියම් වැනි ද්‍රව සිලෝ/ටැංකි ගබඩාවල තබන උදාහරණ වේ.",
+        "technicalNoteJa": "穀物や石油は、貯蔵槽倉庫に保管する物の例です。"
+      },
+      "sourcePage": 10,
+      "sourceAnchor": "p10-s1",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0018",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Dangerous-goods warehouses follow exactly the same rules as ordinary warehouses, with no special requirements.",
+        "ja": "<ruby>危険品倉庫<rt>きけんひんそうこ</rt></ruby>には、一般の<ruby>倉庫<rt>そうこ</rt></ruby>と同じルールだけが適用され、特別なルールはありません。"
+      },
+      "statement": "<ruby>危険品倉庫<rt>きけんひんそうこ</rt></ruby>には、一般の<ruby>倉庫<rt>そうこ</rt></ruby>と同じルールだけが適用され、特別なルールはありません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source page gives a different classification or temperature range; the explanation states the correction.",
+        "si": "අනතුරුදායක භාණ්ඩ ගබඩාවලට සාමාන්‍ය ගබඩාවලට අමතරව වෙනම විශේෂ නීති ඇත.",
+        "technicalNoteJa": "危険品倉庫には、一般の倉庫と同じルールだけが適用され、特別なルールはありません。"
+      },
+      "sourcePage": 10,
+      "sourceAnchor": "p10-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0019",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A refrigerated warehouse stores goods at temperatures of +10°C or below.",
+        "ja": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>は、＋10℃以下の<ruby>温度<rt>おんど</rt></ruby>で物を<ruby>保管<rt>ほかん</rt></ruby>します。"
+      },
+      "statement": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>は、＋10℃以下の<ruby>温度<rt>おんど</rt></ruby>で物を<ruby>保管<rt>ほかん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "ශීත ගබඩාවක් +10°C හෝ ඊට අඩු උෂ්ණත්වයක භාණ්ඩ ගබඩා කරයි.",
+        "technicalNoteJa": "冷蔵倉庫は、＋10℃以下の温度で物を保管します。"
+      },
+      "sourcePage": 11,
+      "sourceAnchor": "p11-s1",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0020",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A water-surface warehouse can be used to store logs floating on water.",
+        "ja": "<ruby>水面倉庫<rt>すいめんそうこ</rt></ruby>では、<ruby>丸太<rt>まるた</rt></ruby>を水に浮かべて<ruby>保管<rt>ほかん</rt></ruby>できます。"
+      },
+      "statement": "<ruby>水面倉庫<rt>すいめんそうこ</rt></ruby>では、<ruby>丸太<rt>まるた</rt></ruby>を水に浮かべて<ruby>保管<rt>ほかん</rt></ruby>できます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "දැව ජලයේ පාවෙන බැවින් ලී කොට ජල මතුපිට පාවෙමින් ගබඩා කළ හැකිය.",
+        "technicalNoteJa": "水面倉庫では、丸太を水に浮かべて保管できます。"
+      },
+      "sourcePage": 11,
+      "sourceAnchor": "p11-s1",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0021",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A trunk-room service has only one type, and every trunk room is a registered commercial warehouse.",
+        "ja": "トランクルームのサービスは１種類だけで、すべて<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>型です。"
+      },
+      "statement": "トランクルームのサービスは１種類だけで、すべて<ruby>営業倉庫<rt>えいぎょうそうこ</rt></ruby>型です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source page gives a different classification or temperature range; the explanation states the correction.",
+        "si": "මූලාශ්‍රය ට්‍රන්ක් රූම් සේවා වර්ග දෙකක් වෙන් කරයි: ලියාපදිංචි වාණිජ ගබඩා ආකාරය සහ කුලී ගබඩා ඉඩකඩ ආකාරය.",
+        "technicalNoteJa": "トランクルームのサービスは１種類だけで、すべて営業倉庫型です。"
+      },
+      "sourcePage": 11,
+      "sourceAnchor": "p11-s1",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0022",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A special warehouse may store supplies intended for use during disasters such as earthquakes and floods.",
+        "ja": "<ruby>特別の倉庫<rt>とくべつのそうこ</rt></ruby>には、<ruby>地震<rt>じしん</rt></ruby>や<ruby>洪水<rt>こうずい</rt></ruby>などの<ruby>災害<rt>さいがい</rt></ruby>時に使う<ruby>物品<rt>ぶっぴん</rt></ruby>を<ruby>保管<rt>ほかん</rt></ruby>することがあります。"
+      },
+      "statement": "<ruby>特別の倉庫<rt>とくべつのそうこ</rt></ruby>には、<ruby>地震<rt>じしん</rt></ruby>や<ruby>洪水<rt>こうずい</rt></ruby>などの<ruby>災害<rt>さいがい</rt></ruby>時に使う<ruby>物品<rt>ぶっぴん</rt></ruby>を<ruby>保管<rt>ほかん</rt></ruby>することがあります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "භූමිකම්පා සහ ගංවතුර වැනි ආපදා අවස්ථාවල භාවිත කරන සැපයුම් විශේෂ ගබඩාවක තබාගත හැකි බව මූලාශ්‍රයේ උදාහරණයෙන් දැක්වේ.",
+        "technicalNoteJa": "特別の倉庫には、地震や洪水などの災害時に使う物品を保管することがあります。"
+      },
+      "sourcePage": 11,
+      "sourceAnchor": "p11-s1",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0023",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Normal or dry storage is described as a temperature range of +15°C to +25°C.",
+        "ja": "<ruby>常温<rt>じょうおん</rt></ruby>・ドライの<ruby>温度<rt>おんど</rt></ruby>は、＋15℃から＋25℃です。"
+      },
+      "statement": "<ruby>常温<rt>じょうおん</rt></ruby>・ドライの<ruby>温度<rt>おんど</rt></ruby>は、＋15℃から＋25℃です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "සාමාන්‍ය හෝ වියළි ගබඩා උෂ්ණත්ව පරාසය +15°C සිට +25°C දක්වා බව මූලාශ්‍රයේ සඳහන් වේ.",
+        "technicalNoteJa": "常温・ドライの温度は、＋15℃から＋25℃です。"
+      },
+      "sourcePage": 12,
+      "sourceAnchor": "p12-s1",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0024",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Constant-temperature storage is described as operating from +10°C to +20°C.",
+        "ja": "<ruby>定温倉庫<rt>ていおんそうこ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>は、＋10℃から＋20℃です。"
+      },
+      "statement": "<ruby>定温倉庫<rt>ていおんそうこ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>は、＋10℃から＋20℃です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source page directly supports this statement.",
+        "si": "ස්ථාවර උෂ්ණත්ව ගබඩාවේ පරාසය +10°C සිට +20°C දක්වා බව මූලාශ්‍රයේ සඳහන් වේ.",
+        "technicalNoteJa": "定温倉庫の温度は、＋10℃から＋20℃です。"
+      },
+      "sourcePage": 12,
+      "sourceAnchor": "p12-s1",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0025",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "SF4 storage is described as operating above −50°C and up to −45°C.",
+        "ja": "<ruby>SF4級<rt>エスエフよんきゅう</rt></ruby>は、−50℃を超え−45℃以下です。"
+      },
+      "statement": "<ruby>SF4級<rt>エスエフよんきゅう</rt></ruby>は、−50℃を超え−45℃以下です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source page gives a different classification or temperature range; the explanation states the correction.",
+        "si": "SF4 පන්තිය −50°C හෝ ඊට අඩු උෂ්ණත්වය සඳහාය. −50°C ට වැඩි සහ −45°C දක්වා පරාසය SF3 පන්තියට අයත් වේ.",
+        "technicalNoteJa": "SF4級は、−50℃を超え−45℃以下です。"
+      },
+      "sourcePage": 12,
+      "sourceAnchor": "p12-s1",
+      "difficulty": "hard",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
