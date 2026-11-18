@@ -12,17 +12,54 @@ function updateUserBadge(){const n=document.getElementById("userBadge");if(n&&cu
 async function changePassword(){const currentPassword=prompt("Enter your current password");if(!currentPassword)return;const newPassword=prompt("Enter a new password (at least 12 characters)");if(!newPassword)return;try{await apiRequest("/change-password",{method:"POST",body:JSON.stringify({currentPassword,newPassword})});alert("Password updated successfully.")}catch(e){alert(e.message)}}
 ;
 
-// Authentication bootstrap: persistent session until the learner signs out.
-document.getElementById("loginForm").addEventListener("submit", async (event) => {
+// Learner profile selector: choosing an avatar reveals that learner's password field.
+const learnerProfiles = {
+  haruto: { name: "Haruto", avatar: "./data/haruto.png" },
+  hina: { name: "Hina", avatar: "./data/hina.png" },
+  sakura: { name: "Sakura", avatar: "./data/sakura.png" }
+};
+const loginForm = document.getElementById("loginForm");
+const usernameInput = document.getElementById("usernameInput");
+const passwordInput = document.getElementById("passwordInput");
+const passwordPanel = document.getElementById("passwordPanel");
+const loginButton = loginForm.querySelector('button[type="submit"]');
+function selectLearner(username) {
+  const profile = learnerProfiles[username];
+  if (!profile) return;
+  usernameInput.value = username;
+  document.querySelectorAll(".learner-option").forEach(button => {
+    const selected = button.dataset.learner === username;
+    button.setAttribute("aria-pressed", String(selected));
+  });
+  document.getElementById("selectedLearnerAvatar").src = profile.avatar;
+  document.getElementById("selectedLearnerAvatar").alt = profile.name + " avatar";
+  document.getElementById("selectedLearnerName").textContent = profile.name;
+  passwordPanel.hidden = false;
+  loginButton.disabled = false;
+  document.getElementById("authError").textContent = "";
+  passwordInput.value = "";
+  passwordInput.focus({ preventScroll: true });
+}
+document.querySelectorAll(".learner-option").forEach(button => {
+  button.addEventListener("click", () => selectLearner(button.dataset.learner));
+});
+document.getElementById("changeLearner").addEventListener("click", () => {
+  usernameInput.value = "";
+  passwordInput.value = "";
+  passwordPanel.hidden = true;
+  loginButton.disabled = true;
+  document.querySelectorAll(".learner-option").forEach(button => button.setAttribute("aria-pressed", "false"));
+  document.querySelector(".learner-option").focus();
+});
+loginForm.addEventListener("submit", async event => {
   event.preventDefault();
-  const form = event.currentTarget;
-  const button = form.querySelector('button[type="submit"]');
   const error = document.getElementById("authError");
-  const username = String(form.elements.username.value || "").trim().toLowerCase();
-  const password = String(form.elements.password.value || "");
+  const username = String(usernameInput.value || "").trim().toLowerCase();
+  const password = String(passwordInput.value || "");
+  if (!learnerProfiles[username]) { error.textContent = "Please choose your learner avatar first."; return; }
   error.textContent = "";
-  button.disabled = true;
-  button.textContent = "Signing in…";
+  loginButton.disabled = true;
+  loginButton.textContent = "Signing in…";
   try {
     const result = await apiRequest("/login", {
       method: "POST",
@@ -32,12 +69,15 @@ document.getElementById("loginForm").addEventListener("submit", async (event) =>
     localStorage.setItem("mk-auth-token", authToken);
     currentUser = result.user;
     await load();
-    form.reset();
+    loginForm.reset();
+    passwordPanel.hidden = true;
+    loginButton.disabled = true;
+    document.querySelectorAll(".learner-option").forEach(button => button.setAttribute("aria-pressed", "false"));
   } catch (err) {
     error.textContent = err.message || "Unable to sign in.";
+    loginButton.disabled = false;
   } finally {
-    button.disabled = false;
-    button.textContent = "Sign in";
+    loginButton.textContent = "Continue to study space";
   }
 });
 
