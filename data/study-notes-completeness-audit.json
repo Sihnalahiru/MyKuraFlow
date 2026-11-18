@@ -373,10 +373,11 @@
     ],
     "release_status": "BLOCKED",
     "release_blockers": [
-      "line-by-line content and multilingual proofreading",
-      "all source numeric tables and procedures",
-      "source-PDF to 121 image visual mapping",
-      "full-book source-note completeness proof"
+      "full-book source-to-note coverage audit",
+      "Japanese/Romaji/Furigana/English/Sinhala proofreading",
+      "numeric tables and procedure verification",
+      "source PDF figure-to-image mapping for all 121 uploaded assets",
+      "runtime offline and mobile browser testing"
     ],
     "image_inventory_zip": {
       "source_zip": "specified_skilled_worker_textbook_202607(2).zip",
@@ -389,7 +390,7 @@
       "discrepancy_against_legacy_172_claim": 51,
       "conclusion": "The uploaded ZIP and current public/images directory both contain 121 numbered image assets. The previous 172 count is not supported by this ZIP. No missing 51 assets are fabricated; 172 remains an unverified historical count pending the source of that inventory.",
       "visual_review": "A contact sheet of all 121 ZIP image assets was visually reviewed. This is an inventory-level visual review only; source-PDF figure-to-image mapping and per-asset lesson mapping remain incomplete.",
-      "status": "121_OF_121_INVENTORIED; PAGE_MAPPING_PENDING"
+      "status": "121_OF_121_INVENTORIED; CONTACT SHEET REVIEWED; SOURCE PAGE MAPPING PENDING"
     },
     "part2_content_update": {
       "pages": [
@@ -402,6 +403,18 @@
       "commit": "e8697281db2a96010edefc78283079d91531de07",
       "update": "Expanded compact Japanese summaries to include source subheadings and definitions; added separate furigana fields.",
       "qualification": "Draft content expansion only. Translation fidelity, all numeric table cells, Romaji and lexical furigana remain subject to proofreading."
-    }
+    },
+    "app_and_offline_fixes": [
+      {
+        "file": "app.js",
+        "commit": "36008f7ff4301fbab215c8df1c90fa754a7be9ec",
+        "change": "Legacy nested lesson schema normalization fixed to preserve section content and line breaks."
+      },
+      {
+        "file": "sw.js",
+        "commit": "f5e3f9767aef8f89762610744403589dca1df382",
+        "change": "Cache version v5; all 15 study JSON batches added to install precache, plus dynamic caching for JSON and images."
+      }
+    ]
   }
 }
