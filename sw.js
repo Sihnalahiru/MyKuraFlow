@@ -1,4 +1,4 @@
-const CACHE="mykuraflow-shell-v10";
+const CACHE="mykuraflow-shell-v11";
 const SOURCES=[
 "data/front-matter-pages-001-008.json",
 "data/part-01/lesson-01-pages-009-012.json",
@@ -16,7 +16,7 @@ const SOURCES=[
 "data/part-04/lesson-01-pages-109-118.json",
 "data/part-04/lesson-02-pages-119-123.json"
 ];
-const CORE=["./","./index.html","./styles.css","./app.js","./api-config.js","./manifest.webmanifest",...SOURCES.map(x=>"./"+x)];
+const CORE=["./","./index.html","./styles.css","./app.js","./api-config.js","./manifest.webmanifest","./data/haruto.png","./data/hina.png","./data/sakura.png","./data/waresix%20truck.lottie",...SOURCES.map(x=>"./"+x)];
 self.addEventListener("install",event=>event.waitUntil((async()=>{const cache=await caches.open(CACHE);for(const path of CORE){try{await cache.add(path)}catch(error){console.warn("Cache skipped:",path,error)}}await self.skipWaiting()})()));
 self.addEventListener("activate",event=>event.waitUntil((async()=>{const keys=await caches.keys();await Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)));await self.clients.claim()})()));
 self.addEventListener("fetch",event=>{if(event.request.method!=="GET")return;event.respondWith((async()=>{const hit=await caches.match(event.request);if(hit)return hit;try{const response=await fetch(event.request);if(response.ok&&(event.request.url.includes("/images/")||event.request.url.endsWith(".json"))){const cache=await caches.open(CACHE);await cache.put(event.request,response.clone())}return response}catch(error){if(event.request.mode==="navigate")return caches.match("./index.html");return new Response("",{status:504,statusText:"Offline resource unavailable"})}})())});
