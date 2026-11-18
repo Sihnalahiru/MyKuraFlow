@@ -1,0 +1,59 @@
+name: Deploy MyKuraFlow to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Validate app assets
+        run: |
+          test -s index.html
+          test -s styles.css
+          test -s app.js
+          test -s manifest.webmanifest
+          test -s sw.js
+          node --check app.js
+          python - <<'PY'
+          import json, pathlib
+          files = [
+            "data/part-01/lesson-01-pages-009-012.json",
+            "data/part-01/lesson-02-pages-013-018.json",
+            "data/part-01/lesson-03-pages-019-028.json",
+            "data/part-01/lesson-04-pages-029-038.json",
+            "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+            "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+            "data/part-02/lesson-01-pages-059-068.json",
+            "data/part-02/lesson-02-pages-069-078.json",
+            "data/part-02/lesson-03-pages-079-088.json",
+            "data/part-03/lesson-01-pages-089-098.json",
+            "data/part-03/lesson-02-pages-099-108.json",
+            "data/part-04/lesson-01-pages-109-118.json",
+            "data/part-04/lesson-02-pages-119-123.json",
+          ]
+          for f in files:
+            json.loads(pathlib.Path(f).read_text(encoding="utf-8"))
+          print("13 study data files: JSON valid")
+          PY
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
