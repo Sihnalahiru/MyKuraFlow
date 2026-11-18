@@ -1,0 +1,350 @@
+{
+  "schema_version": "1.0.0",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "part_id": "part-02",
+  "lesson_id": "p02-l03",
+  "lesson_title": {
+    "ja": "流通加工の作業と作業管理",
+    "furigana": "流通加工（りゅうつうかこう）の作業（さぎょう）と作業管理（さぎょうかんり）",
+    "romaji": "Ryuutsuu Kakou no Sagyou to Sagyou Kanri",
+    "en": "Distribution-processing operations and work management",
+    "si": "බෙදාහැරීමේ සැකසුම් කාර්යයන් සහ වැඩ කළමනාකරණය"
+  },
+  "page_range": {
+    "pdf_pages": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "printed_pages": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 79,
+      "printed_page": 79,
+      "source_ja": "（２）札付け：タグや価格などの札を商品に取り付ける作業。方法：タグガンでタグピンを取り付ける。タグ付けループ（ループロック）という用具でタグを取り付ける。（３）封入：取扱説明書・保証書などの付属品を商品箱に入れる作業。（４）カッティング：商品を決められたサイズに切る作業。（５）詰め替え：商品ケースの中身を別の容器に入れ替える作業。冷凍食品をカートンから取り出すときは布手袋や防寒手袋の上に新しいビニール手袋を重ねる。生鮮食品を詰め替えるときは作業手袋を外し、衛生に注意する。（６）セット組み：違う種類の商品やアイテムをまとめてセットにする作業。",
+      "source_furigana": "札付（ふだつ）け、価格（かかく）、タグガン、タグピン、封入（ふうにゅう）、付属品（ふぞくひん）、取扱説明書（とりあつかいせつめいしょ）、保証書（ほしょうしょ）、詰（つ）め替（か）え、生鮮食品（せいせんしょくひん）、衛生（えいせい）、セット組（ぐ）み。",
+      "romaji": "Fudazuke wa tagu ya kakaku fuda o shouhin ni toritsukeru sagyou desu. Tag gun ya tag loop o tsukaimasu. Fuunyuu wa setsumeisho ya hoshousho nado no fuzokuhin o hako ni ireru koto desu. Cutting wa kimatta size ni kiru koto. Tsumekae wa nakami o betsu no youki ni utsusu koto. Reitou shokuhin no toridashi de wa boukan tebukuro no ue ni atarashii vinyl tebukuro o kasanemasu. Fresh food no tsumekae de wa hygiene ni chuui shimasu. Set-gumi wa different items o matomete set ni suru koto desu.",
+      "en": "Tagging attaches tags such as product or price tags using a tag gun and tag pins, or a tag loop/loop lock. Insertion (fūnyū) places accessories such as instruction manuals and warranty cards inside the product box. Cutting trims a product to a specified size. Repacking transfers contents from one product case to another container. When removing frozen foods from cartons, wear cloth or cold-protection gloves with a new disposable vinyl glove over them. When repacking fresh foods, remove work gloves and maintain hygiene. Set assembly groups different product types/items into one set.",
+      "si": "Tagging යනු භාණ්ඩයට tag හෝ මිල පත්‍රිකාවක් සවි කිරීමයි. ඒ සඳහා tag gun සහ tag pin හෝ tag loop/loop lock භාවිත කරයි. Insertion (封入) යනු භාවිත උපදෙස්, warranty card වැනි අමතර ලේඛන භාණ්ඩ පෙට්ටියට ඇතුළත් කිරීමයි. Cutting යනු භාණ්ඩ නියමිත ප්‍රමාණයට කැපීමයි. Repacking යනු භාණ්ඩ පෙට්ටියක අන්තර්ගතය වෙනත් බහාලුමකට මාරු කිරීමයි. ශීත කළ ආහාර carton එකෙන් ඉවත් කිරීමේදී රෙදි අත්වැසුම් හෝ ශීත ආරක්ෂක අත්වැසුම් මත අලුත් vinyl අත්වැසුමක් දමා භාවිත කරන්න. නැවුම් ආහාර නැවත ඇසුරුම් කිරීමේදී වැඩ අත්වැසුම් ඉවත් කර සනීපාරක්ෂාව රකින්න. Set assembly යනු විවිධ භාණ්ඩ එකට එකතු කර කට්ටලයක් සකස් කිරීමයි.",
+      "visuals": [
+        {
+          "type": "distribution_processing_tasks",
+          "description": "Tag gun, instruction leaflet insertion, cutting, repacking with glove hygiene and multi-item set assembly."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 79,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-079-distribution-processing-tasks.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 80,
+      "printed_page": 80,
+      "source_ja": "（７）パッケージ包装：ポリ袋などに商品を入れて封をする作業。ギフト用の特別なラッピングもある。ラッピングはプレゼント用に商品をきれいに包むこと。（８）外装梱包：カートン（段ボール箱）に商品を詰め、クッション材と一緒に封入する作業。カートン組立てにはクラフトテープを使い、最初に底を止める。中の商品が重い場合は底が抜けないようしっかり貼る。テープ貼りの強度：一の字貼り★、十の字貼り★★、キの字貼り★★★、米の字貼り★★★★（最も強い）。H字貼りは左右面との角にテープを貼り、隙間からチリやホコリが入るのを防ぐが、特に強度が増すわけではない。",
+      "source_furigana": "包装（ほうそう）、外装梱包（がいそうこんぽう）、段（だん）ボール、緩衝材（かんしょうざい）、組（く）み立（た）て、底（そこ）、強度（きょうど）、一（いち）の字貼（じば）り、十（じゅう）の字貼（じば）り、キの字貼（じば）り、米（こめ）の字貼（じば）り。",
+      "romaji": "Package housou wa poly-bukuro ni shouhin o irete fuu o suru sagyou desu. Gai-sou konpou wa carton ni shouhin to cushion material o irete fuu o suru koto desu. Carton no soko wa craft tape de tomemasu. Tape pattern no tsuyosa wa I, cross, K, kome no jun ni tsuyoku narimasu. H-tape wa dust no shinnyuu o fusegimasu ga, tokubetsu ni tsuyosa o fueru wake de wa arimasen.",
+      "en": "Package wrapping places products in polybags and seals them; gift wrapping is also performed. Outer-carton packing places products and cushioning material inside a corrugated carton. Assemble cartons using kraft tape and seal the bottom first; reinforce it carefully for heavy contents. The source ranks tape patterns by strength: straight/I (★), cross/十 (★★), K (★★★), and 米 pattern (★★★★, strongest). H-taping applies tape at the corners between the top and side faces; it helps prevent dust entering through gaps but does not specifically increase carton strength.",
+      "si": "Package wrapping යනු භාණ්ඩ poly bag එකකට දමා මුද්‍රා කිරීමයි. තෑගි සඳහා විශේෂ wrapping ද සිදු කරයි. Outer-carton packing යනු භාණ්ඩ සහ cushioning material corrugated carton එකකට දමා ඇසුරුම් කිරීමයි. Carton එක සකස් කිරීමේදී kraft tape භාවිත කර පළමුව පතුල හොඳින් වසාගන්න. ඇතුළත භාණ්ඩ බර නම් පතුල ගැලවී නොයන ලෙස ශක්තිමත් tape කිරීම අවශ්‍යය. මූලාශ්‍රයේ tape ශක්තිය අනුව අනුපිළිවෙළ: straight/I (★), cross/十 (★★), K (★★★), 米 pattern (★★★★ – ශක්තිමත්ම). H-taping මඟින් ඉහළ හා පැති මතුපිට කොන්වල tape යොදා දූවිලි ඇතුළුවීම අඩු කරයි; නමුත් එය විශේෂයෙන් carton ශක්තිය වැඩි කරන ක්‍රමයක් නොවේ.",
+      "visuals": [
+        {
+          "type": "carton_tape_strength",
+          "description": "Four carton tape patterns ranked exactly as in the source, plus H-seal dust exclusion note."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 80,
+        "source_pdf_visual_present": true,
+        "repo_images": [
+          "public/images/69.jpg",
+          "public/images/70.jpg",
+          "public/images/71.jpg",
+          "public/images/72.jpg",
+          "public/images/73.jpg"
+        ],
+        "generated_asset": "/images/generated/page-080-carton-tape-patterns.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 81,
+      "printed_page": 81,
+      "source_ja": "クッション材：紙緩衝材、紙パッキン、エアクッション、エアキャップ（プチプチ）、パラ緩衝材（発泡スチロールなど）。商品と容器の隙間を埋めるために使う。（９）開梱：マスターカートンをカッターナイフで開け商品を取り出す。商品を傷つけないよう刃を深く差し込まない。刃が折れたら責任者や周囲にすぐ知らせ、折れた刃が見つかるまで探す。絶対に放置しない。（１０）バンド切り：バンドカッター等でPPバンドを切り、セット商品を単箱に分ける。PPバンドはプラスチック製の細いバンド。（１１）PPバンド結束：箱や貨物にPPバンドを巻いて固定する。自動梱包機や結束機を使う。",
+      "source_furigana": "紙緩衝材（かみかんしょうざい）、紙（かみ）パッキン、エアクッション、エアキャップ、発泡（はっぽう）スチロール、開梱（かいこん）、刃（は）、折（お）れる、放置（ほうち）、バンド切（き）り、単箱（たんばこ）、結束（けっそく）。",
+      "romaji": "Cushion materials include paper cushioning, paper packing, air cushions, air-cap bubble sheets and foam materials. Kaikon means opening a master carton with a cutter and taking products out. Do not insert the blade deeply. If the blade breaks, tell the supervisor and nearby people immediately and search until the fragment is found. Do not leave it. Band-kiri cuts PP bands to separate a set into single cartons. PP band is a thin plastic strap. PP-band kessoku wraps and secures cargo using automatic packing or strapping machines.",
+      "en": "Cushioning materials include paper cushioning, paper packing, air cushions, bubble wrap (air-cap) and lightweight foam such as expanded polystyrene. They fill gaps between products and containers. Unpacking (kaikon) opens a master carton with a utility knife; do not insert the blade deeply or damage the product. If the blade breaks, immediately notify the supervisor and nearby workers, then search until the broken piece is found—never leave it unattended. Band cutting uses a band cutter or suitable cutter to cut PP straps and split a bundled set into individual cartons. PP band is a thin plastic strap. PP-band strapping wraps and secures cartons/cargo using automatic packing or strapping machines.",
+      "si": "Cushioning materials අතර කඩදාසි ආරක්ෂක ද්‍රව්‍ය, paper packing, air cushion, bubble wrap (air-cap) සහ expanded polystyrene foam වැනි සැහැල්ලු ද්‍රව්‍ය ඇතුළත් වේ. භාණ්ඩය සහ බහාලුම අතර හිස් ඉඩ පිරවීමට ඒවා යොදාගනී. Unpacking (開梱) යනු master carton එක utility knife එකකින් විවෘත කර භාණ්ඩ ඉවත් කිරීමයි. භාණ්ඩයට හානි නොවන ලෙස blade එක ගැඹුරට ඇතුළු නොකරන්න. Blade එක කැඩුණොත් වහාම වගකිවයුතු නිලධාරියාට සහ අසල සේවකයන්ට දන්වා කැඩුණු කොටස හමුවන තුරු සොයන්න; කිසිවිටෙක එය එතැනම අතහැර නොයන්න. Band cutting යනු PP band cutter එකකින් පටි කපා එකට බැඳ ඇති set එක තනි පෙට්ටිවලට වෙන් කිරීමයි. PP band යනු ප්ලාස්ටික්වලින් සෑදූ සිහින් පටියකි. PP-band strapping යනු automatic packing/strapping machine භාවිතයෙන් පෙට්ටි හෝ භාණ්ඩ වටා PP band ඔතා සවි කිරීමයි.",
+      "visuals": [
+        {
+          "type": "cushioning_materials",
+          "description": "Paper, paper fill, air pillow, bubble wrap and foam protection options."
+        },
+        {
+          "type": "safe_carton_opening",
+          "description": "Utility knife shallow cut direction, no deep blade insertion, broken-blade escalation."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 81,
+        "source_pdf_visual_present": true,
+        "repo_images": [
+          "public/images/74.jpg",
+          "public/images/76.jpg"
+        ],
+        "generated_asset": "/images/generated/page-081-cushioning-opening-strapping.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 82,
+      "printed_page": 82,
+      "source_ja": "① 自動結束機：自動結束機を使って貨物にPPバンドを掛ける。アーム部分から頭を離して作業する。頭を近づけると巻き込まれる危険がある。写真の機械は自動梱包機ともいう。② 結束機：テープ・ひも・バンドなどで複数の荷物をひとまとめに固定する機械。結束中は動作部分に手を近づけない。手や指が挟まれる危険がある。（１２）ストレッチ梱包：パレタイズ貨物を伸びる透明なストレッチフィルムで梱包する。手順：パレットの一番下にフィルムを挟み、下から上へ巻く。（１３）木箱・木枠梱包：木箱や木枠を組み立てて貨物を梱包する。",
+      "source_furigana": "自動結束機（じどうけっそくき）、巻（ま）き込（こ）まれる、結束機（けっそくき）、挟（はさ）まれる、ストレッチ梱包（こんぽう）、伸（の）びる、透明（とうめい）、木箱（きばこ）、木枠（きわく）。",
+      "romaji": "Jidou kessokuki wa nimotsu ni PP band o kakemasu. Arm kara atama o hanashite sagyou shimasu. Kessokuki no ugoki bubun ni te ya yubi o chikazukenaide kudasai. Stretch konpou wa pallet cargo o nobiru toumei film de tsutsumu koto desu. Film o pallet no ichiban shita ni hasami, shita kara ue e makimasu. Kibako / kiwaku konpou wa wooden box or frame o kumitate cargo o pack shimasu.",
+      "en": "An automatic strapping machine applies PP band to cargo. Keep your head away from the arm; getting too close creates an entanglement hazard. The pictured machine may also be called an automatic packing machine. A strapping/bundling machine groups multiple packages using tape, cord or bands. Keep hands and fingers away from moving parts during operation because they may be trapped. Stretch wrapping secures palletised cargo with transparent stretch film: trap the film at the bottom of the pallet and wrap upward from bottom to top. Wooden-crate/frame packing assembles a wooden box or frame around cargo.",
+      "si": "Automatic strapping machine එක භාවිතයෙන් භාණ්ඩ වටා PP band යොදයි. එහි arm කොටසෙන් හිස ඈත් කර වැඩ කරන්න; ළඟට ගියහොත් යන්ත්‍රයට ඇදී යාමේ අවදානමක් ඇත. මෙහි දැක්වෙන යන්ත්‍රය automatic packing machine ලෙසද හැඳින්විය හැක. Strapping/bundling machine එක tape, cord හෝ band භාවිතයෙන් භාණ්ඩ කිහිපයක් එකට බැඳ සවි කරයි. ක්‍රියාත්මක වන විට අත් සහ ඇඟිලි චලනය වන කොටස්වලට ළං නොකරන්න; ඒවා අතර සිරවිය හැක. Stretch wrapping යනු pallet මත ගොඩගැසූ භාණ්ඩ දිගහැරෙන විනිවිද පෙනෙන stretch film එකකින් ආවරණය කිරීමයි. Film එක pallet පතුලේ සවි කර පහළ සිට ඉහළට ඔතන්න. Wooden-crate/frame packing යනු ලී පෙට්ටියක් හෝ ලී රාමුවක් සකස් කර භාණ්ඩ ඇසුරුම් කිරීමයි.",
+      "visuals": [
+        {
+          "type": "machine_safety_and_stretch_wrap",
+          "description": "Automatic strapping machine danger zone, hands-off moving parts and bottom-to-top stretch film wrapping."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 82,
+        "source_pdf_visual_present": true,
+        "repo_images": [
+          "public/images/75.jpg",
+          "public/images/76.jpg",
+          "public/images/77.jpg"
+        ],
+        "generated_asset": "/images/generated/page-082-strapping-stretch-wrap.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": 83,
+      "source_ja": "（１４）返品再生：返品された商品を再び出荷できるように再生加工・修理する作業。（１５）検針：主にアパレル製品で、コンベヤ式やハンディ式の検針機（金属検知器）を使い、商品内に針が混じっていないか確認・検査する。検針とは針などの金属が商品内に入っていないか調べること。金属検知器は金属を見つける機械。（１６）縫製＜織りネーム＞：ミシンを使って洗濯表示やブランドネームなどを取り付け・縫い付ける。（１７）クリーニング：商品についたシミや汚れを薬品などでピンポイントに取り除く。",
+      "source_furigana": "返品再生（へんぴんさいせい）、検針（けんしん）、金属検知器（きんぞくけんちき）、針（はり）、縫製（ほうせい）、織（お）りネーム、洗濯表示（せんたくひょうじ）、縫（ぬ）い付（つ）け、クリーニング、汚（よご）れ。",
+      "romaji": "Henpin saisei wa henpin sareta shouhin o mata shukka dekiru you ni naosu sagyou desu. Kenshin wa conveyor-gata ya handy-gata no metal detector de apparel no naka ni hari ga nai ka shiraberu koto desu. Housei wa sewing machine de care label ya brand name o tsukeru koto. Cleaning wa stain ya yogore o yakuhin nado de pinpoint ni torinozoku koto desu.",
+      "en": "Returns refurbishment restores returned products so they can be shipped again. Needle inspection (kenshin) is mainly used for apparel: conveyor-type or handheld needle/metal detectors check whether needles or other metal fragments remain inside products. Sewing (woven label attachment) uses a sewing machine to attach care/washing labels and brand labels. Cleaning removes stains or dirt from specific spots using suitable chemicals.",
+      "si": "Returns refurbishment යනු ආපසු ලැබුණු භාණ්ඩ නැවත යැවිය හැකි තත්ත්වයට අලුත්වැඩියා/නැවත සකස් කිරීමයි. Needle inspection (検針) ප්‍රධාන වශයෙන් ඇඳුම් නිෂ්පාදනවල සිදු කරයි. Conveyor-type හෝ handheld needle/metal detector භාවිතයෙන් භාණ්ඩය තුළ ඉඳිකටු හෝ වෙනත් ලෝහ කැබලි ඉතිරි වී තිබේදැයි පරීක්ෂා කරයි. Sewing යනු මහන මැෂිමකින් care/washing label සහ brand label වැනි ලේබල් සවි කිරීමයි. Cleaning යනු පැල්ලම් හෝ කුණු ඇති ස්ථානය පමණක් සුදුසු රසායනික ද්‍රව්‍ය භාවිතයෙන් නිවැරදිව ඉවත් කිරීමයි.",
+      "visuals": [
+        {
+          "type": "garment_needle_detector",
+          "description": "Conveyor-type metal/needle detector inspecting apparel, plus handheld detector for pinpoint recheck."
+        },
+        {
+          "type": "returns_repair_sewing_cleaning",
+          "description": "Returned product refurbishment, sewing care-label attachment and spot-cleaning workflow."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 83,
+        "source_pdf_visual_present": true,
+        "source_image_render_unavailable": true,
+        "repo_images": [],
+        "external_visual_references": [
+          {
+            "source": "PBS Metal Detectors — garment needle detectors",
+            "url": "https://www.pbsmetaldetectors.com/garments.html"
+          },
+          {
+            "source": "CASSEL METAL SHARK FL brochure",
+            "url": "https://www.cassel-inspection.com/hubfs/Data%20Sheets%20-%20EN/CASSEL-metal-shark-fl-US-EN.pdf"
+          }
+        ],
+        "generated_asset": "/images/generated/page-083-needle-inspection-refurbishment.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 84,
+      "printed_page": 84,
+      "source_ja": "２．作業計画：作業を安全かつ効率よく進めるため、作業内容（何をするか）、手順（どの順番か）、人員（何人か）、資材（必要な材料）、器具（必要な設備・機器）を事前に決める。作業計画書は全作業者が内容を理解し安全に作業するため必要。流通加工では設備・機器の安全な使い方も計画する。1人が1時間にできる作業量から必要人数と時間を計算し、就業規則を守る。３．作業準備：加工スペースを確保し標識を置き無断立入を防ぐ。指示書に基づく商品を作業場にそろえる。資材数量を事前確認する。テーブル・手袋・カッター・テープなどを準備する。不要な商品・資材は作業スペースに置かない。",
+      "source_furigana": "作業計画（さぎょうけいかく）、手順（てじゅん）、人員（じんいん）、資材（しざい）、器具（きぐ）、作業計画書（さぎょうけいかくしょ）、就業規則（しゅうぎょうきそく）、作業準備（さぎょうじゅんび）、確保（かくほ）、立入（たちい）り。",
+      "romaji": "Sagyou keikaku wa anzen de kouritsu yoku susumeru tame ni, sagyou naiyou, tejun, jin'in, shizai, kigu o mae motte kimeru koto desu. Work plan sheet wa zen'in ga sagyou o rikai suru tame hitsuyou desu. Junbi de wa space o kakuhou shi, sign o okite, shiji-sho ni aru shouhin, shizai, table, gloves, cutter, tape o soroe masu. Fuyou na mono wa sagyou space ni okanai.",
+      "en": "Work planning decides in advance: work content (what), procedure/sequence (in what order), staffing (how many people), materials (what supplies) and equipment/tools. A written work plan is essential so all workers understand the task and can work safely. Plan safe use of equipment and calculate required staffing/time from the amount one worker can complete per hour; comply with workplace rules. Preparation: secure the processing area and place signs to prevent unauthorised entry; bring the products specified in the instruction; check material quantities in advance; prepare tables, gloves, cutters and tape; keep unnecessary products/materials out of the work area.",
+      "si": "Work planning යනු වැඩ ආරක්ෂිතව සහ කාර්යක්ෂමව සිදු කිරීමට පෙර තීරණය කළ යුතු කරුණු සකස් කිරීමයි: වැඩ අන්තර්ගතය (කුමක්ද), ක්‍රියා පටිපාටිය/අනුපිළිවෙළ, සේවක සංඛ්‍යාව, අවශ්‍ය ද්‍රව්‍ය සහ උපකරණ. සියලු සේවකයන්ට වැඩේ අවබෝධ කර ආරක්ෂිතව ක්‍රියා කිරීමට ලිඛිත work plan එක අත්‍යවශ්‍යය. යන්ත්‍ර ආරක්ෂිතව භාවිත කරන ආකාරයද සැලසුම් කරන්න. එක් සේවකයෙකුට පැයකදී කළ හැකි වැඩ ප්‍රමාණය අනුව අවශ්‍ය සේවකයන් සහ කාලය ගණනය කර සේවා ස්ථානයේ නීති පිළිපදින්න. සූදානමේදී වැඩබිම වෙන් කර අනවසර ඇතුළුවීම වැළැක්වීමට සලකුණු තබන්න; instruction එකේ සඳහන් භාණ්ඩ ගෙන එන්න; ද්‍රව්‍ය ප්‍රමාණ කලින් පරීක්ෂා කරන්න; මේස, අත්වැසුම්, cutter සහ tape සූදානම් කරන්න; අවශ්‍ය නොවන භාණ්ඩ/ද්‍රව්‍ය වැඩබිමේ නොතබන්න.",
+      "visuals": [
+        {
+          "type": "work_plan_checklist",
+          "description": "Five planning inputs and pre-start preparation checklist with restricted work-zone boundary."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 84,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-084-work-plan-preparation.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 85,
+      "printed_page": 85,
+      "source_ja": "４．作業実施：作業工程表の指示・注意事項を守り、ミスや不良品を防ぐ。作業漏れを防ぐため20個・50個などまとまった数量で区切り、商品と資材の数量が合っているか確認する。ミスしたときは責任者に報告する。加工商品を傷つけた場合、作業用具に異常や故障が起きた場合は必ず報告する。５．進捗管理：進捗状況を常に確認し、遅れや不良品など問題があれば責任者へ報告する。作業を中断する場合や数日かかる場合は、作業日ごとに完了した商品を倉庫の保管場所へしまう。６．作業完了：完成品と不良品の数量を確認して終了報告する。完成品と不良品を分けて引き渡す。資材・用具を数えて元の場所へ戻し、開始前の数量と照合する。不足時は上司に報告し作業場を探す。空箱は所定場所に集めリサイクル・廃棄ルールに従う。",
+      "source_furigana": "作業実施（さぎょうじっし）、作業工程表（さぎょうこうていひょう）、不良品（ふりょうひん）、作業漏（さぎょうも）れ、進捗管理（しんちょくかんり）、中断（ちゅうだん）、完成品（かんせいひん）、引渡（ひきわた）し、廃棄（はいき）。",
+      "romaji": "Sagyou jisshi de wa kouteihyou no shiji to chuui o mamori, miss ya furyouhin o fusegimasu. 20-ko ya 50-ko no batch ni wakete suuryou o kakunin shimasu. Miss ya tool no ijou wa sekininsha ni houkoku shimasu. Shinchoku kanri de wa susumiguuai o tsune ni kakunin shi, okure ya defect ga areba houkoku shimasu. Kanryouji wa kanseihin to furyouhin o wakete, shizai ya dougu o count shi moto no basho ni modoshimasu.",
+      "en": "During execution, follow the process sheet and precautions to prevent errors and defective products. Work in batches such as 20 or 50 units and reconcile product and material quantities to prevent omissions. Report any mistake, product damage or abnormal/faulty tool to the supervisor. Progress management continuously checks completion status and reports delays or defects. If work is paused or spans several days, store the day's completed products in the assigned warehouse location at the end of each workday. On completion, count finished and defective products and report completion; hand them over separately. Count materials and tools, return them to their original places and reconcile against the starting quantities. If tools are missing, notify the supervisor and search the work area. Collect empty cartons at the designated place and follow recycling/disposal rules.",
+      "si": "වැඩ ක්‍රියාත්මක කිරීමේදී process sheet එකේ උපදෙස් සහ අවවාද පිළිපදිමින් වැරදි සහ දෝෂ සහිත භාණ්ඩ වැළැක්විය යුතුය. වැඩ අතපසු නොවීමට 20ක් හෝ 50ක් වැනි කණ්ඩායම් ලෙස වැඩ බෙදා භාණ්ඩ හා ද්‍රව්‍ය ප්‍රමාණ ගැළපේදැයි පරීක්ෂා කරන්න. වැරැද්දක්, භාණ්ඩයට හානියක් හෝ උපකරණයේ දෝෂයක් ඇති වුවහොත් වගකිවයුතු නිලධාරියාට වාර්තා කරන්න. Progress management යනු වැඩේ කොපමණ ඉදිරියට ගොස් තිබේද යන්න නිරන්තරයෙන් පරීක්ෂා කිරීමයි. ප්‍රමාදයක් හෝ දෝෂයක් තිබේ නම් වාර්තා කරන්න. වැඩ නවත්වන විට හෝ දින කිහිපයක් ගතවන විට සෑම වැඩ දිනයක් අවසානයේම එදින අවසන් කළ භාණ්ඩ නියමිත ගබඩා ස්ථානයේ තබන්න. අවසානයේ finished සහ defective භාණ්ඩ ගණන් කර completion report එක ලබාදෙන්න; ඒවා වෙන වෙනම භාරදෙන්න. ද්‍රව්‍ය සහ උපකරණ ගණන් කර මුල් ස්ථානයට ආපසු තබා ආරම්භයේ ගණන සමඟ සසඳන්න. උපකරණ අඩු නම් ඉහළ නිලධාරියාට දන්වා වැඩබිම පරීක්ෂා කරන්න. හිස් පෙට්ටි නියමිත ස්ථානයේ එකතු කර recycling/disposal නීති පිළිපදින්න.",
+      "visuals": [
+        {
+          "type": "execute_monitor_close",
+          "description": "Do work in counted batches → report abnormalities → track progress → store daily output → separate good/defective output → reconcile tools and packaging waste."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 85,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-085-execution-progress-completion.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 86,
+      "printed_page": 86,
+      "source_ja": "「廃棄」とは不要なものを決められた方法で捨てること。全体を通して問題があれば報告する。",
+      "source_furigana": "廃棄（はいき）、不要（ふよう）、決（き）められた方法（ほうほう）、報告（ほうこく）。",
+      "romaji": "Haiki wa fuyou na mono o kimatta houhou de suteru koto desu. Zen-tai o tooshite mondai ga areba houkoku shimasu.",
+      "en": "Disposal means discarding unnecessary items using the designated method. Report any problem identified throughout the entire process.",
+      "si": "Disposal (廃棄) යනු අවශ්‍ය නොවන ද්‍රව්‍ය නියමිත ක්‍රමයට බැහැර කිරීමයි. සම්පූර්ණ ක්‍රියාවලිය පුරාම කිසියම් ගැටලුවක් හමුවුවහොත් එය වාර්තා කළ යුතුය.",
+      "visuals": [
+        {
+          "type": "waste_disposal_escalation",
+          "description": "Sort reusable/recyclable waste from disposal waste, use designated waste streams and report process-wide issues."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 86,
+        "source_pdf_visual_present": false,
+        "repo_images": [],
+        "generated_asset": "/images/generated/page-086-disposal-reporting.svg",
+        "status": "VISUAL_ASSET_TO_COMMIT"
+      }
+    },
+    {
+      "pdf_page": 87,
+      "printed_page": 87,
+      "source_ja": "ケアマーク：段ボール箱に書かれた大切なマークで、箱をどのように扱うか絵で伝える。1. 取扱注意：強い衝撃を与えず丁寧に扱う。カメラ・PCなど精密機器で使用。2. 壊れもの：壊れやすい物が入っているので注意して扱う。ガラス製品・陶器などに使用。3. 水濡れ防止：箱を水に濡らさない。水濡注意とも書かれる。",
+      "source_furigana": "ケアマーク、取扱注意（とりあつかいちゅうい）、衝撃（しょうげき）、精密機器（せいみつきき）、壊（こわ）れもの、水濡（みずぬ）れ防止（ぼうし）、陶器（とうき）。",
+      "romaji": "Care mark wa carton ni kaita taisetsu na mark de, hako no atsukai-kata o e de tsutaemasu. Toriatsukai chuui wa strong impact o sakeru. Kowaremono wa fragile goods ga aru. Mizunure boushi wa hako o wet ni shinai you ni suru.",
+      "en": "Care marks are important symbols printed on cartons to show how the box must be handled. (1) Handle with care: avoid strong impacts and handle gently; commonly used for precision equipment such as cameras and computers. (2) Fragile: the contents can break easily; used for glassware and ceramics. (3) Keep dry / protect from water: prevent the carton from getting wet; may also be written as 'Water damage caution'.",
+      "si": "Care marks යනු පෙට්ටියක් කෙසේ හැසිරවිය යුතුද යන්න රූප සංකේත මඟින් දක්වන වැදගත් ලකුණු වේ. (1) Handle with care – තදින් ගැටීම හෝ වැටීම වළක්වා ප්‍රවේශමෙන් හසුරුවන්න; camera සහ computer වැනි precision equipment සඳහා යොදයි. (2) Fragile – ඇතුළත පහසුවෙන් කැඩෙන භාණ්ඩ ඇති බැවින් ප්‍රවේශමෙන් හසුරුවන්න; වීදුරු සහ පිඟන් භාණ්ඩ සඳහා යොදයි. (3) Keep dry / protect from water – පෙට්ටිය තෙත් නොවීමට ආරක්ෂා කරන්න; Water damage caution ලෙසද ලියයි.",
+      "visuals": [
+        {
+          "type": "care_marks_1_3",
+          "description": "Three original carton symbols: handle with care, fragile glass, keep dry umbrella."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 87,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    },
+    {
+      "pdf_page": 88,
+      "printed_page": 88,
+      "source_ja": "4. 横積禁止：箱の上面を示し、逆さまにしたり横倒しに積んだりしない。横積厳禁・天地無用とも書かれるが、天地無用は誤解を避けるため最近使われなくなっている。5. 踏みつけ厳禁：箱の上に乗ったり踏んだりしない。6. カッター注意：箱を開ける際、カッターで中身を傷つけないよう注意。7. 積段数制限：箱を積める最大段数を数字で示す。例「5」は5段まで。8. 手かぎ禁止：貨物を引っかけて移動させる手かぎを使ってはいけない。",
+      "source_furigana": "横積禁止（よこづみきんし）、横積厳禁（よこづみげんきん）、天地無用（てんちむよう）、踏（ふ）みつけ厳禁（げんきん）、カッター注意（ちゅうい）、積段数制限（つみだんすうせいげん）、手（て）かぎ禁止（きんし）。",
+      "romaji": "Yokozumi kinshi wa hako no ue o shimeshi, sakasama ya yokotaoshi ni shite wa ikemasen. Fumitsuke genkin wa hako ni noranai. Cutter chuui wa naka no nimotsu o kizutsukenai. Tsumi-dansuu seigen wa kasanete ii saidai dansuu o suuji de shimesu. Tekagi kinshi wa hook tool de hako o hikakete wa ikenai.",
+      "en": "(4) This side up / do not lay on side: the symbol shows the top of the carton; do not turn it upside down or stack it on its side. 'Do not stack horizontally' may also be used. The term 'Tenchi muyō' is being avoided because it can be misunderstood. (5) Do not step on: never stand or tread on the carton. (6) Cutter caution: when opening the carton, avoid damaging the contents with the cutter. (7) Stacking limit: the number indicates the maximum permitted stack height; '5' means up to five tiers. (8) No hand hooks: do not use a cargo hook tool to catch and move this carton.",
+      "si": "(4) This side up / තිරස්ව නොතබන්න – පෙට්ටියේ ඉහළ පැත්ත පෙන්වයි; උඩුයටිකුරු කිරීම හෝ පැත්තට හරවා ගොඩගැසීම නොකළ යුතුය. 'Do not stack horizontally' ලෙසද සඳහන් කළ හැක. '天地無用' යන වචනය වැරදි ලෙස තේරුම් ගත හැකි නිසා දැන් භාවිතය අඩු කරයි. (5) Do not step on – පෙට්ටිය මත නැගීම හෝ පාගා දැමීම තහනම්. (6) Cutter caution – පෙට්ටිය විවෘත කිරීමේදී cutter එකෙන් ඇතුළත භාණ්ඩයට හානි නොකරන්න. (7) Stacking limit – සංකේතයේ අංකය උපරිම ගොඩගැසිය හැකි තට්ටු ගණනයි; '5' නම් තට්ටු පහක් දක්වා පමණි. (8) No hand hooks – භාණ්ඩයට කොක්කක් දමා ඇදගෙන යන hand hook උපකරණය මෙම පෙට්ටියට භාවිත නොකරන්න.",
+      "visuals": [
+        {
+          "type": "care_marks_4_8",
+          "description": "Five original carton symbols: this side up, do not step, cutter caution, maximum stacking tiers, no hand hooks."
+        }
+      ],
+      "image_mapping": {
+        "source_pdf_page": 88,
+        "source_pdf_visual_present": true,
+        "repo_images": [],
+        "use_original_pdf_visual": true,
+        "status": "SOURCE_PDF_VISUAL_LINKED"
+      }
+    }
+  ],
+  "audit": {
+    "source_pages_read": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "page_count": 10,
+    "all_four_languages_present": true,
+    "visuals_required_for_each_page": true,
+    "source_pdf_visuals_available": [
+      79,
+      80,
+      81,
+      82,
+      84,
+      87,
+      88
+    ],
+    "source_pdf_image_render_unavailable": [
+      83,
+      85,
+      86
+    ],
+    "repo_images_reused": [
+      "public/images/69.jpg",
+      "public/images/70.jpg",
+      "public/images/71.jpg",
+      "public/images/72.jpg",
+      "public/images/73.jpg",
+      "public/images/74.jpg",
+      "public/images/75.jpg",
+      "public/images/76.jpg",
+      "public/images/77.jpg"
+    ],
+    "internet_references_for_pdf_missing_visual": [
+      {
+        "page": 83,
+        "url": "https://www.pbsmetaldetectors.com/garments.html",
+        "purpose": "Garment needle detector real-world equipment visual reference"
+      },
+      {
+        "page": 83,
+        "url": "https://www.cassel-inspection.com/hubfs/Data%20Sheets%20-%20EN/CASSEL-metal-shark-fl-US-EN.pdf",
+        "purpose": "Textile/flat-product conveyor metal detector reference"
+      }
+    ],
+    "generated_visual_assets_to_create": 6,
+    "status": "CONTENT_COMPLETE_VISUAL_ASSETS_TO_COMMIT",
+    "note": "Pages 83, 85 and 86 were text-extracted but their page image renders were unavailable. Pages 84–86 are text-led in the source; custom instructional visuals will preserve the source workflow without inventing source illustrations. Internet references are used only for the missing needle-detector visual on page 83."
+  }
+}
