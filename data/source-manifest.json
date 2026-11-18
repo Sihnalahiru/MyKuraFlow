@@ -77,6 +77,13 @@
       "pages": "9–12",
       "status": "DRAFT_TRANSLATED",
       "commit": "cbcf92c3c6e124c0f438e349e5e33eddb05a4cba"
+    },
+    {
+      "file": "data/part-01/lesson-02-pages-013-018.json",
+      "part": "part-01",
+      "pages": "13–18",
+      "status": "DRAFT_TRANSLATED_NOT_FINAL",
+      "commit": "4ebfd2a1b2bd47272798f89eef953dbcbc9a141c"
     }
   ],
   "completeness_rules": [
