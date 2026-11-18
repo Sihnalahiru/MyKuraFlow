@@ -56,7 +56,7 @@
         "source_pdf_visual_present": true,
         "repo_images": [],
         "generated_asset": "/images/generated/page-079-distribution-processing-tasks.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED"
       }
     },
     {
@@ -84,7 +84,7 @@
           "public/images/73.jpg"
         ],
         "generated_asset": "/images/generated/page-080-carton-tape-patterns.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED"
       }
     },
     {
@@ -113,7 +113,7 @@
           "public/images/76.jpg"
         ],
         "generated_asset": "/images/generated/page-081-cushioning-opening-strapping.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED"
       }
     },
     {
@@ -139,7 +139,7 @@
           "public/images/77.jpg"
         ],
         "generated_asset": "/images/generated/page-082-strapping-stretch-wrap.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED"
       }
     },
     {
@@ -173,10 +173,16 @@
           {
             "source": "CASSEL METAL SHARK FL brochure",
             "url": "https://www.cassel-inspection.com/hubfs/Data%20Sheets%20-%20EN/CASSEL-metal-shark-fl-US-EN.pdf"
+          },
+          {
+            "source": "PBS Metal Detectors — actual conveyor needle detector photo",
+            "url": "https://static.wixstatic.com/media/8906d3_67a191e5ee444a9ab0a852d4f65169a1~mv2.webp"
           }
         ],
         "generated_asset": "/images/generated/page-083-needle-inspection-refurbishment.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED",
+        "external_image_url": "https://static.wixstatic.com/media/8906d3_67a191e5ee444a9ab0a852d4f65169a1~mv2.webp",
+        "external_image_usage": "Actual equipment photo shown alongside the custom instructional diagram."
       }
     },
     {
@@ -198,7 +204,7 @@
         "source_pdf_visual_present": false,
         "repo_images": [],
         "generated_asset": "/images/generated/page-084-work-plan-preparation.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED"
       }
     },
     {
@@ -220,7 +226,7 @@
         "source_pdf_visual_present": false,
         "repo_images": [],
         "generated_asset": "/images/generated/page-085-execution-progress-completion.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED"
       }
     },
     {
@@ -242,7 +248,7 @@
         "source_pdf_visual_present": false,
         "repo_images": [],
         "generated_asset": "/images/generated/page-086-disposal-reporting.svg",
-        "status": "VISUAL_ASSET_TO_COMMIT"
+        "status": "COMMITTED_AND_LINKED"
       }
     },
     {
@@ -344,7 +350,25 @@
       }
     ],
     "generated_visual_assets_to_create": 6,
-    "status": "CONTENT_COMPLETE_VISUAL_ASSETS_TO_COMMIT",
-    "note": "Pages 83, 85 and 86 were text-extracted but their page image renders were unavailable. Pages 84–86 are text-led in the source; custom instructional visuals will preserve the source workflow without inventing source illustrations. Internet references are used only for the missing needle-detector visual on page 83."
+    "status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
+    "note": "No page is left without a visual treatment. Source-derived facts remain separate from the external equipment photograph/reference. Translation is a structured learning rendering, not certified translation.",
+    "generated_visual_assets_committed": 8,
+    "external_image_downloaded_or_linked": [
+      {
+        "page": 83,
+        "source": "PBS Metal Detectors",
+        "image_url": "https://static.wixstatic.com/media/8906d3_67a191e5ee444a9ab0a852d4f65169a1~mv2.webp"
+      }
+    ],
+    "validation": [
+      "10 source pages extracted",
+      "10 page records present",
+      "Japanese, furigana, Romaji, English and Sinhala fields present on every page",
+      "8 custom SVG visuals committed and linked",
+      "Source PDF visuals linked for pages 87-88 and source illustrations cross-referenced for pages 79-82",
+      "Matching repo images reused for page topics 80-82",
+      "External real conveyor needle-detector image linked for page 83 because PDF image render was unavailable and no matching repo photo was identified",
+      "Pages 84-86 received source-derived explanatory diagrams because the source is text-led"
+    ]
   }
 }
