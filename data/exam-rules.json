@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "mykuraflow.exam.v1",
+  "title": "SSW Logistics Warehousing CBT",
+  "source": "User-supplied exam structure dated 2026-11-18",
+  "immutable": true,
+  "paperCount": 10,
+  "paper": {
+    "totalQuestions": 40,
+    "written": {
+      "count": 30,
+      "type": "true_false",
+      "trueSymbol": "○",
+      "falseSymbol": "×",
+      "durationMinutes": 40,
+      "passPercent": 65
+    },
+    "practical": {
+      "count": 10,
+      "type": "image_document_equipment_mcq",
+      "durationMinutes": 40,
+      "passPercent": 60
+    },
+    "totalDurationMinutes": 80
+  },
+  "interaction": {
+    "autoAdvanceSeconds": 0.8,
+    "showCorrectWrongRemaining": true,
+    "questionNavigation": true,
+    "timer": true
+  },
+  "bank": {
+    "minimumDistinctQuestions": 500,
+    "sourceSections": [
+      "warehouse_fundamentals",
+      "receiving_dispatch",
+      "storage_picking",
+      "distribution_processing",
+      "occupational_safety_health",
+      "equipment_forklift"
+    ],
+    "requireSourcePage": true,
+    "requireVisualReferenceForPractical": true,
+    "requireExplanation": true,
+    "requireReviewStatus": true
+  },
+  "scoring": {
+    "writtenPassMinimum": 20,
+    "practicalPassMinimum": 6,
+    "overallPassRequiresBoth": true,
+    "xpMustBeAddedWithoutChangingExistingStudyXpFormula": true
+  },
+  "dataProtection": {
+    "neverModifyExistingStudyJson": true,
+    "neverDeleteOrRewriteSourceAssets": true,
+    "separateVersionedQuestionBank": true
+  }
+}
