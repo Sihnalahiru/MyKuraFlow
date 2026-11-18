@@ -341,6 +341,53 @@
       ],
       "audit_status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
       "commit": "7fdb67998534057a712f29bc6fcee4aef4804c0f"
+    },
+    {
+      "lesson_id": "p03-ghs-appendix-p04-forklift-01",
+      "path": "data/part-04/lesson-01-pages-109-118.json",
+      "pdf_pages": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "printed_pages": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "content_status": "COMPLETE",
+      "visual_assets": 3,
+      "visual_status": "COMMITTED_AND_LINKED",
+      "source_pdf_visual_pages": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "external_visual_pages": [
+        116,
+        117,
+        118
+      ],
+      "audit_status": "BULK_COMPLETE_TEXT_IMAGE_VISUAL_LINKED",
+      "commit": "0a388c306854f6ae0b6c64a2cff92abe06806a66"
     }
   ],
   "completeness_rules": [
