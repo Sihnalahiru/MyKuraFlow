@@ -1,0 +1,158 @@
+{
+  "audit_id": "MYKURAFLOW-STUDY-NOTES-COMPLETENESS-AUDIT-2026-11-18-R1",
+  "source": "specified_skilled_worker_textbook_202607(2).pdf",
+  "purpose": "Prove every source topic, table, warning, numeric example, procedure and relevant visual is represented in the app's learner-facing notes.",
+  "status": "NOT_YET_PROVEN",
+  "verified_fixes": [
+    {
+      "source_pages": [
+        54
+      ],
+      "finding": "The app record labelled printed page 54 contained page 55 forms-and-labels content; the actual page 54 PPE/workwear section was missing.",
+      "fix": "Restored page 54 with workwear, fan-equipped clothing, reflective safety vest, helmet, safety shoes, gloves and separate hygiene gloves for distribution processing.",
+      "commit": "e2d9f853ae738052436931a5898e727edc998b7b"
+    },
+    {
+      "source_pages": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "finding": "Part 2 pages 54-60 had a content-to-page alignment problem after the earlier merge.",
+      "fix": "Re-aligned records to the source printed page labels and preserved the measurement conversion and equipment-ton notes.",
+      "commit": "e2d9f853ae738052436931a5898e727edc998b7b"
+    }
+  ],
+  "source_inspected_directly": [
+    {
+      "pages": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "source": "Original PDF pages reopened with page text extraction."
+    },
+    {
+      "pages": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "source": "Active GitHub app data records fetched and compared against the original pages."
+    }
+  ],
+  "known_completeness_gaps": [
+    {
+      "page": 54,
+      "issue": "PPE content was missing from the app record before correction; restored in current active record.",
+      "status": "FIXED_DRAFT"
+    },
+    {
+      "page": 55,
+      "issue": "Forms-and-labels section; active record restored to source page alignment, but every subheading and document definition still needs item-level sign-off.",
+      "status": "ALIGNMENT_FIXED_CONTENT_PROOF_PENDING"
+    },
+    {
+      "page": 56,
+      "issue": "Picking list, outbound instructions, waybill, outbound notice, label, LOT/JAN/QR details need item-level verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 57,
+      "issue": "RFID features, care-mark/GHS distinction and length units need item-level verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 58,
+      "issue": "Length/area/volume tables and traditional Japanese units need numeric cell-by-cell verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 59,
+      "issue": "Volume conversion table, capacity units, weight conversions and specific-gravity worked example need cell-by-cell verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 60,
+      "issue": "Volume ton, equipment ton formula, effective height definition, worked example, humidity/time/calendar/lux values need numeric verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 61,
+      "issue": "Warehouse counters and all usage examples need row-by-row verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 62,
+      "issue": "Counter continuation needs row-by-row verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 63,
+      "issue": "Counter table continuation (周, 面, 山, か所, 回, 度, 巻, 期) and examples need row-by-row verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 64,
+      "issue": "Inbound preparation, vehicle guidance, dock-height values and devanning warnings need step-by-step verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 65,
+      "issue": "Unloading and inbound inspection checklist, barcode procedure and split-delivery warning need item-level verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 66,
+      "issue": "LOT grouping, packaging/management hierarchy, variable-weight cargo and weighing-method comparison table need full table verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 67,
+      "issue": "Cargo forms, carton construction, moisture warning and FIBC 500–1,000 kg specification need visual/text verification.",
+      "status": "PENDING"
+    },
+    {
+      "page": 68,
+      "issue": "Bale, bundle, roll, clamp attachments and can types/capacity need item-level verification.",
+      "status": "PENDING"
+    }
+  ],
+  "required_proof_artifacts": [
+    "One source-to-notes traceability row for every source heading, paragraph, bullet, example, table row, warning and procedure.",
+    "Exact source page and source text anchor for every mapped note.",
+    "Separate Japanese, furigana, Romaji, English and Sinhala review status; no language marked passed from field presence alone.",
+    "A numeric audit table for every measurement, conversion, formula, threshold, date/time example and worked calculation.",
+    "An image inventory of all 172 repository assets with visual inspection result, source page, topic/lesson mapping, duplicate/irrelevant flag and provenance.",
+    "A coverage gate that fails release if any source item has no app note or is marked unresolved."
+  ],
+  "release_rule": "Do not mark complete or release as fully audited until every source item has status VERIFIED_IN_APP or VERIFIED_NOT_APPLICABLE with evidence, and there are zero unresolved source items.",
+  "next_scope": "Continue original PDF page-by-page, beginning with Part 2 pages 55-68, then audit all remaining parts; expand every missing source item into the app data and attach evidence."
+}
