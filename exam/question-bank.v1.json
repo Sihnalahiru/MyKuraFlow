@@ -3023,9 +3023,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "水1Lの重さは約1kgです。"
+        "ja": "<ruby>水<rt>みず</rt></ruby>1Lの<ruby>重<rt>おも</rt></ruby>さは<ruby>約<rt>やく</rt></ruby>1kgです。"
       },
-      "statement": "水1Lの重さは約1kgです。",
+      "statement": "<ruby>水<rt>みず</rt></ruby>1Lの<ruby>重<rt>おも</rt></ruby>さは<ruby>約<rt>やく</rt></ruby>1kgです。",
       "correctAnswer": true,
       "explanation": {
         "en": "One litre of water weighs approximately one kilogram.",
@@ -3042,9 +3042,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "水以外の貨物の重量は、体積と比重を使って計算できます。"
+        "ja": "<ruby>水以外<rt>みずいがい</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>重量<rt>じゅうりょう</rt></ruby>は、<ruby>体積<rt>たいせき</rt></ruby>と<ruby>比重<rt>ひじゅう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>計算<rt>けいさん</rt></ruby>できます。"
       },
-      "statement": "水以外の貨物の重量は、体積と比重を使って計算できます。",
+      "statement": "<ruby>水以外<rt>みずいがい</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>重量<rt>じゅうりょう</rt></ruby>は、<ruby>体積<rt>たいせき</rt></ruby>と<ruby>比重<rt>ひじゅう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>計算<rt>けいさん</rt></ruby>できます。",
       "correctAnswer": true,
       "explanation": {
         "en": "For materials other than water, weight can be calculated using volume multiplied by specific gravity.",
@@ -3080,9 +3080,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "容積トンは40立方フィート（約1.133m³）を1トンとして計算します。"
+        "ja": "<ruby>容積<rt>ようせき</rt></ruby>トンは40<ruby>立方<rt>りっぽう</rt></ruby>フィート（<ruby>約<rt>やく</rt></ruby>1.133m³）を1トンとして<ruby>計算<rt>けいさん</rt></ruby>します。"
       },
-      "statement": "容積トンは40立方フィート（約1.133m³）を1トンとして計算します。",
+      "statement": "<ruby>容積<rt>ようせき</rt></ruby>トンは40<ruby>立方<rt>りっぽう</rt></ruby>フィート（<ruby>約<rt>やく</rt></ruby>1.133m³）を1トンとして<ruby>計算<rt>けいさん</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "A measurement tonne uses 40 cubic feet, approximately 1.133 m³, per tonne.",
@@ -3099,9 +3099,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "冷蔵倉庫の設備トンは、床面積×有効高×0.9×0.4で計算します。"
+        "ja": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>の<ruby>設備<rt>せつび</rt></ruby>トンは、<ruby>床面積<rt>ゆかめんせき</rt></ruby>×<ruby>有効高<rt>ゆうこうだか</rt></ruby>×0.9×0.4で<ruby>計算<rt>けいさん</rt></ruby>します。"
       },
-      "statement": "冷蔵倉庫の設備トンは、床面積×有効高×0.9×0.4で計算します。",
+      "statement": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>の<ruby>設備<rt>せつび</rt></ruby>トンは、<ruby>床面積<rt>ゆかめんせき</rt></ruby>×<ruby>有効高<rt>ゆうこうだか</rt></ruby>×0.9×0.4で<ruby>計算<rt>けいさん</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source formula is floor area × effective height × 0.9 × 0.4.",
@@ -3118,9 +3118,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "設備トンの有効高は、梁やダクトの下端のうち高い方まで測ります。"
+        "ja": "<ruby>設備<rt>せつび</rt></ruby>トンの<ruby>有効高<rt>ゆうこうだか</rt></ruby>は、<ruby>梁<rt>はり</rt></ruby>やダクトの<ruby>下端<rt>かたん</rt></ruby>のうち<ruby>高<rt>たか</rt></ruby>い<ruby>方<rt>ほう</rt></ruby>まで<ruby>測<rt>はか</rt></ruby>ります。"
       },
-      "statement": "設備トンの有効高は、梁やダクトの下端のうち高い方まで測ります。",
+      "statement": "<ruby>設備<rt>せつび</rt></ruby>トンの<ruby>有効高<rt>ゆうこうだか</rt></ruby>は、<ruby>梁<rt>はり</rt></ruby>やダクトの<ruby>下端<rt>かたん</rt></ruby>のうち<ruby>高<rt>たか</rt></ruby>い<ruby>方<rt>ほう</rt></ruby>まで<ruby>測<rt>はか</rt></ruby>ります。",
       "correctAnswer": false,
       "explanation": {
         "en": "Effective height is limited by the lower of the underside of a main beam or duct.",
@@ -3137,9 +3137,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "貨物保管に適した湿度は、本文では40〜50％とされています。"
+        "ja": "<ruby>貨物保管<rt>かもつほかん</rt></ruby>に<ruby>適<rt>てき</rt></ruby>した<ruby>湿度<rt>しつど</rt></ruby>は、<ruby>本文<rt>ほんぶん</rt></ruby>では40〜50％とされています。"
       },
-      "statement": "貨物保管に適した湿度は、本文では40〜50％とされています。",
+      "statement": "<ruby>貨物保管<rt>かもつほかん</rt></ruby>に<ruby>適<rt>てき</rt></ruby>した<ruby>湿度<rt>しつど</rt></ruby>は、<ruby>本文<rt>ほんぶん</rt></ruby>では40〜50％とされています。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source states 40–50% as suitable storage humidity.",
@@ -3156,9 +3156,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "普通作業の明るさの基準は、150lx以上です。"
+        "ja": "<ruby>普通作業<rt>ふつうさぎょう</rt></ruby>の<ruby>明<rt>あか</rt></ruby>るさの<ruby>基準<rt>きじゅん</rt></ruby>は、150lx<ruby>以上<rt>いじょう</rt></ruby>です。"
       },
-      "statement": "普通作業の明るさの基準は、150lx以上です。",
+      "statement": "<ruby>普通作業<rt>ふつうさぎょう</rt></ruby>の<ruby>明<rt>あか</rt></ruby>るさの<ruby>基準<rt>きじゅん</rt></ruby>は、150lx<ruby>以上<rt>いじょう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source gives at least 150 lux for ordinary work.",
@@ -3175,9 +3175,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "助数詞は、数える物の種類や形に応じて使い分けます。"
+        "ja": "<ruby>助数詞<rt>じょすうし</rt></ruby>は、<ruby>数<rt>かぞ</rt></ruby>える<ruby>物<rt>もの</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>や<ruby>形<rt>かたち</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じて<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>けます。"
       },
-      "statement": "助数詞は、数える物の種類や形に応じて使い分けます。",
+      "statement": "<ruby>助数詞<rt>じょすうし</rt></ruby>は、<ruby>数<rt>かぞ</rt></ruby>える<ruby>物<rt>もの</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>や<ruby>形<rt>かたち</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じて<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>けます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Japanese counters are selected according to the type and shape of the item being counted.",
@@ -3194,9 +3194,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "倉庫でパイプのような細長い物を数えるとき、本を使います。"
+        "ja": "<ruby>倉庫<rt>そうこ</rt></ruby>でパイプのような<ruby>細長<rt>ほそなが</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるとき、<ruby>本<rt>ほん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。"
       },
-      "statement": "倉庫でパイプのような細長い物を数えるとき、本を使います。",
+      "statement": "<ruby>倉庫<rt>そうこ</rt></ruby>でパイプのような<ruby>細長<rt>ほそなが</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるとき、<ruby>本<rt>ほん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
       "correctAnswer": true,
       "explanation": {
         "en": "The counter 本 is used for long slender objects such as pipes.",
@@ -3213,9 +3213,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "フォークリフトのような機械・設備は、通常「台」で数えます。"
+        "ja": "フォークリフトのような<ruby>機械<rt>きかい</rt></ruby>・<ruby>設備<rt>せつび</rt></ruby>は、<ruby>通常<rt>つうじょう</rt></ruby>「<ruby>台<rt>だい</rt></ruby>」で<ruby>数<rt>かぞ</rt></ruby>えます。"
       },
-      "statement": "フォークリフトのような機械・設備は、通常「台」で数えます。",
+      "statement": "フォークリフトのような<ruby>機械<rt>きかい</rt></ruby>・<ruby>設備<rt>せつび</rt></ruby>は、<ruby>通常<rt>つうじょう</rt></ruby>「<ruby>台<rt>だい</rt></ruby>」で<ruby>数<rt>かぞ</rt></ruby>えます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Machines and equipment such as forklifts are counted with 台.",
@@ -3232,9 +3232,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ケーブルのように束ねた物は、助数詞「束」で数えます。"
+        "ja": "ケーブルのように<ruby>束<rt>たば</rt></ruby>ねた<ruby>物<rt>もの</rt></ruby>は、<ruby>助数詞<rt>じょすうし</rt></ruby>「<ruby>束<rt>たば</rt></ruby>」で<ruby>数<rt>かぞ</rt></ruby>えます。"
       },
-      "statement": "ケーブルのように束ねた物は、助数詞「束」で数えます。",
+      "statement": "ケーブルのように<ruby>束<rt>たば</rt></ruby>ねた<ruby>物<rt>もの</rt></ruby>は、<ruby>助数詞<rt>じょすうし</rt></ruby>「<ruby>束<rt>たば</rt></ruby>」で<ruby>数<rt>かぞ</rt></ruby>えます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Bundled items such as cables use the counter 束.",
@@ -3251,9 +3251,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "本や冊子は、助数詞「冊」で数えます。"
+        "ja": "<ruby>本<rt>ほん</rt></ruby>や<ruby>冊子<rt>さっし</rt></ruby>は、<ruby>助数詞<rt>じょすうし</rt></ruby>「<ruby>冊<rt>さつ</rt></ruby>」で<ruby>数<rt>かぞ</rt></ruby>えます。"
       },
-      "statement": "本や冊子は、助数詞「冊」で数えます。",
+      "statement": "<ruby>本<rt>ほん</rt></ruby>や<ruby>冊子<rt>さっし</rt></ruby>は、<ruby>助数詞<rt>じょすうし</rt></ruby>「<ruby>冊<rt>さつ</rt></ruby>」で<ruby>数<rt>かぞ</rt></ruby>えます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Books and booklets are counted with 冊.",
@@ -3270,9 +3270,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "靴などの履物は、助数詞「着」で数えます。"
+        "ja": "<ruby>靴<rt>くつ</rt></ruby>などの<ruby>履物<rt>はきもの</rt></ruby>は、<ruby>助数詞<rt>じょすうし</rt></ruby>「<ruby>着<rt>ちゃく</rt></ruby>」で<ruby>数<rt>かぞ</rt></ruby>えます。"
       },
-      "statement": "靴などの履物は、助数詞「着」で数えます。",
+      "statement": "<ruby>靴<rt>くつ</rt></ruby>などの<ruby>履物<rt>はきもの</rt></ruby>は、<ruby>助数詞<rt>じょすうし</rt></ruby>「<ruby>着<rt>ちゃく</rt></ruby>」で<ruby>数<rt>かぞ</rt></ruby>えます。",
       "correctAnswer": false,
       "explanation": {
         "en": "Footwear is counted with 足; 着 is used for clothing.",
@@ -3289,9 +3289,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "建物の数を数える助数詞として、棟が使われます。"
+        "ja": "<ruby>建物<rt>たてもの</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>える<ruby>助数詞<rt>じょすうし</rt></ruby>として、<ruby>棟<rt>とう</rt></ruby>が<ruby>使<rt>つか</rt></ruby>われます。"
       },
-      "statement": "建物の数を数える助数詞として、棟が使われます。",
+      "statement": "<ruby>建物<rt>たてもの</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>える<ruby>助数詞<rt>じょすうし</rt></ruby>として、<ruby>棟<rt>とう</rt></ruby>が<ruby>使<rt>つか</rt></ruby>われます。",
       "correctAnswer": true,
       "explanation": {
         "en": "棟 is used to count buildings.",
@@ -3308,9 +3308,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "郵便物や文書を数える助数詞の一つは、通です。"
+        "ja": "<ruby>郵便物<rt>ゆうびんぶつ</rt></ruby>や<ruby>文書<rt>ぶんしょ</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>える<ruby>助数詞<rt>じょすうし</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つは、<ruby>通<rt>つう</rt></ruby>です。"
       },
-      "statement": "郵便物や文書を数える助数詞の一つは、通です。",
+      "statement": "<ruby>郵便物<rt>ゆうびんぶつ</rt></ruby>や<ruby>文書<rt>ぶんしょ</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>える<ruby>助数詞<rt>じょすうし</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つは、<ruby>通<rt>つう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "通 is used for mail and documents.",
@@ -3327,9 +3327,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "作業を行った回数を数えるとき、回を使います。"
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った<ruby>回数<rt>かいすう</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるとき、<ruby>回<rt>かい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。"
       },
-      "statement": "作業を行った回数を数えるとき、回を使います。",
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った<ruby>回数<rt>かいすう</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるとき、<ruby>回<rt>かい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
       "correctAnswer": true,
       "explanation": {
         "en": "回 counts the number of times an action is performed.",
@@ -3346,9 +3346,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "巻は、巻いてある物を数えるときに使います。"
+        "ja": "<ruby>巻<rt>まき</rt></ruby>は、<ruby>巻<rt>ま</rt></ruby>いてある<ruby>物<rt>もの</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。"
       },
-      "statement": "巻は、巻いてある物を数えるときに使います。",
+      "statement": "<ruby>巻<rt>まき</rt></ruby>は、<ruby>巻<rt>ま</rt></ruby>いてある<ruby>物<rt>もの</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。",
       "correctAnswer": true,
       "explanation": {
         "en": "巻 is used to count rolled items.",
@@ -3365,9 +3365,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "入庫作業は、貨物を受け付けてから保管場所に格納するまでの作業です。"
+        "ja": "<ruby>入庫作業<rt>にゅうこさぎょう</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>けてから<ruby>保管場所<rt>ほかんばしょ</rt></ruby>に<ruby>格納<rt>かくのう</rt></ruby>するまでの<ruby>作業<rt>さぎょう</rt></ruby>です。"
       },
-      "statement": "入庫作業は、貨物を受け付けてから保管場所に格納するまでの作業です。",
+      "statement": "<ruby>入庫作業<rt>にゅうこさぎょう</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>けてから<ruby>保管場所<rt>ほかんばしょ</rt></ruby>に<ruby>格納<rt>かくのう</rt></ruby>するまでの<ruby>作業<rt>さぎょう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "Inbound operations run from cargo acceptance through placement in storage.",
@@ -3384,9 +3384,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "入庫準備では、入庫予定表を確認し、必要な荷役機器を用意します。"
+        "ja": "<ruby>入庫準備<rt>にゅうこじゅんび</rt></ruby>では、<ruby>入庫予定表<rt>にゅうこよていひょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>荷役機器<rt>にやくきき</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>します。"
       },
-      "statement": "入庫準備では、入庫予定表を確認し、必要な荷役機器を用意します。",
+      "statement": "<ruby>入庫準備<rt>にゅうこじゅんび</rt></ruby>では、<ruby>入庫予定表<rt>にゅうこよていひょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>荷役機器<rt>にやくきき</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "Inbound preparation includes checking the schedule and preparing required handling equipment.",
@@ -3403,9 +3403,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "海上コンテナの扉が開かない場合、無理に力を入れて開けます。"
+        "ja": "<ruby>海上<rt>かいじょう</rt></ruby>コンテナの<ruby>扉<rt>とびら</rt></ruby>が<ruby>開<rt>あ</rt></ruby>かない<ruby>場合<rt>ばあい</rt></ruby>、<ruby>無理<rt>むり</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>開<rt>あ</rt></ruby>けます。"
       },
-      "statement": "海上コンテナの扉が開かない場合、無理に力を入れて開けます。",
+      "statement": "<ruby>海上<rt>かいじょう</rt></ruby>コンテナの<ruby>扉<rt>とびら</rt></ruby>が<ruby>開<rt>あ</rt></ruby>かない<ruby>場合<rt>ばあい</rt></ruby>、<ruby>無理<rt>むり</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>開<rt>あ</rt></ruby>けます。",
       "correctAnswer": false,
       "explanation": {
         "en": "Do not force the doors; contact the shipping cargo-handling agent.",
@@ -3422,9 +3422,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "入庫検品では、実際の貨物と送り状・入庫指示書を照合します。"
+        "ja": "<ruby>入庫検品<rt>にゅうこけんぴん</rt></ruby>では、<ruby>実際<rt>じっさい</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>と<ruby>送り状<rt>おくりじょう</rt></ruby>・<ruby>入庫指示書<rt>にゅうこしじしょ</rt></ruby>を<ruby>照合<rt>しょうごう</rt></ruby>します。"
       },
-      "statement": "入庫検品では、実際の貨物と送り状・入庫指示書を照合します。",
+      "statement": "<ruby>入庫検品<rt>にゅうこけんぴん</rt></ruby>では、<ruby>実際<rt>じっさい</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>と<ruby>送り状<rt>おくりじょう</rt></ruby>・<ruby>入庫指示書<rt>にゅうこしじしょ</rt></ruby>を<ruby>照合<rt>しょうごう</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "Inbound inspection compares actual cargo with the waybill and inbound instruction.",
@@ -3441,9 +3441,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "入庫検品では、製造LOT番号や数量、色などを確認します。"
+        "ja": "<ruby>入庫検品<rt>にゅうこけんぴん</rt></ruby>では、<ruby>製造<rt>せいぞう</rt></ruby>LOT<ruby>番号<rt>ばんごう</rt></ruby>や<ruby>数量<rt>すうりょう</rt></ruby>、<ruby>色<rt>いろ</rt></ruby>などを<ruby>確認<rt>かくにん</rt></ruby>します。"
       },
-      "statement": "入庫検品では、製造LOT番号や数量、色などを確認します。",
+      "statement": "<ruby>入庫検品<rt>にゅうこけんぴん</rt></ruby>では、<ruby>製造<rt>せいぞう</rt></ruby>LOT<ruby>番号<rt>ばんごう</rt></ruby>や<ruby>数量<rt>すうりょう</rt></ruby>、<ruby>色<rt>いろ</rt></ruby>などを<ruby>確認<rt>かくにん</rt></ruby>します。",
       "correctAnswer": true,
       "explanation": {
         "en": "Inspection includes checking manufacturing LOT, quantity, colour and other cargo details.",
@@ -3460,9 +3460,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "口割れとは、同じ貨物の一部が先に届き、残りが後から届くことです。"
+        "ja": "<ruby>口割<rt>くちわ</rt></ruby>れとは、<ruby>同<rt>おな</rt></ruby>じ<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>が<ruby>先<rt>さき</rt></ruby>に<ruby>届<rt>とど</rt></ruby>き、<ruby>残<rt>のこ</rt></ruby>りが<ruby>後<rt>あと</rt></ruby>から<ruby>届<rt>とど</rt></ruby>くことです。"
       },
-      "statement": "口割れとは、同じ貨物の一部が先に届き、残りが後から届くことです。",
+      "statement": "<ruby>口割<rt>くちわ</rt></ruby>れとは、<ruby>同<rt>おな</rt></ruby>じ<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>が<ruby>先<rt>さき</rt></ruby>に<ruby>届<rt>とど</rt></ruby>き、<ruby>残<rt>のこ</rt></ruby>りが<ruby>後<rt>あと</rt></ruby>から<ruby>届<rt>とど</rt></ruby>くことです。",
       "correctAnswer": true,
       "explanation": {
         "en": "Kuchiwari means part of a consignment arrives first and the remainder later.",
@@ -3479,9 +3479,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "同じ商品でも、製造工場や製造日が違えばLOT番号が異なる場合があります。"
+        "ja": "<ruby>同<rt>おな</rt></ruby>じ<ruby>商品<rt>しょうひん</rt></ruby>でも、<ruby>製造工場<rt>せいぞうこうじょう</rt></ruby>や<ruby>製造日<rt>せいぞうび</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>えばLOT<ruby>番号<rt>ばんごう</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なる<ruby>場合<rt>ばあい</rt></ruby>があります。"
       },
-      "statement": "同じ商品でも、製造工場や製造日が違えばLOT番号が異なる場合があります。",
+      "statement": "<ruby>同<rt>おな</rt></ruby>じ<ruby>商品<rt>しょうひん</rt></ruby>でも、<ruby>製造工場<rt>せいぞうこうじょう</rt></ruby>や<ruby>製造日<rt>せいぞうび</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>えばLOT<ruby>番号<rt>ばんごう</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なる<ruby>場合<rt>ばあい</rt></ruby>があります。",
       "correctAnswer": true,
       "explanation": {
         "en": "The same product can have different LOT numbers if factory or production date differs.",
@@ -3498,9 +3498,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ケースは複数のピースをまとめた最小の個装単位です。"
+        "ja": "ケースは<ruby>複数<rt>ふくすう</rt></ruby>のピースをまとめた<ruby>最小<rt>さいしょう</rt></ruby>の<ruby>個装単位<rt>こそうたんい</rt></ruby>です。"
       },
-      "statement": "ケースは複数のピースをまとめた最小の個装単位です。",
+      "statement": "ケースは<ruby>複数<rt>ふくすう</rt></ruby>のピースをまとめた<ruby>最小<rt>さいしょう</rt></ruby>の<ruby>個装単位<rt>こそうたんい</rt></ruby>です。",
       "correctAnswer": false,
       "explanation": {
         "en": "A piece is the smallest individual unit; a case contains multiple inner balls.",
@@ -3517,9 +3517,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "不定貫貨物は、1個ごとの重量が一定ではない貨物です。"
+        "ja": "<ruby>不定貫貨物<rt>ふていかんかもつ</rt></ruby>は、1<ruby>個<rt>こ</rt></ruby>ごとの<ruby>重量<rt>じゅうりょう</rt></ruby>が<ruby>一定<rt>いってい</rt></ruby>ではない<ruby>貨物<rt>かもつ</rt></ruby>です。"
       },
-      "statement": "不定貫貨物は、1個ごとの重量が一定ではない貨物です。",
+      "statement": "<ruby>不定貫貨物<rt>ふていかんかもつ</rt></ruby>は、1<ruby>個<rt>こ</rt></ruby>ごとの<ruby>重量<rt>じゅうりょう</rt></ruby>が<ruby>一定<rt>いってい</rt></ruby>ではない<ruby>貨物<rt>かもつ</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "Variable-weight cargo does not have a fixed weight per item.",
@@ -3536,9 +3536,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "平均重量は、荷口全体の重量を個数で割って求めます。"
+        "ja": "<ruby>平均重量<rt>へいきんじゅうりょう</rt></ruby>は、<ruby>荷口全体<rt>にぐちぜんたい</rt></ruby>の<ruby>重量<rt>じゅうりょう</rt></ruby>を<ruby>個数<rt>こすう</rt></ruby>で<ruby>割<rt>わ</rt></ruby>って<ruby>求<rt>もと</rt></ruby>めます。"
       },
-      "statement": "平均重量は、荷口全体の重量を個数で割って求めます。",
+      "statement": "<ruby>平均重量<rt>へいきんじゅうりょう</rt></ruby>は、<ruby>荷口全体<rt>にぐちぜんたい</rt></ruby>の<ruby>重量<rt>じゅうりょう</rt></ruby>を<ruby>個数<rt>こすう</rt></ruby>で<ruby>割<rt>わ</rt></ruby>って<ruby>求<rt>もと</rt></ruby>めます。",
       "correctAnswer": true,
       "explanation": {
         "en": "Average weight is total consignment weight divided by item count.",
@@ -3555,9 +3555,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "段ボール箱は、平らなライナーと波形のフルートを組み合わせた構造です。"
+        "ja": "<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>は、<ruby>平<rt>たい</rt></ruby>らなライナーと<ruby>波形<rt>なみがた</rt></ruby>のフルートを<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせた<ruby>構造<rt>こうぞう</rt></ruby>です。"
       },
-      "statement": "段ボール箱は、平らなライナーと波形のフルートを組み合わせた構造です。",
+      "statement": "<ruby>段<rt>だん</rt></ruby>ボール<ruby>箱<rt>ばこ</rt></ruby>は、<ruby>平<rt>たい</rt></ruby>らなライナーと<ruby>波形<rt>なみがた</rt></ruby>のフルートを<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせた<ruby>構造<rt>こうぞう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "Corrugated cartons combine flat liners with a wavy fluted layer.",
@@ -3574,9 +3574,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "フレコンバッグは、500〜1,000kg程度の貨物を入れられる大型袋です。"
+        "ja": "フレコンバッグは、500〜1,000kg<ruby>程度<rt>ていど</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れられる<ruby>大型袋<rt>おおがたぶくろ</rt></ruby>です。"
       },
-      "statement": "フレコンバッグは、500〜1,000kg程度の貨物を入れられる大型袋です。",
+      "statement": "フレコンバッグは、500〜1,000kg<ruby>程度<rt>ていど</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れられる<ruby>大型袋<rt>おおがたぶくろ</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "An FIBC is a large bag that can hold approximately 500–1,000 kg.",
@@ -3593,9 +3593,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ベールをフォークリフトで扱うときは、ベールクランプを使います。"
+        "ja": "ベールをフォークリフトで<ruby>扱<rt>あつか</rt></ruby>うときは、ベールクランプを<ruby>使<rt>つか</rt></ruby>います。"
       },
-      "statement": "ベールをフォークリフトで扱うときは、ベールクランプを使います。",
+      "statement": "ベールをフォークリフトで<ruby>扱<rt>あつか</rt></ruby>うときは、ベールクランプを<ruby>使<rt>つか</rt></ruby>います。",
       "correctAnswer": true,
       "explanation": {
         "en": "A bale clamp is used to handle bales with a forklift.",
@@ -3612,9 +3612,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "ロール状の貨物をフォークリフトで扱うときは、ロールクランプが必要です。"
+        "ja": "ロール<ruby>状<rt>じょう</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>をフォークリフトで<ruby>扱<rt>あつか</rt></ruby>うときは、ロールクランプが<ruby>必要<rt>ひつよう</rt></ruby>です。"
       },
-      "statement": "ロール状の貨物をフォークリフトで扱うときは、ロールクランプが必要です。",
+      "statement": "ロール<ruby>状<rt>じょう</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>をフォークリフトで<ruby>扱<rt>あつか</rt></ruby>うときは、ロールクランプが<ruby>必要<rt>ひつよう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "A roll clamp is required to handle roll-shaped cargo with a forklift.",
@@ -3631,9 +3631,9 @@
       "section": "warehouse_fundamentals",
       "examType": "written_true_false",
       "questionText": {
-        "ja": "18L缶（1斗缶）には、18リットルが入ります。"
+        "ja": "18L<ruby>缶<rt>かん</rt></ruby>（1<ruby>斗缶<rt>とっかん</rt></ruby>）には、18リットルが<ruby>入<rt>はい</rt></ruby>ります。"
       },
-      "statement": "18L缶（1斗缶）には、18リットルが入ります。",
+      "statement": "18L<ruby>缶<rt>かん</rt></ruby>（1<ruby>斗缶<rt>とっかん</rt></ruby>）には、18リットルが<ruby>入<rt>はい</rt></ruby>ります。",
       "correctAnswer": true,
       "explanation": {
         "en": "An 18 L can (ittō-can) holds 18 litres.",
