@@ -28,6 +28,15 @@ Master companion DOCX: `SSW_Warehouse_English_Sinhala_MASTER_INLINE_IMAGES_BULK1
 | 105–116 | `audit/STUDY_NOTES_SOURCE_AUDIT_P105-116_2026-11-19.md` | Earlier detailed report recorded |
 | 117–122 | `audit/STUDY_NOTES_SOURCE_AUDIT_P117-122_2026-11-19.md` | Final source batch audited |
 
+## Ten-page source audit — p44–53 (CLOSED)
+Report: `audit/STUDY_NOTES_SOURCE_AUDIT_P44-53_FINAL_VERIFICATION_2026-11-19.md`
+Commit: `b4e8443f4239e8ccf9abbe830268ca3653176c76`
+- Audited exactly ten source pages (44–53), including paragraphs, tables, warnings, numeric details and pallet figures.
+- Corrected p46 sample-release guidance to include guiding the depositor to the storage location and explicit no-interference wording.
+- Added the missing fourth material row (paper/corrugated cardboard) to the existing p52 bilingual pallet-material table; paragraph content already existed, so no duplicate prose was added.
+- Rendered corrected DOCX successfully to 183-page PDF and visually reviewed the p44–53 rendered section (document pages 52–65).
+- All ten source pages verified after correction; no remaining content Partial items in this batch. Original Master DOCX remains untouched.
+
 ## Ten-page source audit continuation — p34–43 (CLOSED)
 Report: `audit/STUDY_NOTES_SOURCE_AUDIT_P34-43_2026-11-19.md`
 Commit: `f54512ba18c1db93ecd8b08a67c210e242c57781`
@@ -98,7 +107,7 @@ Commit: `49e803d41d61cc48ed72b356e9fe947505af6d2a`
 1. Verify all prior report paths exist on this branch, especially combined p45–56 and p57–68 reports.
 2. Finish first-25 QA: compare all source text and tables on p9–33, proofread Sinhala/English/Japanese terms, visually inspect page placements and tables.
 3. Consolidate genuine Missing/Partial/Incorrect/duplicate/page-mapping findings into one correction master list.
-4. Continue only on page ranges that have not been reliably audited; do not repeat completed batches. Use ten-page source-audit batches, and consult existing reports to avoid duplicate work.
+4. Continue only on page ranges that have not been reliably audited; do not repeat completed batches. Use ten-page source-audit batches, and consult existing reports to avoid duplicate work. p34–43 and p44–53 have closed source-content verification reports; proceed to the next not-yet-closed ten-page range only.
 5. Only after full audit and user approval, apply remaining corrections to the Master DOCX in one controlled phase.
 6. Conduct Step 3 visual audit for remaining source pages, preserving original asset filenames.
 7. Verify final DOCX/PDF output before declaring complete.
