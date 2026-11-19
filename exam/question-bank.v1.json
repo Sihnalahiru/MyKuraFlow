@@ -9846,6 +9846,166 @@
       "sourceAnchor": "p63 助数詞",
       "difficulty": "easy",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0501",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The source gives the typical height of a truck loading deck as approximately 0.8–1.2 metres.",
+        "ja": "トラックの荷台の高さの目安は、約0.8〜1.2mです。"
+      },
+      "statement": "トラックの荷台の高さの目安は、約0.8〜1.2mです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source gives the typical height of a truck loading deck as approximately 0.8–1.2 metres.",
+        "si": "මූලාශ්‍රයේ ට්‍රක් රථයක cargo deck උස සාමාන්‍යයෙන් මීටර් 0.8–1.2ක් පමණ ලෙස දක්වයි.",
+        "technicalNoteJa": "トラック荷台の高さ＝約0.8〜1.2m"
+      },
+      "sourcePage": 64,
+      "sourceAnchor": "p64 source detail",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0502",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A wing-body truck unloading cargo from the side should be parked in a manoeuvring or cargo-handling area.",
+        "ja": "ウイング車から横卸しする場合は、操車場や荷捌きスペースに停車します。"
+      },
+      "statement": "ウイング車から横卸しする場合は、操車場や荷捌きスペースに停車します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A wing-body truck unloading cargo from the side should be parked in a manoeuvring or cargo-handling area.",
+        "si": "Wing-body truck එකකින් පැත්තෙන් භාණ්ඩ බාන විට එය වාහන හැසිරවීමේ ප්‍රදේශයක හෝ cargo-handling ඉඩකඩක නවත්වන්න.",
+        "technicalNoteJa": "ウイング車の横卸し＝操車場・荷捌きスペース"
+      },
+      "sourcePage": 64,
+      "sourceAnchor": "p64 source detail",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0503",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The source states that unloading cargo on a truck deck is generally performed by the driver.",
+        "ja": "トラックの荷台での荷卸しは、基本的に運転手が行います。"
+      },
+      "statement": "トラックの荷台での荷卸しは、基本的に運転手が行います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source states that unloading cargo on a truck deck is generally performed by the driver.",
+        "si": "ට්‍රක් රථයේ cargo deck මත සිදු කරන භාණ්ඩ බෑමේ කාර්යය සාමාන්‍යයෙන් රියදුරු විසින් සිදු කරන බව මූලාශ්‍රයේ සඳහන් වේ.",
+        "technicalNoteJa": "トラック荷台での荷卸し＝基本的に運転手"
+      },
+      "sourcePage": 65,
+      "sourceAnchor": "p65 source detail",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0504",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "When inbound cargo has a barcode, a reader or handheld terminal is used according to the prescribed procedure.",
+        "ja": "貨物にバーコードがある場合は、所定の手順に従ってリーダーやハンディターミナルで確認します。"
+      },
+      "statement": "貨物にバーコードがある場合は、所定の手順に従ってリーダーやハンディターミナルで確認します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "When inbound cargo has a barcode, a reader or handheld terminal is used according to the prescribed procedure.",
+        "si": "භාණ්ඩයේ barcode එකක් තිබේ නම් නියමිත ක්‍රියාපටිපාටිය අනුව barcode reader හෝ handheld terminal භාවිතයෙන් පරීක්ෂා කරයි.",
+        "technicalNoteJa": "バーコード確認＝リーダー・ハンディターミナル"
+      },
+      "sourcePage": 65,
+      "sourceAnchor": "p65 source detail",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0505",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A ball is an inner carton containing multiple pieces.",
+        "ja": "ボールは、複数のピースをまとめた中箱です。"
+      },
+      "statement": "ボールは、複数のピースをまとめた中箱です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A ball is an inner carton containing multiple pieces.",
+        "si": "Ball යනු pieces කිහිපයක් එකට ඇතුළත් කර ඇති ඇතුළත පෙට්ටිය (inner carton) වේ.",
+        "technicalNoteJa": "ボール＝複数ピースの中箱"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "p66 source detail",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0506",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A pallet is managed as one unit containing the cargo placed on that pallet.",
+        "ja": "パレットは、パレット上の貨物をまとめて1単位として管理します。"
+      },
+      "statement": "パレットは、パレット上の貨物をまとめて1単位として管理します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A pallet is managed as one unit containing the cargo placed on that pallet.",
+        "si": "Pallet එකක් මත තබා ඇති භාණ්ඩ සියල්ල එකම කළමනාකරණ ඒකකයක් ලෙස සලකයි.",
+        "technicalNoteJa": "パレット＝積載貨物を1管理単位として扱う"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "p66 source detail",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0507",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "For variable-weight cargo, the average weight is calculated by dividing the total lot weight by the number of items.",
+        "ja": "平均重量は、荷口全体の重量を個数で割って求めます。"
+      },
+      "statement": "平均重量は、荷口全体の重量を個数で割って求めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "For variable-weight cargo, the average weight is calculated by dividing the total lot weight by the number of items.",
+        "si": "Variable-weight cargo සඳහා average weight ගණනය කරන්නේ consignment එකේ මුළු බර භාණ්ඩ ගණනින් බෙදීමෙනි.",
+        "technicalNoteJa": "平均重量＝荷口全体重量÷個数"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "p66 source detail",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0508",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A flexible container bag has lifting loops attached at its upper part.",
+        "ja": "フレコンバッグの上部には、吊り手が付いています。"
+      },
+      "statement": "フレコンバッグの上部には、吊り手が付いています。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A flexible container bag has lifting loops attached at its upper part.",
+        "si": "Flexible container bag (FIBC) එකේ ඉහළ කොටසේ එසවීම සඳහා lifting loops/吊り手 සවි කර ඇත.",
+        "technicalNoteJa": "フレコンバッグ＝上部に吊り手"
+      },
+      "sourcePage": 67,
+      "sourceAnchor": "p67 source detail",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
