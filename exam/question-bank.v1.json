@@ -9066,6 +9066,306 @@
       "sourceAnchor": "p75-s1 overhang",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0462",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Alternate stacking changes the orientation of each layer by 90 degrees.",
+        "ja": "<ruby>交互積みは、1段ごとに90度向きを変えます。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>交互積みは、1段ごとに90度向きを変えます。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The alternate pattern rotates each successive layer by 90 degrees.",
+        "si": "Alternate stacking ක්‍රමයේදී සෑම තට්ටුවකම දිශාව අංශක 90කින් මාරු කරයි.",
+        "technicalNoteJa": "交互積み＝1段ごとに90度"
+      },
+      "sourcePage": 76,
+      "sourceAnchor": "p76-s1 alternate stacking",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0463",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Alternate stacking is suitable regardless of the shape of the layer footprint.",
+        "ja": "<ruby>交互積みは、1段の形が正方形でないと使えません。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>交互積みは、1段の形が正方形でないと使えません。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source says the method can be used only when one layer has a square footprint.",
+        "si": "එක් තට්ටුවක හැඩය හතරැස් නොවේ නම් alternate stacking භාවිත කළ නොහැක.",
+        "technicalNoteJa": "交互積み＝正方形の荷姿が必要"
+      },
+      "sourcePage": 76,
+      "sourceAnchor": "p76-s1 alternate stacking condition",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0464",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Pinwheel stacking creates an air passage in the centre of the load.",
+        "ja": "<ruby>ピンホール積みは、中央に空気の通り道ができます。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>ピンホール積みは、中央に空気の通り道ができます。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The windmill arrangement leaves an airflow channel in the centre.",
+        "si": "Pinwheel stacking ක්‍රමයේ මැදින් වාතය ගමන් කරන මාර්ගයක් ඇතිවේ.",
+        "technicalNoteJa": "ピンホール積み＝中央に空気の通り道"
+      },
+      "sourcePage": 76,
+      "sourceAnchor": "p76-s1 pinhole stacking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0465",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The central gap in pinhole stacking increases the pallet's space utilisation.",
+        "ja": "<ruby>ピンホール積みは、中央の隙間で積載率が下がります。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>ピンホール積みは、中央の隙間で積載率が下がります。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The central gap reduces the amount of cargo that fits on the pallet.",
+        "si": "මැද ඇති හිස් ඉඩ නිසා pallet එකේ භාවිත ධාරිතාව අඩුවේ.",
+        "technicalNoteJa": "中央の隙間＝積載率が下がる"
+      },
+      "sourcePage": 76,
+      "sourceAnchor": "p76-s1 pinhole stacking drawback",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0466",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Brick stacking changes the arrangement by 180 degrees on successive tiers.",
+        "ja": "<ruby>レンガ積みは、各段で180度ずつ向きを変えて積みます。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>レンガ積みは、各段で180度ずつ向きを変えて積みます。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source describes a 180-degree change between tiers.",
+        "si": "Brick stacking ක්‍රමයේදී අනුක්‍රමික තට්ටු අතර දිශාව අංශක 180කින් මාරු කරයි.",
+        "technicalNoteJa": "レンガ積み＝各段180度"
+      },
+      "sourcePage": 76,
+      "sourceAnchor": "p76-s1 brick stacking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0467",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Before outbound handover, the collecting vehicle number should be checked against the release instruction.",
+        "ja": "<ruby>出庫指図書の車両番号を、実際の車両で確認します。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>出庫指図書の車両番号を、実際の車両で確認します。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The vehicle number and collecting party are checked against the release instruction.",
+        "si": "භාණ්ඩ රැගෙන යන වාහනයේ අංකය release instruction එක සමඟ සසඳා තහවුරු කළ යුතුය.",
+        "technicalNoteJa": "車両番号＝出庫指図書と照合"
+      },
+      "sourcePage": 77,
+      "sourceAnchor": "p77-s1 vehicle guidance",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0468",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The carrier's collection receipt should be obtained after loading is complete, with a stamp or signature.",
+        "ja": "<ruby>積込完了後に、引取書へ受領印または署名をもらいます。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>積込完了後に、引取書へ受領印または署名をもらいます。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source requires a receipt stamp or signature after loading is complete.",
+        "si": "Loading අවසන් වූ පසු collection receipt එකට මුද්‍රාවක් හෝ අත්සනක් ලබාගත යුතුය.",
+        "technicalNoteJa": "積込完了後＝受領印・署名"
+      },
+      "sourcePage": 77,
+      "sourceAnchor": "p77-s1 handover receipt",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0469",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "For route-delivery services, the destination and piece count on the waybill and cargo labels should be compared before handover.",
+        "ja": "<ruby>路線便では、送り状と荷札の納品先・個数を照合してから渡します。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>路線便では、送り状と荷札の納品先・個数を照合してから渡します。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Check destination and quantity on the waybill and labels before handing cargo over.",
+        "si": "Route delivery වලදී භාරදීමට පෙර waybill සහ cargo labels හි ගමනාන්තය හා කැබලි ගණන සසඳන්න.",
+        "technicalNoteJa": "送り状・荷札＝納品先と個数を照合"
+      },
+      "sourcePage": 77,
+      "sourceAnchor": "p77-s1 route delivery checks",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0470",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "After loading, checking for leftover cargo is unnecessary if the paperwork has been signed.",
+        "ja": "<ruby>積込後は、積み残しがないか確認します。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>積込後は、積み残しがないか確認します。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source requires a final check that no cargo remains behind.",
+        "si": "ලේඛන අත්සන් කළත් loading අවසන් වූ පසු ඉතිරි භාණ්ඩ තිබේදැයි පරීක්ෂා කළ යුතුය.",
+        "technicalNoteJa": "積込後＝残貨確認"
+      },
+      "sourcePage": 77,
+      "sourceAnchor": "p77-s1 leftover cargo",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0471",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Keeping the warehouse tidy helps workers notice unfamiliar cargo that may have been left behind.",
+        "ja": "<ruby>倉庫を整理すると、見慣れない貨物を見つけやすくなります。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>倉庫を整理すると、見慣れない貨物を見つけやすくなります。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A tidy warehouse makes unexpected or forgotten cargo easier to identify.",
+        "si": "ගබඩාව පිළිවෙළට තබාගැනීමෙන් අමතක වූ හෝ හඳුනා නොගත් භාණ්ඩ පහසුවෙන් හඳුනාගත හැකිය.",
+        "technicalNoteJa": "倉庫整理＝見慣れない貨物を発見"
+      },
+      "sourcePage": 77,
+      "sourceAnchor": "p77-s1 leftover prevention",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0472",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Distribution processing is performed only inside manufacturing factories.",
+        "ja": "<ruby>流通加工は、工場だけでなく倉庫・物流センター・店舗でも行われます。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>流通加工は、工場だけでなく倉庫・物流センター・店舗でも行われます。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source lists factories, warehouses, logistics centres and stores as locations for distribution processing.",
+        "si": "Distribution processing කර්මාන්තශාලාවල පමණක් නොව ගබඩා, logistics centres සහ වෙළඳසැල්වලද සිදු වේ.",
+        "technicalNoteJa": "流通加工＝工場・倉庫・物流センター・店舗"
+      },
+      "sourcePage": 78,
+      "sourceAnchor": "p78-s1 distribution processing",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0473",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A customer may specify the exact position and orientation of a label, sometimes down to millimetres.",
+        "ja": "<ruby>ラベルの位置や向きは、mm単位で指定される場合があります。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>ラベルの位置や向きは、mm単位で指定される場合があります。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The label placement may be specified with millimetre precision.",
+        "si": "Label එකේ පිහිටීම සහ දිශාව millimetre මට්ටමින් පවා නියම කළ හැකිය.",
+        "technicalNoteJa": "ラベル位置・向き＝mm単位"
+      },
+      "sourcePage": 78,
+      "sourceAnchor": "p78-s1 label placement",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0474",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Labels should be applied so that they do not peel off.",
+        "ja": "<ruby>ラベルは、剥がれないように貼ります。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>ラベルは、剥がれないように貼ります。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source instructs workers to apply labels securely.",
+        "si": "ලේබල් ගැලවී නොයන ලෙස හොඳින් අලවන්න.",
+        "technicalNoteJa": "ラベル＝剥がれないように貼る"
+      },
+      "sourcePage": 78,
+      "sourceAnchor": "p78-s1 label application",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0475",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If a label is attached in the wrong position, the worker should stop and correct it according to the instruction.",
+        "ja": "<ruby>ラベルを間違った位置に貼ったら、作業を止めて指示書どおりに直します。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>ラベルを間違った位置に貼ったら、作業を止めて指示書どおりに直します。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source says to stop work and correct an incorrectly positioned label using the instruction.",
+        "si": "ලේබලය වැරදි ස්ථානයක අලවා ඇත්නම් වැඩ නවතා උපදෙස් අනුව නිවැරදි කළ යුතුය.",
+        "technicalNoteJa": "位置間違い＝作業停止・指示書どおり修正"
+      },
+      "sourcePage": 78,
+      "sourceAnchor": "p78-s1 label position error",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0476",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If the printed information on a label is incorrect, the worker should report it and replace it with the correct label.",
+        "ja": "<ruby>ラベルの内容が間違っていたら、責任者に報告して正しいラベルに貼り替えます。<rt>ふりがな</rt></ruby>"
+      },
+      "statement": "<ruby>ラベルの内容が間違っていたら、責任者に報告して正しいラベルに貼り替えます。<rt>ふりがな</rt></ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Incorrect label content must be reported and replaced with a correct label.",
+        "si": "ලේබලයේ තොරතුරු වැරදි නම් වගකිවයුතු නිලධාරියාට දන්වා නිවැරදි ලේබලයකින් මාරු කළ යුතුය.",
+        "technicalNoteJa": "内容間違い＝責任者へ報告・貼り替え"
+      },
+      "sourcePage": 78,
+      "sourceAnchor": "p78-s1 label content error",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
