@@ -1,0 +1,61 @@
+{
+  "batchId": "batch-15-printed-pages-064-088-inbound-packaging-processing-v1",
+  "sourceJsons": [
+    "data/part-02/lesson-01-pages-059-068.json",
+    "data/part-02/lesson-03-pages-079-088.json"
+  ],
+  "sourceFile": "specified_skilled_worker_textbook_202607(2).pdf",
+  "printedPages": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    82,
+    83,
+    84,
+    88
+  ],
+  "questionIds": [
+    "MKF-WR-0401",
+    "MKF-WR-0402",
+    "MKF-WR-0403",
+    "MKF-WR-0404",
+    "MKF-WR-0405",
+    "MKF-WR-0406",
+    "MKF-WR-0407",
+    "MKF-WR-0408",
+    "MKF-WR-0409",
+    "MKF-WR-0410",
+    "MKF-WR-0411",
+    "MKF-WR-0412",
+    "MKF-WR-0413",
+    "MKF-WR-0414",
+    "MKF-WR-0415",
+    "MKF-WR-0416",
+    "MKF-WR-0417",
+    "MKF-WR-0418",
+    "MKF-WR-0419",
+    "MKF-WR-0420"
+  ],
+  "questionCount": 20,
+  "questionType": "written_true_false",
+  "sectionCounts": {
+    "receiving_dispatch": 10,
+    "storage_picking": 5,
+    "distribution_processing": 5
+  },
+  "imageQuestions": 0,
+  "imagePolicy": "Text-based source questions only; no unverified images used.",
+  "languages": {
+    "exam": "Japanese only",
+    "postAttemptExplanations": [
+      "English",
+      "Sinhala",
+      "Japanese technical note"
+    ]
+  },
+  "reviewStatus": "DRAFT",
+  "releaseReady": false,
+  "notes": "Additive-only. No app UI, study source JSON, images, authentication, progress/history, legacy quick quiz or XP logic changed."
+}
