@@ -30,17 +30,24 @@ Master companion DOCX: `SSW_Warehouse_English_Sinhala_MASTER_INLINE_IMAGES_BULK1
 
 ## First 25 study pages update — WORKING BUILD CREATED
 Scope: printed pages 9–33 (25 numbered study pages).
-Report: `audit/FIRST25_STUDY_PAGES_UPDATE_AND_IMAGE_MAP_2026-11-19.md`
-Working file created in conversation:
-`SSW_Warehouse_English_Sinhala_FIRST25_UPDATED.docx`
-- Added English + Sinhala explanations for source p19 cargo elevator and vertical automatic conveyor.
-- Added English + Sinhala explanations for source p20 counterbalance and reach forklifts and qualification warning.
-- Added source PDF visual assets grouped by exact source page in a visual-map appendix.
-- Corrected source-page labels on existing first-25-page image blocks and repositioned the image tables to source-page anchors where available.
-- Verified the DOCX opens and renders through LibreOffice (169-page output).
-- Original Master DOCX was preserved.
+Initial working build: `SSW_Warehouse_English_Sinhala_FIRST25_UPDATED.docx`
+Correction working build: `SSW_Warehouse_English_Sinhala_FIRST25_CORRECTED_WORKING.docx`
+Rendered preview: `SSW_Warehouse_English_Sinhala_FIRST25_CORRECTED_WORKING.pdf`
 
-**Not final/release-ready:** bilingual line-by-line proofreading, visual review of all 25 source-page placements/captions, and duplicate-block reconciliation remain outstanding. The DOCX working artifact has not been committed as a binary file to GitHub; the audit and image-map report is committed. Do not claim the binary is in the repository.
+### Page 15–18 correction record
+Report: `audit/FIRST25_PAGES_15-18_CONTENT_AND_SOURCE_IMAGE_MAP_2026-11-19.md`
+Commit: `94f93cef0a160e7d85d091eed7487ec221fa2096`
+- Verified original PDF pagination: printed page number matches PDF physical page number for p15–18. An earlier statement that printed p15–18 corresponded to physical p21–24 was incorrect; do not reuse that offset.
+- Existing p15 notes already contained mezzanine and four fire-safety equipment items.
+- Added missing p16 details: fixed/mobile racks, positive/reverse nestainer differences, pallet supporter functions.
+- Added missing p17 details: automated warehouse/stacker crane, surveillance camera uses, EXIT guide light, rodent barrier, insect trap.
+- Added missing p18 seismic isolation device and all eight source summary entries.
+- Inserted full-page facsimile references for original PDF pages 15, 16, 17 and 18 in a clearly captioned appendix, one page per source page.
+- Corrected working DOCX: 16,588,813 bytes; 1,620 paragraphs; 149 tables.
+- Rendered PDF: 176 pages. DOCX and PDF successfully created.
+- Original Master DOCX preserved.
+
+**Not final/release-ready:** Sinhala language proofreading, full first-25 page-by-page visual QA, complete source-to-notes verification and duplicate-block reconciliation remain outstanding. The corrected binary files are in the conversation working container, not committed as binary files to GitHub. Do not claim the binary is in the repository.
 
 ## Important audit correction
 Some previous reports called p21 qualification thresholds, p22 trolley types, p23 AGV/AMR/AGF, p24 conveyor types and p32 truck classes missing. A full inspection of DOCX tables found these items present in the current Master DOCX. Those earlier missing claims must be reconciled against tables before correction; do not add duplicate content merely because paragraph-only extraction missed a table.
