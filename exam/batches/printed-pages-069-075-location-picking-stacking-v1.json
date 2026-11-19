@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "batch-17-inbound-outbound-location-picking-v1",
+  "title": "Printed pages 69–75: cargo remarks, location management, picking and cargo stacking",
+  "questionIds": [
+    "MKF-WR-0442",
+    "MKF-WR-0443",
+    "MKF-WR-0444",
+    "MKF-WR-0445",
+    "MKF-WR-0446",
+    "MKF-WR-0447",
+    "MKF-WR-0448",
+    "MKF-WR-0449",
+    "MKF-WR-0450",
+    "MKF-WR-0451",
+    "MKF-WR-0452",
+    "MKF-WR-0453",
+    "MKF-WR-0454",
+    "MKF-WR-0455",
+    "MKF-WR-0456",
+    "MKF-WR-0457",
+    "MKF-WR-0458",
+    "MKF-WR-0459",
+    "MKF-WR-0460",
+    "MKF-WR-0461"
+  ],
+  "count": 20,
+  "sourcePages": [
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75
+  ],
+  "examType": "written_true_false",
+  "sectionDistribution": {
+    "storage_picking": 13,
+    "receiving_dispatch": 7
+  },
+  "reviewStatus": "DRAFT",
+  "notes": [
+    "Additive-only; existing files and app UI remain unchanged except question bank and this manifest.",
+    "Japanese question statements are wrapped in furigana markup.",
+    "English, Sinhala and Japanese technical explanations are included.",
+    "All questions are source-page anchored and remain DRAFT.",
+    "No practical/image questions added."
+  ]
+}

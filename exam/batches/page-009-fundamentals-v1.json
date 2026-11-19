@@ -1,0 +1,31 @@
+{
+  "batchId": "page-009-fundamentals-v1",
+  "sourceFile": "data/part-01/lesson-01-pages-009-012.json",
+  "sourcePdfPage": 9,
+  "sourceAnchors": [
+    "p9-s1",
+    "p9-s2",
+    "p9-s3",
+    "p9-s4"
+  ],
+  "questionIds": [
+    "MKF-WR-0001",
+    "MKF-WR-0002",
+    "MKF-WR-0003",
+    "MKF-WR-0004",
+    "MKF-WR-0005",
+    "MKF-WR-0006",
+    "MKF-WR-0007",
+    "MKF-WR-0008",
+    "MKF-WR-0009",
+    "MKF-WR-0010"
+  ],
+  "count": 10,
+  "types": {
+    "written_true_false": 10,
+    "practical_mcq": 0
+  },
+  "reviewStatus": "DRAFT",
+  "visualRequirement": "No practical visual items created because page 9 image mapping is pending visual verification.",
+  "releaseEligible": false
+}

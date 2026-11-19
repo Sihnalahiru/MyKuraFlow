@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "batch-21-japanese-warehouse-counters-v1",
+  "title": "Printed pages 62–63: additional Japanese counters used in logistics",
+  "questionIds": [
+    "MKF-WR-0493",
+    "MKF-WR-0494",
+    "MKF-WR-0495",
+    "MKF-WR-0496",
+    "MKF-WR-0497",
+    "MKF-WR-0498",
+    "MKF-WR-0499",
+    "MKF-WR-0500"
+  ],
+  "count": 8,
+  "sourcePages": [
+    62,
+    63
+  ],
+  "examType": "written_true_false",
+  "sectionDistribution": {
+    "warehouse_fundamentals": 8
+  },
+  "reviewStatus": "DRAFT",
+  "notes": [
+    "Additive-only; no existing question, app UI, study data, assets, auth or progress changed.",
+    "Questions cover distinct counters listed by the source and avoid previously tested counters.",
+    "Japanese statements include furigana; English, Sinhala and Japanese technical notes included.",
+    "All questions remain DRAFT pending review."
+  ]
+}

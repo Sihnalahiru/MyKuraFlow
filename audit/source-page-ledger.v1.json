@@ -1,0 +1,4779 @@
+{
+  "schemaVersion": "mykuraflow.source-page-ledger.v1",
+  "source": {
+    "file": "specified_skilled_worker_textbook_202607(2).pdf",
+    "physicalPages": 123,
+    "printedPageLabels": "2–122",
+    "coverPhysicalPage": 1,
+    "colophonPhysicalPage": 123
+  },
+  "generatedFrom": {
+    "branch": "main",
+    "commit": "dd18485158c5c63784e4e5cdbe094a19266d5eb2",
+    "activeLoaderFiles": [
+      "data/front-matter-pages-001-008.json",
+      "data/part-01/lesson-01-pages-009-012.json",
+      "data/part-01/lesson-02-pages-013-018.json",
+      "data/part-01/lesson-03-pages-019-028.json",
+      "data/part-01/lesson-04-pages-029-038.json",
+      "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "data/part-01/lesson-05-printed-page-049.json",
+      "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "data/part-02/lesson-01-pages-054-068.json",
+      "data/part-02/lesson-02-pages-069-078.json",
+      "data/part-02/lesson-03-pages-079-088.json",
+      "data/part-03/lesson-01-pages-089-098.json",
+      "data/part-03/lesson-02-pages-099-108.json",
+      "data/part-04/lesson-01-pages-109-118.json",
+      "data/part-04/lesson-02-pages-119-123.json"
+    ]
+  },
+  "summary": {
+    "records": 123,
+    "uniquePdfPages": 123,
+    "missingPdfPages": [],
+    "duplicatePdfPages": [],
+    "japanese": 123,
+    "furigana": 75,
+    "romaji": 123,
+    "english": 123,
+    "sinhala": 123,
+    "fullyProofreadRecords": 0
+  },
+  "records": [
+    {
+      "pdfPage": 1,
+      "printedPage": null,
+      "pageType": "cover",
+      "activeDataFile": "data/front-matter-pages-001-008.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 25,
+        "furigana": 69,
+        "romaji": 73,
+        "english": 103,
+        "sinhala": 105
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "Cover page; no lesson diagram mapping required.",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 2,
+      "printedPage": 2,
+      "pageType": "table_of_contents",
+      "activeDataFile": "data/front-matter-pages-001-008.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 101,
+        "furigana": 0,
+        "romaji": 108,
+        "english": 217,
+        "sinhala": 175
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 3,
+      "printedPage": 3,
+      "pageType": "table_of_contents",
+      "activeDataFile": "data/front-matter-pages-001-008.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 119,
+        "furigana": 0,
+        "romaji": 152,
+        "english": 259,
+        "sinhala": 201
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 4,
+      "printedPage": 4,
+      "pageType": "table_of_contents",
+      "activeDataFile": "data/front-matter-pages-001-008.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 92,
+        "furigana": 0,
+        "romaji": 94,
+        "english": 228,
+        "sinhala": 231
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 5,
+      "printedPage": 5,
+      "pageType": "table_of_contents",
+      "activeDataFile": "data/front-matter-pages-001-008.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 155,
+        "furigana": 0,
+        "romaji": 122,
+        "english": 360,
+        "sinhala": 392
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 6,
+      "printedPage": 6,
+      "pageType": "table_of_contents",
+      "activeDataFile": "data/front-matter-pages-001-008.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 133,
+        "furigana": 0,
+        "romaji": 123,
+        "english": 327,
+        "sinhala": 324
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 7,
+      "printedPage": 7,
+      "pageType": "table_of_contents",
+      "activeDataFile": "data/front-matter-pages-001-008.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 101,
+        "furigana": 0,
+        "romaji": 155,
+        "english": 202,
+        "sinhala": 216
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 8,
+      "printedPage": 8,
+      "pageType": "table_of_contents",
+      "activeDataFile": "data/front-matter-pages-001-008.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 67,
+        "furigana": 0,
+        "romaji": 130,
+        "english": 133,
+        "sinhala": 152
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 9,
+      "printedPage": 9,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-01-pages-009-012.json",
+      "schemaVariant": "sections",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 848,
+        "furigana": 111,
+        "romaji": 1086,
+        "english": 1179,
+        "sinhala": 1101
+      },
+      "sectionCount": 4,
+      "image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 10,
+      "printedPage": 10,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-01-pages-009-012.json",
+      "schemaVariant": "sections",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 571,
+        "furigana": 23,
+        "romaji": 1101,
+        "english": 817,
+        "sinhala": 699
+      },
+      "sectionCount": 1,
+      "image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 11,
+      "printedPage": 11,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-01-pages-009-012.json",
+      "schemaVariant": "sections",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 283,
+        "furigana": 0,
+        "romaji": 731,
+        "english": 787,
+        "sinhala": 659
+      },
+      "sectionCount": 1,
+      "image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 12,
+      "printedPage": 12,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-01-pages-009-012.json",
+      "schemaVariant": "sections",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 481,
+        "furigana": 25,
+        "romaji": 770,
+        "english": 1075,
+        "sinhala": 1160
+      },
+      "sectionCount": 1,
+      "image": {
+        "status": "PENDING_VISUAL_MATCH",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 13,
+      "printedPage": 13,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-02-pages-013-018.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 806,
+        "furigana": 0,
+        "romaji": 441,
+        "english": 528,
+        "sinhala": 550
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 14,
+      "printedPage": 14,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-02-pages-013-018.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 862,
+        "furigana": 0,
+        "romaji": 543,
+        "english": 743,
+        "sinhala": 623
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 15,
+      "printedPage": 15,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-02-pages-013-018.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 778,
+        "furigana": 0,
+        "romaji": 548,
+        "english": 674,
+        "sinhala": 538
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 16,
+      "printedPage": 16,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-02-pages-013-018.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 948,
+        "furigana": 0,
+        "romaji": 308,
+        "english": 871,
+        "sinhala": 765
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 17,
+      "printedPage": 17,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-02-pages-013-018.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 595,
+        "furigana": 0,
+        "romaji": 370,
+        "english": 541,
+        "sinhala": 506
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 18,
+      "printedPage": 18,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-02-pages-013-018.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 441,
+        "furigana": 0,
+        "romaji": 307,
+        "english": 353,
+        "sinhala": 391
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_STATUS",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 19,
+      "printedPage": 19,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 572,
+        "furigana": 0,
+        "romaji": 376,
+        "english": 449,
+        "sinhala": 454
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/5.jpg",
+          "public/images/6.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 19,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 20,
+      "printedPage": 20,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 436,
+        "furigana": 0,
+        "romaji": 323,
+        "english": 604,
+        "sinhala": 536
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/7.jpg",
+          "public/images/10.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 20,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 21,
+      "printedPage": 21,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 630,
+        "furigana": 0,
+        "romaji": 436,
+        "english": 649,
+        "sinhala": 630
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/8.jpg",
+          "public/images/11.jpg",
+          "public/images/12.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 21,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 22,
+      "printedPage": 22,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 619,
+        "furigana": 0,
+        "romaji": 378,
+        "english": 508,
+        "sinhala": 544
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/12.jpg",
+          "public/images/13.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 22,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 23,
+      "printedPage": 23,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 585,
+        "furigana": 0,
+        "romaji": 377,
+        "english": 543,
+        "sinhala": 500
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/14.jpg",
+          "public/images/15.jpg",
+          "public/images/16.jpg",
+          "public/images/17.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 23,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 24,
+      "printedPage": 24,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 465,
+        "furigana": 0,
+        "romaji": 428,
+        "english": 487,
+        "sinhala": 484
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/18.jpg",
+          "public/images/19.jpg",
+          "public/images/20.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 24,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 25,
+      "printedPage": 25,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 596,
+        "furigana": 0,
+        "romaji": 306,
+        "english": 519,
+        "sinhala": 488
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_PHOTOGRAPHIC_ASSET_REQUIRED_FOR_TEXT_TABLE",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 25,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 26,
+      "printedPage": 26,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 464,
+        "furigana": 0,
+        "romaji": 341,
+        "english": 498,
+        "sinhala": 448
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/21.jpg",
+          "public/images/22.jpg",
+          "public/images/23.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 26,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 27,
+      "printedPage": 27,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 381,
+        "furigana": 0,
+        "romaji": 325,
+        "english": 547,
+        "sinhala": 585
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/24.jpg",
+          "public/images/25.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 27,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 28,
+      "printedPage": 28,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-03-pages-019-028.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 552,
+        "furigana": 0,
+        "romaji": 471,
+        "english": 638,
+        "sinhala": 598
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/26.jpg",
+          "public/images/27.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 28,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 29,
+      "printedPage": 29,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 514,
+        "furigana": 0,
+        "romaji": 270,
+        "english": 461,
+        "sinhala": 387
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "repoImages": [
+          "public/images/28.jpg",
+          "public/images/29.jpg"
+        ],
+        "generatedAsset": null,
+        "sourcePdfPage": 29,
+        "visuallyVerifiedClaim": true
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 30,
+      "printedPage": 30,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 461,
+        "furigana": 0,
+        "romaji": 384,
+        "english": 433,
+        "sinhala": 444
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 30,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 31,
+      "printedPage": 31,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 447,
+        "furigana": 0,
+        "romaji": 317,
+        "english": 608,
+        "sinhala": 508
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 31,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 32,
+      "printedPage": 32,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 362,
+        "furigana": 0,
+        "romaji": 220,
+        "english": 518,
+        "sinhala": 506
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 32,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 33,
+      "printedPage": 33,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 450,
+        "furigana": 0,
+        "romaji": 269,
+        "english": 544,
+        "sinhala": 506
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 33,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 34,
+      "printedPage": 34,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 302,
+        "furigana": 0,
+        "romaji": 362,
+        "english": 369,
+        "sinhala": 378
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 34,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 35,
+      "printedPage": 35,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 784,
+        "furigana": 0,
+        "romaji": 441,
+        "english": 821,
+        "sinhala": 596
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 35,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 36,
+      "printedPage": 36,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 259,
+        "furigana": 0,
+        "romaji": 387,
+        "english": 743,
+        "sinhala": 688
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 36,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 37,
+      "printedPage": 37,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 513,
+        "furigana": 0,
+        "romaji": 361,
+        "english": 511,
+        "sinhala": 478
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PDF_PAGE_VISUAL_IDENTIFIED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 37,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 38,
+      "printedPage": 38,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-04-pages-029-038.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 263,
+        "furigana": 0,
+        "romaji": 339,
+        "english": 556,
+        "sinhala": 584
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 38,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 39,
+      "printedPage": 39,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 501,
+        "furigana": 0,
+        "romaji": 798,
+        "english": 1093,
+        "sinhala": 870
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 40,
+      "printedPage": 40,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 399,
+        "furigana": 0,
+        "romaji": 613,
+        "english": 837,
+        "sinhala": 702
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 41,
+      "printedPage": 41,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 297,
+        "furigana": 0,
+        "romaji": 487,
+        "english": 716,
+        "sinhala": 598
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 42,
+      "printedPage": 42,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 425,
+        "furigana": 0,
+        "romaji": 628,
+        "english": 1043,
+        "sinhala": 826
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 43,
+      "printedPage": 43,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 177,
+        "furigana": 0,
+        "romaji": 327,
+        "english": 430,
+        "sinhala": 380
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 44,
+      "printedPage": 44,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 308,
+        "furigana": 0,
+        "romaji": 526,
+        "english": 772,
+        "sinhala": 756
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 45,
+      "printedPage": 45,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 321,
+        "furigana": 0,
+        "romaji": 533,
+        "english": 883,
+        "sinhala": 716
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 46,
+      "printedPage": 46,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 342,
+        "furigana": 0,
+        "romaji": 632,
+        "english": 981,
+        "sinhala": 855
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 47,
+      "printedPage": 47,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 396,
+        "furigana": 0,
+        "romaji": 706,
+        "english": 1237,
+        "sinhala": 1034
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 48,
+      "printedPage": 48,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 318,
+        "furigana": 0,
+        "romaji": 634,
+        "english": 831,
+        "sinhala": 807
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 49,
+      "printedPage": 49,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-printed-page-049.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 1245,
+        "furigana": 179,
+        "romaji": 1099,
+        "english": 1217,
+        "sinhala": 1173
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "NO_VERIFIED_STANDALONE_DIAGRAM",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 49,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 50,
+      "printedPage": 50,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 384,
+        "furigana": 0,
+        "romaji": 441,
+        "english": 912,
+        "sinhala": 740
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 51,
+      "printedPage": 51,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 271,
+        "furigana": 0,
+        "romaji": 279,
+        "english": 556,
+        "sinhala": 477
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 52,
+      "printedPage": 52,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 215,
+        "furigana": 0,
+        "romaji": 272,
+        "english": 650,
+        "sinhala": 505
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 53,
+      "printedPage": 53,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-01/lesson-05-corrected-printed-pages-050-059.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": false,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 226,
+        "furigana": 0,
+        "romaji": 330,
+        "english": 594,
+        "sinhala": 555
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 54,
+      "printedPage": 54,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 377,
+        "furigana": 121,
+        "romaji": 871,
+        "english": 813,
+        "sinhala": 855
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "PENDING_SOURCE_ASSET_MATCH",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 55,
+      "printedPage": 55,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 322,
+        "furigana": 161,
+        "romaji": 324,
+        "english": 680,
+        "sinhala": 583
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 56,
+      "printedPage": 56,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 327,
+        "furigana": 141,
+        "romaji": 377,
+        "english": 893,
+        "sinhala": 697
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 57,
+      "printedPage": 57,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 307,
+        "furigana": 89,
+        "romaji": 259,
+        "english": 622,
+        "sinhala": 539
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 58,
+      "printedPage": 58,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 222,
+        "furigana": 85,
+        "romaji": 203,
+        "english": 542,
+        "sinhala": 424
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 59,
+      "printedPage": 59,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 331,
+        "furigana": 78,
+        "romaji": 314,
+        "english": 637,
+        "sinhala": 479
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": null,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 60,
+      "printedPage": 60,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 319,
+        "furigana": 77,
+        "romaji": 359,
+        "english": 823,
+        "sinhala": 793
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-060-time-temperature-light.svg",
+        "sourcePdfPage": 60,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 61,
+      "printedPage": 61,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 247,
+        "furigana": 65,
+        "romaji": 225,
+        "english": 651,
+        "sinhala": 557
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-061-warehouse-counters-a.svg",
+        "sourcePdfPage": 61,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 62,
+      "printedPage": 62,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 166,
+        "furigana": 106,
+        "romaji": 357,
+        "english": 505,
+        "sinhala": 417
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "repoImages": [
+          "public/images/59.jpg",
+          "public/images/61.jpg",
+          "public/images/64.jpg"
+        ],
+        "generatedAsset": "/images/generated/page-062-warehouse-counters-b.svg",
+        "sourcePdfPage": 62,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 63,
+      "printedPage": 63,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 87,
+        "furigana": 49,
+        "romaji": 199,
+        "english": 274,
+        "sinhala": 282
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-063-warehouse-counters-c.svg",
+        "sourcePdfPage": 63,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 64,
+      "printedPage": 64,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 353,
+        "furigana": 75,
+        "romaji": 391,
+        "english": 883,
+        "sinhala": 891
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-064-inbound-preparation-dock.svg",
+        "sourcePdfPage": 64,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 65,
+      "printedPage": 65,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 265,
+        "furigana": 85,
+        "romaji": 428,
+        "english": 834,
+        "sinhala": 783
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-065-unloading-inspection.svg",
+        "sourcePdfPage": 65,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 66,
+      "printedPage": 66,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 412,
+        "furigana": 124,
+        "romaji": 496,
+        "english": 1255,
+        "sinhala": 1204
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-066-lot-packaging-weight.svg",
+        "sourcePdfPage": 66,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 67,
+      "printedPage": 67,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 268,
+        "furigana": 69,
+        "romaji": 366,
+        "english": 661,
+        "sinhala": 668
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-067-cargo-forms-a.svg",
+        "sourcePdfPage": 67,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 68,
+      "printedPage": 68,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-01-pages-054-068.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 184,
+        "furigana": 88,
+        "romaji": 397,
+        "english": 449,
+        "sinhala": 466
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-068-bales-roll-cans.svg",
+        "sourcePdfPage": 68,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 69,
+      "printedPage": 69,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 212,
+        "furigana": 104,
+        "romaji": 345,
+        "english": 625,
+        "sinhala": 550
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-069-rti-tally-remarks.svg",
+        "sourcePdfPage": 69,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 70,
+      "printedPage": 70,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 326,
+        "furigana": 87,
+        "romaji": 275,
+        "english": 766,
+        "sinhala": 810
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-070-remark-putaway.svg",
+        "sourcePdfPage": 70,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 71,
+      "printedPage": 71,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 323,
+        "furigana": 78,
+        "romaji": 311,
+        "english": 975,
+        "sinhala": 987
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-071-location-management.svg",
+        "sourcePdfPage": 71,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 72,
+      "printedPage": 72,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 341,
+        "furigana": 96,
+        "romaji": 409,
+        "english": 1142,
+        "sinhala": 1047
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-072-outbound-single-picking.svg",
+        "sourcePdfPage": 72,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 73,
+      "printedPage": 73,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 240,
+        "furigana": 79,
+        "romaji": 363,
+        "english": 821,
+        "sinhala": 780
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-073-picking-methods-packing.svg",
+        "sourcePdfPage": 73,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 74,
+      "printedPage": 74,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 295,
+        "furigana": 73,
+        "romaji": 364,
+        "english": 962,
+        "sinhala": 912
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-074-outbound-inspection-damage.svg",
+        "sourcePdfPage": 74,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 75,
+      "printedPage": 75,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 294,
+        "furigana": 84,
+        "romaji": 349,
+        "english": 876,
+        "sinhala": 817
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [
+          "public/images/59.jpg",
+          "public/images/61.jpg"
+        ],
+        "generatedAsset": "/images/generated/page-075-palletising-block-stack.svg",
+        "sourcePdfPage": 75,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 76,
+      "printedPage": 76,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 175,
+        "furigana": 73,
+        "romaji": 303,
+        "english": 578,
+        "sinhala": 556
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [
+          "public/images/62.jpg",
+          "public/images/63.jpg",
+          "public/images/64.jpg",
+          "public/images/65.jpg"
+        ],
+        "generatedAsset": "/images/generated/page-076-pallet-patterns.svg",
+        "sourcePdfPage": 76,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 77,
+      "printedPage": 77,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 251,
+        "furigana": 100,
+        "romaji": 338,
+        "english": 776,
+        "sinhala": 773
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-077-dispatch-handover-zanka.svg",
+        "sourcePdfPage": 77,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 78,
+      "printedPage": 78,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-02-pages-069-078.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 251,
+        "furigana": 89,
+        "romaji": 349,
+        "english": 804,
+        "sinhala": 724
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-078-distribution-labeling.svg",
+        "sourcePdfPage": 78,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 79,
+      "printedPage": 79,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 273,
+        "furigana": 125,
+        "romaji": 490,
+        "english": 588,
+        "sinhala": 581
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-079-distribution-processing-tasks.svg",
+        "sourcePdfPage": 79,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 80,
+      "printedPage": 80,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 270,
+        "furigana": 125,
+        "romaji": 367,
+        "english": 567,
+        "sinhala": 579
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [
+          "public/images/69.jpg",
+          "public/images/70.jpg",
+          "public/images/71.jpg",
+          "public/images/72.jpg",
+          "public/images/73.jpg"
+        ],
+        "generatedAsset": "/images/generated/page-080-carton-tape-patterns.svg",
+        "sourcePdfPage": 80,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 81,
+      "printedPage": 81,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 275,
+        "furigana": 111,
+        "romaji": 533,
+        "english": 706,
+        "sinhala": 735
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [
+          "public/images/74.jpg",
+          "public/images/76.jpg"
+        ],
+        "generatedAsset": "/images/generated/page-081-cushioning-opening-strapping.svg",
+        "sourcePdfPage": 81,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 82,
+      "printedPage": 82,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 251,
+        "furigana": 95,
+        "romaji": 379,
+        "english": 607,
+        "sinhala": 628
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [
+          "public/images/75.jpg",
+          "public/images/76.jpg",
+          "public/images/77.jpg"
+        ],
+        "generatedAsset": "/images/generated/page-082-strapping-stretch-wrap.svg",
+        "sourcePdfPage": 82,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 83,
+      "printedPage": 83,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 235,
+        "furigana": 104,
+        "romaji": 349,
+        "english": 434,
+        "sinhala": 478
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-083-needle-inspection-refurbishment.svg",
+        "sourcePdfPage": 83,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 84,
+      "printedPage": 84,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 278,
+        "furigana": 114,
+        "romaji": 364,
+        "english": 671,
+        "sinhala": 661
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-084-work-plan-preparation.svg",
+        "sourcePdfPage": 84,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 85,
+      "printedPage": 85,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 337,
+        "furigana": 112,
+        "romaji": 410,
+        "english": 880,
+        "sinhala": 852
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-085-execution-progress-completion.svg",
+        "sourcePdfPage": 85,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 86,
+      "printedPage": 86,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 43,
+        "furigana": 42,
+        "romaji": 112,
+        "english": 133,
+        "sinhala": 143
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-086-disposal-reporting.svg",
+        "sourcePdfPage": 86,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 87,
+      "printedPage": 87,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 151,
+        "furigana": 79,
+        "romaji": 223,
+        "english": 415,
+        "sinhala": 430
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 87,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 88,
+      "printedPage": 88,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-02/lesson-03-pages-079-088.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 209,
+        "furigana": 103,
+        "romaji": 297,
+        "english": 579,
+        "sinhala": 566
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 88,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 89,
+      "printedPage": 89,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 181,
+        "furigana": 77,
+        "romaji": 229,
+        "english": 454,
+        "sinhala": 448
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 89,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 90,
+      "printedPage": 90,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 199,
+        "furigana": 135,
+        "romaji": 298,
+        "english": 558,
+        "sinhala": 508
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 90,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 91,
+      "printedPage": 91,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 270,
+        "furigana": 105,
+        "romaji": 354,
+        "english": 621,
+        "sinhala": 588
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 91,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 92,
+      "printedPage": 92,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 238,
+        "furigana": 127,
+        "romaji": 369,
+        "english": 772,
+        "sinhala": 674
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-092-daily-health-warmup.svg",
+        "sourcePdfPage": 92,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 93,
+      "printedPage": 93,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 208,
+        "furigana": 109,
+        "romaji": 386,
+        "english": 558,
+        "sinhala": 516
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-093-heatstroke-prevention.svg",
+        "sourcePdfPage": 93,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 94,
+      "printedPage": 94,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 171,
+        "furigana": 79,
+        "romaji": 258,
+        "english": 520,
+        "sinhala": 444
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 94,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 95,
+      "printedPage": 95,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 251,
+        "furigana": 90,
+        "romaji": 398,
+        "english": 696,
+        "sinhala": 636
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-095-ppe-basics.svg",
+        "sourcePdfPage": 95,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 96,
+      "printedPage": 96,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 294,
+        "furigana": 96,
+        "romaji": 355,
+        "english": 751,
+        "sinhala": 720
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 96,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 97,
+      "printedPage": 97,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 305,
+        "furigana": 118,
+        "romaji": 453,
+        "english": 864,
+        "sinhala": 779
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 97,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 98,
+      "printedPage": 98,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-01-pages-089-098.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 255,
+        "furigana": 104,
+        "romaji": 339,
+        "english": 712,
+        "sinhala": 705
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 98,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 99,
+      "printedPage": 99,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 171,
+        "furigana": 82,
+        "romaji": 251,
+        "english": 460,
+        "sinhala": 450
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 99,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 100,
+      "printedPage": 100,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 195,
+        "furigana": 87,
+        "romaji": 198,
+        "english": 495,
+        "sinhala": 512
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 100,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 101,
+      "printedPage": 101,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 67,
+        "furigana": 47,
+        "romaji": 150,
+        "english": 152,
+        "sinhala": 161
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-101-clean-dry-floor.svg",
+        "sourcePdfPage": 101,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 102,
+      "printedPage": 102,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 206,
+        "furigana": 87,
+        "romaji": 195,
+        "english": 521,
+        "sinhala": 518
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 102,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 103,
+      "printedPage": 103,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 174,
+        "furigana": 86,
+        "romaji": 206,
+        "english": 510,
+        "sinhala": 540
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-103-point-and-call-kyt.svg",
+        "sourcePdfPage": 103,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 104,
+      "printedPage": 104,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 172,
+        "furigana": 56,
+        "romaji": 229,
+        "english": 462,
+        "sinhala": 413
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-104-5s-method.svg",
+        "sourcePdfPage": 104,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 105,
+      "printedPage": 105,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 211,
+        "furigana": 51,
+        "romaji": 212,
+        "english": 580,
+        "sinhala": 629
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 105,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 106,
+      "printedPage": 106,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 165,
+        "furigana": 108,
+        "romaji": 223,
+        "english": 456,
+        "sinhala": 415
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-106-severe-weather-response.svg",
+        "sourcePdfPage": 106,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 107,
+      "printedPage": 107,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 163,
+        "furigana": 96,
+        "romaji": 206,
+        "english": 490,
+        "sinhala": 455
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 107,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 108,
+      "printedPage": 108,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-03/lesson-02-pages-099-108.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 173,
+        "furigana": 79,
+        "romaji": 242,
+        "english": 527,
+        "sinhala": 548
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-108-hazardous-goods-safe-handling.svg",
+        "sourcePdfPage": 108,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 109,
+      "printedPage": 109,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 194,
+        "furigana": 136,
+        "romaji": 203,
+        "english": 566,
+        "sinhala": 534
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 109,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 110,
+      "printedPage": 110,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 172,
+        "furigana": 110,
+        "romaji": 132,
+        "english": 471,
+        "sinhala": 406
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 110,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 111,
+      "printedPage": 111,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 178,
+        "furigana": 132,
+        "romaji": 155,
+        "english": 548,
+        "sinhala": 526
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 111,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 112,
+      "printedPage": 112,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 62,
+        "furigana": 63,
+        "romaji": 115,
+        "english": 239,
+        "sinhala": 178
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 112,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 113,
+      "printedPage": 113,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 108,
+        "furigana": 71,
+        "romaji": 136,
+        "english": 331,
+        "sinhala": 316
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 113,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 114,
+      "printedPage": 114,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 148,
+        "furigana": 188,
+        "romaji": 219,
+        "english": 464,
+        "sinhala": 427
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 114,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 115,
+      "printedPage": 115,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 190,
+        "furigana": 102,
+        "romaji": 203,
+        "english": 562,
+        "sinhala": 547
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 115,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 116,
+      "printedPage": 116,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 197,
+        "furigana": 97,
+        "romaji": 191,
+        "english": 618,
+        "sinhala": 613
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-116-forklift-travel-safety.svg",
+        "sourcePdfPage": 116,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 117,
+      "printedPage": 117,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 298,
+        "furigana": 78,
+        "romaji": 177,
+        "english": 857,
+        "sinhala": 855
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-117-forklift-load-pickup-sequence.svg",
+        "sourcePdfPage": 117,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 118,
+      "printedPage": 118,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-01-pages-109-118.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 337,
+        "furigana": 111,
+        "romaji": 249,
+        "english": 875,
+        "sinhala": 877
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-118-loading-stacking-safety.svg",
+        "sourcePdfPage": 118,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 119,
+      "printedPage": 119,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-02-pages-119-123.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 189,
+        "furigana": 132,
+        "romaji": 257,
+        "english": 534,
+        "sinhala": 487
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 119,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 120,
+      "printedPage": 120,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-02-pages-119-123.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 249,
+        "furigana": 138,
+        "romaji": 247,
+        "english": 762,
+        "sinhala": 726
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-120-pallet-cargo-workflow.svg",
+        "sourcePdfPage": 120,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 121,
+      "printedPage": 121,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-02-pages-119-123.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 307,
+        "furigana": 176,
+        "romaji": 285,
+        "english": 958,
+        "sinhala": 879
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "SOURCE_PDF_VISUAL_LINKED",
+        "repoImages": [],
+        "generatedAsset": null,
+        "sourcePdfPage": 121,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 122,
+      "printedPage": 122,
+      "pageType": "lesson",
+      "activeDataFile": "data/part-04/lesson-02-pages-119-123.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 256,
+        "furigana": 151,
+        "romaji": 318,
+        "english": 692,
+        "sinhala": 727
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-122-container-conveyor-safety.svg",
+        "sourcePdfPage": 122,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    },
+    {
+      "pdfPage": 123,
+      "printedPage": null,
+      "pageType": "colophon_backmatter",
+      "activeDataFile": "data/part-04/lesson-02-pages-119-123.json",
+      "schemaVariant": "flat-page",
+      "fields": {
+        "japanese": true,
+        "furigana": true,
+        "romaji": true,
+        "english": true,
+        "sinhala": true
+      },
+      "characterCounts": {
+        "japanese": 405,
+        "furigana": 215,
+        "romaji": 392,
+        "english": 1006,
+        "sinhala": 934
+      },
+      "sectionCount": 0,
+      "image": {
+        "status": "COMMITTED_AND_LINKED",
+        "repoImages": [],
+        "generatedAsset": "/images/generated/page-123-colophon-publisher-record.svg",
+        "sourcePdfPage": 123,
+        "visuallyVerifiedClaim": false
+      },
+      "review": {
+        "sourceToNote": "PENDING_ITEM_LEVEL",
+        "japanese": "PENDING",
+        "furigana": "PENDING",
+        "romaji": "PENDING",
+        "english": "PENDING",
+        "sinhala": "PENDING",
+        "visual": "PENDING"
+      }
+    }
+  ]
+}

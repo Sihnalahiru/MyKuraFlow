@@ -1,0 +1,39 @@
+{
+  "batchId": "pages-010-012-warehouse-types-temperature-v1",
+  "sourceFile": "data/part-01/lesson-01-pages-009-012.json",
+  "sourcePdfPages": [
+    10,
+    11,
+    12
+  ],
+  "sourceAnchors": [
+    "p10-s1",
+    "p11-s1",
+    "p12-s1"
+  ],
+  "questionIds": [
+    "MKF-WR-0011",
+    "MKF-WR-0012",
+    "MKF-WR-0013",
+    "MKF-WR-0014",
+    "MKF-WR-0015",
+    "MKF-WR-0016",
+    "MKF-WR-0017",
+    "MKF-WR-0018",
+    "MKF-WR-0019",
+    "MKF-WR-0020",
+    "MKF-WR-0021",
+    "MKF-WR-0022",
+    "MKF-WR-0023",
+    "MKF-WR-0024",
+    "MKF-WR-0025"
+  ],
+  "count": 15,
+  "types": {
+    "written_true_false": 15,
+    "practical_mcq": 0
+  },
+  "reviewStatus": "DRAFT",
+  "visualRequirement": "Existing Study Mode visuals are intended for reuse after asset-to-source-page visual verification; no unverified image paths are assigned in this batch.",
+  "releaseEligible": false
+}

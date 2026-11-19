@@ -1,0 +1,149 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "printed-pages-039-048-warehouse-quality-inventory-disaster-v1",
+  "status": "DRAFT_SOURCE_GROUNDED_TEXT_ONLY",
+  "sourceFile": "data/part-01/lesson-05-corrected-printed-pages-039-048.json",
+  "sourcePdf": "specified_skilled_worker_textbook_202607(2).pdf",
+  "printedPages": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "physicalPdfPages": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "questionIds": [
+    "MKF-WR-0097",
+    "MKF-WR-0098",
+    "MKF-WR-0099",
+    "MKF-WR-0100",
+    "MKF-WR-0101",
+    "MKF-WR-0102",
+    "MKF-WR-0103",
+    "MKF-WR-0104",
+    "MKF-WR-0105",
+    "MKF-WR-0106",
+    "MKF-WR-0107",
+    "MKF-WR-0108",
+    "MKF-WR-0109",
+    "MKF-WR-0110",
+    "MKF-WR-0111",
+    "MKF-WR-0112",
+    "MKF-WR-0113",
+    "MKF-WR-0114",
+    "MKF-WR-0115",
+    "MKF-WR-0116",
+    "MKF-WR-0117",
+    "MKF-WR-0118",
+    "MKF-WR-0119",
+    "MKF-WR-0120",
+    "MKF-WR-0121"
+  ],
+  "questionCount": 25,
+  "examType": "written_true_false",
+  "section": "warehouse_fundamentals",
+  "coverage": [
+    {
+      "page": 39,
+      "topics": [
+        "duty of care",
+        "receiving-to-dispatch process",
+        "hai-zuke stacking"
+      ]
+    },
+    {
+      "page": 40,
+      "topics": [
+        "warehouse accident types",
+        "confidentiality",
+        "identity verification"
+      ]
+    },
+    {
+      "page": 41,
+      "topics": [
+        "storage quality checks",
+        "temperature and humidity records",
+        "abnormality reporting"
+      ]
+    },
+    {
+      "page": 42,
+      "topics": [
+        "odor-emitting cargo",
+        "odor-emitting and odor-absorbing cargo",
+        "odor transfer prevention"
+      ]
+    },
+    {
+      "page": 43,
+      "topics": [
+        "effective space utilization",
+        "vertical storage",
+        "supervised cargo relocation"
+      ]
+    },
+    {
+      "page": 44,
+      "topics": [
+        "5S",
+        "warehouse housekeeping",
+        "long-staying stock"
+      ]
+    },
+    {
+      "page": 45,
+      "topics": [
+        "cargo tags",
+        "lot-based quantity checks",
+        "stocktaking"
+      ]
+    },
+    {
+      "page": 46,
+      "topics": [
+        "periodic stocktaking",
+        "simultaneous stocktaking",
+        "cycle counting",
+        "sample dispatch authorization"
+      ]
+    },
+    {
+      "page": 47,
+      "topics": [
+        "sample dispatch supervision",
+        "sample identification and records",
+        "disposal and destruction"
+      ]
+    },
+    {
+      "page": 48,
+      "topics": [
+        "rain leakage inspection",
+        "rodent prevention",
+        "end-of-day lock-up checks"
+      ]
+    }
+  ],
+  "visualQuestionsAdded": 0,
+  "imagePolicy": "No practical image questions added. Existing Study Mode visuals/assets were not changed, duplicated, or remapped. Visual questions require verified reuse of matching existing assets.",
+  "examLanguagePolicy": "During quiz/exam attempts, render Japanese question text with furigana and Japanese answer choices only. Hide English, Sinhala and Romaji in both question and answer UI. English/Sinhala explanations and Japanese technical notes may appear only after the attempt in review mode. Existing exam/presentation policy file was read and confirmed; it was not modified in this batch.",
+  "reviewGate": "All questions remain DRAFT pending expert Japanese-language and source accuracy review.",
+  "appImpact": "No existing app UI, navigation, study JSON, image assets, authentication, user progress/history, legacy quick quiz or XP formula changed."
+}

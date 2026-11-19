@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "batch-19-progress-closeout-disposal-v1",
+  "title": "Printed pages 85–86: progress control, close-out reconciliation and waste disposal",
+  "questionIds": [
+    "MKF-WR-0477",
+    "MKF-WR-0478",
+    "MKF-WR-0479",
+    "MKF-WR-0480",
+    "MKF-WR-0481",
+    "MKF-WR-0482",
+    "MKF-WR-0483",
+    "MKF-WR-0484"
+  ],
+  "count": 8,
+  "sourcePages": [
+    85,
+    86
+  ],
+  "examType": "written_true_false",
+  "sectionDistribution": {
+    "distribution_processing": 8
+  },
+  "reviewStatus": "DRAFT",
+  "notes": [
+    "Additive-only; no existing questions or app UI changed.",
+    "Questions target source details not previously tested in the bank.",
+    "Japanese statements include furigana; English, Sinhala and Japanese technical explanations included.",
+    "All questions remain DRAFT pending source and language review.",
+    "No practical/image questions added."
+  ]
+}

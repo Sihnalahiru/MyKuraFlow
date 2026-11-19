@@ -1,0 +1,48 @@
+{
+  "batchId": "batch-14-printed-pages-119-122-forklift-container-final-v1",
+  "sourceJson": "data/part-04/lesson-02-pages-119-123.json",
+  "sourceFile": "specified_skilled_worker_textbook_202607(2).pdf",
+  "printedPages": [
+    119,
+    120,
+    121,
+    122
+  ],
+  "questionIds": [
+    "MKF-WR-0381",
+    "MKF-WR-0382",
+    "MKF-WR-0383",
+    "MKF-WR-0384",
+    "MKF-WR-0385",
+    "MKF-WR-0386",
+    "MKF-WR-0387",
+    "MKF-WR-0388",
+    "MKF-WR-0389",
+    "MKF-WR-0390",
+    "MKF-WR-0391",
+    "MKF-WR-0392",
+    "MKF-WR-0393",
+    "MKF-WR-0394",
+    "MKF-WR-0395",
+    "MKF-WR-0396",
+    "MKF-WR-0397",
+    "MKF-WR-0398",
+    "MKF-WR-0399",
+    "MKF-WR-0400"
+  ],
+  "questionCount": 20,
+  "questionType": "written_true_false",
+  "imageQuestions": 0,
+  "imagePolicy": "No practical image questions added; existing image assets were not independently visually verified. Source text only.",
+  "languages": {
+    "exam": "Japanese only with furigana where supported by the source terms",
+    "postAttemptExplanations": [
+      "English",
+      "Sinhala",
+      "Japanese technical note"
+    ]
+  },
+  "reviewStatus": "DRAFT",
+  "releaseReady": false,
+  "notes": "Additive-only final content batch. Page 123 is publisher/copyright colophon, not examinable logistics content, and was intentionally excluded. No existing app UI, study assets, authentication, progress/history, legacy quick quiz or XP logic modified."
+}

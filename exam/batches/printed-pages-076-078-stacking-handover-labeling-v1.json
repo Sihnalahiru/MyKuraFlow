@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "batch-18-stacking-handover-labeling-v1",
+  "title": "Printed pages 76–78: pallet stacking, outbound handover and label control",
+  "questionIds": [
+    "MKF-WR-0462",
+    "MKF-WR-0463",
+    "MKF-WR-0464",
+    "MKF-WR-0465",
+    "MKF-WR-0466",
+    "MKF-WR-0467",
+    "MKF-WR-0468",
+    "MKF-WR-0469",
+    "MKF-WR-0470",
+    "MKF-WR-0471",
+    "MKF-WR-0472",
+    "MKF-WR-0473",
+    "MKF-WR-0474",
+    "MKF-WR-0475",
+    "MKF-WR-0476"
+  ],
+  "count": 15,
+  "sourcePages": [
+    76,
+    77,
+    78
+  ],
+  "examType": "written_true_false",
+  "sectionDistribution": {
+    "receiving_dispatch": 5,
+    "distribution_processing": 10
+  },
+  "reviewStatus": "DRAFT",
+  "notes": [
+    "Additive-only; no existing questions or app UI changed.",
+    "Japanese statements carry furigana markup.",
+    "English, Sinhala and Japanese technical explanations included.",
+    "All questions remain DRAFT pending review.",
+    "No practical/image questions added."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "batch-16-measurements-counters-pages-059-063",
+  "title": "Printed pages 59–63: measurement standards and Japanese warehouse counters",
+  "questionIds": [
+    "MKF-WR-0421",
+    "MKF-WR-0422",
+    "MKF-WR-0423",
+    "MKF-WR-0424",
+    "MKF-WR-0425",
+    "MKF-WR-0426",
+    "MKF-WR-0427",
+    "MKF-WR-0428",
+    "MKF-WR-0429",
+    "MKF-WR-0430",
+    "MKF-WR-0431",
+    "MKF-WR-0432",
+    "MKF-WR-0433",
+    "MKF-WR-0434",
+    "MKF-WR-0435",
+    "MKF-WR-0436",
+    "MKF-WR-0437",
+    "MKF-WR-0438",
+    "MKF-WR-0439",
+    "MKF-WR-0440",
+    "MKF-WR-0441"
+  ],
+  "count": 21,
+  "sourcePages": [
+    59,
+    60,
+    61,
+    62,
+    63
+  ],
+  "examType": "written_true_false",
+  "sectionDistribution": {
+    "warehouse_fundamentals": 21
+  },
+  "reviewStatus": "DRAFT",
+  "notes": [
+    "Additive-only batch; existing content and app UI unchanged.",
+    "Japanese question statements include furigana markup.",
+    "English, Sinhala and Japanese technical explanations included.",
+    "No practical image questions added."
+  ]
+}
