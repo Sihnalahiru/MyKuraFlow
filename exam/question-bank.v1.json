@@ -9686,6 +9686,166 @@
       "sourceAnchor": "p84 source study detail",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0493",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 件 is used to count work items, orders or cases.",
+        "ja": "<ruby>件<rt>けん</rt></ruby>は、<ruby>業務<rt>ぎょうむ</rt></ruby>・<ruby>案件<rt>あんけん</rt></ruby>などの<ruby>数<rt>かず</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>件<rt>けん</rt></ruby>は、<ruby>業務<rt>ぎょうむ</rt></ruby>・<ruby>案件<rt>あんけん</rt></ruby>などの<ruby>数<rt>かず</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The counter 件 is used to count work items, orders or cases.",
+        "si": "件 (ken) යනු වැඩ, ඇණවුම් හෝ සිද්ධි/කේස් ගණන දැක්වීමට භාවිත කරන counter එකකි.",
+        "technicalNoteJa": "件＝業務・案件数"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "p62 助数詞",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0494",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 段 is used for the number of stacked tiers.",
+        "ja": "<ruby>段<rt>だん</rt></ruby>は、<ruby>積<rt>つ</rt></ruby>み<ruby>重<rt>かさ</rt></ruby>ねた<ruby>段数<rt>だんすう</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>段<rt>だん</rt></ruby>は、<ruby>積<rt>つ</rt></ruby>み<ruby>重<rt>かさ</rt></ruby>ねた<ruby>段数<rt>だんすう</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The counter 段 is used for the number of stacked tiers.",
+        "si": "段 (dan) යනු එක මත එක ගොඩගසා ඇති තට්ටු ගණන ගණන් කිරීමට භාවිත කරයි.",
+        "technicalNoteJa": "段＝積み重ねた段数"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "p62 助数詞",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0495",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 列 is used for rows or lines of arranged items.",
+        "ja": "<ruby>列<rt>れつ</rt></ruby>は、<ruby>並<rt>なら</rt></ruby>びや<ruby>配列<rt>はいれつ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すときに<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>列<rt>れつ</rt></ruby>は、<ruby>並<rt>なら</rt></ruby>びや<ruby>配列<rt>はいれつ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すときに<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The counter 列 is used for rows or lines of arranged items.",
+        "si": "列 (retsu) යනු පිළිවෙළට සකස් කළ පේළි හෝ අනුපිළිවෙළ ගණන දැක්වීමට යොදාගනී.",
+        "technicalNoteJa": "列＝並び・配列"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "p62 助数詞",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0496",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 玉 is used for round objects.",
+        "ja": "<ruby>玉<rt>たま</rt></ruby>は、<ruby>丸<rt>まる</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>玉<rt>たま</rt></ruby>は、<ruby>丸<rt>まる</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The counter 玉 is used for round objects.",
+        "si": "玉 (tama) යනු ගෝලාකාර හෝ වටකුරු දේවල් ගණන් කිරීමට භාවිත කරන counter එකකි.",
+        "technicalNoteJa": "玉＝丸い物"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "p62 助数詞",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0497",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 粒 is used for small grain-like particles.",
+        "ja": "<ruby>粒<rt>つぶ</rt></ruby>は、<ruby>小<rt>ちい</rt></ruby>さい<ruby>粒状<rt>りゅうじょう</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>粒<rt>つぶ</rt></ruby>は、<ruby>小<rt>ちい</rt></ruby>さい<ruby>粒状<rt>りゅうじょう</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The counter 粒 is used for small grain-like particles.",
+        "si": "粒 (tsubu) යනු කුඩා ඇට හෝ කණිකා ආකාරයේ ද්‍රව්‍ය ගණන් කිරීමට යොදාගනී.",
+        "technicalNoteJa": "粒＝小さい粒状物"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "p62 助数詞",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0498",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 錠 is used for tablets.",
+        "ja": "<ruby>錠<rt>じょう</rt></ruby>は、<ruby>錠剤<rt>じょうざい</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>錠<rt>じょう</rt></ruby>は、<ruby>錠剤<rt>じょうざい</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The counter 錠 is used for tablets.",
+        "si": "錠 (jō) යනු පෙති/ටැබ්ලට් ගණන් කිරීමට භාවිත කරන counter එකකි.",
+        "technicalNoteJa": "錠＝錠剤"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "p62 助数詞",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0499",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 周 is used to count a circuit or a complete round.",
+        "ja": "<ruby>周<rt>しゅう</rt></ruby>は、<ruby>周回<rt>しゅうかい</rt></ruby>や<ruby>一周<rt>いっしゅう</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>周<rt>しゅう</rt></ruby>は、<ruby>周回<rt>しゅうかい</rt></ruby>や<ruby>一周<rt>いっしゅう</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときに<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The counter 周 is used to count a circuit or a complete round.",
+        "si": "周 (shū) යනු වටයක් හෝ සම්පූර්ණ වට ගණන දැක්වීමට භාවිත කරයි.",
+        "technicalNoteJa": "周＝周回・一周"
+      },
+      "sourcePage": 63,
+      "sourceAnchor": "p63 助数詞",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0500",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 期 is used for a period or phase.",
+        "ja": "<ruby>期<rt>き</rt></ruby>は、<ruby>期間<rt>きかん</rt></ruby>や<ruby>区分<rt>くぶん</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すときに<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>期<rt>き</rt></ruby>は、<ruby>期間<rt>きかん</rt></ruby>や<ruby>区分<rt>くぶん</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すときに<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The counter 期 is used for a period or phase.",
+        "si": "期 (ki) යනු කාල පරිච්ඡේදයක් හෝ අදියරක් දැක්වීමට භාවිත කරන counter එකකි.",
+        "technicalNoteJa": "期＝期間・区分"
+      },
+      "sourcePage": 63,
+      "sourceAnchor": "p63 助数詞",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
