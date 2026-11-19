@@ -9366,6 +9366,166 @@
       "sourceAnchor": "p78-s1 label content error",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0477",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Progress management requires checking work progress continuously, not only at the end.",
+        "ja": "<ruby>進捗管理<rt>しんちょくかんり</rt></ruby>では、<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>進<rt>すす</rt></ruby>み<ruby>具合<rt>ぐあい</rt></ruby>をいつも<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>進捗管理<rt>しんちょくかんり</rt></ruby>では、<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>進<rt>すす</rt></ruby>み<ruby>具合<rt>ぐあい</rt></ruby>をいつも<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Progress management requires checking work progress continuously, not only at the end.",
+        "si": "ප්‍රගති කළමනාකරණයේදී වැඩ අවසන් වූ පසු පමණක් නොව, වැඩ සිදුවන අතරතුරම එහි ප්‍රගතිය නිරන්තරයෙන් පරීක්ෂා කළ යුතුය.",
+        "technicalNoteJa": "進捗管理＝作業の進み具合を常に確認する"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "p85 作業実施・進捗管理・作業完了・廃棄",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0478",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If delays or defective products are found during progress checks, report the problem to the supervisor.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>遅<rtおく</rt></ruby>れや<ruby>不良品<rt>ふりょうひん</rt></ruby>があれば、<ruby>責任者<rt>せきにんしゃ</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>します。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>遅<rtおく</rt></ruby>れや<ruby>不良品<rt>ふりょうひん</rt></ruby>があれば、<ruby>責任者<rt>せきにんしゃ</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "If delays or defective products are found during progress checks, report the problem to the supervisor.",
+        "si": "ප්‍රගතිය පරීක්ෂා කිරීමේදී ප්‍රමාදයක් හෝ දෝෂ සහිත භාණ්ඩ හමුවුවහොත් වගකිවයුතු නිලධාරියාට වාර්තා කළ යුතුය.",
+        "technicalNoteJa": "遅れ・不良品を責任者へ報告"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "p85 作業実施・進捗管理・作業完了・廃棄",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0479",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "When work is interrupted or continues for several days, completed goods should remain at the workbench until the whole job is finished.",
+        "ja": "<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>中断<rt>ちゅうだん</rt></ruby>するときも、<ruby>数日<rt>すうじつ</rt></ruby>かかるときも、その<ruby>日<rt>ひ</rt></ruby>の<ruby>完成品<rt>かんせいひん</rt></ruby>は<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>保管場所<rt>ほかんばしょ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れません。"
+      },
+      "statement": "<ruby>作業<rt>さぎょう</rt></ruby>を<ruby>中断<rt>ちゅうだん</rt></ruby>するときも、<ruby>数日<rt>すうじつ</rt></ruby>かかるときも、その<ruby>日<rt>ひ</rt></ruby>の<ruby>完成品<rt>かんせいひん</rt></ruby>は<ruby>倉庫<rt>そうこ</rt></ruby>の<ruby>保管場所<rt>ほかんばしょ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "When work is interrupted or continues for several days, completed goods should remain at the workbench until the whole job is finished.",
+        "si": "වැඩ අතරමඟ නවත්වන විට හෝ දින කිහිපයක් ගතවන විට, එදින අවසන් කළ භාණ්ඩ නියමිත ගබඩා ස්ථානයට තැබිය යුතුය; වැඩබිමේ තබා නොයන්න.",
+        "technicalNoteJa": "作業日ごとに完了品を指定保管場所へ収納"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "p85 作業実施・進捗管理・作業完了・廃棄",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0480",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "At close-out, materials and tools are counted and returned to their original locations.",
+        "ja": "<ruby>作業完了時<rt>さぎょうかんりょうじ</rt></ruby>は、<ruby>資材<rt>しざい</rt></ruby>と<ruby>用具<rt>ようぐ</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>え、<ruby>元<rt>もと</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>します。"
+      },
+      "statement": "<ruby>作業完了時<rt>さぎょうかんりょうじ</rt></ruby>は、<ruby>資材<rt>しざい</rt></ruby>と<ruby>用具<rt>ようぐ</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>え、<ruby>元<rt>もと</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "At close-out, materials and tools are counted and returned to their original locations.",
+        "si": "වැඩ අවසන් කරන විට ද්‍රව්‍ය සහ උපකරණ ගණන් කර ඒවා තිබූ මුල් ස්ථානවලට ආපසු තැබිය යුතුය.",
+        "technicalNoteJa": "資材・用具を数えて元の場所へ戻す"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "p85 作業実施・進捗管理・作業完了・廃棄",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0481",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If a tool is missing at close-out, ignore the shortage if the finished products have been counted.",
+        "ja": "<ruby>作業完了時<rt>さぎょうかんりょうじ</rt></ruby>に<ruby>用具<rt>ようぐ</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくても、<ruby>完成品<rt>かんせいひん</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えたら<ruby>報告<rt>ほうこく</rt></ruby>しなくてもよいです。"
+      },
+      "statement": "<ruby>作業完了時<rt>さぎょうかんりょうじ</rt></ruby>に<ruby>用具<rt>ようぐ</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくても、<ruby>完成品<rt>かんせいひん</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えたら<ruby>報告<rt>ほうこく</rt></ruby>しなくてもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "If a tool is missing at close-out, ignore the shortage if the finished products have been counted.",
+        "si": "වැඩ අවසන් වන විට උපකරණයක් අඩු නම් එය නොසලකා හැරිය නොහැක. ඉහළ නිලධාරියාට දන්වා වැඩබිම සොයා බැලිය යුතුය.",
+        "technicalNoteJa": "用具不足は上司へ報告し作業場を探す"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "p85 作業実施・進捗管理・作業完了・廃棄",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0482",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Empty cartons must be collected at the designated place and handled under the recycling or disposal rules.",
+        "ja": "<ruby>空箱<rt>からばこ</rt></ruby>は<ruby>決<rt>き</rt></ruby>められた<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>め、リサイクルや<ruby>廃棄<rt>はいき</rt></ruby>のルールに<ruby>従<rt>したが</rt></ruby>います。"
+      },
+      "statement": "<ruby>空箱<rt>からばこ</rt></ruby>は<ruby>決<rt>き</rt></ruby>められた<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>め、リサイクルや<ruby>廃棄<rt>はいき</rt></ruby>のルールに<ruby>従<rt>したが</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Empty cartons must be collected at the designated place and handled under the recycling or disposal rules.",
+        "si": "හිස් පෙට්ටි නියමිත ස්ථානයක එකතු කර ප්‍රතිචක්‍රීකරණය හෝ බැහැර කිරීමේ නීති අනුව කටයුතු කළ යුතුය.",
+        "technicalNoteJa": "空箱は所定場所に集め、リサイクル・廃棄ルールに従う"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "p85 作業実施・進捗管理・作業完了・廃棄",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0483",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A problem discovered at any stage of the overall work process should be reported.",
+        "ja": "<ruby>作業全体<rt>さぎょうぜんたい</rt></ruby>を<ruby>通<rt>とお</rt></ruby>して<ruby>問題<rt>もんだい</rt></ruby>があれば、<ruby>報告<rt>ほうこく</rt></ruby>します。"
+      },
+      "statement": "<ruby>作業全体<rt>さぎょうぜんたい</rt></ruby>を<ruby>通<rt>とお</rt></ruby>して<ruby>問題<rt>もんだい</rt></ruby>があれば、<ruby>報告<rt>ほうこく</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A problem discovered at any stage of the overall work process should be reported.",
+        "si": "සම්පූර්ණ වැඩ ක්‍රියාවලියේ ඕනෑම අදියරකදී ගැටලුවක් හමුවුවහොත් එය වාර්තා කළ යුතුය.",
+        "technicalNoteJa": "全体を通して問題があれば報告する"
+      },
+      "sourcePage": 86,
+      "sourceAnchor": "p86 作業実施・進捗管理・作業完了・廃棄",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0484",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "When a job takes several days, only the final day's completed goods need to be placed in warehouse storage.",
+        "ja": "<ruby>数日<rt>すうじつ</rt></ruby>かかる<ruby>作業<rt>さぎょう</rt></ruby>では、<ruby>最後<rt>さいご</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>完成<rt>かんせい</rt></ruby>した<ruby>物<rt>もの</rt></ruby>だけを<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>します。"
+      },
+      "statement": "<ruby>数日<rt>すうじつ</rt></ruby>かかる<ruby>作業<rt>さぎょう</rt></ruby>では、<ruby>最後<rt>さいご</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>完成<rt>かんせい</rt></ruby>した<ruby>物<rt>もの</rt></ruby>だけを<ruby>倉庫<rt>そうこ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "When a job takes several days, only the final day's completed goods need to be placed in warehouse storage.",
+        "si": "දින කිහිපයක් ගතවන වැඩකදී අවසන් දිනයේ භාණ්ඩ පමණක් නොව, සෑම වැඩ දිනයකම අවසන් කළ භාණ්ඩ නියමිත ගබඩා ස්ථානයට තැබිය යුතුය.",
+        "technicalNoteJa": "毎日の完了品をその日のうちに保管"
+      },
+      "sourcePage": 85,
+      "sourceAnchor": "p85 作業実施・進捗管理・作業完了・廃棄",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
