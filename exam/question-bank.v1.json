@@ -6646,6 +6646,806 @@
       "sourceAnchor": "p108 緊急時の準備",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0341",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A GHS label is a pictogram attached to hazardous chemicals.",
+        "ja": "GHSラベルは、<ruby>危険<rt>きけん</rt></ruby>な<ruby>化学品<rt>かがくひん</rt></ruby>に<ruby>貼<rt>は</rt></ruby>る<ruby>絵表示<rt>えひょうじ</rt></ruby>です。"
+      },
+      "statement": "GHSラベルは、<ruby>危険<rt>きけん</rt></ruby>な<ruby>化学品<rt>かがくひん</rt></ruby>に<ruby>貼<rt>は</rt></ruby>る<ruby>絵表示<rt>えひょうじ</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A GHS label is a pictogram attached to hazardous chemicals.",
+        "si": "GHS ලේබලය අනතුරුදායක රසායනික ද්‍රව්‍යවල අලවන රූප සලකුණකි.",
+        "technicalNoteJa": "GHSラベル＝危険有害性の絵表示"
+      },
+      "sourcePage": 109,
+      "sourceAnchor": "p109 GHSラベル＝危険有害性の絵表示",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0342",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "GHS pictograms are internationally standardized.",
+        "ja": "GHSラベルの<ruby>絵表示<rt>えひょうじ</rt></ruby>は、<ruby>国際的<rt>こくさいてき</rt></ruby>に<ruby>共通<rt>きょうつう</rt></ruby>です。"
+      },
+      "statement": "GHSラベルの<ruby>絵表示<rt>えひょうじ</rt></ruby>は、<ruby>国際的<rt>こくさいてき</rt></ruby>に<ruby>共通<rt>きょうつう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "GHS pictograms are internationally standardized.",
+        "si": "GHS රූප සලකුණු ජාත්‍යන්තරව සම්මත කර ඇත.",
+        "technicalNoteJa": "GHS＝世界共通の絵表示"
+      },
+      "sourcePage": 109,
+      "sourceAnchor": "p109 GHS＝世界共通の絵表示",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0343",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The exploding-bomb pictogram indicates an explosion hazard.",
+        "ja": "<ruby>爆発<rt>ばくはつ</rt></ruby>マークは、<ruby>爆発<rt>ばくはつ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>爆発<rt>ばくはつ</rt></ruby>マークは、<ruby>爆発<rt>ばくはつ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The exploding-bomb pictogram indicates an explosion hazard.",
+        "si": "පුපුරන බෝම්බ සලකුණ පිපිරීමේ අවදානම දක්වයි.",
+        "technicalNoteJa": "爆発マーク＝爆発危険"
+      },
+      "sourcePage": 109,
+      "sourceAnchor": "p109 爆発マーク＝爆発危険",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0344",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "It is acceptable to expose explosive-hazard substances to fire or impact.",
+        "ja": "<ruby>爆発危険<rt>ばくはつきけん</rt></ruby>のある<ruby>物質<rt>ぶっしつ</rt></ruby>に、<ruby>火<rt>ひ</rt></ruby>や<ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてもよいです。"
+      },
+      "statement": "<ruby>爆発危険<rt>ばくはつきけん</rt></ruby>のある<ruby>物質<rt>ぶっしつ</rt></ruby>に、<ruby>火<rt>ひ</rt></ruby>や<ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "It is acceptable to expose explosive-hazard substances to fire or impact.",
+        "si": "පිපිරීමේ අවදානම ඇති ද්‍රව්‍යවලට ගින්න හෝ ගැටීම ඇති කළ හැකිය යන්න වැරදිය.",
+        "technicalNoteJa": "爆発危険物＝火気・衝撃厳禁"
+      },
+      "sourcePage": 109,
+      "sourceAnchor": "p109 爆発危険物＝火気・衝撃厳禁",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0345",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The flame pictogram indicates flammable substances.",
+        "ja": "<ruby>炎<rt>ほのお</rt></ruby>マークは、<ruby>引火<rt>いんか</rt></ruby>しやすい<ruby>物質<rt>ぶっしつ</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>炎<rt>ほのお</rt></ruby>マークは、<ruby>引火<rt>いんか</rt></ruby>しやすい<ruby>物質<rt>ぶっしつ</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The flame pictogram indicates flammable substances.",
+        "si": "ගිනි දැල්ල සලකුණ පහසුවෙන් ගිනිගන්නා ද්‍රව්‍ය දක්වයි.",
+        "technicalNoteJa": "炎マーク＝引火性・可燃性"
+      },
+      "sourcePage": 110,
+      "sourceAnchor": "p110 炎マーク＝引火性・可燃性",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0346",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Substances that release flammable gas when reacting with water are also covered by the flame pictogram.",
+        "ja": "<ruby>水<rt>みず</rt></ruby>と<ruby>反応<rt>はんのう</rt></ruby>して<ruby>可燃性<rt>かねんせい</rt></ruby>ガスを<ruby>出<rt>だ</rt></ruby>す<ruby>物質<rt>ぶっしつ</rt></ruby>も、<ruby>炎<rt>ほのお</rt></ruby>マークの<ruby>対象<rt>たいしょう</rt></ruby>です。"
+      },
+      "statement": "<ruby>水<rt>みず</rt></ruby>と<ruby>反応<rt>はんのう</rt></ruby>して<ruby>可燃性<rt>かねんせい</rt></ruby>ガスを<ruby>出<rt>だ</rt></ruby>す<ruby>物質<rt>ぶっしつ</rt></ruby>も、<ruby>炎<rt>ほのお</rt></ruby>マークの<ruby>対象<rt>たいしょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Substances that release flammable gas when reacting with water are also covered by the flame pictogram.",
+        "si": "ජලය සමඟ ප්‍රතික්‍රියා කර ගිනිගන්නා වායු නිකුත් කරන ද්‍රව්‍යද ගිනි දැල්ල සලකුණට අයත් වේ.",
+        "technicalNoteJa": "水反応可燃性ガス＝炎マーク対象"
+      },
+      "sourcePage": 110,
+      "sourceAnchor": "p110 水反応可燃性ガス＝炎マーク対象",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0347",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The flame-over-circle pictogram indicates substances that make other materials burn more easily.",
+        "ja": "<ruby>炎<rt>ほのお</rt></ruby>に<ruby>丸<rt>まる</rt></ruby>のマークは、<ruby>他<rt>ほか</rt></ruby>の<ruby>物質<rt>ぶっしつ</rt></ruby>を<ruby>燃<rt>も</rt></ruby>えやすくします。"
+      },
+      "statement": "<ruby>炎<rt>ほのお</rt></ruby>に<ruby>丸<rt>まる</rt></ruby>のマークは、<ruby>他<rt>ほか</rt></ruby>の<ruby>物質<rt>ぶっしつ</rt></ruby>を<ruby>燃<rt>も</rt></ruby>えやすくします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The flame-over-circle pictogram indicates substances that make other materials burn more easily.",
+        "si": "වෘත්තයක් මත ගිනි දැල්ල සලකුණ වෙනත් ද්‍රව්‍ය පහසුවෙන් ගිනිගැනීමට හේතු වන ද්‍රව්‍ය දක්වයි.",
+        "technicalNoteJa": "炎に丸＝酸化性"
+      },
+      "sourcePage": 110,
+      "sourceAnchor": "p110 炎に丸＝酸化性",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0348",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The gas-cylinder pictogram indicates gas under high pressure.",
+        "ja": "ガスボンベのマークは、<ruby>高圧<rt>こうあつ</rt></ruby>ガスを<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "ガスボンベのマークは、<ruby>高圧<rt>こうあつ</rt></ruby>ガスを<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The gas-cylinder pictogram indicates gas under high pressure.",
+        "si": "ගෑස් සිලින්ඩර සලකුණ අධි පීඩන වායු දක්වයි.",
+        "technicalNoteJa": "ガスボンベ＝高圧ガス"
+      },
+      "sourcePage": 110,
+      "sourceAnchor": "p110 ガスボンベ＝高圧ガス",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0349",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The exclamation-mark pictogram can indicate skin or eye irritation.",
+        "ja": "びっくりマークは、<ruby>皮膚<rt>ひふ</rt></ruby>や<ruby>目<rt>め</rt></ruby>への<ruby>刺激<rt>しげき</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すことがあります。"
+      },
+      "statement": "びっくりマークは、<ruby>皮膚<rt>ひふ</rt></ruby>や<ruby>目<rt>め</rt></ruby>への<ruby>刺激<rt>しげき</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すことがあります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The exclamation-mark pictogram can indicate skin or eye irritation.",
+        "si": "විශ්මයාර්ථ සලකුණ සමේ හෝ ඇස්වල උද්දීපනය දක්විය හැක.",
+        "technicalNoteJa": "感嘆符＝皮膚・眼刺激等"
+      },
+      "sourcePage": 111,
+      "sourceAnchor": "p111 感嘆符＝皮膚・眼刺激等",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0350",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The skull pictogram indicates substances with high acute toxicity.",
+        "ja": "ドクロマークは、<ruby>急性毒性<rt>きゅうせいどくせい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>物質<rt>ぶっしつ</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "ドクロマークは、<ruby>急性毒性<rt>きゅうせいどくせい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>物質<rt>ぶっしつ</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The skull pictogram indicates substances with high acute toxicity.",
+        "si": "හිස් කබල සලකුණ ඉහළ තීව්‍ර විෂතාවක් ඇති ද්‍රව්‍ය දක්වයි.",
+        "technicalNoteJa": "ドクロ＝急性毒性"
+      },
+      "sourcePage": 111,
+      "sourceAnchor": "p111 ドクロ＝急性毒性",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0351",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Substances bearing the skull pictogram are safe to inhale.",
+        "ja": "ドクロマークのある<ruby>物質<rt>ぶっしつ</rt></ruby>は、<ruby>吸入<rt>きゅうにゅう</rt></ruby>しても<ruby>安全<rt>あんぜん</rt></ruby>です。"
+      },
+      "statement": "ドクロマークのある<ruby>物質<rt>ぶっしつ</rt></ruby>は、<ruby>吸入<rt>きゅうにゅう</rt></ruby>しても<ruby>安全<rt>あんぜん</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Substances bearing the skull pictogram are safe to inhale.",
+        "si": "හිස් කබල සලකුණ ඇති ද්‍රව්‍ය ආශ්වාස කිරීම ආරක්ෂිතය යන්න වැරදිය.",
+        "technicalNoteJa": "急性毒性物質＝吸入を避ける"
+      },
+      "sourcePage": 111,
+      "sourceAnchor": "p111 急性毒性物質＝吸入を避ける",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0352",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The corrosion pictogram indicates hazards that damage metals or skin.",
+        "ja": "<ruby>腐食<rt>ふしょく</rt></ruby>マークは、<ruby>金属<rt>きんぞく</rt></ruby>や<ruby>皮膚<rt>ひふ</rt></ruby>への<ruby>損傷<rt>そんしょう</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>腐食<rt>ふしょく</rt></ruby>マークは、<ruby>金属<rt>きんぞく</rt></ruby>や<ruby>皮膚<rt>ひふ</rt></ruby>への<ruby>損傷<rt>そんしょう</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The corrosion pictogram indicates hazards that damage metals or skin.",
+        "si": "විඛාදන සලකුණ ලෝහ හෝ සමට හානි කරන අවදානම් දක්වයි.",
+        "technicalNoteJa": "腐食＝金属腐食・皮膚腐食"
+      },
+      "sourcePage": 111,
+      "sourceAnchor": "p111 腐食＝金属腐食・皮膚腐食",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0353",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The environment pictogram indicates harm to aquatic organisms.",
+        "ja": "<ruby>環境<rt>かんきょう</rt></ruby>マークは、<ruby>水生生物<rt>すいせいせいぶつ</rt></ruby>への<ruby>害<rt>がい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>環境<rt>かんきょう</rt></ruby>マークは、<ruby>水生生物<rt>すいせいせいぶつ</rt></ruby>への<ruby>害<rt>がい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The environment pictogram indicates harm to aquatic organisms.",
+        "si": "පරිසර සලකුණ ජලජ ජීවීන්ට වන හානිය දක්වයි.",
+        "technicalNoteJa": "環境マーク＝水生生物への有害性"
+      },
+      "sourcePage": 112,
+      "sourceAnchor": "p112 環境マーク＝水生生物への有害性",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0354",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "It is acceptable to release environmentally hazardous substances into rivers or the sea.",
+        "ja": "<ruby>環境有害物質<rt>かんきょうゆうがいぶっしつ</rt></ruby>を<ruby>川<rt>かわ</rt></ruby>や<ruby>海<rt>うみ</rt></ruby>に<ruby>流<rt>なが</rt></ruby>してもよいです。"
+      },
+      "statement": "<ruby>環境有害物質<rt>かんきょうゆうがいぶっしつ</rt></ruby>を<ruby>川<rt>かわ</rt></ruby>や<ruby>海<rt>うみ</rt></ruby>に<ruby>流<rt>なが</rt></ruby>してもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "It is acceptable to release environmentally hazardous substances into rivers or the sea.",
+        "si": "පරිසරයට හානිකර ද්‍රව්‍ය ගංගා හෝ මුහුදට මුදා හැරීම සුදුසුය යන්න වැරදිය.",
+        "technicalNoteJa": "環境有害物質＝河川・海へ流さない"
+      },
+      "sourcePage": 112,
+      "sourceAnchor": "p112 環境有害物質＝河川・海へ流さない",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0355",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The health-hazard pictogram can indicate effects from long-term exposure.",
+        "ja": "<ruby>健康被害<rt>けんこうひがい</rt></ruby>マークは、<ruby>長期<rt>ちょうき</rt></ruby>ばく<ruby>露<rt>ろ</rt></ruby>による<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すことがあります。"
+      },
+      "statement": "<ruby>健康被害<rt>けんこうひがい</rt></ruby>マークは、<ruby>長期<rt>ちょうき</rt></ruby>ばく<ruby>露<rt>ろ</rt></ruby>による<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すことがあります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The health-hazard pictogram can indicate effects from long-term exposure.",
+        "si": "සෞඛ්‍ය අවදානම් සලකුණ දිගුකාලීන නිරාවරණයෙන් ඇතිවන බලපෑම් දක්විය හැක.",
+        "technicalNoteJa": "健康有害性＝長期ばく露の影響"
+      },
+      "sourcePage": 112,
+      "sourceAnchor": "p112 健康有害性＝長期ばく露の影響",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0356",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The GHS environment pictogram indicates only food quality.",
+        "ja": "GHSの<ruby>環境<rt>かんきょう</rt></ruby>マークは、<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>品質<rt>ひんしつ</rt></ruby>だけを<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "GHSの<ruby>環境<rt>かんきょう</rt></ruby>マークは、<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>品質<rt>ひんしつ</rt></ruby>だけを<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The GHS environment pictogram indicates only food quality.",
+        "si": "GHS පරිසර සලකුණ ආහාර ගුණාත්මකභාවය පමණක් දක්වයි යන්න වැරදිය.",
+        "technicalNoteJa": "環境マーク＝水生環境への危険"
+      },
+      "sourcePage": 112,
+      "sourceAnchor": "p112 環境マーク＝水生環境への危険",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0357",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "GHS labels contain different pictograms for different hazards.",
+        "ja": "GHSラベルには、<ruby>異<rt>こと</rt></ruby>なる<ruby>危険有害性<rt>きけんゆうがいせい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>複数<rt>ふくすう</rt></ruby>のマークがあります。"
+      },
+      "statement": "GHSラベルには、<ruby>異<rt>こと</rt></ruby>なる<ruby>危険有害性<rt>きけんゆうがいせい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>複数<rt>ふくすう</rt></ruby>のマークがあります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "GHS labels contain different pictograms for different hazards.",
+        "si": "GHS ලේබල්වල විවිධ අවදානම් සඳහා වෙන වෙනම සලකුණු ඇත.",
+        "technicalNoteJa": "GHSピクトグラム＝危険有害性の分類"
+      },
+      "sourcePage": 113,
+      "sourceAnchor": "p113 GHSピクトグラム＝危険有害性の分類",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0358",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The skull and environment pictograms indicate the same hazard.",
+        "ja": "ドクロマークと<ruby>環境<rt>かんきょう</rt></ruby>マークは、<ruby>同<rt>おな</rt></ruby>じ<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "ドクロマークと<ruby>環境<rt>かんきょう</rt></ruby>マークは、<ruby>同<rt>おな</rt></ruby>じ<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The skull and environment pictograms indicate the same hazard.",
+        "si": "හිස් කබල සහ පරිසර සලකුණු එකම අවදානම දක්වයි යන්න වැරදිය.",
+        "technicalNoteJa": "ドクロ＝急性毒性、環境＝水生生物への有害性"
+      },
+      "sourcePage": 113,
+      "sourceAnchor": "p113 ドクロ＝急性毒性、環境＝水生生物への有害性",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0359",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The exploding-bomb pictogram indicates an explosion hazard.",
+        "ja": "<ruby>爆発<rt>ばくはつ</rt></ruby>マークは、<ruby>爆発<rt>ばくはつ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>爆発<rt>ばくはつ</rt></ruby>マークは、<ruby>爆発<rt>ばくはつ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The exploding-bomb pictogram indicates an explosion hazard.",
+        "si": "පුපුරන බෝම්බ සලකුණ පිපිරීමේ අවදානම දක්වයි.",
+        "technicalNoteJa": "爆発マーク＝爆発危険"
+      },
+      "sourcePage": 113,
+      "sourceAnchor": "p113 爆発マーク＝爆発危険",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0360",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The oxidizer pictogram indicates a hazard that can intensify the burning of other substances.",
+        "ja": "<ruby>酸化性<rt>さんかせい</rt></ruby>マークは、<ruby>他<rt>ほか</rt></ruby>の<ruby>物質<rt>ぶっしつ</rt></ruby>の<ruby>燃焼<rt>ねんしょう</rt></ruby>を<ruby>助<rt>たす</rt></ruby>ける<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
+      },
+      "statement": "<ruby>酸化性<rt>さんかせい</rt></ruby>マークは、<ruby>他<rt>ほか</rt></ruby>の<ruby>物質<rt>ぶっしつ</rt></ruby>の<ruby>燃焼<rt>ねんしょう</rt></ruby>を<ruby>助<rt>たす</rt></ruby>ける<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The oxidizer pictogram indicates a hazard that can intensify the burning of other substances.",
+        "si": "ඔක්සිකාරක සලකුණ වෙනත් ද්‍රව්‍ය ගිනිගැනීම වැඩි කරන අවදානම දක්වයි.",
+        "technicalNoteJa": "酸化性＝他の物質の燃焼を助ける"
+      },
+      "sourcePage": 113,
+      "sourceAnchor": "p113 酸化性＝他の物質の燃焼を助ける",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0361",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A forklift with a maximum load capacity of 1 tonne or more requires completion of the skills training course.",
+        "ja": "<ruby>最大荷重<rt>さいだいかじゅう</rt></ruby>1トン<ruby>以上<rt>いじょう</rt></ruby>のフォークリフトは、<ruby>技能講習<rt>ぎのうこうしゅう</rt></ruby>を<ruby>修了<rt>しゅうりょう</rt></ruby>します。"
+      },
+      "statement": "<ruby>最大荷重<rt>さいだいかじゅう</rt></ruby>1トン<ruby>以上<rt>いじょう</rt></ruby>のフォークリフトは、<ruby>技能講習<rt>ぎのうこうしゅう</rt></ruby>を<ruby>修了<rt>しゅうりょう</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A forklift with a maximum load capacity of 1 tonne or more requires completion of the skills training course.",
+        "si": "උපරිම බර ටොන් 1ක් හෝ ඊට වැඩි forklift සඳහා කුසලතා පුහුණුව සම්පූර්ණ කළ යුතුය.",
+        "technicalNoteJa": "最大荷重1t以上＝技能講習修了"
+      },
+      "sourcePage": 114,
+      "sourceAnchor": "p114 最大荷重1t以上＝技能講習修了",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0362",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A forklift with a maximum load capacity below 1 tonne requires no training.",
+        "ja": "<ruby>最大荷重<rt>さいだいかじゅう</rt></ruby>1トン<ruby>未満<rt>みまん</rt></ruby>のフォークリフトは、<ruby>教育<rt>きょういく</rt></ruby>が<ruby>不要<rt>ふよう</rt></ruby>です。"
+      },
+      "statement": "<ruby>最大荷重<rt>さいだいかじゅう</rt></ruby>1トン<ruby>未満<rt>みまん</rt></ruby>のフォークリフトは、<ruby>教育<rt>きょういく</rt></ruby>が<ruby>不要<rt>ふよう</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A forklift with a maximum load capacity below 1 tonne requires no training.",
+        "si": "උපරිම බර ටොන් 1ට අඩු forklift සඳහා පුහුණුවක් අවශ්‍ය නැත යන්න වැරදිය.",
+        "technicalNoteJa": "1t未満＝フォークリフト運転特別教育"
+      },
+      "sourcePage": 114,
+      "sourceAnchor": "p114 1t未満＝フォークリフト運転特別教育",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0363",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Carry the required qualification certificate while operating a forklift.",
+        "ja": "フォークリフトの<ruby>運転中<rt>うんてんちゅう</rt></ruby>は、<ruby>資格証明書<rt>しかくしょうめいしょ</rt></ruby>を<ruby>携帯<rt>けいたい</rt></ruby>します。"
+      },
+      "statement": "フォークリフトの<ruby>運転中<rt>うんてんちゅう</rt></ruby>は、<ruby>資格証明書<rt>しかくしょうめいしょ</rt></ruby>を<ruby>携帯<rt>けいたい</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Carry the required qualification certificate while operating a forklift.",
+        "si": "forklift ධාවනය කරන විට අවශ්‍ය සුදුසුකම් සහතිකය ළඟ තබාගන්න.",
+        "technicalNoteJa": "運転時＝資格証明書を携帯"
+      },
+      "sourcePage": 114,
+      "sourceAnchor": "p114 運転時＝資格証明書を携帯",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0364",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Before starting work, check engine oil, coolant and battery fluid.",
+        "ja": "<ruby>始業前<rt>しぎょうまえ</rt></ruby>に、エンジンオイル・<ruby>冷却水<rt>れいきゃくすい</rt></ruby>・バッテリー<ruby>液<rt>えき</rt></ruby>を<ruby>点検<rt>てんけん</rt></ruby>します。"
+      },
+      "statement": "<ruby>始業前<rt>しぎょうまえ</rt></ruby>に、エンジンオイル・<ruby>冷却水<rt>れいきゃくすい</rt></ruby>・バッテリー<ruby>液<rt>えき</rt></ruby>を<ruby>点検<rt>てんけん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Before starting work, check engine oil, coolant and battery fluid.",
+        "si": "වැඩ ආරම්භයට පෙර එන්ජින් ඔයිල්, සිසිලන දියර සහ බැටරි දියර පරීක්ෂා කරන්න.",
+        "technicalNoteJa": "始業前点検＝油脂・水・バッテリー液"
+      },
+      "sourcePage": 114,
+      "sourceAnchor": "p114 始業前点検＝油脂・水・バッテリー液",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0365",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Install the head guard that protects the forklift operator.",
+        "ja": "フォークリフトには、<ruby>運転者<rt>うんてんしゃ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るヘッドガードを<ruby>取<rt>と</rt></ruby>り<ruby>付<rt>つ</rt></ruby>けます。"
+      },
+      "statement": "フォークリフトには、<ruby>運転者<rt>うんてんしゃ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るヘッドガードを<ruby>取<rt>と</rt></ruby>り<ruby>付<rt>つ</rt></ruby>けます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Install the head guard that protects the forklift operator.",
+        "si": "forklift රියදුරා ආරක්ෂා කරන head guard එක සවි කරන්න.",
+        "technicalNoteJa": "ヘッドガード＝運転者保護"
+      },
+      "sourcePage": 115,
+      "sourceAnchor": "p115 ヘッドガード＝運転者保護",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0366",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "It is acceptable to load cargo exceeding the forklift rated capacity.",
+        "ja": "フォークリフトの<ruby>定格荷重<rt>ていかくかじゅう</rt></ruby>を<ruby>超<rt>こ</rt></ruby>える<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>んでもよいです。"
+      },
+      "statement": "フォークリフトの<ruby>定格荷重<rt>ていかくかじゅう</rt></ruby>を<ruby>超<rt>こ</rt></ruby>える<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>んでもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "It is acceptable to load cargo exceeding the forklift rated capacity.",
+        "si": "forklift හි නියමිත බර ධාරිතාව ඉක්මවා භාණ්ඩ පැටවීම සුදුසුය යන්න වැරදිය.",
+        "technicalNoteJa": "定格荷重を超える積載は禁止"
+      },
+      "sourcePage": 115,
+      "sourceAnchor": "p115 定格荷重を超える積載は禁止",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0367",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Do not carry people anywhere other than the operator seat.",
+        "ja": "フォークリフトで、<ruby>運転席<rt>うんてんせき</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せてはいけません。"
+      },
+      "statement": "フォークリフトで、<ruby>運転席<rt>うんてんせき</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せてはいけません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Do not carry people anywhere other than the operator seat.",
+        "si": "forklift එකේ රියදුරු අසුන හැර වෙනත් ස්ථානයක පුද්ගලයන් රැගෙන නොයන්න.",
+        "technicalNoteJa": "同乗者＝運転席以外に乗せない"
+      },
+      "sourcePage": 115,
+      "sourceAnchor": "p115 同乗者＝運転席以外に乗せない",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0368",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Sudden acceleration and turning are safe while driving a forklift.",
+        "ja": "フォークリフトの<ruby>走行中<rt>そうこうちゅう</rt></ruby>に、<ruby>急発進<rt>きゅうはっしん</rt></ruby>や<ruby>急旋回<rt>きゅうせんかい</rt></ruby>をしても<ruby>安全<rt>あんぜん</rt></ruby>です。"
+      },
+      "statement": "フォークリフトの<ruby>走行中<rt>そうこうちゅう</rt></ruby>に、<ruby>急発進<rt>きゅうはっしん</rt></ruby>や<ruby>急旋回<rt>きゅうせんかい</rt></ruby>をしても<ruby>安全<rt>あんぜん</rt></ruby>です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Sudden acceleration and turning are safe while driving a forklift.",
+        "si": "forklift ධාවනයේදී හදිසියේ වේගය වැඩි කිරීම සහ හැරවීම ආරක්ෂිතය යන්න වැරදිය.",
+        "technicalNoteJa": "急操作＝荷崩れ・転倒リスク"
+      },
+      "sourcePage": 115,
+      "sourceAnchor": "p115 急操作＝荷崩れ・転倒リスク",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0369",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "When travelling with a pallet, keep the forks 15–20 cm above the ground.",
+        "ja": "パレットを<ruby>運<rt>はこ</rt></ruby>ぶとき、フォークは<ruby>地面<rt>じめん</rt></ruby>から15～20cmの<ruby>高<rt>たか</rt></ruby>さにします。"
+      },
+      "statement": "パレットを<ruby>運<rt>はこ</rt></ruby>ぶとき、フォークは<ruby>地面<rt>じめん</rt></ruby>から15～20cmの<ruby>高<rt>たか</rt></ruby>さにします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "When travelling with a pallet, keep the forks 15–20 cm above the ground.",
+        "si": "pallet එකක් රැගෙන යන විට forks බිමෙන් සෙන්ටිමීටර් 15–20ක් ඉහළින් තබන්න.",
+        "technicalNoteJa": "走行時のフォーク高さ＝地面から15～20cm"
+      },
+      "sourcePage": 116,
+      "sourceAnchor": "p116 走行時のフォーク高さ＝地面から15～20cm",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0370",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Continue travelling forward even when the load blocks forward visibility.",
+        "ja": "<ruby>荷物<rt>にもつ</rt></ruby>で<ruby>前<rt>まえ</rt></ruby>が<ruby>見<rt>み</rt></ruby>えなくても、<ruby>前進<rt>ぜんしん</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けます。"
+      },
+      "statement": "<ruby>荷物<rt>にもつ</rt></ruby>で<ruby>前<rt>まえ</rt></ruby>が<ruby>見<rt>み</rt></ruby>えなくても、<ruby>前進<rt>ぜんしん</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Continue travelling forward even when the load blocks forward visibility.",
+        "si": "භාණ්ඩය නිසා ඉදිරිය නොපෙනුණත් ඉදිරියටම යන්න යන්න වැරදිය.",
+        "technicalNoteJa": "前方視界不良＝後進または誘導者"
+      },
+      "sourcePage": 116,
+      "sourceAnchor": "p116 前方視界不良＝後進または誘導者",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0371",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Check front, rear, left and right before moving a forklift.",
+        "ja": "フォークリフトで<ruby>走行<rt>そうこう</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>前後左右<rt>ぜんごさゆう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "フォークリフトで<ruby>走行<rt>そうこう</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>前後左右<rt>ぜんごさゆう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Check front, rear, left and right before moving a forklift.",
+        "si": "forklift එක ගමන් කිරීමට පෙර ඉදිරිය, පිටුපස, වම සහ දකුණ පරීක්ෂා කරන්න.",
+        "technicalNoteJa": "走行前＝前後左右確認"
+      },
+      "sourcePage": 116,
+      "sourceAnchor": "p116 走行前＝前後左右確認",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0372",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Follow warehouse speed limits and STOP signs.",
+        "ja": "<ruby>倉庫内<rt>そうこない</rt></ruby>の<ruby>制限速度<rt>せいげんそくど</rt></ruby>や「<ruby>止<rt>と</rt></ruby>まれ」の<ruby>標識<rt>ひょうしき</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ります。"
+      },
+      "statement": "<ruby>倉庫内<rt>そうこない</rt></ruby>の<ruby>制限速度<rt>せいげんそくど</rt></ruby>や「<ruby>止<rt>と</rt></ruby>まれ」の<ruby>標識<rt>ひょうしき</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Follow warehouse speed limits and STOP signs.",
+        "si": "ගබඩාවේ වේග සීමා සහ STOP සලකුණු පිළිපදින්න.",
+        "technicalNoteJa": "制限速度・止まれ標識を遵守"
+      },
+      "sourcePage": 116,
+      "sourceAnchor": "p116 制限速度・止まれ標識を遵守",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0373",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Stop in front of the load and set the mast vertical.",
+        "ja": "<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>一旦停止<rt>いったんていし</rt></ruby>し、マストを<ruby>垂直<rt>すいちょく</rt></ruby>にします。"
+      },
+      "statement": "<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>一旦停止<rt>いったんていし</rt></ruby>し、マストを<ruby>垂直<rt>すいちょく</rt></ruby>にします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Stop in front of the load and set the mast vertical.",
+        "si": "භාණ්ඩය ඉදිරිපිට නවතා mast එක සිරස්ව තබන්න.",
+        "technicalNoteJa": "荷役開始＝停止・マスト垂直"
+      },
+      "sourcePage": 117,
+      "sourceAnchor": "p117 荷役開始＝停止・マスト垂直",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0374",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Insert the forks diagonally into the load.",
+        "ja": "フォークは<ruby>貨物<rt>かもつ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>斜<rt>なな</rt></ruby>めに<ruby>差<rt>さ</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みます。"
+      },
+      "statement": "フォークは<ruby>貨物<rt>かもつ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>斜<rt>なな</rt></ruby>めに<ruby>差<rt>さ</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Insert the forks diagonally into the load.",
+        "si": "forks භාණ්ඩයට ඇලව ඇතුළු කරන්න යන්න වැරදිය.",
+        "technicalNoteJa": "フォークは貨物に真っ直ぐ合わせる"
+      },
+      "sourcePage": 117,
+      "sourceAnchor": "p117 フォークは貨物に真っ直ぐ合わせる",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0375",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Lift the load 5–10 cm, draw it 10–20 cm toward you and lower it before fully reinserting the forks.",
+        "ja": "<ruby>荷物<rt>にもつ</rt></ruby>を5～10cm<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ、10～20cm<ruby>手前<rt>てまえ</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>いてから<ruby>下<rt>お</rt></ruby>ろします。"
+      },
+      "statement": "<ruby>荷物<rt>にもつ</rt></ruby>を5～10cm<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ、10～20cm<ruby>手前<rt>てまえ</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>いてから<ruby>下<rt>お</rt></ruby>ろします。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Lift the load 5–10 cm, draw it 10–20 cm toward you and lower it before fully reinserting the forks.",
+        "si": "භාණ්ඩය සෙ.මී. 5–10ක් ඔසවා සෙ.මී. 10–20ක් තමන් දෙසට ඇද පහත් කර පසුව forks සම්පූර්ණයෙන් ඇතුළු කරන්න.",
+        "technicalNoteJa": "荷役手順＝5～10cm上げ、10～20cm引く"
+      },
+      "sourcePage": 117,
+      "sourceAnchor": "p117 荷役手順＝5～10cm上げ、10～20cm引く",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0376",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Before retrieving a high-level pallet, check nearby people and cargo.",
+        "ja": "<ruby>高所<rt>こうしょ</rt></ruby>のパレットを<ruby>取<rt>と</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>や<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>高所<rt>こうしょ</rt></ruby>のパレットを<ruby>取<rt>と</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>や<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Before retrieving a high-level pallet, check nearby people and cargo.",
+        "si": "ඉහළ ස්ථානයක ඇති pallet එකක් ගැනීමට පෙර අවට පුද්ගලයන් සහ භාණ්ඩ පරීක්ෂා කරන්න.",
+        "technicalNoteJa": "高所荷役前＝周囲確認"
+      },
+      "sourcePage": 117,
+      "sourceAnchor": "p117 高所荷役前＝周囲確認",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0377",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Use equipment suited to the cargo shape and weight.",
+        "ja": "<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>重<rt>おも</rt></ruby>さに<ruby>合<rt>あ</rt></ruby>った<ruby>設備<rt>せつび</rt></ruby>・<ruby>機器<rt>きき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>重<rt>おも</rt></ruby>さに<ruby>合<rt>あ</rt></ruby>った<ruby>設備<rt>せつび</rt></ruby>・<ruby>機器<rt>きき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Use equipment suited to the cargo shape and weight.",
+        "si": "භාණ්ඩයේ හැඩයට සහ බරට ගැළපෙන උපකරණ භාවිත කරන්න.",
+        "technicalNoteJa": "荷姿・重量に適合する機器を選定"
+      },
+      "sourcePage": 118,
+      "sourceAnchor": "p118 荷姿・重量に適合する機器を選定",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0378",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A long load can always be transported safely using one forklift.",
+        "ja": "<ruby>長<rt>なが</rt></ruby>い<ruby>貨物<rt>かもつ</rt></ruby>は、いつでも1<ruby>台<rt>だい</rt></ruby>のフォークリフトで<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>べます。"
+      },
+      "statement": "<ruby>長<rt>なが</rt></ruby>い<ruby>貨物<rt>かもつ</rt></ruby>は、いつでも1<ruby>台<rt>だい</rt></ruby>のフォークリフトで<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>べます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A long load can always be transported safely using one forklift.",
+        "si": "දිගු භාණ්ඩයක් සෑමවිටම එක් forklift එකකින් ආරක්ෂිතව ගෙන යා හැකිය යන්න වැරදිය.",
+        "technicalNoteJa": "長尺物＝追加フォークリフト等の安全策"
+      },
+      "sourcePage": 118,
+      "sourceAnchor": "p118 長尺物＝追加フォークリフト等の安全策",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0379",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "During unloading, keep the truck driver where they can escape if cargo falls.",
+        "ja": "<ruby>荷降<rt>にお</rt></ruby>ろしのとき、トラック<ruby>運転手<rt>うんてんしゅ</rt></ruby>は<ruby>貨物<rt>かもつ</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れても<ruby>逃<rt>に</rt></ruby>げられる<ruby>位置<rt>いち</rt></ruby>にいます。"
+      },
+      "statement": "<ruby>荷降<rt>にお</rt></ruby>ろしのとき、トラック<ruby>運転手<rt>うんてんしゅ</rt></ruby>は<ruby>貨物<rt>かもつ</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れても<ruby>逃<rt>に</rt></ruby>げられる<ruby>位置<rt>いち</rt></ruby>にいます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "During unloading, keep the truck driver where they can escape if cargo falls.",
+        "si": "බෑමේදී භාණ්ඩය වැටුණහොත් ට්‍රක් රියදුරුට ඉවත්විය හැකි ස්ථානයක සිටින බව තහවුරු කරන්න.",
+        "technicalNoteJa": "荷降ろし時＝運転手の退避位置確保"
+      },
+      "sourcePage": 118,
+      "sourceAnchor": "p118 荷降ろし時＝運転手の退避位置確保",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0380",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Do not stack cargo beyond the floor load capacity.",
+        "ja": "<ruby>床<rt>ゆか</rt></ruby>の<ruby>耐荷重<rt>たいかじゅう</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えて<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>んではいけません。"
+      },
+      "statement": "<ruby>床<rt>ゆか</rt></ruby>の<ruby>耐荷重<rt>たいかじゅう</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えて<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>積<rt>つ</rt></ruby>んではいけません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Do not stack cargo beyond the floor load capacity.",
+        "si": "බිමට දරාගත හැකි උපරිම බර ඉක්මවා භාණ්ඩ ගොඩ නොගසන්න.",
+        "technicalNoteJa": "床の耐荷重を遵守"
+      },
+      "sourcePage": 118,
+      "sourceAnchor": "p118 床の耐荷重を遵守",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
