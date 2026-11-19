@@ -10353,9 +10353,9 @@
       "examType": "written_true_false",
       "questionText": {
         "en": "A vertical automatic conveyor starts operating automatically when goods are loaded onto it by a forklift.",
-        "ja": "垂直自動搬送機は、フォークリフトで貨物を載せると自動的に動き始めます。"
+        "ja": "<ruby>垂直自動搬送機<rt>すいちょくじどうはんそうき</rt></ruby>は、フォークリフトで<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せると<ruby>自動的<rt>じどうてき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めます。"
       },
-      "statement": "垂直自動搬送機は、フォークリフトで貨物を載せると自動的に動き始めます。",
+      "statement": "<ruby>垂直自動搬送機<rt>すいちょくじどうはんそうき</rt></ruby>は、フォークリフトで<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せると<ruby>自動的<rt>じどうてき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めます。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source says loading goods with a forklift starts the vertical automatic conveyor automatically.",
@@ -10373,9 +10373,9 @@
       "examType": "written_true_false",
       "questionText": {
         "en": "For a picking forklift handling a load of less than one tonne, the source requires completion of special education.",
-        "ja": "ピッキングフォークリフトで１トン未満の貨物を扱う場合、特別教育の受講が必要です。"
+        "ja": "ピッキングフォークリフトで１トン<ruby>未満<rt>みまん</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>扱<rt>あつか</rt></ruby>う<ruby>場合<rt>ばあい</rt></ruby>、<ruby>特別教育<rt>とくべつきょういく</rt></ruby>の<ruby>受講<rt>じゅこう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
       },
-      "statement": "ピッキングフォークリフトで１トン未満の貨物を扱う場合、特別教育の受講が必要です。",
+      "statement": "ピッキングフォークリフトで１トン<ruby>未満<rt>みまん</rt></ruby>の<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>扱<rt>あつか</rt></ruby>う<ruby>場合<rt>ばあい</rt></ruby>、<ruby>特別教育<rt>とくべつきょういく</rt></ruby>の<ruby>受講<rt>じゅこう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source distinguishes the training requirement by load: under one tonne requires special education; one tonne or more requires completion of the operator skills course.",
@@ -10393,9 +10393,9 @@
       "examType": "written_true_false",
       "questionText": {
         "en": "When a picking forklift is used at a working height below ten metres, the source requires completion of special education.",
-        "ja": "ピッキングフォークリフトで高さ１０メートル未満の場所で作業するときは、特別教育の修了が必要です。"
+        "ja": "ピッキングフォークリフトで<ruby>高<rt>たか</rt></ruby>さ１０メートル<ruby>未満<rt>みまん</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>するときは、<ruby>特別教育<rt>とくべつきょういく</rt></ruby>の<ruby>修了<rt>しゅうりょう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。"
       },
-      "statement": "ピッキングフォークリフトで高さ１０メートル未満の場所で作業するときは、特別教育の修了が必要です。",
+      "statement": "ピッキングフォークリフトで<ruby>高<rt>たか</rt></ruby>さ１０メートル<ruby>未満<rt>みまん</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>するときは、<ruby>特別教育<rt>とくべつきょういく</rt></ruby>の<ruby>修了<rt>しゅうりょう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source separately specifies special education for work at heights below ten metres.",
@@ -10413,9 +10413,9 @@
       "examType": "written_true_false",
       "questionText": {
         "en": "A hanger trolley transports garments while they remain hanging on hangers.",
-        "ja": "ハンガー台車は、衣類をハンガーに掛けたまま運びます。"
+        "ja": "ハンガー<ruby>台車<rt>だいしゃ</rt></ruby>は、<ruby>衣類<rt>いるい</rt></ruby>をハンガーに<ruby>掛<rt>か</rt></ruby>けたまま<ruby>運<rt>はこ</rt></ruby>びます。"
       },
-      "statement": "ハンガー台車は、衣類をハンガーに掛けたまま運びます。",
+      "statement": "ハンガー<ruby>台車<rt>だいしゃ</rt></ruby>は、<ruby>衣類<rt>いるい</rt></ruby>をハンガーに<ruby>掛<rt>か</rt></ruby>けたまま<ruby>運<rt>はこ</rt></ruby>びます。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source describes the hanger trolley as transporting garments in their hanging condition; it is also called a Z-rack.",
@@ -10433,9 +10433,9 @@
       "examType": "written_true_false",
       "questionText": {
         "en": "An AGF is a forklift-type robot that can transport pallets or containers without a person operating it.",
-        "ja": "AGFは、人が操作しなくてもパレットやコンテナを運ぶフォークリフト型のロボットです。"
+        "ja": "AGFは、<ruby>人<rt>ひと</rt></ruby>が<ruby>操作<rt>そうさ</rt></ruby>しなくてもパレットやコンテナを<ruby>運<rt>はこ</rt></ruby>ぶフォークリフト<ruby>型<rt>がた</rt></ruby>のロボットです。"
       },
-      "statement": "AGFは、人が操作しなくてもパレットやコンテナを運ぶフォークリフト型のロボットです。",
+      "statement": "AGFは、<ruby>人<rt>ひと</rt></ruby>が<ruby>操作<rt>そうさ</rt></ruby>しなくてもパレットやコンテナを<ruby>運<rt>はこ</rt></ruby>ぶフォークリフト<ruby>型<rt>がた</rt></ruby>のロボットです。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source defines AGF as an automated forklift robot that transports pallets or containers without human operation.",
@@ -10453,9 +10453,9 @@
       "examType": "written_true_false",
       "questionText": {
         "en": "A roller conveyor moves cargo as it rolls over rollers.",
-        "ja": "ローラーコンベアは、貨物がローラーの上を転がって進みます。"
+        "ja": "ローラーコンベアは、<ruby>貨物<rt>かもつ</rt></ruby>がローラーの<ruby>上<rt>うえ</rt></ruby>を<ruby>転<rt>ころ</rt></ruby>がって<ruby>進<rt>すす</rt></ruby>みます。"
       },
-      "statement": "ローラーコンベアは、貨物がローラーの上を転がって進みます。",
+      "statement": "ローラーコンベアは、<ruby>貨物<rt>かもつ</rt></ruby>がローラーの<ruby>上<rt>うえ</rt></ruby>を<ruby>転<rt>ころ</rt></ruby>がって<ruby>進<rt>すす</rt></ruby>みます。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source distinguishes roller conveyors from belt, chain and screw conveyors by the cargo moving over rollers.",
@@ -10473,9 +10473,9 @@
       "examType": "written_true_false",
       "questionText": {
         "en": "The qualification required for crane operation depends on the weight of the cargo being lifted.",
-        "ja": "クレーンの操作に必要な資格は、持ち上げる貨物の重さによって変わります。"
+        "ja": "クレーンの<ruby>操作<rt>そうさ</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>資格<rt>しかく</rt></ruby>は、<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さによって<ruby>変<rt>か</rt></ruby>わります。"
       },
-      "statement": "クレーンの操作に必要な資格は、持ち上げる貨物の重さによって変わります。",
+      "statement": "クレーンの<ruby>操作<rt>そうさ</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>資格<rt>しかく</rt></ruby>は、<ruby>持<rt>も</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さによって<ruby>変<rt>か</rt></ruby>わります。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source states that crane credentials vary according to the weight being lifted, and unqualified people must not operate cranes.",
@@ -10493,9 +10493,9 @@
       "examType": "written_true_false",
       "questionText": {
         "en": "The source states that no special qualification is required to use the packing, strapping and stretch-wrapping machines described on the page.",
-        "ja": "梱包機・結束機・ストレッチマシンを使うための特別な資格は不要です。"
+        "ja": "<ruby>梱包機<rt>こんぽうき</rt></ruby>・<ruby>結束機<rt>けっそくき</rt></ruby>・ストレッチマシンを<ruby>使<rt>つか</rt></ruby>うための<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>資格<rt>しかく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>です。"
       },
-      "statement": "梱包機・結束機・ストレッチマシンを使うための特別な資格は不要です。",
+      "statement": "<ruby>梱包機<rt>こんぽうき</rt></ruby>・<ruby>結束機<rt>けっそくき</rt></ruby>・ストレッチマシンを<ruby>使<rt>つか</rt></ruby>うための<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>資格<rt>しかく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>です。",
       "correctAnswer": true,
       "explanation": {
         "en": "The source explicitly says special qualifications are not required for these three packaging machines.",
