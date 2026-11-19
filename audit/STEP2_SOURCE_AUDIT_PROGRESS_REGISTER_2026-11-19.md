@@ -19,7 +19,7 @@ Master companion DOCX: `SSW_Warehouse_English_Sinhala_MASTER_INLINE_IMAGES_BULK1
 |---|---|---|
 | 9–20 | `audit/STUDY_NOTES_SOURCE_AUDIT_P09-20_2026-11-19.md` | Audited; findings recorded; first-25 QA continuing |
 | 21–32 | `audit/STUDY_NOTES_SOURCE_AUDIT_P21-32_2026-11-19.md` | Paragraph-only findings reconciled against DOCX tables for p21–26; do not duplicate existing tables |
-| 33–44 | `audit/STUDY_NOTES_SOURCE_AUDIT_P33-44_2026-11-19.md` | Audited; findings recorded |
+| 33–44 | `audit/STUDY_NOTES_SOURCE_AUDIT_P33-44_2026-11-19.md` | Broad range report exists; p34–43 ten-page re-audit now recorded below |
 | 45–56 | `audit/STUDY_NOTES_SOURCE_AUDIT_P45-56_2026-11-19.md` | Combined report claimed; verify GitHub path before relying on it |
 | 57–68 | `audit/STUDY_NOTES_SOURCE_AUDIT_P57-68_2026-11-19.md` | Combined report claimed; verify GitHub path before relying on it |
 | 69–80 | `audit/STUDY_NOTES_SOURCE_AUDIT_P69-80_2026-11-19.md` | Earlier detailed report recorded |
@@ -27,6 +27,15 @@ Master companion DOCX: `SSW_Warehouse_English_Sinhala_MASTER_INLINE_IMAGES_BULK1
 | 93–104 | `audit/STUDY_NOTES_SOURCE_AUDIT_P93-104_2026-11-19.md` | Earlier detailed report recorded |
 | 105–116 | `audit/STUDY_NOTES_SOURCE_AUDIT_P105-116_2026-11-19.md` | Earlier detailed report recorded |
 | 117–122 | `audit/STUDY_NOTES_SOURCE_AUDIT_P117-122_2026-11-19.md` | Final source batch audited |
+
+## Ten-page source audit continuation — p34–43
+Report: `audit/STUDY_NOTES_SOURCE_AUDIT_P34-43_2026-11-19.md`
+Commit: `f54512ba18c1db93ecd8b08a67c210e242c57781`
+- Audited exactly ten pages, p34–43, against source PDF and Study Notes paragraphs plus tables.
+- 8 pages covered; p37 and p43 partial.
+- p37: add page-anchored 1,000 kg = 1 tonne and 1.133 m³ = 1 tonne conversion basis alongside the storage-rate weight/volume rule.
+- p43: restore source odour-control decision table: depositor declaration before intake; advance discussion where warehouse odour may transfer; double packaging/packing improvements when aroma is a product feature; long-term aroma preservation is difficult.
+- No other missing content confirmed; no questions/app/UI changes.
 
 ## First 25 study pages update — LATEST QA WORKING BUILD
 Scope: printed pages 9–33.
@@ -89,7 +98,7 @@ Commit: `49e803d41d61cc48ed72b356e9fe947505af6d2a`
 1. Verify all prior report paths exist on this branch, especially combined p45–56 and p57–68 reports.
 2. Finish first-25 QA: compare all source text and tables on p9–33, proofread Sinhala/English/Japanese terms, visually inspect page placements and tables.
 3. Consolidate genuine Missing/Partial/Incorrect/duplicate/page-mapping findings into one correction master list.
-4. Continue only on page ranges that have not been reliably audited; do not repeat completed batches.
+4. Continue only on page ranges that have not been reliably audited; do not repeat completed batches. Use ten-page source-audit batches, and consult existing reports to avoid duplicate work.
 5. Only after full audit and user approval, apply remaining corrections to the Master DOCX in one controlled phase.
 6. Conduct Step 3 visual audit for remaining source pages, preserving original asset filenames.
 7. Verify final DOCX/PDF output before declaring complete.
