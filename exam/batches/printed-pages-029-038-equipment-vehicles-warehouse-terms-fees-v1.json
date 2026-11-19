@@ -1,0 +1,41 @@
+{
+  "batch_id": "printed-pages-029-038-equipment-vehicles-warehouse-terms-fees-v1",
+  "source_file": "specified_skilled_worker_textbook_202607(2).pdf",
+  "source_path": "data/part-01/lesson-04-pages-029-038.json",
+  "source_pages": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "added_question_ids": [
+    "MKF-WR-0509",
+    "MKF-WR-0510",
+    "MKF-WR-0511",
+    "MKF-WR-0512",
+    "MKF-WR-0513",
+    "MKF-WR-0514",
+    "MKF-WR-0515",
+    "MKF-WR-0516",
+    "MKF-WR-0517",
+    "MKF-WR-0518",
+    "MKF-WR-0519",
+    "MKF-WR-0520",
+    "MKF-WR-0521",
+    "MKF-WR-0522",
+    "MKF-WR-0523",
+    "MKF-WR-0524",
+    "MKF-WR-0525"
+  ],
+  "count": 17,
+  "question_type": "written_true_false",
+  "section": "warehouse_fundamentals",
+  "status": "DRAFT",
+  "notes": "Added only source-grounded, non-duplicate details from under-covered topics in printed pages 29–38. No practical/image items added because source image matching remains unverified. Existing questions and app files were not changed."
+}
