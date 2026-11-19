@@ -7846,6 +7846,406 @@
       "sourceAnchor": "p122 非常停止ボタンを設置",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0401",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Inbound work runs from receipt until goods are placed in storage.",
+        "ja": "入庫作業は、貨物を受け付けてから保管場所に格納するまでの作業です。"
+      },
+      "statement": "入庫作業は、貨物を受け付けてから保管場所に格納するまでの作業です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Inbound work runs from receipt until goods are placed in storage.",
+        "si": "භාණ්ඩ භාරගැනීමේ සිට ගබඩා ස්ථානයට තැන්පත් කිරීම දක්වා入庫作業 වේ。",
+        "technicalNoteJa": "入庫作業＝受付から格納まで"
+      },
+      "sourcePage": 64,
+      "sourceAnchor": "p64 入庫作業＝受付から格納まで",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0402",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Inbound preparation checks expected cargo and required handling equipment.",
+        "ja": "入庫準備では、到着予定貨物と必要な荷役機器を確認します。"
+      },
+      "statement": "入庫準備では、到着予定貨物と必要な荷役機器を確認します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Inbound preparation checks expected cargo and required handling equipment.",
+        "si": "Inbound සූදානමේදී පැමිණීමට නියමිත භාණ්ඩ සහ අවශ්‍ය උපකරණ පරීක්ෂා කරයි。",
+        "technicalNoteJa": "入庫準備＝貨物予定・荷役機器確認"
+      },
+      "sourcePage": 64,
+      "sourceAnchor": "p64 入庫準備＝貨物予定・荷役機器確認",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0403",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Do not force a container door that will not open.",
+        "ja": "コンテナの扉が開かない場合、力を入れて無理に開けます。"
+      },
+      "statement": "コンテナの扉が開かない場合、力を入れて無理に開けます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Do not force a container door that will not open.",
+        "si": "කන්ටේනර් දොර විවෘත නොවන්නේ නම් බලෙන් අරින්න එපා。",
+        "technicalNoteJa": "扉が開かない＝無理に開けない"
+      },
+      "sourcePage": 64,
+      "sourceAnchor": "p64 扉が開かない＝無理に開けない",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0404",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Inbound inspection compares actual cargo with the waybill and inbound instruction.",
+        "ja": "入庫検品では、実際の貨物と送り状・入庫指示書を照合します。"
+      },
+      "statement": "入庫検品では、実際の貨物と送り状・入庫指示書を照合します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Inbound inspection compares actual cargo with the waybill and inbound instruction.",
+        "si": "Inbound inspection කිරීමේදී සැබෑ භාණ්ඩ waybill සහ උපදෙස් පත්‍රය සමඟ සසඳයි。",
+        "technicalNoteJa": "入庫検品＝書類と実貨物の照合"
+      },
+      "sourcePage": 65,
+      "sourceAnchor": "p65 入庫検品＝書類と実貨物の照合",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0405",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Check product name, dimensions, LOT number, colour and quantity.",
+        "ja": "入庫検品では、品名・サイズ・LOT番号・色・数量などを確認します。"
+      },
+      "statement": "入庫検品では、品名・サイズ・LOT番号・色・数量などを確認します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Check product name, dimensions, LOT number, colour and quantity.",
+        "si": "භාණ්ඩ නම, ප්‍රමාණය, LOT අංකය, වර්ණය සහ ප්‍රමාණය පරීක්ෂා කරන්න。",
+        "technicalNoteJa": "検品項目＝品名・サイズ・LOT・色・数量"
+      },
+      "sourcePage": 65,
+      "sourceAnchor": "p65 検品項目＝品名・サイズ・LOT・色・数量",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0406",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Kuchiwari means one consignment arrives in separate partial deliveries.",
+        "ja": "口割れとは、同じ貨物が複数回に分かれて到着することです。"
+      },
+      "statement": "口割れとは、同じ貨物が複数回に分かれて到着することです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Kuchiwari means one consignment arrives in separate partial deliveries.",
+        "si": "එකම තොගය කොටස් වශයෙන් වාර කිහිපයකදී පැමිණීම 口割れ වේ。",
+        "technicalNoteJa": "口割れ＝分割到着"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "p66 口割れ＝分割到着",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0407",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "When quantity is short, check whether delivery is split.",
+        "ja": "数量が不足している場合は、口割れの可能性を確認します。"
+      },
+      "statement": "数量が不足している場合は、口割れの可能性を確認します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "When quantity is short, check whether delivery is split.",
+        "si": "ප්‍රමාණය අඩු නම් භාණ්ඩ කොටස් වශයෙන් පැමිණ තිබේදැයි බලන්න。",
+        "technicalNoteJa": "数量不足＝口割れ確認"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "p66 数量不足＝口割れ確認",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0408",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "LOT numbers may differ by factory or production date.",
+        "ja": "製造LOT番号は、製造工場や製造日が違っても必ず同じです。"
+      },
+      "statement": "製造LOT番号は、製造工場や製造日が違っても必ず同じです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "LOT numbers may differ by factory or production date.",
+        "si": "කර්මාන්තශාලාව හෝ නිෂ්පාදන දිනය වෙනස් නම් LOT අංකයද වෙනස් විය හැකිය。",
+        "technicalNoteJa": "製造場所・時期が違えばLOTも異なる"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "p66 製造場所・時期が違えばLOTも異なる",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0409",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A piece is the smallest individual packaging unit.",
+        "ja": "ピースは、包装・管理単位の中で最小の個装単位です。"
+      },
+      "statement": "ピースは、包装・管理単位の中で最小の個装単位です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A piece is the smallest individual packaging unit.",
+        "si": "Piece යනු ඇසුරුම් ඒකක අතර කුඩාම තනි ඒකකයයි。",
+        "technicalNoteJa": "ピース＝最小単位"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "p66 ピース＝最小単位",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0410",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Variable-weight cargo does not have a fixed weight per item.",
+        "ja": "不定貫貨物は、1個ごとの重量が一定の貨物です。"
+      },
+      "statement": "不定貫貨物は、1個ごとの重量が一定の貨物です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Variable-weight cargo does not have a fixed weight per item.",
+        "si": "不定貫貨物 යනු එක් එක් භාණ්ඩයේ බර නියත නොවන භාණ්ඩයයි。",
+        "technicalNoteJa": "不定貫＝個別重量が一定でない"
+      },
+      "sourcePage": 66,
+      "sourceAnchor": "p66 不定貫＝個別重量が一定でない",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0411",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Corrugated cartons are the most common warehouse package form.",
+        "ja": "段ボール箱は、物流倉庫で最もよく見られる荷姿です。"
+      },
+      "statement": "段ボール箱は、物流倉庫で最もよく見られる荷姿です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Corrugated cartons are the most common warehouse package form.",
+        "si": "ගබඩාවල බහුලවම දක්නට ලැබෙන ඇසුරුම් ආකාරය corrugated carton වේ。",
+        "technicalNoteJa": "段ボール箱＝一般的な荷姿"
+      },
+      "sourcePage": 67,
+      "sourceAnchor": "p67 段ボール箱＝一般的な荷姿",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0412",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Moisture can soften and swell corrugated cartons.",
+        "ja": "段ボールは、湿気や水に触れても硬さが変わりません。"
+      },
+      "statement": "段ボールは、湿気や水に触れても硬さが変わりません。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Moisture can soften and swell corrugated cartons.",
+        "si": "තෙතමනය හෝ ජලය නිසා කාඩ්බෝඩ් මෘදු වී පිම්බිය හැකිය。",
+        "technicalNoteJa": "段ボール＝湿気で軟化・膨張"
+      },
+      "sourcePage": 67,
+      "sourceAnchor": "p67 段ボール＝湿気で軟化・膨張",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0413",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Paper bags suit rice, beans and powders.",
+        "ja": "紙袋は、米や豆、粉などの貨物に適しています。"
+      },
+      "statement": "紙袋は、米や豆、粉などの貨物に適しています。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Paper bags suit rice, beans and powders.",
+        "si": "කඩදාසි බෑග් සහල්, බෝංචි සහ පිටි වැනි භාණ්ඩ සඳහා සුදුසුය。",
+        "technicalNoteJa": "紙袋＝米・豆・粉"
+      },
+      "sourcePage": 67,
+      "sourceAnchor": "p67 紙袋＝米・豆・粉",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0414",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "An FIBC can hold approximately 500–1,000 kg.",
+        "ja": "フレコンバッグには、500〜1,000kg程度の貨物を入れられます。"
+      },
+      "statement": "フレコンバッグには、500〜1,000kg程度の貨物を入れられます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "An FIBC can hold approximately 500–1,000 kg.",
+        "si": "FIBC බෑගයකට කිලෝග්‍රෑම් 500–1,000 පමණ දැමිය හැකිය。",
+        "technicalNoteJa": "フレコンバッグ＝500〜1,000kg"
+      },
+      "sourcePage": 67,
+      "sourceAnchor": "p67 フレコンバッグ＝500〜1,000kg",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0415",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A bale clamp is required to handle bales with a forklift.",
+        "ja": "ベールをフォークリフトで扱うときは、ベールクランプが必要です。"
+      },
+      "statement": "ベールをフォークリフトで扱うときは、ベールクランプが必要です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A bale clamp is required to handle bales with a forklift.",
+        "si": "Forklift එකකින් bale හසුරුවන විට bale clamp අවශ්‍ය වේ。",
+        "technicalNoteJa": "ベール＝ベールクランプ"
+      },
+      "sourcePage": 68,
+      "sourceAnchor": "p68 ベール＝ベールクランプ",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0416",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Keep hands and fingers away from moving parts of a strapping machine.",
+        "ja": "結束機が動いている間、手や指を動作部分に近づけません。"
+      },
+      "statement": "結束機が動いている間、手や指を動作部分に近づけません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Keep hands and fingers away from moving parts of a strapping machine.",
+        "si": "Strapping machine ක්‍රියාත්මක වන විට අත් සහ ඇඟිලි චලනය වන කොටස්වලින් ඈත් කරන්න。",
+        "technicalNoteJa": "結束機＝手指を近づけない"
+      },
+      "sourcePage": 82,
+      "sourceAnchor": "p82 結束機＝手指を近づけない",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0417",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Stretch film is wrapped from the bottom of the pallet upward.",
+        "ja": "ストレッチ梱包では、フィルムをパレットの上から下へ巻きます。"
+      },
+      "statement": "ストレッチ梱包では、フィルムをパレットの上から下へ巻きます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Stretch film is wrapped from the bottom of the pallet upward.",
+        "si": "Stretch wrapping කිරීමේදී film එක pallet පතුලේ සවි කර පහළ සිට ඉහළට ඔතයි。",
+        "technicalNoteJa": "ストレッチ梱包＝下から上へ"
+      },
+      "sourcePage": 82,
+      "sourceAnchor": "p82 ストレッチ梱包＝下から上へ",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0418",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Needle inspection checks for needles or metal inside products.",
+        "ja": "検針では、商品内に針などの金属が残っていないか確認します。"
+      },
+      "statement": "検針では、商品内に針などの金属が残っていないか確認します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Needle inspection checks for needles or metal inside products.",
+        "si": "භාණ්ඩය තුළ ඉඳිකටු හෝ ලෝහ කැබලි තිබේදැයි 検針 මඟින් පරීක්ෂා කරයි。",
+        "technicalNoteJa": "検針＝針・金属の検査"
+      },
+      "sourcePage": 83,
+      "sourceAnchor": "p83 検針＝針・金属の検査",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0419",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Work planning sets the task, sequence, staffing, materials and equipment in advance.",
+        "ja": "作業計画では、作業内容・手順・人員・資材・器具を事前に決めます。"
+      },
+      "statement": "作業計画では、作業内容・手順・人員・資材・器具を事前に決めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Work planning sets the task, sequence, staffing, materials and equipment in advance.",
+        "si": "වැඩ අන්තර්ගතය, අනුපිළිවෙළ, සේවකයන්, ද්‍රව්‍ය සහ උපකරණ කලින් සැලසුම් කරයි。",
+        "technicalNoteJa": "作業計画＝内容・手順・人員・資材・器具"
+      },
+      "sourcePage": 84,
+      "sourceAnchor": "p84 作業計画＝内容・手順・人員・資材・器具",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0420",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A stacking-limit mark showing 5 means a maximum of five tiers.",
+        "ja": "積段数制限のマークに「5」とあれば、最大5段まで積めます。"
+      },
+      "statement": "積段数制限のマークに「5」とあれば、最大5段まで積めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A stacking-limit mark showing 5 means a maximum of five tiers.",
+        "si": "積段数制限 ලකුණේ 5 නම් උපරිම ස්ථර පහක් දක්වා ගොඩගැසිය හැකිය。",
+        "technicalNoteJa": "積段数制限＝表示数まで"
+      },
+      "sourcePage": 88,
+      "sourceAnchor": "p88 積段数制限＝表示数まで",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
