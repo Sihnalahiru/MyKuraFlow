@@ -64,6 +64,15 @@ Commit: `${created.result.commit_sha}`
 - One duplicate teaching block straddles p26/p27 for packaging machines and packaging/packing/wrapping terminology; reconcile once without losing source mapping.
 - Figure caption tables exist for p28–33, but exact inline figure placement and rendered-page quality still need visual confirmation.
 
+### Pages 15–26 rendered layout and visual QA — NEW
+Report: `audit/FIRST25_PAGES_15-26_RENDERED_LAYOUT_AND_VISUAL_QA_2026-11-19.md`
+Commit: `a69cb4e7aa377c6dcc54e719a1d0054c7b54d893`
+- Rendered and inspected working PDF pages 15–20; compared original source pages 19–20.
+- Found a fragmented Batch 02 transition: near-empty page 16 (batch title/scope), near-empty page 19 (Sinhala continuation), then repeated GAP REPAIR intro on page 20. Consolidate without losing unique content.
+- Confirmed p20 pallet image is correctly on source p20 alongside counterbalance and reach forklift images; remove repeated “VERIFIED SOURCE PAGE 20” labels where redundant.
+- p19 cargo elevator/vertical conveyor and p20 forklift images/text are readable in sampled full-page renders.
+- Remaining: apply layout corrections in QA copy and re-render; full p21–26 rendered table/figure inspection and Japanese/Sinhala proofreading remain open.
+
 ### First-25 source coverage and visual-map QA
 Report: `audit/FIRST25_SOURCE_COVERAGE_AND_VISUALMAP_QA_2026-11-19.md`
 Commit: `49e803d41d61cc48ed72b356e9fe947505af6d2a`
