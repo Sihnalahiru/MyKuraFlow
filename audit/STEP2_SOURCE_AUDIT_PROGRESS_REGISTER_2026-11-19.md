@@ -28,7 +28,7 @@ Master companion DOCX: `SSW_Warehouse_English_Sinhala_MASTER_INLINE_IMAGES_BULK1
 | 105–116 | `audit/STUDY_NOTES_SOURCE_AUDIT_P105-116_2026-11-19.md` | Earlier detailed report recorded |
 | 117–122 | `audit/STUDY_NOTES_SOURCE_AUDIT_P117-122_2026-11-19.md` | Final source batch audited |
 
-## Ten-page source audit continuation — p34–43
+## Ten-page source audit continuation — p34–43 (CLOSED)
 Report: `audit/STUDY_NOTES_SOURCE_AUDIT_P34-43_2026-11-19.md`
 Commit: `f54512ba18c1db93ecd8b08a67c210e242c57781`
 - Audited exactly ten pages, p34–43, against source PDF and Study Notes paragraphs plus tables.
