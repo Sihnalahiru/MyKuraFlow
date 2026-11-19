@@ -14,6 +14,8 @@ const usersByUsername = new Map();
 const usersById = new Map();
 const sessions = new Map(); // tokenHash -> { userId, expiresAt }
 const studyProgress = new Map(); // userId -> { completedIds: string[], updatedAt: string | null }
+const flashcardProgress = new Map(); // userId -> { states: Record<string, "again"|"review"|"mastered">, updatedAt: string | null }
+const studyStreaks = new Map(); // userId -> { streakDays: number, lastStudyDate: string | null }
 const quizAttempts = new Map(); // userId -> Array<{ id, score, total, timeUsed, createdAt }>
 const authRateLimits = new Map(); // `${username}:${windowStart}` -> attempts
 
@@ -60,6 +62,8 @@ for (const u of SEEDED_USERS) {
   usersByUsername.set(u.username.toLowerCase(), u);
   usersById.set(u.id, u);
   studyProgress.set(u.id, { completedIds: [], updatedAt: null });
+  flashcardProgress.set(u.id, { states: {}, updatedAt: null });
+  studyStreaks.set(u.id, { streakDays: 0, lastStudyDate: null });
   quizAttempts.set(u.id, []);
 }
 
@@ -98,25 +102,78 @@ function verifyPassword(password, saltBase64, expectedBase64, iterations) {
   });
 }
 
+function summarizeFlashcards(states = {}) {
+  let masteredCount = 0;
+  let reviewCount = 0;
+  let againCount = 0;
+  for (const status of Object.values(states)) {
+    if (status === "mastered") masteredCount++;
+    else if (status === "review") reviewCount++;
+    else if (status === "again") againCount++;
+  }
+  const flashcardXp = masteredCount * 5 + reviewCount * 2 + againCount * 1;
+  return { masteredCount, reviewCount, againCount, flashcardXp };
+}
+
+function recordStudyActivity(userId) {
+  const today = new Date().toISOString().slice(0, 10);
+  const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+  const cur = studyStreaks.get(userId) || { streakDays: 0, lastStudyDate: null };
+  if (cur.lastStudyDate === today) {
+    if (cur.streakDays < 1) cur.streakDays = 1;
+  } else if (cur.lastStudyDate === yesterday) {
+    cur.streakDays = (cur.streakDays || 0) + 1;
+    cur.lastStudyDate = today;
+  } else {
+    cur.streakDays = 1;
+    cur.lastStudyDate = today;
+  }
+  studyStreaks.set(userId, cur);
+  return cur.streakDays;
+}
+
+function getXpBreakdown(userId) {
+  const progress = studyProgress.get(userId);
+  const attempts = quizAttempts.get(userId) || [];
+  const fc = flashcardProgress.get(userId) || { states: {}, updatedAt: null };
+  const fcStats = summarizeFlashcards(fc.states);
+  const studyXp = (progress ? progress.completedIds.length : 0) * 10;
+  const quizXp = attempts.reduce((acc, a) => acc + a.score, 0) * 5;
+  const totalXp = studyXp + quizXp + fcStats.flashcardXp;
+  const streak = studyStreaks.get(userId) || { streakDays: 0, lastStudyDate: null };
+  return {
+    studyXp,
+    quizXp,
+    flashcardXp: fcStats.flashcardXp,
+    totalXp,
+    flashcardsMastered: fcStats.masteredCount,
+    streakDays: streak.streakDays || 0
+  };
+}
+
 function publicUser(u) {
+  const stats = getXpBreakdown(u.id);
+  u.xp = stats.totalXp;
   return {
     id: u.id,
     username: u.username,
     displayName: u.displayName,
     gender: u.gender,
     avatar: u.avatar,
-    xp: u.xp
+    xp: stats.totalXp,
+    studyXp: stats.studyXp,
+    quizXp: stats.quizXp,
+    flashcardXp: stats.flashcardXp,
+    flashcardsMastered: stats.flashcardsMastered,
+    streakDays: stats.streakDays
   };
 }
 
 function recomputeXp(userId) {
   const user = usersById.get(userId);
   if (!user) return 0;
-  const progress = studyProgress.get(userId);
-  const attempts = quizAttempts.get(userId) || [];
-  const completedCount = progress ? progress.completedIds.length : 0;
-  const quizScoreSum = attempts.reduce((acc, a) => acc + a.score, 0);
-  user.xp = completedCount * 10 + quizScoreSum * 5;
+  const stats = getXpBreakdown(userId);
+  user.xp = stats.totalXp;
   user.lastActive = new Date().toISOString();
   return user.xp;
 }
@@ -247,8 +304,58 @@ app.put("/api/progress", requireAuth, (req, res) => {
   }
   const ids = [...new Set(body.completedIds)].slice(0, 5000);
   studyProgress.set(req.user.id, { completedIds: ids, updatedAt: new Date().toISOString() });
+  const streakDays = recordStudyActivity(req.user.id);
   const xp = recomputeXp(req.user.id);
-  return res.json({ ok: true, completed: ids.length, xp });
+  return res.json({ ok: true, completed: ids.length, xp, streakDays });
+});
+
+app.get("/api/flashcards/progress", requireAuth, (req, res) => {
+  const row = flashcardProgress.get(req.user.id) || { states: {}, updatedAt: null };
+  const fcStats = summarizeFlashcards(row.states);
+  const breakdown = getXpBreakdown(req.user.id);
+  return res.json({
+    states: row.states,
+    ...fcStats,
+    totalXp: breakdown.totalXp,
+    streakDays: breakdown.streakDays,
+    updatedAt: row.updatedAt
+  });
+});
+
+app.put("/api/flashcards/progress", requireAuth, (req, res) => {
+  const body = req.body || {};
+  const rawStates = body.states;
+  if (!rawStates || typeof rawStates !== "object" || Array.isArray(rawStates)) {
+    return res.status(400).json({ error: "Invalid flashcard progress payload" });
+  }
+  const allowed = new Set(["again", "review", "mastered"]);
+  const entries = Object.entries(rawStates);
+  if (entries.length > 2000) {
+    return res.status(400).json({ error: "Too many flashcard records" });
+  }
+  const cleanStates = {};
+  for (const [cardId, status] of entries) {
+    if (typeof cardId !== "string" || cardId.length === 0 || cardId.length > 80) continue;
+    if (!allowed.has(status)) continue;
+    cleanStates[cardId] = status;
+  }
+  const updatedAt = new Date().toISOString();
+  flashcardProgress.set(req.user.id, { states: cleanStates, updatedAt });
+  const streakDays = recordStudyActivity(req.user.id);
+  const totalXp = recomputeXp(req.user.id);
+  const fcStats = summarizeFlashcards(cleanStates);
+  return res.json({
+    ok: true,
+    ...fcStats,
+    totalXp,
+    streakDays,
+    updatedAt
+  });
+});
+
+app.get("/api/quiz-attempts", requireAuth, (req, res) => {
+  const list = quizAttempts.get(req.user.id) || [];
+  return res.json({ attempts: list.slice(0, 100) });
 });
 
 app.post("/api/quiz-attempts", requireAuth, (req, res) => {
@@ -270,22 +377,32 @@ app.post("/api/quiz-attempts", requireAuth, (req, res) => {
     return res.status(400).json({ error: "Invalid quiz result" });
   }
   const list = quizAttempts.get(req.user.id) || [];
-  list.unshift({
+  const attempt = {
     id: randomId(16),
     score,
     total,
     timeUsed,
+    paperId: typeof body.paperId === "string" ? body.paperId.slice(0, 40) : null,
+    writtenScore: Number.isInteger(Number(body.writtenScore)) ? Number(body.writtenScore) : null,
+    writtenTotal: Number.isInteger(Number(body.writtenTotal)) ? Number(body.writtenTotal) : null,
+    practicalScore: Number.isInteger(Number(body.practicalScore)) ? Number(body.practicalScore) : null,
+    practicalTotal: Number.isInteger(Number(body.practicalTotal)) ? Number(body.practicalTotal) : null,
+    passed: typeof body.passed === "boolean" ? body.passed : null,
     createdAt: new Date().toISOString()
-  });
+  };
+  list.unshift(attempt);
   quizAttempts.set(req.user.id, list);
-  recomputeXp(req.user.id);
-  return res.json({ ok: true });
+  const streakDays = recordStudyActivity(req.user.id);
+  const xp = recomputeXp(req.user.id);
+  return res.json({ ok: true, xp, streakDays, attempt });
 });
 
 app.get("/api/leaderboard", requireAuth, (_req, res) => {
   const rows = [...usersById.values()].map((u) => {
     const progress = studyProgress.get(u.id);
     const attempts = quizAttempts.get(u.id) || [];
+    const breakdown = getXpBreakdown(u.id);
+    u.xp = breakdown.totalXp;
     const accuracy = attempts.length
       ? Math.round((attempts.reduce((acc, a) => acc + a.score / a.total, 0) / attempts.length) * 100)
       : 0;
@@ -295,10 +412,12 @@ app.get("/api/leaderboard", requireAuth, (_req, res) => {
       username: u.username,
       gender: u.gender,
       avatar: u.avatar,
-      xp: u.xp,
+      xp: breakdown.totalXp,
       completed: progress ? progress.completedIds.length : 0,
+      flashcardsMastered: breakdown.flashcardsMastered,
       quizzes: attempts.length,
       accuracy,
+      streakDays: breakdown.streakDays,
       lastActive: u.lastActive
     };
   });

@@ -1,4 +1,4 @@
-const CACHE="mykuraflow-shell-v12";
+const CACHE="mykuraflow-shell-v14";
 const SOURCES=[
 "data/front-matter-pages-001-008.json",
 "data/part-01/lesson-01-pages-009-012.json",
@@ -14,7 +14,10 @@ const SOURCES=[
 "data/part-03/lesson-01-pages-089-098.json",
 "data/part-03/lesson-02-pages-099-108.json",
 "data/part-04/lesson-01-pages-109-118.json",
-"data/part-04/lesson-02-pages-119-123.json"
+"data/part-04/lesson-02-pages-119-123.json",
+"data/pdf-image-map.json",
+"data/flashcards-exam-bank.json",
+"data/ssw-exam-papers-600.json"
 ];
 const CORE=["./","./index.html","./styles.css","./app.js","./api-config.js","./manifest.webmanifest","./data/haruto.png","./data/hina.png","./data/sakura.png","./data/waresix%20truck.lottie",...SOURCES.map(x=>"./"+x)];
 self.addEventListener("install",event=>event.waitUntil((async()=>{const cache=await caches.open(CACHE);for(const path of CORE){try{await cache.add(path)}catch(error){console.warn("Cache skipped:",path,error)}}await self.skipWaiting()})()));
