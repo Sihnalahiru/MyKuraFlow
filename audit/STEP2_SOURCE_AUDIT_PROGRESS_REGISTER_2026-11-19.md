@@ -46,6 +46,15 @@ Commit: `86f12254e8018810f16c9385f29a1acaf867da55`
 - p21 qualification table correctly distinguishes 特別教育の受講 (attendance) from 特別教育の修了 (completion).
 - Tables confirm p21 qualification thresholds, p22 trolley types, p23 AGV/AMR/AGF, p24 conveyor types, p25 qualification categories and p26 palletizer/de-palletizer. Do not re-add these items.
 
+### Pages 9–14 source content and layout QA — NEW
+Report: `audit/FIRST25_PAGES_09-14_SOURCE_CONTENT_AND_LAYOUT_QA_2026-11-19.md`
+Commit: `1cfc636fba22180068d8acbe93a1496a1f8c31e6`
+- Compared source printed/physical pages 9–14 with Batch 01 paragraphs and tables, and rendered the DOCX PDF.
+- p9–14 content is substantially covered: warehouse definition/categories, registration rules, warehouse types, full temperature-band table (including SF4), and initial facilities terminology.
+- No new subject matter insertion confirmed; avoid duplicates.
+- Open QA defects: add explicit p9–14 page anchors; repeat the temperature-table header on its continuation page; verify Japanese font/glyph rendering (including 営業倉庫, 貯蔵槽倉庫, 危険品倉庫, 冷蔵倉庫).
+- Source p12 itself has an F1 description/band mismatch; current notes preserve the source wording with “as listed in the source” rather than silently correcting it.
+
 ### First-25 source coverage and visual-map QA
 Report: `audit/FIRST25_SOURCE_COVERAGE_AND_VISUALMAP_QA_2026-11-19.md`
 Commit: `49e803d41d61cc48ed72b356e9fe947505af6d2a`
@@ -56,7 +65,7 @@ Commit: `49e803d41d61cc48ed72b356e9fe947505af6d2a`
 - Latest DOCX: 17,834,242 bytes; 1,576 paragraphs; 144 tables; 184 inline images.
 - LibreOffice rendered PDF successfully: 183 pages.
 
-**Still not final-approved:** full source-to-notes verification for each page, Sinhala/Japanese terminology proofreading, and visual inspection of every rendered page/table/image remain in progress. Binary working files are in the conversation runtime and are not committed to GitHub.
+**Still not final-approved:** p9–14 content is now substantially checked, but the first-25 range is not complete until remaining p15–33 source-to-notes, Sinhala/Japanese proofreading and rendered page/table/image checks are closed. The p9–14 layout/font defects above also remain open. Binary working files are in the conversation runtime and are not committed to GitHub.
 
 ## Outstanding work
 1. Verify all prior report paths exist on this branch, especially combined p45–56 and p57–68 reports.
