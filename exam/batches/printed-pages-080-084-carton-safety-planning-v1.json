@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "batch-20-carton-safety-work-planning-v1",
+  "title": "Printed pages 80–84: carton sealing, unpacking safety, strapping, inspection and planning",
+  "questionIds": [
+    "MKF-WR-0485",
+    "MKF-WR-0486",
+    "MKF-WR-0487",
+    "MKF-WR-0488",
+    "MKF-WR-0489",
+    "MKF-WR-0490",
+    "MKF-WR-0491",
+    "MKF-WR-0492"
+  ],
+  "count": 8,
+  "sourcePages": [
+    80,
+    81,
+    82,
+    83,
+    84
+  ],
+  "examType": "written_true_false",
+  "sectionDistribution": {
+    "distribution_processing": 8
+  },
+  "reviewStatus": "DRAFT",
+  "notes": [
+    "Additive-only; no existing questions or app UI changed.",
+    "New questions target source details not previously tested in the bank.",
+    "Japanese statements include furigana markup; English, Sinhala and Japanese technical explanations included.",
+    "All questions remain DRAFT pending source and language review.",
+    "No practical/image questions added."
+  ]
+}
