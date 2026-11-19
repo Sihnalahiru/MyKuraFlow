@@ -9526,6 +9526,166 @@
       "sourceAnchor": "p85 作業実施・進捗管理・作業完了・廃棄",
       "difficulty": "easy",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0485",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "H-taping is used at the corners between the carton top and side faces to reduce dust entering through gaps.",
+        "ja": "H字貼りは、カートンの<ruby>上面<rt>じょうめん</rt></ruby>と<ruby>側面<rt>そくめん</rt></ruby>の<ruby>角<rt>かど</rt></ruby>にテープを貼り、<ruby>隙間<rt>すきま</rt></ruby>からチリやホコリが<ruby>入<rt>はい</rt></ruby>るのを防ぎます。"
+      },
+      "statement": "H字貼りは、カートンの<ruby>上面<rt>じょうめん</rt></ruby>と<ruby>側面<rt>そくめん</rt></ruby>の<ruby>角<rt>かど</rt></ruby>にテープを貼り、<ruby>隙間<rt>すきま</rt></ruby>からチリやホコリが<ruby>入<rt>はい</rt></ruby>るのを防ぎます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "H-taping is used at the corners between the carton top and side faces to reduce dust entering through gaps.",
+        "si": "H-taping ක්‍රමයේදී carton එකේ ඉහළ මතුපිට සහ පැති මතුපිට අතර කොන්වල tape යොදා හිඩැස් හරහා දූවිලි ඇතුළුවීම වළක්වයි.",
+        "technicalNoteJa": "H字貼り＝隙間からのチリ・ホコリの侵入を防ぐ"
+      },
+      "sourcePage": 80,
+      "sourceAnchor": "p80 source study detail",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0486",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The source identifies the 米-pattern tape application as the strongest of the listed carton-sealing patterns.",
+        "ja": "説明されているテープ貼りの中で、米の字貼りは最も<ruby>強度<rt>きょうど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>方法<rt>ほうほう</rt></ruby>です。"
+      },
+      "statement": "説明されているテープ貼りの中で、米の字貼りは最も<ruby>強度<rt>きょうど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>方法<rt>ほうほう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source identifies the 米-pattern tape application as the strongest of the listed carton-sealing patterns.",
+        "si": "මූලාශ්‍රයේ සඳහන් carton tape කිරීමේ ක්‍රම අතරින් 米-අකුරු රටාව (米の字貼り) ශක්තිය වැඩිම ක්‍රමයයි.",
+        "technicalNoteJa": "米の字貼り＝最も強度が高い"
+      },
+      "sourcePage": 80,
+      "sourceAnchor": "p80 source study detail",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0487",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If a utility-knife blade breaks during unpacking, the broken piece must be found and must not be left behind.",
+        "ja": "<ruby>開梱<rt>かいこん</rt></ruby>中にカッターの<ruby>刃<rt>は</rt></ruby>が<ruby>折<rt>お</rt></ruby>れたら、<ruby>破片<rt>はへん</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかるまで<ruby>探<rt>さが</rt></ruby>し、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>放置<rt>ほうち</rt></ruby>しません。"
+      },
+      "statement": "<ruby>開梱<rt>かいこん</rt></ruby>中にカッターの<ruby>刃<rt>は</rt></ruby>が<ruby>折<rt>お</rt></ruby>れたら、<ruby>破片<rt>はへん</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかるまで<ruby>探<rt>さが</rt></ruby>し、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>放置<rt>ほうち</rt></ruby>しません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "If a utility-knife blade breaks during unpacking, the broken piece must be found and must not be left behind.",
+        "si": "පෙට්ටිය විවෘත කිරීමේදී cutter blade එක කැඩුණහොත් කැඩුණු කැබැල්ල හමුවන තුරු සොයාගත යුතු අතර කිසිවිටෙක එය අතහැර නොයන්න.",
+        "technicalNoteJa": "折れた刃の破片を見つけるまで探し、放置しない"
+      },
+      "sourcePage": 81,
+      "sourceAnchor": "p81 source study detail",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0488",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Cushioning materials are used to fill the space between a product and its container.",
+        "ja": "クッション材は、<ruby>商品<rt>しょうひん</rt></ruby>と<ruby>容器<rt>ようき</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>隙間<rt>すきま</rt></ruby>を<ruby>埋<rt>う</rt></ruby>めるために<ruby>使<rt>つか</rt></ruby>います。"
+      },
+      "statement": "クッション材は、<ruby>商品<rt>しょうひん</rt></ruby>と<ruby>容器<rt>ようき</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>隙間<rt>すきま</rt></ruby>を<ruby>埋<rt>う</rt></ruby>めるために<ruby>使<rt>つか</rt></ruby>います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Cushioning materials are used to fill the space between a product and its container.",
+        "si": "Cushioning material භාවිත කරන්නේ භාණ්ඩය සහ එහි බහාලුම අතර ඇති හිස් ඉඩ පිරවීමටයි.",
+        "technicalNoteJa": "クッション材＝商品と容器の隙間を埋める"
+      },
+      "sourcePage": 81,
+      "sourceAnchor": "p81 source study detail",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0489",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "During automatic PP strapping, the operator should keep their head away from the machine arm.",
+        "ja": "<ruby>自動結束機<rt>じどうけっそくき</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>するときは、<ruby>巻<rt>ま</rt></ruby>き<ruby>込<rt>こ</rt></ruby>まれないように<ruby>頭<rt>あたま</rt></ruby>をアーム部分から<ruby>離<rt>はな</rt></ruby>します。"
+      },
+      "statement": "<ruby>自動結束機<rt>じどうけっそくき</rt></ruby>で<ruby>作業<rt>さぎょう</rt></ruby>するときは、<ruby>巻<rt>ま</rt></ruby>き<ruby>込<rt>こ</rt></ruby>まれないように<ruby>頭<rt>あたま</rt></ruby>をアーム部分から<ruby>離<rt>はな</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "During automatic PP strapping, the operator should keep their head away from the machine arm.",
+        "si": "Automatic PP strapping machine එක ක්‍රියාත්මක කරන විට යන්ත්‍රයේ arm කොටසට හිස ළං නොකර ඈත් කර තබාගත යුතුය; එසේ නොකළහොත් ඇදී යාමේ අවදානමක් ඇත.",
+        "technicalNoteJa": "自動結束機のアームから頭を離す"
+      },
+      "sourcePage": 82,
+      "sourceAnchor": "p82 source study detail",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0490",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Needle inspection is used mainly for apparel products to detect needles or other metal fragments inside them.",
+        "ja": "<ruby>検針<rt>けんしん</rt></ruby>は<ruby>主<rt>おも</rt></ruby>にアパレル<ruby>製品<rt>せいひん</rt></ruby>に対して行い、商品内の<ruby>針<rt>はり</rt></ruby>や<ruby>金属片<rt>きんぞくへん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。"
+      },
+      "statement": "<ruby>検針<rt>けんしん</rt></ruby>は<ruby>主<rt>おも</rt></ruby>にアパレル<ruby>製品<rt>せいひん</rt></ruby>に対して行い、商品内の<ruby>針<rt>はり</rt></ruby>や<ruby>金属片<rt>きんぞくへん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Needle inspection is used mainly for apparel products to detect needles or other metal fragments inside them.",
+        "si": "Needle inspection (検針) ප්‍රධාන වශයෙන් ඇඳුම් නිෂ්පාදනවල සිදු කර භාණ්ඩය තුළ ඉඳිකටු හෝ වෙනත් ලෝහ කැබලි තිබේදැයි පරීක්ෂා කරයි.",
+        "technicalNoteJa": "検針＝商品内の針などの金属を検査する"
+      },
+      "sourcePage": 83,
+      "sourceAnchor": "p83 source study detail",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0491",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Cleaning in the described distribution-processing task removes stains or dirt from specific spots using suitable chemicals.",
+        "ja": "<ruby>流通加工<rt>りゅうつうかこう</rt></ruby>のクリーニングでは、<ruby>薬品<rt>やくひん</rt></ruby>などを使って商品についたシミや<ruby>汚<rt>よご</rt></ruby>れを<ruby>部分的<rt>ぶぶんてき</rt></ruby>に<ruby>取り除<rt>とりのぞ</rt></ruby>きます。"
+      },
+      "statement": "<ruby>流通加工<rt>りゅうつうかこう</rt></ruby>のクリーニングでは、<ruby>薬品<rt>やくひん</rt></ruby>などを使って商品についたシミや<ruby>汚<rt>よご</rt></ruby>れを<ruby>部分的<rt>ぶぶんてき</rt></ruby>に<ruby>取り除<rt>とりのぞ</rt></ruby>きます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Cleaning in the described distribution-processing task removes stains or dirt from specific spots using suitable chemicals.",
+        "si": "මෙහි සඳහන් distribution-processing cleaning කාර්යයේදී සුදුසු රසායනික ද්‍රව්‍ය භාවිතයෙන් භාණ්ඩයේ පැල්ලම් හෝ කුණු ඇති ස්ථාන පමණක් ඉවත් කරයි.",
+        "technicalNoteJa": "クリーニング＝シミや汚れを部分的に取り除く"
+      },
+      "sourcePage": 83,
+      "sourceAnchor": "p83 source study detail",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0492",
+      "section": "distribution_processing",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Work planning includes estimating the required number of workers and time from the amount one worker can complete in one hour.",
+        "ja": "<ruby>作業計画<rt>さぎょうけいかく</rt></ruby>では、1人が1時間にできる作業量をもとに、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>人数<rt>にんずう</rt></ruby>と時間を<ruby>計算<rt>けいさん</rt></ruby>します。"
+      },
+      "statement": "<ruby>作業計画<rt>さぎょうけいかく</rt></ruby>では、1人が1時間にできる作業量をもとに、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>人数<rt>にんずう</rt></ruby>と時間を<ruby>計算<rt>けいさん</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Work planning includes estimating the required number of workers and time from the amount one worker can complete in one hour.",
+        "si": "වැඩ සැලසුම් කිරීමේදී එක් සේවකයෙකුට පැයකදී කළ හැකි වැඩ ප්‍රමාණය පදනම් කරගෙන අවශ්‍ය සේවක සංඛ්‍යාව සහ කාලය ගණනය කරයි.",
+        "technicalNoteJa": "1人1時間の作業量から必要人数・時間を計算"
+      },
+      "sourcePage": 84,
+      "sourceAnchor": "p84 source study detail",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
