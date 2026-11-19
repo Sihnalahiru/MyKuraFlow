@@ -55,6 +55,15 @@ Commit: `1cfc636fba22180068d8acbe93a1496a1f8c31e6`
 - Open QA defects: add explicit p9–14 page anchors; repeat the temperature-table header on its continuation page; verify Japanese font/glyph rendering (including 営業倉庫, 貯蔵槽倉庫, 危険品倉庫, 冷蔵倉庫).
 - Source p12 itself has an F1 description/band mismatch; current notes preserve the source wording with “as listed in the source” rather than silently correcting it.
 
+### Pages 27–33 source content QA — NEW
+Report: `audit/FIRST25_PAGES_27-33_SOURCE_CONTENT_AND_LAYOUT_QA_2026-11-19.md`
+Commit: `${created.result.commit_sha}`
+- Compared source p27–33 against DOCX paragraphs and tables.
+- p27–33 content is covered: packaging, slinging/handheld terminal, detector/cleaning/weighing equipment, sea/reefer/rail containers, road chassis/devanning, truck capacity/body types and power gate.
+- The p32 truck capacity table is present in DOCX table 34; do not report it missing from paragraph-only inspection.
+- One duplicate teaching block straddles p26/p27 for packaging machines and packaging/packing/wrapping terminology; reconcile once without losing source mapping.
+- Figure caption tables exist for p28–33, but exact inline figure placement and rendered-page quality still need visual confirmation.
+
 ### First-25 source coverage and visual-map QA
 Report: `audit/FIRST25_SOURCE_COVERAGE_AND_VISUALMAP_QA_2026-11-19.md`
 Commit: `49e803d41d61cc48ed72b356e9fe947505af6d2a`
