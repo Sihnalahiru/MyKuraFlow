@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "mykuraflow.exam-batch.v1",
+  "batchId": "batch-22-inbound-handling-units-v1",
+  "title": "Printed pages 64–67: vehicle guidance, inbound scanning, packaging units and variable-weight handling",
+  "questionIds": [
+    "MKF-WR-0501",
+    "MKF-WR-0502",
+    "MKF-WR-0503",
+    "MKF-WR-0504",
+    "MKF-WR-0505",
+    "MKF-WR-0506",
+    "MKF-WR-0507",
+    "MKF-WR-0508"
+  ],
+  "count": 8,
+  "sourcePages": [
+    64,
+    65,
+    66,
+    67
+  ],
+  "examType": "written_true_false",
+  "sectionDistribution": {
+    "warehouse_fundamentals": 8
+  },
+  "reviewStatus": "DRAFT",
+  "notes": [
+    "Additive-only; no existing question or application files changed.",
+    "Questions target details not already covered by existing bank entries.",
+    "Japanese statements include furigana; English, Sinhala and Japanese technical notes included.",
+    "All questions remain DRAFT pending source and language review."
+  ]
+}
