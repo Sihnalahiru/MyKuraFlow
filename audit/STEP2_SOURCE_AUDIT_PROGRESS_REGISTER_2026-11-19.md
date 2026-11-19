@@ -11,14 +11,14 @@ Original Japanese source PDF: `specified_skilled_worker_textbook_202607(2).pdf`
 - 123 physical pages.
 - Physical pages 2–8 are contents/front matter.
 - Printed study content begins at physical page 9 and continues through physical/printed page 122.
-- Therefore printed page 9 = PDF physical page 9. Do not apply the previously stated +6 offset.
+- Printed page number equals PDF physical page number in the study content range; do not apply a page offset.
 Master companion DOCX: `SSW_Warehouse_English_Sinhala_MASTER_INLINE_IMAGES_BULK13.docx`
 
 ## Completed audit ranges and reports
 | Printed pages | Canonical report | Status |
 |---|---|---|
-| 9–20 | `audit/STUDY_NOTES_SOURCE_AUDIT_P09-20_2026-11-19.md` | Audited; findings recorded |
-| 21–32 | `audit/STUDY_NOTES_SOURCE_AUDIT_P21-32_2026-11-19.md` | Audited; text-only findings reconciled against DOCX tables as part of first-25 QA |
+| 9–20 | `audit/STUDY_NOTES_SOURCE_AUDIT_P09-20_2026-11-19.md` | Audited; findings recorded; first-25 QA continuing |
+| 21–32 | `audit/STUDY_NOTES_SOURCE_AUDIT_P21-32_2026-11-19.md` | Paragraph-only findings reconciled against DOCX tables for p21–26; do not duplicate existing tables |
 | 33–44 | `audit/STUDY_NOTES_SOURCE_AUDIT_P33-44_2026-11-19.md` | Audited; findings recorded |
 | 45–56 | `audit/STUDY_NOTES_SOURCE_AUDIT_P45-56_2026-11-19.md` | Combined report claimed; verify GitHub path before relying on it |
 | 57–68 | `audit/STUDY_NOTES_SOURCE_AUDIT_P57-68_2026-11-19.md` | Combined report claimed; verify GitHub path before relying on it |
@@ -28,42 +28,39 @@ Master companion DOCX: `SSW_Warehouse_English_Sinhala_MASTER_INLINE_IMAGES_BULK1
 | 105–116 | `audit/STUDY_NOTES_SOURCE_AUDIT_P105-116_2026-11-19.md` | Earlier detailed report recorded |
 | 117–122 | `audit/STUDY_NOTES_SOURCE_AUDIT_P117-122_2026-11-19.md` | Final source batch audited |
 
-## First 25 study pages update — WORKING BUILD CREATED
-Scope: printed pages 9–33 (25 numbered study pages).
-Initial working build: `SSW_Warehouse_English_Sinhala_FIRST25_UPDATED.docx`
-Intermediate working build: `SSW_Warehouse_English_Sinhala_FIRST25_CORRECTED_WORKING.docx`
-Latest QA working build: `SSW_Warehouse_English_Sinhala_FIRST25_QA_DEDUPED_WORKING.docx`
-Latest rendered preview: `SSW_Warehouse_English_Sinhala_FIRST25_QA_DEDUPED_WORKING.pdf`
+## First 25 study pages update — LATEST QA WORKING BUILD
+Scope: printed pages 9–33.
+Latest DOCX: `SSW_Warehouse_English_Sinhala_FIRST25_QA_VISUALMAP_WORKING.docx`
+Latest rendered PDF: `SSW_Warehouse_English_Sinhala_FIRST25_QA_VISUALMAP_WORKING.pdf`
 
-### Page 15–18 correction record
+### Pages 15–18 content addition
 Report: `audit/FIRST25_PAGES_15-18_CONTENT_AND_SOURCE_IMAGE_MAP_2026-11-19.md`
 Commit: `94f93cef0a160e7d85d091eed7487ec221fa2096`
-- Verified original PDF pagination: printed page number matches PDF physical page number for p15–18. Do not reuse the earlier incorrect +6 offset claim.
-- Existing p15 notes already contained mezzanine and fire-safety equipment items.
-- Added p16 fixed/mobile racks, positive/reverse nestainer differences and pallet supporter functions.
-- Added p17 automated warehouse/stacker crane, surveillance camera uses, EXIT guide light, rodent barrier and insect trap.
-- Added p18 seismic isolation device and eight source summary entries.
-- Inserted full-page facsimile references for original PDF pages 15–18 in a captioned appendix.
-- Original Master DOCX preserved.
+- Added fixed/mobile racks, nestainer distinctions, pallet supporter functions, automated warehouse/stacker crane, CCTV, exit guide light, rodent/insect controls, seismic isolation and source summary.
+- Full-page source facsimiles for p15–18 are present in an appendix.
 
 ### Pages 21–26 duplicate reconciliation
 Report: `audit/FIRST25_PAGES_21-26_DUPLICATE_RECONCILIATION_2026-11-19.md`
 Commit: `86f12254e8018810f16c9385f29a1acaf867da55`
-- Found a duplicate unanchored p21–26 continuation after SOURCE PAGE 20 and a second page-mapped p21–26 “GAP REPAIR” section.
-- Removed the unanchored duplicate block from a separate QA working copy; retained the explicit SOURCE PAGE 21–26 sequence and its source-image caption tables.
-- Corrected p21 qualification table: under 1 tonne uses 特別教育の受講 (attendance); under 10 metres uses 特別教育の修了 (completion). English/Sinhala now distinguish attendance from completion.
-- Latest QA DOCX size 16,581,856 bytes; 1,543 paragraphs; 144 tables.
-- LibreOffice rendered latest QA DOCX successfully to a 171-page PDF.
-- Original Master DOCX and prior working builds preserved.
+- Removed the unanchored duplicate p21–26 block from a separate QA copy; retained page-mapped p21–26 content.
+- p21 qualification table correctly distinguishes 特別教育の受講 (attendance) from 特別教育の修了 (completion).
+- Tables confirm p21 qualification thresholds, p22 trolley types, p23 AGV/AMR/AGF, p24 conveyor types, p25 qualification categories and p26 palletizer/de-palletizer. Do not re-add these items.
 
-**Not final/release-ready:** first-25 page-by-page source coverage, Sinhala proofreading, image-to-source visual confirmation and final rendered layout review remain outstanding. Working binaries are available in the conversation, not committed to GitHub. Do not claim final approval.
+### First-25 source coverage and visual-map QA
+Report: `audit/FIRST25_SOURCE_COVERAGE_AND_VISUALMAP_QA_2026-11-19.md`
+Commit: `49e803d41d61cc48ed72b356e9fe947505af6d2a`
+- Corrected stale page mapping note: printed p19–26 = physical p19–26, not physical p21–26.
+- Corrected gap-repair intro to avoid falsely claiming p21–26 were absent.
+- Existing extracted source visual map includes p11, p19–24, p26–33; full-page facsimiles cover p15–18.
+- Added full-page facsimile references for p9, p10, p12, p13, p14 and p25. Together source-page visual references now cover p9–33.
+- Latest DOCX: 17,834,242 bytes; 1,576 paragraphs; 144 tables; 184 inline images.
+- LibreOffice rendered PDF successfully: 183 pages.
 
-## Important audit correction
-Earlier text-only audit reports described several items on p21–26 as missing. The DOCX tables contained most of those topics. Do not add duplicate content merely because paragraph-only extraction missed a table. Use the latest QA copy and the duplicate-reconciliation report as the current first-25 working checkpoint.
+**Still not final-approved:** full source-to-notes verification for each page, Sinhala/Japanese terminology proofreading, and visual inspection of every rendered page/table/image remain in progress. Binary working files are in the conversation runtime and are not committed to GitHub.
 
 ## Outstanding work
 1. Verify all prior report paths exist on this branch, especially combined p45–56 and p57–68 reports.
-2. Complete QA for printed pages 9–33: compare every source paragraph/table, proofread English/Sinhala/Japanese terminology, verify each image against its actual source figure and inspect the rendered layout.
+2. Finish first-25 QA: compare all source text and tables on p9–33, proofread Sinhala/English/Japanese terms, visually inspect page placements and tables.
 3. Consolidate genuine Missing/Partial/Incorrect/duplicate/page-mapping findings into one correction master list.
 4. Continue only on page ranges that have not been reliably audited; do not repeat completed batches.
 5. Only after full audit and user approval, apply remaining corrections to the Master DOCX in one controlled phase.
