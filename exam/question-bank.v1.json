@@ -7446,6 +7446,406 @@
       "sourceAnchor": "p118 床の耐荷重を遵守",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0381",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Park the forklift only in designated places.",
+        "ja": "駐車するときは、決められた場所にフォークリフトを停めます。"
+      },
+      "statement": "駐車するときは、決められた場所にフォークリフトを停めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Park the forklift only in designated places.",
+        "si": "Forklift එක නියමිත ස්ථානයක පමණක් නවත්වන්න。",
+        "technicalNoteJa": "駐車場所＝指定場所"
+      },
+      "sourcePage": 119,
+      "sourceAnchor": "p119 駐車場所＝指定場所",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0382",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "You may leave the operator's seat without lowering the forks to the ground.",
+        "ja": "フォークを地面に下ろさずに、運転席を離れてもよいです。"
+      },
+      "statement": "フォークを地面に下ろさずに、運転席を離れてもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "You may leave the operator's seat without lowering the forks to the ground.",
+        "si": "forks බිමට පහත් නොකර රියදුරු අසුනෙන් ඉවත්විය හැකිය යන්න වැරදිය.",
+        "technicalNoteJa": "離席前＝フォークを地面に下ろす"
+      },
+      "sourcePage": 119,
+      "sourceAnchor": "p119 離席前＝フォークを地面に下ろす",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0383",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Apply the parking brake when stopping a forklift.",
+        "ja": "フォークリフトを停止するときは、サイドブレーキをかけます。"
+      },
+      "statement": "フォークリフトを停止するときは、サイドブレーキをかけます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Apply the parking brake when stopping a forklift.",
+        "si": "Forklift එක නවත්වන විට parking brake යොදන්න.",
+        "technicalNoteJa": "停止時＝サイドブレーキ"
+      },
+      "sourcePage": 119,
+      "sourceAnchor": "p119 停止時＝サイドブレーキ",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0384",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "After stopping, switch off the engine and remove the key.",
+        "ja": "フォークリフトを停止したら、エンジンを止めてキーを抜きます。"
+      },
+      "statement": "フォークリフトを停止したら、エンジンを止めてキーを抜きます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "After stopping, switch off the engine and remove the key.",
+        "si": "නවත්වීමෙන් පසු එන්ජිම නවතා යතුර ඉවත් කරන්න.",
+        "technicalNoteJa": "停止原則＝エンジン停止・キー抜き"
+      },
+      "sourcePage": 119,
+      "sourceAnchor": "p119 停止原則＝エンジン停止・キー抜き",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0385",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Empty pallets may be stacked to 30 tiers or more.",
+        "ja": "空パレットは、30段以上積み重ねてもよいです。"
+      },
+      "statement": "空パレットは、30段以上積み重ねてもよいです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Empty pallets may be stacked to 30 tiers or more.",
+        "si": "හිස් pallets ස්ථර 30ක් හෝ ඊට වැඩි ගණනක් ගොඩගැසිය හැකිය යන්න වැරදිය.",
+        "technicalNoteJa": "空パレット＝30段以上積まない"
+      },
+      "sourcePage": 119,
+      "sourceAnchor": "p119 空パレット＝30段以上積まない",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0386",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Select a forklift and forks suited to the cargo weight and dimensions.",
+        "ja": "貨物の重量と大きさに合ったフォークリフトとフォークを選びます。"
+      },
+      "statement": "貨物の重量と大きさに合ったフォークリフトとフォークを選びます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Select a forklift and forks suited to the cargo weight and dimensions.",
+        "si": "භාණ්ඩයේ බර හා ප්‍රමාණයට ගැළපෙන forklift සහ forks තෝරන්න.",
+        "technicalNoteJa": "貨物条件に合う機器を選定"
+      },
+      "sourcePage": 120,
+      "sourceAnchor": "p120 貨物条件に合う機器を選定",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0387",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Insert the forks far enough to support the entire pallet.",
+        "ja": "パレットを支えるため、フォークは十分に奥まで差し込みます。"
+      },
+      "statement": "パレットを支えるため、フォークは十分に奥まで差し込みます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Insert the forks far enough to support the entire pallet.",
+        "si": "pallet එකට සම්පූර්ණ ආධාරය ලැබෙන තරමට forks ගැඹුරට ඇතුළු කරන්න.",
+        "technicalNoteJa": "フォークは十分に差し込む"
+      },
+      "sourcePage": 120,
+      "sourceAnchor": "p120 フォークは十分に差し込む",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0388",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Continue forward when the load blocks forward visibility.",
+        "ja": "荷物で前が見えないときは、前進を続けます。"
+      },
+      "statement": "荷物で前が見えないときは、前進を続けます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Continue forward when the load blocks forward visibility.",
+        "si": "භාණ්ඩය නිසා ඉදිරිය නොපෙනෙන විටත් ඉදිරියටම යන්න යන්න වැරදිය.",
+        "technicalNoteJa": "前方視界不良＝後進"
+      },
+      "sourcePage": 120,
+      "sourceAnchor": "p120 前方視界不良＝後進",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0389",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Travel straight, perpendicular to the slope.",
+        "ja": "坂道では、坂に対して垂直に走行します。"
+      },
+      "statement": "坂道では、坂に対して垂直に走行します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Travel straight, perpendicular to the slope.",
+        "si": "බෑවුමට ලම්බව සෘජු දිශාවෙන් ගමන් කරන්න.",
+        "technicalNoteJa": "坂道＝垂直に走行"
+      },
+      "sourcePage": 120,
+      "sourceAnchor": "p120 坂道＝垂直に走行",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0390",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Obey the warehouse speed limit.",
+        "ja": "倉庫内では、決められた制限速度を守ります。"
+      },
+      "statement": "倉庫内では、決められた制限速度を守ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Obey the warehouse speed limit.",
+        "si": "ගබඩාව තුළ නියමිත වේග සීමාව පිළිපදින්න.",
+        "technicalNoteJa": "倉庫内＝制限速度を遵守"
+      },
+      "sourcePage": 120,
+      "sourceAnchor": "p120 倉庫内＝制限速度を遵守",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0391",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Use a dedicated attachment when lifting an FIBC bag.",
+        "ja": "フレコンバッグを吊るすときは、専用のアタッチメントを使います。"
+      },
+      "statement": "フレコンバッグを吊るすときは、専用のアタッチメントを使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Use a dedicated attachment when lifting an FIBC bag.",
+        "si": "FIBC බෑගයක් එසවීමේදී ඒ සඳහා වූ විශේෂ attachment එකක් භාවිත කරන්න.",
+        "technicalNoteJa": "フレコンバッグ＝専用アタッチメント"
+      },
+      "sourcePage": 121,
+      "sourceAnchor": "p121 フレコンバッグ＝専用アタッチメント",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0392",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "It is safe to suspend an FIBC bag from only one fork.",
+        "ja": "フレコンバッグは、片方のフォークだけで吊っても安全です。"
+      },
+      "statement": "フレコンバッグは、片方のフォークだけで吊っても安全です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "It is safe to suspend an FIBC bag from only one fork.",
+        "si": "එක් fork එකකින් පමණක් FIBC බෑගය එල්ලීම ආරක්ෂිතය යන්න වැරදිය.",
+        "technicalNoteJa": "片側フォークだけで吊らない"
+      },
+      "sourcePage": 121,
+      "sourceAnchor": "p121 片側フォークだけで吊らない",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0393",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Travelling with a suspended FIBC bag on slopes or bends can cause a tip-over.",
+        "ja": "吊ったままのフレコンバッグで坂や曲がり角を走ると、転倒のおそれがあります。"
+      },
+      "statement": "吊ったままのフレコンバッグで坂や曲がり角を走ると、転倒のおそれがあります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Travelling with a suspended FIBC bag on slopes or bends can cause a tip-over.",
+        "si": "එල්ලූ FIBC බෑගයක් සමඟ බෑවුම් හෝ වංගු හරහා යාමෙන් පෙරළීමේ අවදානමක් ඇත.",
+        "technicalNoteJa": "吊り荷走行＝転倒リスク"
+      },
+      "sourcePage": 121,
+      "sourceAnchor": "p121 吊り荷走行＝転倒リスク",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0394",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A clamp forklift is used for long-distance transport.",
+        "ja": "クランプリフトは、長距離運搬に使います。"
+      },
+      "statement": "クランプリフトは、長距離運搬に使います。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A clamp forklift is used for long-distance transport.",
+        "si": "Clamp forklift දිගු දුර ප්‍රවාහනයට භාවිත කරයි යන්න වැරදිය.",
+        "technicalNoteJa": "クランプリフト＝積卸し専用"
+      },
+      "sourcePage": 121,
+      "sourceAnchor": "p121 クランプリフト＝積卸し専用",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0395",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "When gripping roll-shaped cargo, position the clamp at the centre of the load.",
+        "ja": "ロール状貨物をつかむときは、クランプを貨物の中心に合わせます。"
+      },
+      "statement": "ロール状貨物をつかむときは、クランプを貨物の中心に合わせます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "When gripping roll-shaped cargo, position the clamp at the centre of the load.",
+        "si": "රෝල් භාණ්ඩ අල්ලාගැනීමේදී clamp එක භාණ්ඩයේ මධ්‍යයට ගැළපෙන ලෙස තබන්න.",
+        "technicalNoteJa": "ロール貨物＝中心をつかむ"
+      },
+      "sourcePage": 121,
+      "sourceAnchor": "p121 ロール貨物＝中心をつかむ",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0396",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "During vanning, consider cargo weight balance and stability.",
+        "ja": "バンニングでは、貨物の重量バランスと安定を考えて積みます。"
+      },
+      "statement": "バンニングでは、貨物の重量バランスと安定を考えて積みます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "During vanning, consider cargo weight balance and stability.",
+        "si": "Vanning කිරීමේදී භාණ්ඩවල බර සමතුලිතතාව සහ ස්ථාවරත්වය සලකා පටවන්න.",
+        "technicalNoteJa": "バンニング＝重量バランス・安定"
+      },
+      "sourcePage": 122,
+      "sourceAnchor": "p122 バンニング＝重量バランス・安定",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0397",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Use lashing or shoring to secure cargo when necessary.",
+        "ja": "必要な場合、ラッシングやショアリングで貨物を固定します。"
+      },
+      "statement": "必要な場合、ラッシングやショアリングで貨物を固定します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Use lashing or shoring to secure cargo when necessary.",
+        "si": "අවශ්‍ය විට lashing හෝ shoring මඟින් භාණ්ඩ සවි කර සුරක්ෂිත කරන්න.",
+        "technicalNoteJa": "固定方法＝ラッシング・ショアリング"
+      },
+      "sourcePage": 122,
+      "sourceAnchor": "p122 固定方法＝ラッシング・ショアリング",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0398",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "During devanning, open both container doors quickly at once.",
+        "ja": "デパンニングでは、コンテナの両方の扉を一度に速く開けます。"
+      },
+      "statement": "デパンニングでは、コンテナの両方の扉を一度に速く開けます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "During devanning, open both container doors quickly at once.",
+        "si": "Devanning කිරීමේදී container දොරවල් දෙකම එකවර ඉක්මනින් විවෘත කරන්න යන්න වැරදිය.",
+        "technicalNoteJa": "デパンニング＝片方ずつゆっくり開ける"
+      },
+      "sourcePage": 122,
+      "sourceAnchor": "p122 デパンニング＝片方ずつゆっくり開ける",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0399",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Confirm the power is off before moving a belt conveyor.",
+        "ja": "ベルトコンベアを移動する前に、電源が切れていることを確認します。"
+      },
+      "statement": "ベルトコンベアを移動する前に、電源が切れていることを確認します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Confirm the power is off before moving a belt conveyor.",
+        "si": "Belt conveyor එක ගෙන යාමට පෙර විදුලිය විසන්ධි කර ඇති බව තහවුරු කරන්න.",
+        "technicalNoteJa": "移動前＝電源OFF確認"
+      },
+      "sourcePage": 122,
+      "sourceAnchor": "p122 移動前＝電源OFF確認",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0400",
+      "section": "warehouse_safety_health",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A belt conveyor must have an emergency-stop button.",
+        "ja": "ベルトコンベアには、緊急停止ボタンを設置します。"
+      },
+      "statement": "ベルトコンベアには、緊急停止ボタンを設置します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "A belt conveyor must have an emergency-stop button.",
+        "si": "Belt conveyor එකක හදිසි නවත්වන බොත්තමක් තිබිය යුතුය.",
+        "technicalNoteJa": "非常停止ボタンを設置"
+      },
+      "sourcePage": 122,
+      "sourceAnchor": "p122 非常停止ボタンを設置",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
