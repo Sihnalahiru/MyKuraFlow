@@ -7008,26 +7008,6 @@
       "reviewStatus": "DRAFT"
     },
     {
-      "id": "MKF-WR-0359",
-      "section": "warehouse_safety_health",
-      "examType": "written_true_false",
-      "questionText": {
-        "en": "The exploding-bomb pictogram indicates an explosion hazard.",
-        "ja": "<ruby>爆発<rt>ばくはつ</rt></ruby>マークは、<ruby>爆発<rt>ばくはつ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。"
-      },
-      "statement": "<ruby>爆発<rt>ばくはつ</rt></ruby>マークは、<ruby>爆発<rt>ばくはつ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>します。",
-      "correctAnswer": true,
-      "explanation": {
-        "en": "The exploding-bomb pictogram indicates an explosion hazard.",
-        "si": "පුපුරන බෝම්බ සලකුණ පිපිරීමේ අවදානම දක්වයි.",
-        "technicalNoteJa": "爆発マーク＝爆発危険"
-      },
-      "sourcePage": 113,
-      "sourceAnchor": "p113 爆発マーク＝爆発危険",
-      "difficulty": "medium",
-      "reviewStatus": "DRAFT"
-    },
-    {
       "id": "MKF-WR-0360",
       "section": "warehouse_safety_health",
       "examType": "written_true_false",
@@ -10344,6 +10324,186 @@
       },
       "sourcePage": 38,
       "sourceAnchor": "p38-handling-fee",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0526",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Only workers handling the goods and the designated elevator operator may ride the warehouse freight elevator.",
+        "ja": "<ruby>貨物用<rt>かもつよう</rt></ruby>エレベーターに<ruby>乗<rt>の</rt></ruby>れるのは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>扱<rt>あつか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>とエレベーターを<ruby>動<rt>うご</rt></ruby>かす<ruby>人<rt>ひと</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られます。"
+      },
+      "statement": "<ruby>貨物用<rt>かもつよう</rt></ruby>エレベーターに<ruby>乗<rt>の</rt></ruby>れるのは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>扱<rt>あつか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>とエレベーターを<ruby>動<rt>うご</rt></ruby>かす<ruby>人<rt>ひと</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source restricts riders to people handling the goods and the person operating the elevator.",
+        "si": "මූලාශ්‍රය අනුව භාණ්ඩ හසුරුවන අයට සහ ලිෆ්ට් ක්‍රියාකරුට පමණක් භාණ්ඩ ලිෆ්ට් එකේ ගමන් කළ හැකිය.",
+        "technicalNoteJa": "貨物用エレベーターの乗車対象は貨物取扱者と運転者に限られる。"
+      },
+      "sourcePage": 19,
+      "sourceAnchor": "p19-freight-elevator-riders",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0527",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A vertical automatic conveyor starts operating automatically when goods are loaded onto it by a forklift.",
+        "ja": "垂直自動搬送機は、フォークリフトで貨物を載せると自動的に動き始めます。"
+      },
+      "statement": "垂直自動搬送機は、フォークリフトで貨物を載せると自動的に動き始めます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source says loading goods with a forklift starts the vertical automatic conveyor automatically.",
+        "si": "Forklift එකකින් භාණ්ඩ යන්ත්‍රයට තැබූ විට සිරස් ස්වයංක්‍රීය ප්‍රවාහන යන්ත්‍රය ස්වයංක්‍රීයව ක්‍රියාත්මක වේ.",
+        "technicalNoteJa": "垂直自動搬送機は貨物を載せると自動運転を開始する。"
+      },
+      "sourcePage": 19,
+      "sourceAnchor": "p19-vertical-conveyor-start",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0528",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "For a picking forklift handling a load of less than one tonne, the source requires completion of special education.",
+        "ja": "ピッキングフォークリフトで１トン未満の貨物を扱う場合、特別教育の受講が必要です。"
+      },
+      "statement": "ピッキングフォークリフトで１トン未満の貨物を扱う場合、特別教育の受講が必要です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source distinguishes the training requirement by load: under one tonne requires special education; one tonne or more requires completion of the operator skills course.",
+        "si": "Picking forklift එකෙන් ටොන් එකකට අඩු භාණ්ඩ හසුරුවන විට විශේෂ පුහුණුව සම්පූර්ණ කළ යුතුය. ටොන් එකක් හෝ ඊට වැඩි නම් රියදුරු කුසලතා පාඨමාලාව අවශ්‍ය වේ.",
+        "technicalNoteJa": "１トン未満＝特別教育。１トン以上＝運転技能講習。"
+      },
+      "sourcePage": 21,
+      "sourceAnchor": "p21-picking-forklift-under-1t",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0529",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "When a picking forklift is used at a working height below ten metres, the source requires completion of special education.",
+        "ja": "ピッキングフォークリフトで高さ１０メートル未満の場所で作業するときは、特別教育の修了が必要です。"
+      },
+      "statement": "ピッキングフォークリフトで高さ１０メートル未満の場所で作業するときは、特別教育の修了が必要です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source separately specifies special education for work at heights below ten metres.",
+        "si": "මීටර් 10ට අඩු උසක වැඩ කරන විට picking forklift සඳහා විශේෂ අධ්‍යාපනය සම්පූර්ණ කළ යුතු බව මූලාශ්‍රයේ සඳහන් වේ.",
+        "technicalNoteJa": "高さ10メートル未満での作業＝特別教育の修了。"
+      },
+      "sourcePage": 21,
+      "sourceAnchor": "p21-picking-forklift-height",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0530",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A hanger trolley transports garments while they remain hanging on hangers.",
+        "ja": "ハンガー台車は、衣類をハンガーに掛けたまま運びます。"
+      },
+      "statement": "ハンガー台車は、衣類をハンガーに掛けたまま運びます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source describes the hanger trolley as transporting garments in their hanging condition; it is also called a Z-rack.",
+        "si": "Hanger trolley එක ඇඳුම් hanger මත එල්ලා ඇති ආකාරයෙන්ම ප්‍රවාහනය කරයි. මෙය Z-rack ලෙසද හැඳින්වේ.",
+        "technicalNoteJa": "ハンガー台車＝衣類をハンガーに掛けたまま運ぶ。"
+      },
+      "sourcePage": 22,
+      "sourceAnchor": "p22-hanger-trolley",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0531",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "An AGF is a forklift-type robot that can transport pallets or containers without a person operating it.",
+        "ja": "AGFは、人が操作しなくてもパレットやコンテナを運ぶフォークリフト型のロボットです。"
+      },
+      "statement": "AGFは、人が操作しなくてもパレットやコンテナを運ぶフォークリフト型のロボットです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source defines AGF as an automated forklift robot that transports pallets or containers without human operation.",
+        "si": "AGF යනු මිනිස් ක්‍රියාකරුවෙකු නොමැතිව pallet හෝ container ප්‍රවාහනය කරන ස්වයංක්‍රීය forklift රොබෝවකි.",
+        "technicalNoteJa": "AGF＝人が操作しない自動フォークリフト。"
+      },
+      "sourcePage": 23,
+      "sourceAnchor": "p23-agf",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0532",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A roller conveyor moves cargo as it rolls over rollers.",
+        "ja": "ローラーコンベアは、貨物がローラーの上を転がって進みます。"
+      },
+      "statement": "ローラーコンベアは、貨物がローラーの上を転がって進みます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source distinguishes roller conveyors from belt, chain and screw conveyors by the cargo moving over rollers.",
+        "si": "Roller conveyor එකේ භාණ්ඩ රෝලර් මත පෙරළෙමින් ඉදිරියට ගමන් කරයි.",
+        "technicalNoteJa": "ローラーコンベア＝ローラー上を貨物が転がって進む。"
+      },
+      "sourcePage": 24,
+      "sourceAnchor": "p24-roller-conveyor",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0533",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The qualification required for crane operation depends on the weight of the cargo being lifted.",
+        "ja": "クレーンの操作に必要な資格は、持ち上げる貨物の重さによって変わります。"
+      },
+      "statement": "クレーンの操作に必要な資格は、持ち上げる貨物の重さによって変わります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source states that crane credentials vary according to the weight being lifted, and unqualified people must not operate cranes.",
+        "si": "Crane ක්‍රියාත්මක කිරීමට අවශ්‍ය සුදුසුකම ඔසවන භාණ්ඩයේ බර අනුව වෙනස් වේ. සුදුසුකම් නොමැති අය එය ක්‍රියාත්මක නොකළ යුතුය.",
+        "technicalNoteJa": "クレーンの必要資格は吊り上げる重量によって異なる。"
+      },
+      "sourcePage": 25,
+      "sourceAnchor": "p25-crane-qualification-weight",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0534",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The source states that no special qualification is required to use the packing, strapping and stretch-wrapping machines described on the page.",
+        "ja": "梱包機・結束機・ストレッチマシンを使うための特別な資格は不要です。"
+      },
+      "statement": "梱包機・結束機・ストレッチマシンを使うための特別な資格は不要です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source explicitly says special qualifications are not required for these three packaging machines.",
+        "si": "මෙම පිටුවේ සඳහන් packing machine, strapping machine සහ stretch machine භාවිතයට විශේෂ සුදුසුකමක් අවශ්‍ය නොවන බව මූලාශ්‍රයේ සඳහන් වේ.",
+        "technicalNoteJa": "梱包機・結束機・ストレッチマシン＝特別資格不要。"
+      },
+      "sourcePage": 27,
+      "sourceAnchor": "p27-packaging-machine-qualification",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
     }
