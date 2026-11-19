@@ -8666,6 +8666,406 @@
       "sourceAnchor": "p63-s1 counter kasho",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0442",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A reusable transport item may be a standard-sized plastic container used repeatedly in logistics.",
+        "ja": "<ruby>RTIは、物流で繰り返し使う決まった大きさのプラスチック容器です。</ruby>"
+      },
+      "statement": "<ruby>RTIは、物流で繰り返し使う決まった大きさのプラスチック容器です。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "RTI is a reusable logistics container, often a standard-sized plastic box.",
+        "si": "RTI යනු logistics කටයුතු සඳහා නැවත නැවත භාවිත කරන නියමිත ප්‍රමාණයේ ප්ලාස්ටික් බහාලුමකි.",
+        "technicalNoteJa": "RTI＝リターナブル物流容器"
+      },
+      "sourcePage": 69,
+      "sourceAnchor": "p69-s1 RTI",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0443",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "When cargo quantity differs from documents, the discrepancy should be recorded with the driver present and the driver's signature obtained.",
+        "ja": "<ruby>数量が違うときは、ドライバー立会いで内容を記録し、署名をもらいます。</ruby>"
+      },
+      "statement": "<ruby>数量が違うときは、ドライバー立会いで内容を記録し、署名をもらいます。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source requires documenting the discrepancy with the driver present and obtaining a signature.",
+        "si": "භාණ්ඩ ප්‍රමාණය ලේඛනවලින් වෙනස් නම් රියදුරු ඉදිරියේ විස්තර සටහන් කර අත්සන ලබාගත යුතුය.",
+        "technicalNoteJa": "数量違い＝立会い記録・署名"
+      },
+      "sourcePage": 69,
+      "sourceAnchor": "p69-s1 quantity discrepancy",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0444",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Visible external damage always proves that the cargo inside is undamaged.",
+        "ja": "<ruby>外観に傷がある場合、内部にも不良がある可能性があります。</ruby>"
+      },
+      "statement": "<ruby>外観に傷がある場合、内部にも不良がある可能性があります。</ruby>",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "External damage may indicate internal defects; it does not prove the contents are sound.",
+        "si": "පිටතින් හානි පෙනේ නම් ඇතුළත භාණ්ඩවලටද හානි වී තිබිය හැකිය.",
+        "technicalNoteJa": "外観の損傷は内部不良の可能性"
+      },
+      "sourcePage": 69,
+      "sourceAnchor": "p69-s1 external damage",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0445",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The remark code WET indicates that cargo or its packaging is wet.",
+        "ja": "<ruby>WETは、貨物や包装が濡れていることを示します。</ruby>"
+      },
+      "statement": "<ruby>WETは、貨物や包装が濡れていることを示します。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "WET is one of the listed cargo-condition remarks.",
+        "si": "WET යනු භාණ්ඩය හෝ ඇසුරුම තෙත් වී ඇති බව දක්වන සටහනකි.",
+        "technicalNoteJa": "WET＝濡れている"
+      },
+      "sourcePage": 70,
+      "sourceAnchor": "p70-s1 remark codes",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0446",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The remark code BANDS OFF means that the cargo has leaked.",
+        "ja": "<ruby>BANDS OFFは、バンドが切れたり外れたりした状態です。</ruby>"
+      },
+      "statement": "<ruby>BANDS OFFは、バンドが切れたり外れたりした状態です。</ruby>",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "BANDS OFF refers to broken or missing bands; LEAKING means leakage.",
+        "si": "BANDS OFF යනු බැඳුම් පටි කැඩී හෝ ගැලවී ඇති බවයි; කාන්දු වීම LEAKING වේ.",
+        "technicalNoteJa": "BANDS OFF＝バンド切れ"
+      },
+      "sourcePage": 70,
+      "sourceAnchor": "p70-s1 remark codes",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0447",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If a barcode cannot be read, the worker should report it to the supervisor and follow instructions.",
+        "ja": "<ruby>バーコードが読めない場合は、責任者に報告して指示に従います。</ruby>"
+      },
+      "statement": "<ruby>バーコードが読めない場合は、責任者に報告して指示に従います。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Unreadable barcodes must be escalated to the supervisor.",
+        "si": "Barcode එක කියවිය නොහැකි නම් වගකිවයුතු නිලධාරියාට දන්වා උපදෙස් අනුව ක්‍රියා කළ යුතුය.",
+        "technicalNoteJa": "バーコード不読＝責任者へ報告"
+      },
+      "sourcePage": 70,
+      "sourceAnchor": "p70-s1 barcode issue",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0448",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Warehouse locations are managed using letters and numbers.",
+        "ja": "<ruby>倉庫のロケーションは、英字と数字で管理します。</ruby>"
+      },
+      "statement": "<ruby>倉庫のロケーションは、英字と数字で管理します。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source describes a location as a warehouse address managed alphanumerically.",
+        "si": "ගබඩා location අකුරු සහ ඉලක්කම් භාවිතයෙන් පාලනය කරයි.",
+        "technicalNoteJa": "ロケーション＝英数字で管理"
+      },
+      "sourcePage": 70,
+      "sourceAnchor": "p70-s1 location definition",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0449",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A fixed-location system allows any cargo to be placed in any empty slot without a preassigned location.",
+        "ja": "<ruby>固定ロケーションでは、貨物ごとに決まった保管場所があります。</ruby>"
+      },
+      "statement": "<ruby>固定ロケーションでは、貨物ごとに決まった保管場所があります。</ruby>",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Fixed location assigns a regular place to each cargo type; free location uses any available slot.",
+        "si": "Fixed location ක්‍රමයේදී භාණ්ඩ වර්ගයට නියමිත ස්ථානයක් ඇත; හිස් ඕනෑම තැනක තැබීම free location වේ.",
+        "technicalNoteJa": "固定ロケーション＝決まった場所"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "p71-s1 fixed location",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0450",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A disadvantage of free-location storage is that finding the exact stock location can take effort.",
+        "ja": "<ruby>フリーロケーションでは、貨物の場所を確認するのに手間がかかります。</ruby>"
+      },
+      "statement": "<ruby>フリーロケーションでは、貨物の場所を確認するのに手間がかかります。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Free location improves space use but can require effort to locate stock.",
+        "si": "Free location ක්‍රමයෙන් ඉඩකඩ හොඳින් භාවිත කළ හැකි නමුත් තොගය සොයාගැනීමට වැඩි කාලයක් ගත විය හැකිය.",
+        "technicalNoteJa": "フリーロケーション＝所在確認に手間"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "p71-s1 free location",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0451",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "In double-transaction storage, both the picking area and bulk stock area are managed as fixed locations.",
+        "ja": "<ruby>ダブルトランザクションでは、ピッキングエリアは固定、ストックエリアはフリーです。</ruby>"
+      },
+      "statement": "<ruby>ダブルトランザクションでは、ピッキングエリアは固定、ストックエリアはフリーです。</ruby>",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The picking area is fixed while the stock area is free.",
+        "si": "Double transaction ක්‍රමයේ picking area එක fixed වන අතර stock area එක free වේ.",
+        "technicalNoteJa": "ピッキング＝固定／ストック＝フリー"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "p71-s1 double transaction",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0452",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Double-transaction storage requires replenishment from the stock area to the picking area.",
+        "ja": "<ruby>ダブルトランザクションでは、ストックエリアからピッキングエリアへの補充が必要です。</ruby>"
+      },
+      "statement": "<ruby>ダブルトランザクションでは、ストックエリアからピッキングエリアへの補充が必要です。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The method improves picking efficiency but requires replenishment.",
+        "si": "මෙම ක්‍රමය picking කාර්යක්ෂමතාව වැඩි කළත් stock area එකෙන් picking area එකට නැවත භාණ්ඩ පිරවීම අවශ්‍ය වේ.",
+        "technicalNoteJa": "補充＝ストックからピッキングへ"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "p71-s1 replenishment",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0453",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A sashifuda is a card that records cargo details and inbound/outbound movements.",
+        "ja": "<ruby>さし札は、貨物明細と入出庫記録を書く札です。</ruby>"
+      },
+      "statement": "<ruby>さし札は、貨物明細と入出庫記録を書く札です。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The stock card records cargo details and inbound/outbound records.",
+        "si": "Sashifuda යනු භාණ්ඩ විස්තර සහ ඇතුළත්/පිටත් කිරීමේ සටහන් ලියන කාඩ්පතකි.",
+        "technicalNoteJa": "さし札＝貨物明細・入出庫記録"
+      },
+      "sourcePage": 71,
+      "sourceAnchor": "p71-s1 sashifuda",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0454",
+      "section": "storage_picking",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If picked stock is insufficient, the worker may independently change the quantity written on the release instruction.",
+        "ja": "<ruby>欠品があれば事務所に報告し、指示書の数字を自分で修正してはいけません。</ruby>"
+      },
+      "statement": "<ruby>欠品があれば事務所に報告し、指示書の数字を自分で修正してはいけません。</ruby>",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "A shortage must be reported; workers must not alter the instruction quantity themselves.",
+        "si": "තොගය අඩු නම් කාර්යාලයට වාර්තා කළ යුතුය; උපදෙස් පත්‍රයේ ප්‍රමාණය තමන්ම වෙනස් නොකළ යුතුය.",
+        "technicalNoteJa": "欠品＝報告／指図書を自分で修正しない"
+      },
+      "sourcePage": 72,
+      "sourceAnchor": "p72-s1 shortage handling",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0455",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Single picking gathers goods separately for each delivery destination.",
+        "ja": "<ruby>シングルピッキングは、出荷先ごとに貨物を集めます。</ruby>"
+      },
+      "statement": "<ruby>シングルピッキングは、出荷先ごとに貨物を集めます。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Single/order picking gathers goods separately by destination.",
+        "si": "Single picking ක්‍රමයේදී එක් එක් delivery destination සඳහා භාණ්ඩ වෙන වෙනම එකතු කරයි.",
+        "technicalNoteJa": "シングルピッキング＝出荷先別"
+      },
+      "sourcePage": 72,
+      "sourceAnchor": "p72-s1 single picking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0456",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Total picking collects the required goods together first and sorts them by destination afterward.",
+        "ja": "<ruby>トータルピッキングは、商品を一度に集めてから出荷先別に仕分けます。</ruby>"
+      },
+      "statement": "<ruby>トータルピッキングは、商品を一度に集めてから出荷先別に仕分けます。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Total picking reduces travel by collecting goods together before destination sorting.",
+        "si": "Total picking ක්‍රමයේදී අවශ්‍ය භාණ්ඩ එකවර එකතු කර පසුව ගමනාන්ත අනුව වෙන් කරයි.",
+        "technicalNoteJa": "トータルピッキング＝一括収集後に仕分け"
+      },
+      "sourcePage": 73,
+      "sourceAnchor": "p73-s1 total picking",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0457",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Sticker picking can allow inspection to take place at the same time as picking.",
+        "ja": "<ruby>シールピッキングでは、ピッキングと同時に検品できます。</ruby>"
+      },
+      "statement": "<ruby>シールピッキングでは、ピッキングと同時に検品できます。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The label is attached as each item is picked, enabling simultaneous checking.",
+        "si": "Sticker picking කිරීමේදී භාණ්ඩය ගන්නා විටම label අලවන නිසා inspection එකද එකවර කළ හැකිය.",
+        "technicalNoteJa": "シールピッキング＝ピッキングと検品"
+      },
+      "sourcePage": 73,
+      "sourceAnchor": "p73-s1 sticker picking",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0458",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Outbound inspection should be checked by a second person as a double-check.",
+        "ja": "<ruby>出庫検品では、別の人によるダブルチェックを行います。</ruby>"
+      },
+      "statement": "<ruby>出庫検品では、別の人によるダブルチェックを行います。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source calls for a second person's double-check.",
+        "si": "Outbound inspection එකේදී වෙනත් සේවකයෙකු ලවා දෙවන පරීක්ෂාවක් කළ යුතුය.",
+        "technicalNoteJa": "ダブルチェック＝別の人が確認"
+      },
+      "sourcePage": 74,
+      "sourceAnchor": "p74-s1 double check",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0459",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "If damaged cargo is found and no instruction can be obtained from the depositor, the source says to handle it as a separate LOT.",
+        "ja": "<ruby>寄託者の指示が得られなければ、別LOTとして扱います。</ruby>"
+      },
+      "statement": "<ruby>寄託者の指示が得られなければ、別LOTとして扱います。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source specifies separate-LOT handling if instructions cannot be obtained.",
+        "si": "භාණ්ඩ හිමිකරුගෙන් උපදෙස් ලබාගත නොහැකි නම් හානි වූ භාණ්ඩ වෙනම LOT එකක් ලෙස සැලකිය යුතුය.",
+        "technicalNoteJa": "指示なし＝別LOT扱い"
+      },
+      "sourcePage": 74,
+      "sourceAnchor": "p74-s1 damaged cargo handling",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0460",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "On a cage trolley, heavy and strong cartons should be placed below bags and crushable goods.",
+        "ja": "<ruby>カゴ台車では、重く丈夫な箱を下に置き、袋物や潰れやすい物を上に置きます。</ruby>"
+      },
+      "statement": "<ruby>カゴ台車では、重く丈夫な箱を下に置き、袋物や潰れやすい物を上に置きます。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source recommends heavy, strong cartons at the bottom and crushable goods above.",
+        "si": "Cage trolley එකක බර සහ ශක්තිමත් පෙට්ටි පහළින්ද පහසුවෙන් පොඩි වන බෑග්/භාණ්ඩ ඉහළින්ද තැබිය යුතුය.",
+        "technicalNoteJa": "重く丈夫な箱＝下／潰れやすい物＝上"
+      },
+      "sourcePage": 75,
+      "sourceAnchor": "p75-s1 cage trolley loading",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0461",
+      "section": "receiving_dispatch",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Overhang means cargo extends beyond the edge of a pallet or the lower cargo.",
+        "ja": "<ruby>貨物がパレットの端や下段からはみ出すことをオーバーハングといいます。</ruby>"
+      },
+      "statement": "<ruby>貨物がパレットの端や下段からはみ出すことをオーバーハングといいます。</ruby>",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Overhang describes cargo projecting beyond the pallet edge or lower load.",
+        "si": "භාණ්ඩ pallet එකේ අගින් හෝ පහළ භාණ්ඩවලින් පිටතට නෙරා යාම overhang ලෙස හැඳින්වේ.",
+        "technicalNoteJa": "オーバーハング＝はみ出し"
+      },
+      "sourcePage": 75,
+      "sourceAnchor": "p75-s1 overhang",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
