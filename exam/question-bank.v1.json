@@ -8246,6 +8246,426 @@
       "sourceAnchor": "p88 積段数制限＝表示数まで",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0421",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Kilo is 1,000 times the base unit.",
+        "ja": "kilo（キロ）は<ruby>基本単位<rt>[object Object]</rt></ruby>の1,000倍です。"
+      },
+      "statement": "kilo（キロ）は<ruby>基本単位<rt>[object Object]</rt></ruby>の1,000倍です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Kilo means 1,000 times the base unit.",
+        "si": "kilo යනු මූලික ඒකකයේ 1,000 ගුණයකි.",
+        "technicalNoteJa": "kilo＝1,000倍"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "p59-s1 metric prefixes",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0422",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Deci means one hundredth of a unit.",
+        "ja": "deci（デシ）は<ruby>基本単位<rt>[object Object]</rt></ruby>の10分の1です。"
+      },
+      "statement": "deci（デシ）は<ruby>基本単位<rt>[object Object]</rt></ruby>の10分の1です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "Deci means one tenth; centi means one hundredth.",
+        "si": "deci යනු දහයෙන් එකකි; සියයෙන් එක centi වේ.",
+        "technicalNoteJa": "deci＝10分の1、centi＝100分の1"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "p59-s1 metric prefixes",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0423",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "One millilitre may also be called one cubic centimetre.",
+        "ja": "1mLは1cc（<ruby>立方<rt>[object Object]</rt></ruby>センチメートル）ともいいます。"
+      },
+      "statement": "1mLは1cc（<ruby>立方<rt>[object Object]</rt></ruby>センチメートル）ともいいます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source equates 1 mL with 1 cc.",
+        "si": "1 mL යන්න 1 cc ලෙසද හඳුන්වයි.",
+        "technicalNoteJa": "1mL＝1cc"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "p59-s1 mL and cc",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0424",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "One traditional Japanese shō equals 18 litres.",
+        "ja": "1<ruby>升<rt>[object Object]</rt></ruby>は1.8Lです。"
+      },
+      "statement": "1<ruby>升<rt>[object Object]</rt></ruby>は1.8Lです。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "One shō is 1.8 L; one tō is 18 L.",
+        "si": "shō එකක් ලීටර් 1.8කි; tō එකක් ලීටර් 18කි.",
+        "technicalNoteJa": "1升＝1.8L"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "p59-s1 traditional capacity units",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0425",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Ten shō make one tō.",
+        "ja": "1<ruby>斗<rt>[object Object]</rt></ruby>は10<ruby>升<rt>[object Object]</rt></ruby>です。"
+      },
+      "statement": "1<ruby>斗<rt>[object Object]</rt></ruby>は10<ruby>升<rt>[object Object]</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source gives 1 tō = 10 shō = 18 L.",
+        "si": "1 tō = shō 10ක් = ලීටර් 18කි.",
+        "technicalNoteJa": "1斗＝10升＝18L"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "p59-s1 traditional capacity units",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0426",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Specific gravity is compared using water as the reference value 1.",
+        "ja": "<ruby>比重<rt>[object Object]</rt></ruby>は、水を1として比べた<ruby>重さ<rt>[object Object]</rt></ruby>の割合です。"
+      },
+      "statement": "<ruby>比重<rt>[object Object]</rt></ruby>は、水を1として比べた<ruby>重さ<rt>[object Object]</rt></ruby>の割合です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Specific gravity is relative to water, taken as 1.",
+        "si": "සාපේක්ෂ ඝනත්වය ජලය 1 ලෙස සලකා සසඳයි.",
+        "technicalNoteJa": "比重＝水を1とした割合"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "p59-s1 specific gravity",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0427",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "For non-water materials, weight is calculated as volume divided by specific gravity.",
+        "ja": "<ruby>水以外<rt>[object Object]</rt></ruby>の<ruby>物<rt>[object Object]</rt></ruby>の<ruby>重さ<rt>[object Object]</rt></ruby>は、<ruby>体積<rt>[object Object]</rt></ruby>×<ruby>比重<rt>[object Object]</rt></ruby>で計算します。"
+      },
+      "statement": "<ruby>水以外<rt>[object Object]</rt></ruby>の<ruby>物<rt>[object Object]</rt></ruby>の<ruby>重さ<rt>[object Object]</rt></ruby>は、<ruby>体積<rt>[object Object]</rt></ruby>×<ruby>比重<rt>[object Object]</rt></ruby>で計算します。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The formula is volume multiplied by specific gravity.",
+        "si": "ජලය නොවන ද්‍රව්‍යයක බර = පරිමාව × සාපේක්ෂ ඝනත්වයයි.",
+        "technicalNoteJa": "重さ＝体積×比重"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "p59-s1 weight calculation",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0428",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A volume of 0.5 m³ at specific gravity 0.9 weighs 0.45 tonnes.",
+        "ja": "0.5m³×0.9＝0.45tです。"
+      },
+      "statement": "0.5m³×0.9＝0.45tです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source example calculates 0.45 t, or 450 kg.",
+        "si": "0.5 m³ × 0.9 = 0.45 tonne (450 kg) වේ.",
+        "technicalNoteJa": "0.5m³×0.9＝0.45t"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "p59-s1 calculation example",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0429",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "One traditional Japanese kan is approximately 3.75 kg.",
+        "ja": "1<ruby>貫<rt>[object Object]</rt></ruby>は<ruby>約<rt>[object Object]</rt></ruby>3.75kgです。"
+      },
+      "statement": "1<ruby>貫<rt>[object Object]</rt></ruby>は<ruby>約<rt>[object Object]</rt></ruby>3.75kgです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source gives one kan as approximately 3.75 kg.",
+        "si": "kan එකක් කිලෝග්‍රෑම් 3.75ක් පමණ වේ.",
+        "technicalNoteJa": "1貫≈3.75kg"
+      },
+      "sourcePage": 59,
+      "sourceAnchor": "p59-s1 traditional weight",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0430",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The measurement-tonne conversion uses 40 cubic feet as one tonne.",
+        "ja": "<ruby>容積<rt>[object Object]</rt></ruby>トンは40<ruby>立方<rt>[object Object]</rt></ruby>フィートを1トンとして計算します。"
+      },
+      "statement": "<ruby>容積<rt>[object Object]</rt></ruby>トンは40<ruby>立方<rt>[object Object]</rt></ruby>フィートを1トンとして計算します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source states 40 cubic feet (1.133 m³) = 1 measurement tonne.",
+        "si": "cubic feet 40ක් (1.133 m³) = measurement tonne 1කි.",
+        "technicalNoteJa": "40立方フィート＝1容積トン"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "p60-s1 measurement tonne",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0431",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Effective height is limited by the lower of the main beam underside or duct bottom.",
+        "ja": "<ruby>有効高<rt>[object Object]</rt></ruby>は、<ruby>大梁<rt>[object Object]</rt></ruby>の下またはダクトの<ruby>下端<rt>[object Object]</rt></ruby>の<ruby>低い方<rt>[object Object]</rt></ruby>までです。"
+      },
+      "statement": "<ruby>有効高<rt>[object Object]</rt></ruby>は、<ruby>大梁<rt>[object Object]</rt></ruby>の下またはダクトの<ruby>下端<rt>[object Object]</rt></ruby>の<ruby>低い方<rt>[object Object]</rt></ruby>までです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Use the lower obstruction to determine usable cargo height.",
+        "si": "භාණ්ඩ තැබිය හැකි උස තීරණය වන්නේ beam පහළ හෝ duct පහළ යන දෙකෙන් අඩු අගය අනුවය.",
+        "technicalNoteJa": "有効高＝大梁下またはダクト下端の低い方"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "p60-s1 effective height",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0432",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The refrigerated-warehouse equipment-tonnage formula includes factors 0.9 and 0.4.",
+        "ja": "<ruby>設備<rt>[object Object]</rt></ruby>トン＝<ruby>床面積<rt>[object Object]</rt></ruby>×<ruby>有効高<rt>[object Object]</rt></ruby>×0.9×0.4です。"
+      },
+      "statement": "<ruby>設備<rt>[object Object]</rt></ruby>トン＝<ruby>床面積<rt>[object Object]</rt></ruby>×<ruby>有効高<rt>[object Object]</rt></ruby>×0.9×0.4です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The formula multiplies floor area and effective height by 0.9 and 0.4.",
+        "si": "සූත්‍රයට 0.9 සහ 0.4 ගුණක දෙකම ඇතුළත් වේ.",
+        "technicalNoteJa": "床面積×有効高×0.9×0.4"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "p60-s1 equipment ton formula",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0433",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A thermometer and hygrometer are used to measure temperature and humidity.",
+        "ja": "<ruby>温度計<rt>[object Object]</rt></ruby>と<ruby>湿度計<rt>[object Object]</rt></ruby>で<ruby>温度<rt>[object Object]</rt></ruby>と<ruby>湿度<rt>[object Object]</rt></ruby>を<ruby>測定<rt>[object Object]</rt></ruby>します。"
+      },
+      "statement": "<ruby>温度計<rt>[object Object]</rt></ruby>と<ruby>湿度計<rt>[object Object]</rt></ruby>で<ruby>温度<rt>[object Object]</rt></ruby>と<ruby>湿度<rt>[object Object]</rt></ruby>を<ruby>測定<rt>[object Object]</rt></ruby>します。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source names these two measuring instruments.",
+        "si": "උෂ්ණත්වය සහ ආර්ද්‍රතාව මැනීමට thermometer සහ hygrometer භාවිත කරයි.",
+        "technicalNoteJa": "温度計・湿度計"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "p60-s1 measuring instruments",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0434",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The ordinary-work illumination standard is at least 150 lux.",
+        "ja": "<ruby>普通作業<rt>[object Object]</rt></ruby>の<ruby>明るさ<rt>[object Object]</rt></ruby>の<ruby>基準<rt>[object Object]</rt></ruby>は150lx<ruby>以上<rt>[object Object]</rt></ruby>です。"
+      },
+      "statement": "<ruby>普通作業<rt>[object Object]</rt></ruby>の<ruby>明るさ<rt>[object Object]</rt></ruby>の<ruby>基準<rt>[object Object]</rt></ruby>は150lx<ruby>以上<rt>[object Object]</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source states 150 lx or more.",
+        "si": "සාමාන්‍ය වැඩ සඳහා අවම ආලෝකය 150 lx වේ.",
+        "technicalNoteJa": "普通作業＝150lx以上"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "p60-s1 illumination",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0435",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "In 24-hour notation, 11 p.m. is written as 11:00.",
+        "ja": "24<ruby>時間表記<rt>[object Object]</rt></ruby>では、<ruby>午後<rt>[object Object]</rt></ruby>11<ruby>時<rt>[object Object]</rt></ruby>は23:00です。"
+      },
+      "statement": "24<ruby>時間表記<rt>[object Object]</rt></ruby>では、<ruby>午後<rt>[object Object]</rt></ruby>11<ruby>時<rt>[object Object]</rt></ruby>は23:00です。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "11 p.m. is 23:00 in 24-hour format.",
+        "si": "24-hour ක්‍රමයේ රාත්‍රී 11 යනු 23:00 වේ.",
+        "technicalNoteJa": "午後11時＝23:00"
+      },
+      "sourcePage": 60,
+      "sourceAnchor": "p60-s1 time notation",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0436",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Japanese counters are selected according to an item's shape or nature.",
+        "ja": "<ruby>助数詞<rt>[object Object]</rt></ruby>は、<ruby>物<rt>[object Object]</rt></ruby>の<ruby>形<rt>[object Object]</rt></ruby>や<ruby>性質<rt>[object Object]</rt></ruby>によって<ruby>使い分け<rt>[object Object]</rt></ruby>ます。"
+      },
+      "statement": "<ruby>助数詞<rt>[object Object]</rt></ruby>は、<ruby>物<rt>[object Object]</rt></ruby>の<ruby>形<rt>[object Object]</rt></ruby>や<ruby>性質<rt>[object Object]</rt></ruby>によって<ruby>使い分け<rt>[object Object]</rt></ruby>ます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "Counters vary with the shape and characteristics of the item.",
+        "si": "භාණ්ඩයේ හැඩය හා ස්වභාවය අනුව counter තෝරයි.",
+        "technicalNoteJa": "助数詞は形や性質で使い分ける"
+      },
+      "sourcePage": 61,
+      "sourceAnchor": "p61-s1 counter selection",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0437",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 本 is used for flat, thin items such as corrugated sheets.",
+        "ja": "枚は、<ruby>段<rt>[object Object]</rt></ruby>ボールのような<ruby>平たく<rt>[object Object]</rt></ruby><ruby>薄い<rt>[object Object]</rt></ruby><ruby>物<rt>[object Object]</rt></ruby>に使います。"
+      },
+      "statement": "枚は、<ruby>段<rt>[object Object]</rt></ruby>ボールのような<ruby>平たく<rt>[object Object]</rt></ruby><ruby>薄い<rt>[object Object]</rt></ruby><ruby>物<rt>[object Object]</rt></ruby>に使います。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "枚 is for flat thin objects; 本 is for long slender objects.",
+        "si": "පැතලි තුනී දේ සඳහා 枚 ද දිගු සිහින් දේ සඳහා 本 ද භාවිත කරයි.",
+        "technicalNoteJa": "枚＝平たく薄い物／本＝細長い物"
+      },
+      "sourcePage": 61,
+      "sourceAnchor": "p61-s1 counters hon and mai",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0438",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 台 is used for machinery and equipment such as forklifts.",
+        "ja": "フォークリフトなどの<ruby>機械<rt>[object Object]</rt></ruby>・<ruby>設備<rt>[object Object]</rt></ruby>には台を使います。"
+      },
+      "statement": "フォークリフトなどの<ruby>機械<rt>[object Object]</rt></ruby>・<ruby>設備<rt>[object Object]</rt></ruby>には台を使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "台 is used for machinery and equipment, including forklifts.",
+        "si": "Forklift වැනි යන්ත්‍ර ගණන් කිරීමට 台 භාවිත කරයි.",
+        "technicalNoteJa": "台＝機械・設備"
+      },
+      "sourcePage": 61,
+      "sourceAnchor": "p61-s1 counter dai",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0439",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 冊 is used for books and booklets.",
+        "ja": "<ruby>本<rt>[object Object]</rt></ruby>や<ruby>冊子<rt>[object Object]</rt></ruby>には冊を使います。"
+      },
+      "statement": "<ruby>本<rt>[object Object]</rt></ruby>や<ruby>冊子<rt>[object Object]</rt></ruby>には冊を使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "冊 is used for books and booklets.",
+        "si": "පොත් සහ පොත් පිංච සඳහා 冊 භාවිත කරයි.",
+        "technicalNoteJa": "冊＝本・冊子"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "p62-s1 counter satsu",
+      "difficulty": "easy",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0440",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter 足 is used for clothing items.",
+        "ja": "着は<ruby>衣類<rt>[object Object]</rt></ruby>、足は<ruby>靴<rt>[object Object]</rt></ruby>などの<ruby>履物<rt>[object Object]</rt></ruby>に使います。"
+      },
+      "statement": "着は<ruby>衣類<rt>[object Object]</rt></ruby>、足は<ruby>靴<rt>[object Object]</rt></ruby>などの<ruby>履物<rt>[object Object]</rt></ruby>に使います。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "着 is for clothing; 足 is for footwear.",
+        "si": "ඇඳුම් සඳහා 着 ද පාවහන් සඳහා 足 ද භාවිත කරයි.",
+        "technicalNoteJa": "着＝衣類／足＝履物"
+      },
+      "sourcePage": 62,
+      "sourceAnchor": "p62-s1 counters chaku and soku",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0441",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The counter か所 is used to count locations.",
+        "ja": "<ruby>場所<rt>[object Object]</rt></ruby>の<ruby>数<rt>[object Object]</rt></ruby>には「か所」を使います。"
+      },
+      "statement": "<ruby>場所<rt>[object Object]</rt></ruby>の<ruby>数<rt>[object Object]</rt></ruby>には「か所」を使います。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "か所 is used to count locations.",
+        "si": "ස්ථාන ගණන සඳහා か所 භාවිත කරයි.",
+        "technicalNoteJa": "か所＝場所の数"
+      },
+      "sourcePage": 63,
+      "sourceAnchor": "p63-s1 counter kasho",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
