@@ -10006,6 +10006,346 @@
       "sourceAnchor": "p67 source detail",
       "difficulty": "medium",
       "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0509",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A dimensioning-and-weighing machine automatically measures both cargo size and weight in one operation.",
+        "ja": "<ruby>採寸計量器<rt>さいすんけいりょうき</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさと<ruby>重<rt>おも</rt></ruby>さを<ruby>一度<rt>いちど</rt></ruby>に<ruby>自動<rt>じどう</rt></ruby>で<ruby>測<rt>はか</rt></ruby>ります。"
+      },
+      "statement": "<ruby>採寸計量器<rt>さいすんけいりょうき</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさと<ruby>重<rt>おも</rt></ruby>さを<ruby>一度<rt>いちど</rt></ruby>に<ruby>自動<rt>じどう</rt></ruby>で<ruby>測<rt>はか</rt></ruby>ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source distinguishes measuring dimensions (採寸) from measuring weight (計量); the machine performs both automatically.",
+        "si": "මූලාශ්‍රයේ 採寸 යනු භාණ්ඩයේ ප්‍රමාණය මැනීමත් 計量 යනු බර මැනීමත් ලෙස වෙන් කරයි. මෙම යන්ත්‍රය දෙකම එකවර ස්වයංක්‍රීයව මනියි.",
+        "technicalNoteJa": "採寸＝大きさを測る。計量＝重さを測る。"
+      },
+      "sourcePage": 29,
+      "sourceAnchor": "p29-s10",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0510",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A reefer container uses an internal refrigeration unit powered by an external electrical supply.",
+        "ja": "<ruby>リーファーコンテナ</ruby>は、<ruby>外部<rt>がいぶ</rt></ruby>の<ruby>電源<rt>でんげん</rt></ruby>で<ruby>動<rt>うご</rt></ruby>く<ruby>冷凍<rt>れいとう</rt></ruby>ユニットを<ruby>備<rt>そな</rt></ruby>えています。"
+      },
+      "statement": "<ruby>リーファーコンテナ</ruby>は、<ruby>外部<rt>がいぶ</rt></ruby>の<ruby>電源<rt>でんげん</rt></ruby>で<ruby>動<rt>うご</rt></ruby>く<ruby>冷凍<rt>れいとう</rt></ruby>ユニットを<ruby>備<rt>そな</rt></ruby>えています。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The refrigeration unit cools the inside and operates using an external power supply.",
+        "si": "Reefer container එකේ ඇතුළත සිසිල් කරන refrigeration unit එකක් ඇති අතර එය බාහිර විදුලි සැපයුමෙන් ක්‍රියා කරයි.",
+        "technicalNoteJa": "リーファーコンテナ＝冷凍・冷蔵貨物用。外部電源で冷凍ユニットを動かす。"
+      },
+      "sourcePage": 30,
+      "sourceAnchor": "p30-reefer",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0511",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The source identifies the high-cube container height as approximately 2.9 metres.",
+        "ja": "<ruby>ハイキューブ</ruby>コンテナの<ruby>標準高<rt>ひょうじゅんだか</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>2.9メートルです。"
+      },
+      "statement": "<ruby>ハイキューブ</ruby>コンテナの<ruby>標準高<rt>ひょうじゅんだか</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>2.9メートルです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source gives approximately 2.9 m for high-cube height, compared with about 2.6 m for standard height.",
+        "si": "මූලාශ්‍රයේ high-cube container උස ආසන්න වශයෙන් මීටර් 2.9ක් ලෙස දක්වා ඇත. සාමාන්‍ය උස මීටර් 2.6ක් පමණය.",
+        "technicalNoteJa": "ハイキューブ高＝約9フィート6インチ（約2.9m）。"
+      },
+      "sourcePage": 30,
+      "sourceAnchor": "p30-container-dimensions",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0512",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Devanning means unloading cargo from a container at the warehouse.",
+        "ja": "<ruby>デバンニング</ruby>とは、コンテナから<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>卸<rt>お</rt></ruby>ろす<ruby>作業<rt>さぎょう</rt></ruby>です。"
+      },
+      "statement": "<ruby>デバンニング</ruby>とは、コンテナから<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>卸<rt>お</rt></ruby>ろす<ruby>作業<rt>さぎょう</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source names the warehouse operation of unloading goods from a container as devanning.",
+        "si": "ගබඩාවේදී කන්ටේනරය තුළින් භාණ්ඩ බෑමේ ක්‍රියාවලිය Devanning ලෙස හැඳින්වේ.",
+        "technicalNoteJa": "デバンニング＝コンテナから貨物を卸ろす作業。"
+      },
+      "sourcePage": 31,
+      "sourceAnchor": "p31-devanning",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0513",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "During the described warehouse unloading process, the container is positioned at the platform while still on its chassis.",
+        "ja": "<ruby>倉庫<rt>そうこ</rt></ruby>でのデバンニングでは、コンテナをシャーシに<ruby>載<rt>の</rt></ruby>せたままプラットフォームに<ruby>着<rt>つ</rt></ruby>けます。"
+      },
+      "statement": "<ruby>倉庫<rt>そうこ</rt></ruby>でのデバンニングでは、コンテナをシャーシに<ruby>載<rt>の</rt></ruby>せたままプラットフォームに<ruby>着<rt>つ</rt></ruby>けます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source describes bringing the container to the platform while it remains on the chassis, then opening the rear doors to unload.",
+        "si": "මූලාශ්‍රයේ විස්තර කරන ක්‍රමයට කන්ටේනරය chassis එක මතම තබා platform එකට ගෙන එයි. ඉන්පසු පසුපස දොරවල් විවෘත කර භාණ්ඩ බායි.",
+        "technicalNoteJa": "シャーシに載せたまま着けて、後部ドアから荷卸しする。"
+      },
+      "sourcePage": 31,
+      "sourceAnchor": "p31-chassis-devanning",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0514",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A flatbed truck has a roof covering its cargo bed.",
+        "ja": "<ruby>平<rt>ひら</rt></ruby>ボディ<ruby>車<rt>しゃ</rt></ruby>の<ruby>荷台<rt>にだい</rt></ruby>には、<ruby>屋根<rt>やね</rt></ruby>があります。"
+      },
+      "statement": "<ruby>平<rt>ひら</rt></ruby>ボディ<ruby>車<rt>しゃ</rt></ruby>の<ruby>荷台<rt>にだい</rt></ruby>には、<ruby>屋根<rt>やね</rt></ruby>があります。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source says a flatbed truck has no roof over the cargo bed; side boards called aori are fitted along the sides.",
+        "si": "Flatbed truck එකේ භාණ්ඩ තට්ටුවට වහලක් නැත. දෙපස aori ලෙස හැඳින්වෙන වැටවල් ඇත.",
+        "technicalNoteJa": "平ボディ車＝荷台に屋根がない。"
+      },
+      "sourcePage": 32,
+      "sourceAnchor": "p32-flatbed",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0515",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A van-body truck normally provides access to its enclosed cargo area through the rear doors.",
+        "ja": "バンボディ<ruby>車<rt>しゃ</rt></ruby>は、<ruby>主<rt>おも</rt></ruby>に<ruby>後<rt>うし</rt></ruby>ろのドアを<ruby>開<rt>あ</rt></ruby>けて<ruby>荷台<rt>にだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。"
+      },
+      "statement": "バンボディ<ruby>車<rt>しゃ</rt></ruby>は、<ruby>主<rt>おも</rt></ruby>に<ruby>後<rt>うし</rt></ruby>ろのドアを<ruby>開<rt>あ</rt></ruby>けて<ruby>荷台<rt>にだい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source describes a box-shaped enclosed cargo area that is usually accessed through the rear doors.",
+        "si": "Van-body truck එකේ භාණ්ඩ තට්ටුව පෙට්ටියක් මෙන් ආවරණය කර ඇති අතර සාමාන්‍යයෙන් පසුපස දොරවල් විවෘත කර ඇතුළු වේ.",
+        "technicalNoteJa": "バンボディ車＝箱型の荷台。主に後部ドアから荷役する。"
+      },
+      "sourcePage": 32,
+      "sourceAnchor": "p32-vanbody",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0516",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A wing-body truck opens its side panels and roof like a bird spreading its wings, allowing side loading and unloading.",
+        "ja": "ウイング<ruby>車<rt>しゃ</rt></ruby>は、<ruby>荷台<rt>にだい</rt></ruby>の<ruby>側面<rt>そくめん</rt></ruby>と<ruby>天井<rt>てんじょう</rt></ruby>が<ruby>鳥<rt>とり</rt></ruby>の<ruby>翼<rt>つばさ</rt></ruby>のように<ruby>開<rt>ひら</rt></ruby>きます。"
+      },
+      "statement": "ウイング<ruby>車<rt>しゃ</rt></ruby>は、<ruby>荷台<rt>にだい</rt></ruby>の<ruby>側面<rt>そくめん</rt></ruby>と<ruby>天井<rt>てんじょう</rt></ruby>が<ruby>鳥<rt>とり</rt></ruby>の<ruby>翼<rt>つばさ</rt></ruby>のように<ruby>開<rt>ひら</rt></ruby>きます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The opening sides and roof make it easier to load and unload cargo from the side, including pallet handling by forklift.",
+        "si": "Wing truck එකේ දෙපස සහ ඉහළ කොටස පියාපත් මෙන් විවෘත වන නිසා පැත්තෙන් භාණ්ඩ පැටවීම/බෑම සහ forklift මඟින් pallet හැසිරවීම පහසු වේ.",
+        "technicalNoteJa": "ウイング車＝側面と天井が開き、横から荷役しやすい。"
+      },
+      "sourcePage": 33,
+      "sourceAnchor": "p33-wing",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0517",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A person without the required special training may operate a truck power gate whenever a driver is present.",
+        "ja": "<ruby>特別教育<rt>とくべつきょういく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けていない<ruby>人<rt>ひと</rt></ruby>でも、<ruby>運転手<rt>うんてんしゅ</rt></ruby>がいればパワーゲートを<ruby>操作<rt>そうさ</rt></ruby>できます。"
+      },
+      "statement": "<ruby>特別教育<rt>とくべつきょういく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けていない<ruby>人<rt>ひと</rt></ruby>でも、<ruby>運転手<rt>うんてんしゅ</rt></ruby>がいればパワーゲートを<ruby>操作<rt>そうさ</rt></ruby>できます。",
+      "correctAnswer": false,
+      "explanation": {
+        "en": "The source states that special education is required and untrained people must not operate the power gate without authorization.",
+        "si": "Power gate භාවිතයට විශේෂ පුහුණුව අවශ්‍යය. පුහුණුව නොලැබූ අය එය තමන්ගේ කැමැත්තෙන් ක්‍රියාත්මක නොකළ යුතුය.",
+        "technicalNoteJa": "パワーゲートの使用には特別教育が必要。未受講者は操作しない。"
+      },
+      "sourcePage": 33,
+      "sourceAnchor": "p33-powergate-training",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0518",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A chassis is the vehicle-like platform on which a shipping container is carried.",
+        "ja": "シャーシは、コンテナを<ruby>載<rt>の</rt></ruby>せる<ruby>台車<rt>だいしゃ</rt></ruby>です。"
+      },
+      "statement": "シャーシは、コンテナを<ruby>載<rt>の</rt></ruby>せる<ruby>台車<rt>だいしゃ</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source defines the chassis as the carrier platform for a container, while the truck head tows it.",
+        "si": "Chassis යනු කන්ටේනරය තබාගෙන යන රථ වේදිකාවයි. එය ඇදගෙන යන්නේ truck head එකයි.",
+        "technicalNoteJa": "シャーシ＝コンテナを載せる台車。"
+      },
+      "sourcePage": 34,
+      "sourceAnchor": "p34-terms",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0519",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A pallet is the platform on which cargo is placed for handling or storage.",
+        "ja": "パレットは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せる<ruby>台<rt>だい</rt></ruby>です。"
+      },
+      "statement": "パレットは、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>載<rt>の</rt></ruby>せる<ruby>台<rt>だい</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source summary defines a pallet as the base/platform used to place cargo on.",
+        "si": "Pallet යනු භාණ්ඩ තබාගෙන ගෙනයාමට හෝ ගබඩා කිරීමට භාවිත කරන තට්ටුවයි.",
+        "technicalNoteJa": "パレット＝貨物を載せる台。"
+      },
+      "sourcePage": 34,
+      "sourceAnchor": "p34-terms",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0520",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "A warehouse operator must notify the Minister of Land, Infrastructure, Transport and Tourism of its warehouse deposit terms.",
+        "ja": "<ruby>倉庫業者<rt>そうこぎょうしゃ</rt></ruby>は、<ruby>倉庫寄託約款<rt>そうこきたくやっかん</rt></ruby>を<ruby>国土交通大臣<rt>こくどこうつうだいじん</rt></ruby>に<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>る<ruby>義務<rt>ぎむ</rt></ruby>があります。"
+      },
+      "statement": "<ruby>倉庫業者<rt>そうこぎょうしゃ</rt></ruby>は、<ruby>倉庫寄託約款<rt>そうこきたくやっかん</rt></ruby>を<ruby>国土交通大臣<rt>こくどこうつうだいじん</rt></ruby>に<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>る<ruby>義務<rt>ぎむ</rt></ruby>があります。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source states this notification obligation under the Warehouse Business Act.",
+        "si": "Warehouse Business Act අනුව ගබඩා සමාගම තම ගබඩා භාරකාර කොන්දේසි අදාළ ජපාන අමාත්‍යවරයාට දැනුම් දිය යුතුය.",
+        "technicalNoteJa": "倉庫業者は倉庫寄託約款を国土交通大臣に届け出る。"
+      },
+      "sourcePage": 35,
+      "sourceAnchor": "p35-terms-notification",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0521",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "At receiving, the warehouse checks the external appearance of goods but does not inspect their contents.",
+        "ja": "<ruby>入庫時<rt>にゅうこじ</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>外側<rt>そとがわ</rt></ruby>だけを<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>中身<rt>なかみ</rt></ruby>は<ruby>検査<rt>けんさ</rt></ruby>しません。"
+      },
+      "statement": "<ruby>入庫時<rt>にゅうこじ</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>の<ruby>外側<rt>そとがわ</rt></ruby>だけを<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>中身<rt>なかみ</rt></ruby>は<ruby>検査<rt>けんさ</rt></ruby>しません。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The standard terms described in the source specify an external check only, not an inspection of the contents.",
+        "si": "භාණ්ඩ ඇතුළත් කරන විට පිටත පෙනුම පමණක් පරීක්ෂා කරයි; ඇතුළත අන්තර්ගතය පරීක්ෂා නොකරයි.",
+        "technicalNoteJa": "入庫時の確認＝貨物の外側のみ。中身は検査しない。"
+      },
+      "sourcePage": 36,
+      "sourceAnchor": "p36-inbound-inspection",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0522",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "The storage period under the described standard terms is counted from the date the goods are received into the warehouse.",
+        "ja": "<ruby>保管期間<rt>ほかんきかん</rt></ruby>は、<ruby>入庫日<rt>にゅうこび</rt></ruby>から<ruby>数<rt>かぞ</rt></ruby>えます。"
+      },
+      "statement": "<ruby>保管期間<rt>ほかんきかん</rt></ruby>は、<ruby>入庫日<rt>にゅうこび</rt></ruby>から<ruby>数<rt>かぞ</rt></ruby>えます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source states that the storage period begins counting from the inbound/receipt date.",
+        "si": "ගබඩා කාලය ගණනය කරන්නේ භාණ්ඩ ගබඩාවට ඇතුළත් කළ දිනයේ සිටය.",
+        "technicalNoteJa": "保管期間の起算日＝入庫日。"
+      },
+      "sourcePage": 36,
+      "sourceAnchor": "p36-storage-period",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0523",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Under the three-period system, the third period runs from the 21st day to the end of the month.",
+        "ja": "<ruby>三期制<rt>さんきせい</rt></ruby>の<ruby>第三期<rt>だいさんき</rt></ruby>は、21<ruby>日<rt>にち</rt></ruby>から<ruby>月末<rt>げつまつ</rt></ruby>までです。"
+      },
+      "statement": "<ruby>三期制<rt>さんきせい</rt></ruby>の<ruby>第三期<rt>だいさんき</rt></ruby>は、21<ruby>日<rt>にち</rt></ruby>から<ruby>月末<rt>げつまつ</rt></ruby>までです。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source divides the month into days 1–10, 11–20 and 21–month end.",
+        "si": "තුන් කාල කොටස් ක්‍රමයේ තෙවන කොටස 21 වැනිදා සිට මාස අවසානය දක්වා වේ.",
+        "technicalNoteJa": "三期制：1～10日、11～20日、21日～月末。"
+      },
+      "sourcePage": 37,
+      "sourceAnchor": "p37-three-period",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0524",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "For refrigerated warehouses, the two-period system divides the month into days 1–15 and day 16 to month-end.",
+        "ja": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>の<ruby>二期制<rt>にきせい</rt></ruby>は、1～15<ruby>日<rt>にち</rt></ruby>と16<ruby>日<rt>にち</rt></ruby>から<ruby>月末<rt>げつまつ</rt></ruby>までに<ruby>分<rt>わ</rt></ruby>けます。"
+      },
+      "statement": "<ruby>冷蔵倉庫<rt>れいぞうそうこ</rt></ruby>の<ruby>二期制<rt>にきせい</rt></ruby>は、1～15<ruby>日<rt>にち</rt></ruby>と16<ruby>日<rt>にち</rt></ruby>から<ruby>月末<rt>げつまつ</rt></ruby>までに<ruby>分<rt>わ</rt></ruby>けます。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source specifies the refrigerated-warehouse two-period system as days 1–15 and day 16 to month-end.",
+        "si": "ශීත ගබඩාවල කාල කොටස් දෙකේ ක්‍රමය 1–15 සහ 16 සිට මාස අවසානය දක්වා ලෙස බෙදයි.",
+        "technicalNoteJa": "冷蔵倉庫の二期制：1～15日、16日～月末。"
+      },
+      "sourcePage": 38,
+      "sourceAnchor": "p38-refrigerated-period",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
+    },
+    {
+      "id": "MKF-WR-0525",
+      "section": "warehouse_fundamentals",
+      "examType": "written_true_false",
+      "questionText": {
+        "en": "Cargo-handling fees cover work performed from receiving the goods until they are handed over.",
+        "ja": "<ruby>荷役料<rt>にやくりょう</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>ってから<ruby>渡<rt>わた</rt></ruby>すまでの<ruby>作業<rt>さぎょう</rt></ruby>にかかる<ruby>料金<rt>りょうきん</rt></ruby>です。"
+      },
+      "statement": "<ruby>荷役料<rt>にやくりょう</rt></ruby>は、<ruby>貨物<rt>かもつ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>ってから<ruby>渡<rt>わた</rt></ruby>すまでの<ruby>作業<rt>さぎょう</rt></ruby>にかかる<ruby>料金<rt>りょうきん</rt></ruby>です。",
+      "correctAnswer": true,
+      "explanation": {
+        "en": "The source defines cargo-handling fees as charges for the work between receiving and delivery.",
+        "si": "භාණ්ඩ භාරගත් මොහොතේ සිට භාරදෙන තෙක් සිදු කරන වැඩ සඳහා අය කරන ගාස්තුව荷役料 වේ.",
+        "technicalNoteJa": "荷役料＝受け取りから引き渡しまでの作業料金。"
+      },
+      "sourcePage": 38,
+      "sourceAnchor": "p38-handling-fee",
+      "difficulty": "medium",
+      "reviewStatus": "DRAFT"
     }
   ]
 }
