@@ -53,10 +53,13 @@
       ],
       "image_mapping": {
         "source_pdf_page": 69,
-        "repo_images": [],
-        "generated_asset": "/images/generated/page-069-rti-tally-remarks.svg",
-        "mapping_basis": "Original PDF page contains the RTI container image and fold-down sequence; app visual is a clean redraw of that depicted concept.",
-        "status": "COMMITTED_AND_LINKED"
+        "source_embedded_image_count": 2,
+        "repo_images": [
+          "public/images/57.jpg",
+          "public/images/58.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     },
     {
@@ -213,13 +216,13 @@
       ],
       "image_mapping": {
         "source_pdf_page": 75,
+        "source_embedded_image_count": 2,
         "repo_images": [
           "public/images/59.jpg",
-          "public/images/61.jpg"
+          "public/images/60.jpg"
         ],
-        "generated_asset": "/images/generated/page-075-palletising-block-stack.svg",
-        "mapping_basis": "Source PDF shows pallet pattern examples; repo images 59 and 61 depict layer stacking pattern diagrams and are matched to this topic.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     },
     {
@@ -238,15 +241,16 @@
       ],
       "image_mapping": {
         "source_pdf_page": 76,
+        "source_embedded_image_count": 6,
         "repo_images": [
+          "public/images/61.jpg",
           "public/images/62.jpg",
           "public/images/63.jpg",
           "public/images/64.jpg",
           "public/images/65.jpg"
         ],
-        "generated_asset": "/images/generated/page-076-pallet-patterns.svg",
-        "mapping_basis": "Repo images 62–65 show the pinwheel/alternating pallet patterns and layer arrangements; matched to the original page diagrams.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     },
     {
@@ -295,12 +299,12 @@
       ],
       "image_mapping": {
         "source_pdf_page": 78,
-        "repo_images": [],
-        "generated_asset": "/images/generated/page-078-distribution-labeling.svg",
-        "mapping_basis": "Source page image unavailable in renderer; no exact label-printer image found in repo image assets inspected. Diagram rebuilt from source instructions; internet search used for technical context only.",
-        "status": "COMMITTED_AND_LINKED",
-        "external_reference_url": "https://www.brother-usa.com/p/thermal-printers-labelers/TJ4420TN",
-        "external_reference_note": "Official Brother industrial barcode label printer product page used as a real-world visual reference; page-specific instructional SVG remains the app visual."
+        "source_embedded_image_count": 1,
+        "repo_images": [
+          "public/images/66.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     }
   ],
