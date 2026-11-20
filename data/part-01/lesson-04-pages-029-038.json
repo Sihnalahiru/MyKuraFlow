@@ -52,12 +52,15 @@
       ],
       "image_mapping": {
         "source_pdf_page": 29,
-        "status": "REPO_ORIGINAL_IMAGES_VISUALLY_VERIFIED",
+        "source_embedded_image_count": 4,
         "repo_images": [
           "public/images/28.jpg",
-          "public/images/29.jpg"
+          "public/images/29.jpg",
+          "public/images/30.jpg",
+          "public/images/31.jpg"
         ],
-        "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Each original embedded image was extracted from the source PDF and visually matched to the corresponding numbered repository image asset."
       }
     },
     {
@@ -79,7 +82,14 @@
       ],
       "image_mapping": {
         "source_pdf_page": 30,
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+        "source_embedded_image_count": 3,
+        "repo_images": [
+          "public/images/32.jpg",
+          "public/images/33.jpg",
+          "public/images/34.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Each original embedded image was extracted from the source PDF and visually matched to the corresponding numbered repository image asset."
       }
     },
     {
@@ -97,7 +107,12 @@
       ],
       "image_mapping": {
         "source_pdf_page": 31,
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+        "source_embedded_image_count": 1,
+        "repo_images": [
+          "public/images/35.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Each original embedded image was extracted from the source PDF and visually matched to the corresponding numbered repository image asset."
       }
     },
     {
@@ -119,7 +134,14 @@
       ],
       "image_mapping": {
         "source_pdf_page": 32,
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+        "source_embedded_image_count": 3,
+        "repo_images": [
+          "public/images/36.jpg",
+          "public/images/37.jpg",
+          "public/images/38.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Each original embedded image was extracted from the source PDF and visually matched to the corresponding numbered repository image asset."
       }
     },
     {
@@ -137,7 +159,14 @@
       ],
       "image_mapping": {
         "source_pdf_page": 33,
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+        "source_embedded_image_count": 3,
+        "repo_images": [
+          "public/images/39.jpg",
+          "public/images/40.jpg",
+          "public/images/41.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Each original embedded image was extracted from the source PDF and visually matched to the corresponding numbered repository image asset."
       }
     },
     {
@@ -155,7 +184,10 @@
       ],
       "image_mapping": {
         "source_pdf_page": 34,
-        "status": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER"
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -173,7 +205,10 @@
       ],
       "image_mapping": {
         "source_pdf_page": 35,
-        "status": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER"
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -191,7 +226,10 @@
       ],
       "image_mapping": {
         "source_pdf_page": 36,
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -213,7 +251,10 @@
       ],
       "image_mapping": {
         "source_pdf_page": 37,
-        "status": "PDF_PAGE_VISUAL_IDENTIFIED"
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -231,7 +272,10 @@
       ],
       "image_mapping": {
         "source_pdf_page": 38,
-        "status": "PDF_PAGE_VISUAL_UNAVAILABLE_REQUIRES_RERENDER"
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     }
   ],
