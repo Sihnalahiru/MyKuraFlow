@@ -6,7 +6,8 @@
   "lesson_title": "Warehouse worker responsibilities, storage quality, inventory and disaster prevention",
   "page_range": {
     "printed": "39-48",
-    "physical_pdf": "40-49"
+    "physical_pdf": "39-48",
+    "note": "Corrected: physical PDF page numbers and printed page numbers are both 39-48 in the supplied 123-page source PDF."
   },
   "languages": [
     "ja",
@@ -29,8 +30,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 39,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -47,8 +51,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 40,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -65,8 +72,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 41,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -83,8 +93,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 42,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -101,8 +114,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 43,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -119,8 +135,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 44,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -137,8 +156,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 45,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -155,8 +177,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 46,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -173,8 +198,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 47,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     },
     {
@@ -191,8 +219,11 @@
         }
       ],
       "image_mapping": {
-        "status": "DIAGRAM_ONLY_MAPPING_REQUIRED",
-        "note": "Do not display or link a full PDF page. Extract/map only the individual source diagram or create a clearly labelled explanatory illustration after visual verification."
+        "source_pdf_page": 48,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_AND_TABLE_LAYOUT",
+        "mapping_basis": "Original PDF page visually inspected; it contains text, tables or vector layout but no embedded raster image."
       }
     }
   ],
