@@ -35,9 +35,13 @@
         }
       ],
       "image_mapping": {
-        "status": "PENDING_SOURCE_ASSET_MATCH",
-        "repo_images": [],
-        "note": "Source page 54 contains illustrations of protective clothing/equipment. Individual asset match still required."
+        "source_pdf_page": 54,
+        "source_embedded_image_count": 1,
+        "repo_images": [
+          "public/images/47.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     },
     {
@@ -54,8 +58,11 @@
         }
       ],
       "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+        "source_pdf_page": 55,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_TABLE_OR_VECTOR_LAYOUT",
+        "mapping_basis": "Original PDF page was rendered and checked; it contains no embedded raster image. Preserve its source text, tables and vector diagrams."
       },
       "source_furigana": "帳票（ちょうひょう）、記録用紙（きろくようし）、入庫（にゅうこ）、寄託申込書（きたくもうしこみしょ）、約款（やっかん）、寄託者（きたくしゃ）、入庫指図票（にゅうこさしずひょう）、貨物受領書（かもつじゅりょうしょ）、運送人（うんそうにん）、入庫通知書（にゅうこつうちしょ）、出庫（しゅっこ）、出庫伝票（しゅっこでんぴょう）。"
     },
@@ -73,8 +80,11 @@
         }
       ],
       "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+        "source_pdf_page": 56,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_TABLE_OR_VECTOR_LAYOUT",
+        "mapping_basis": "Original PDF page was rendered and checked; it contains no embedded raster image. Preserve its source text, tables and vector diagrams."
       },
       "source_furigana": "出庫指図書（しゅっこさしずしょ）、送り状（おくりじょう）、出庫通知書（しゅっこつうちしょ）、出庫ラベル（しゅっこラベル）、入庫ラベル（にゅうこラベル）、管理番号（かんりばんごう）、製造LOT番号（せいぞうロットばんごう）、ラベラー、識別番号（しきべつばんごう）、二次元（にじげん）。"
     },
@@ -92,8 +102,11 @@
         }
       ],
       "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+        "source_pdf_page": 57,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_TABLE_OR_VECTOR_LAYOUT",
+        "mapping_basis": "Original PDF page was rendered and checked; it contains no embedded raster image. Preserve its source text, tables and vector diagrams."
       },
       "source_furigana": "電波（でんぱ）、非接触（ひせっしょく）、電子（でんし）タグ、無線通信（むせんつうしん）、取扱（とりあつか）い、性状（せいじょう）、単位（たんい）、長（なが）さ、換算（かんさん）。"
     },
@@ -111,8 +124,11 @@
         }
       ],
       "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+        "source_pdf_page": 58,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_TABLE_OR_VECTOR_LAYOUT",
+        "mapping_basis": "Original PDF page was rendered and checked; it contains no embedded raster image. Preserve its source text, tables and vector diagrams."
       },
       "source_furigana": "寸（すん）、尺（しゃく）、間（けん）、面積（めんせき）、平方（へいほう）メートル、坪（つぼ）、畳（たたみ）、体積（たいせき）、容積（ようせき）、立方（りっぽう）メートル。"
     },
@@ -130,8 +146,11 @@
         }
       ],
       "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+        "source_pdf_page": 59,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_TABLE_OR_VECTOR_LAYOUT",
+        "mapping_basis": "Original PDF page was rendered and checked; it contains no embedded raster image. Preserve its source text, tables and vector diagrams."
       },
       "source_furigana": "換算表（かんさんひょう）、容積（ようせき）、升（しょう）、合（ごう）、斗（と）、重（おも）さ、比重（ひじゅう）、輸入食品（ゆにゅうしょくひん）、貫（かん）。"
     },
@@ -325,10 +344,15 @@
       ],
       "image_mapping": {
         "source_pdf_page": 67,
-        "repo_images": [],
-        "generated_asset": "/images/generated/page-067-cargo-forms-a.svg",
-        "mapping_basis": "Source page includes photographs; the image ZIP assets do not contain an exact match in the inspected set, so original-type vector illustrations are provided.",
-        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+        "source_embedded_image_count": 4,
+        "repo_images": [
+          "public/images/48.jpg",
+          "public/images/49.jpg",
+          "public/images/50.jpg",
+          "public/images/51.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     },
     {
@@ -347,10 +371,16 @@
       ],
       "image_mapping": {
         "source_pdf_page": 68,
-        "repo_images": [],
-        "generated_asset": "/images/generated/page-068-bales-roll-cans.svg",
-        "mapping_basis": "Source page's cargo form types recreated in a labelled vector visual.",
-        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+        "source_embedded_image_count": 5,
+        "repo_images": [
+          "public/images/52.jpg",
+          "public/images/53.jpg",
+          "public/images/54.jpg",
+          "public/images/55.jpg",
+          "public/images/56.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     }
   ],
