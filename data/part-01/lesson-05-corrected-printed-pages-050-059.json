@@ -33,8 +33,11 @@
         }
       ],
       "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+        "source_pdf_page": 50,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_TABLE_OR_VECTOR_LAYOUT",
+        "mapping_basis": "Original PDF page was rendered and checked; it contains no embedded raster image. Preserve its source text, tables and vector diagrams."
       }
     },
     {
@@ -51,8 +54,11 @@
         }
       ],
       "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+        "source_pdf_page": 51,
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_TABLE_OR_VECTOR_LAYOUT",
+        "mapping_basis": "Original PDF page was rendered and checked; it contains no embedded raster image. Preserve its source text, tables and vector diagrams."
       }
     },
     {
@@ -69,8 +75,15 @@
         }
       ],
       "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+        "source_pdf_page": 52,
+        "source_embedded_image_count": 3,
+        "repo_images": [
+          "public/images/42.jpg",
+          "public/images/43.jpg",
+          "public/images/46.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     },
     {
@@ -87,8 +100,14 @@
         }
       ],
       "image_mapping": {
-        "status": "INDIVIDUAL_VISUAL_ASSET_REQUIRED",
-        "note": "Map or extract only the individual source diagram/illustration. Never display a full PDF page."
+        "source_pdf_page": 53,
+        "source_embedded_image_count": 2,
+        "repo_images": [
+          "public/images/45.jpg",
+          "public/images/46.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     }
   ],
