@@ -58,7 +58,8 @@
           "public/images/29.jpg"
         ],
         "mapping_basis": "Visually inspected repository image asset and matched to the corresponding source textbook topic."
-      }
+      },
+      "source_furigana": "検針機（けんしんき）、金属探知機（きんぞくたんちき）、製品（せいひん）、中（なか）、針（はり）、金属（きんぞく）、入（はい）、調（しら）、安全（あんぜん）、確認（かくにん）、客様（きゃくさま）、届（とど）、大（おお）、業務用掃除機（ぎょうむようそうじき）、倉庫（そうこ）、機械（きかい）、作業（さぎょう）、常（つね）、保（たも）、大切（たいせつ）、台秤（だいはかり）、台（だい）、貨物（かもつ）、載（の）、重（おも）、量（はか）、検貫（けんかん）、看貫（かんかん）、検量（けんりょう）、採寸計量器（さいすんけいりょうき）、自動（じどう）、一度（いちど）、測（はか）、採寸（さいすん）、計量（けいりょう）"
     },
     {
       "pdf_page": 30,
@@ -91,7 +92,8 @@
           "height_mm": 2591
         }
       },
-      "audit_fix_note": "Added the three exact millimetre labels read from the original page 30 container diagram to the Japanese, Romaji, English and Sinhala page records. This is a targeted numeric/diagram-label repair; full illustration asset matching and complete page translation QA remain open."
+      "audit_fix_note": "Added the three exact millimetre labels read from the original page 30 container diagram to the Japanese, Romaji, English and Sinhala page records. This is a targeted numeric/diagram-label repair; full illustration asset matching and complete page translation QA remain open.",
+      "source_furigana": "車両（しゃりょう）、機械（きかい）、説明（せつめい）、海上（かいじょう）、船（せん）、外国（がいこく）、貨物（かもつ）、運（はこ）、大（おお）、箱（はこ）、世界（せかい）、使（つか）、以上（いじょう）、丈夫（じょうぶ）、鋼鉄（こうてつ）、製（せい）、扉（とびら）、閉（し）、幅（はば）、約（やく）、標準高（ひょうじゅんだか）、高（だか）、長（なが）、単位（たんい）、冷凍（れいとう）、冷蔵（れいぞう）、必要（ひつよう）、内部（ないぶ）、冷（ひ）、外部（がいぶ）、電源（でんげん）、動（うご）"
     },
     {
       "pdf_page": 31,
@@ -109,7 +111,8 @@
       "image_mapping": {
         "source_pdf_page": 31,
         "status": "PDF_PAGE_VISUAL_IDENTIFIED"
-      }
+      },
+      "source_furigana": "陸上輸送（りくじょうゆそう）、台車（だいしゃ）、上（うえ）、載（の）、前部（ぜんぶ）、牽引（けんいん）、車両（しゃりょう）、引（ひ）、倉庫（そうこ）、作業（さぎょう）、着（つ）、後部（こうぶ）、開（あ）、中（なか）、貨物（かもつ）、卸（お）、呼（よ）、鉄道（てつどう）、日本（にほん）、貨物列車（かもつれっしゃ）、運（はこ）、箱（はこ）、従来（じゅうらい）、積（づ）、使（つか）、最近（さいきん）、増（ふ）、重（おも）、形（かたち）、種類（しゅるい）、分（わ）"
     },
     {
       "pdf_page": 32,
@@ -131,7 +134,8 @@
       "image_mapping": {
         "source_pdf_page": 32,
         "status": "PDF_PAGE_VISUAL_IDENTIFIED"
-      }
+      },
+      "source_furigana": "大型（おおがた）、車（しゃ）、約（やく）、普通（ふつう）、中型（ちゅうがた）、小型（こがた）、積載（せきさい）、形（かたち）、平（ひら）、荷台（にだい）、屋根（やね）、横（よこ）、囲（かこ）、壁（かべ）、最（もっと）、簡単（かんたん）、分（わ）、大（おお）、多（おお）、貨物（かもつ）、運（はこ）、海上（かいじょう）、箱型（はこがた）、主（おも）、後（うし）、開（あ）、付（つ）"
     },
     {
       "pdf_page": 33,
@@ -149,7 +153,8 @@
       "image_mapping": {
         "source_pdf_page": 33,
         "status": "PDF_PAGE_VISUAL_IDENTIFIED"
-      }
+      },
+      "source_furigana": "車（しゃ）、荷台（にだい）、側面（そくめん）、天井（てんじょう）、鳥（とり）、翼（つばさ）、開（ひら）、横（よこ）、貨物（かもつ）、積（つ）、卸（お）、動（うご）、平（ひら）、付（つ）、重（おも）、持（も）、上（あ）、後部（こうぶ）、地面（じめん）、上下（じょうげ）、機械（きかい）、呼（よ）、使用（しよう）、特別教育（とくべつきょういく）、必要（ひつよう）、基本的（きほんてき）、運転手（うんてんしゅ）、操作（そうさ）、教育（きょういく）、受（う）、人（ひと）、勝手（かって）"
     },
     {
       "pdf_page": 34,
