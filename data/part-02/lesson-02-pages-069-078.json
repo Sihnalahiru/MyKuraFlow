@@ -247,10 +247,11 @@
           "public/images/62.jpg",
           "public/images/63.jpg",
           "public/images/64.jpg",
-          "public/images/65.jpg"
+          "public/images/65.jpg",
+          "public/images/66.jpg"
         ],
         "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
-        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
+        "mapping_basis": "All six original embedded pallet-pattern illustrations were visually matched to repository assets 61–66."
       }
     },
     {
