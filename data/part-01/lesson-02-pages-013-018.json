@@ -96,13 +96,14 @@
       "pdf_page": 18,
       "printed_page": 18,
       "source_ja": "⑤ 免震装置（めんしんそうち）：建物（たてもの）の地下（ちか）に設置（せっち）され、強化（きょうか）ゴムで建物（たてもの）を支（ささ）えます。地震（じしん）の揺（ゆ）れを減（へ）らし、保管（ほかん）している貨物（かもつ）が棚（たな）から落（お）ちるのを防（ふせ）ぎます。\n■ この章（しょう）のまとめ：床耐荷重（ゆかたいかじゅう）＝床（ゆか）に置（お）ける重（おも）さの限界（げんかい）；防塵塗装（ぼうじんとそう）＝ほこりを防（ふせ）ぐ床（ゆか）の塗料（とりょう）；ドックレベラー＝床（ゆか）の高（たか）さの差（さ）をなくす装置（そうち）；防火（ぼうか）シャッター＝火（ひ）の広（ひろ）がりを防（ふせ）ぐシャッター；スプリンクラー＝自動（じどう）で水（みず）を出（だ）す消火装置（しょうかそうち）；固定（こてい）ラック＝動（うご）かない棚（たな）；移動（いどう）ラック＝動（うご）かせる棚（たな）；免震装置（めんしんそうち）＝地震（じしん）の揺（ゆ）れを減（へ）らす装置（そうち）。",
-      "romaji": "Menshin souchi wa tatemono no chika ni secchi sare, kyouka gomu de tatemono o sasaemasu. Jishin no yure o herashi, hokan shite iru kamotsu ga tana kara ochiru no o fusegimasu. Kono shou no yougo: yuka taikajuu, boujin tosou, dokku reberaa, bouka shattaa, supurinkuraa, kotei rack, idou rack, menshin souchi.",
+      "romaji": "5. Menshin souchi: Tatemono no chika ni secchi sare, kyouka gomu de tatemono o sasaemasu. Jishin no yure o herashi, hokan shite iru kamotsu ga tana kara ochiru no o fusegimasu.\nKono shou no matome:\n- Yuka taikajuu: Yuka ni okeru omosa no genkai.\n- Boujin tosou: Hokori o fusegu yuka no toryou.\n- Dokku reberaa: Yuka no takasa no sa o nakusu souchi.\n- Bouka shattaa: Hi no hirogari o fusegu shattaa.\n- Supurinkuraa: Jidou de mizu o dasu shouka souchi.\n- Kotei rack: Ugokanai tana.\n- Idou rack: Ugokaseru tana.\n- Menshin souchi: Jishin no yure o herasu souchi.",
       "en": "A seismic-isolation device is installed below a building and supports it with reinforced rubber. It reduces shaking during an earthquake and helps prevent stored goods from falling off racks. The page summary reviews: floor load capacity; dust-proof coating; dock leveller; fire shutter; sprinkler; fixed rack; mobile rack; and seismic-isolation device.",
       "si": "භූකම්පන හුදකලා කිරීමේ උපකරණය ගොඩනැගිල්ලේ භූගත කොටසේ සවි කර ශක්තිමත් රබර් ආධාරයෙන් ගොඩනැගිල්ලට සහාය දෙයි. භූමිකම්පාවකදී ගොඩනැගිල්ලේ කම්පනය අඩු කර ගබඩා කර ඇති භාණ්ඩ රාක්කවලින් වැටීම වැළැක්වීමට උපකාරී වේ. මෙම පරිච්ඡේදයේ සාරාංශ පද: බිම් දරාගැනීමේ උපරිම බර, දූවිලි වැළැක්වීමේ බිම් ආලේපනය, ඩොක් ලෙවලර්, ගිනි ආරක්ෂක ෂටර්, ස්ප්‍රින්ක්ලර්, ස්ථාවර රාක්කය, චලනය කළ හැකි රාක්කය සහ භූකම්පන හුදකලා උපකරණය.",
       "source_image": {
         "status": "PENDING_VISUAL_MATCH",
         "asset_path": null
-      }
+      },
+      "audit_fix_note": "Expanded Romaji to include the full seismic-isolation description and the individual definitions in the chapter summary, rather than only listing the vocabulary terms. Specialist pronunciation proofreading remains pending."
     }
   ],
   "audit": {
@@ -114,6 +115,7 @@
     "overall_status": "DRAFT_NOT_FINAL",
     "page15_romaji": "MALFORMED_MIXED_SCRIPT_TOKEN_CORRECTED; FULL_ROMAJI_COVERAGE_PENDING",
     "page16_romaji": "EXPANDED_TO_COVER_ALL_SOURCE_PARAGRAPHS; SPECIALIST_PRONUNCIATION_PROOFREAD_PENDING",
-    "page17_romaji": "EXPANDED_TO_COVER_ALL_SOURCE_PARAGRAPHS; SPECIALIST_PRONUNCIATION_PROOFREAD_PENDING"
+    "page17_romaji": "EXPANDED_TO_COVER_ALL_SOURCE_PARAGRAPHS; SPECIALIST_PRONUNCIATION_PROOFREAD_PENDING",
+    "page18_romaji": "EXPANDED_TO_COVER_ALL_SOURCE_PARAGRAPHS_AND_SUMMARY; SPECIALIST_PRONUNCIATION_PROOFREAD_PENDING"
   }
 }
