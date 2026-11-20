@@ -85,7 +85,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-070-remark-putaway.svg",
         "mapping_basis": "Remark-code table and put-away/location instructions from source page converted into a labelled visual.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -111,7 +113,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-071-location-management.svg",
         "mapping_basis": "Three methods and sashifuda process redrawn from source table and text.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -137,7 +141,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-072-outbound-single-picking.svg",
         "mapping_basis": "Source page image unavailable in renderer; workflow and single-order picking visual rebuilt from the extracted source text.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -163,7 +169,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-073-picking-methods-packing.svg",
         "mapping_basis": "Source page includes total and sticker picking table; visual is a structured redraw of the source comparison.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -189,7 +197,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-074-outbound-inspection-damage.svg",
         "mapping_basis": "Source table and damage response steps recreated as a checklist and cause tree.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -277,7 +287,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-077-dispatch-handover-zanka.svg",
         "mapping_basis": "Page image unavailable in renderer and no exact dispatch-handover diagram identified in repo; flow visual built from source text.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -301,11 +313,10 @@
       "image_mapping": {
         "source_pdf_page": 78,
         "source_embedded_image_count": 1,
-        "repo_images": [
-          "public/images/66.jpg"
-        ],
-        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
-        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
+        "repo_images": [],
+        "status": "SOURCE_IMAGE_PRESENT_REPO_MATCH_PENDING",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets.",
+        "mapping_note": "Original PDF contains one label-printer image. No exact matching repository photo was verified; retain the existing page-specific explanatory SVG, but do not claim it is the original photo."
       }
     }
   ],
