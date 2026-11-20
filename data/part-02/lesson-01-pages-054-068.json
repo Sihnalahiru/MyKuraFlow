@@ -173,7 +173,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-060-time-temperature-light.svg",
         "mapping_basis": "Visual formula and instrument panel recreated from the source values.",
-        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images. Existing generated explanatory SVG is a separate study visual, not an original extracted photo."
       }
     },
     {
@@ -195,7 +197,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-061-warehouse-counters-a.svg",
         "mapping_basis": "Counter examples drawn as a study infographic from the source table.",
-        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images. Existing generated explanatory SVG is a separate study visual, not an original extracted photo."
       }
     },
     {
@@ -221,7 +225,9 @@
         ],
         "generated_asset": "/images/generated/page-062-warehouse-counters-b.svg",
         "mapping_basis": "Repo images 59, 61 and 64 are layer/pallet stacking diagrams, not counter-specific images; do not present them as exact illustrations. The new counter chart is the correct visual.",
-        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images. Existing generated explanatory SVG is a separate study visual, not an original extracted photo."
       }
     },
     {
@@ -243,7 +249,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-063-warehouse-counters-c.svg",
         "mapping_basis": "Compact counter summary illustration created from source table.",
-        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images. Existing generated explanatory SVG is a separate study visual, not an original extracted photo."
       }
     },
     {
@@ -269,7 +277,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-064-inbound-preparation-dock.svg",
         "mapping_basis": "Page image unavailable in renderer; process and dimensional visual created from the extracted Japanese source text.",
-        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images. Existing generated explanatory SVG is a separate study visual, not an original extracted photo."
       }
     },
     {
@@ -295,7 +305,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-065-unloading-inspection.svg",
         "mapping_basis": "Page image unavailable in renderer; inspection flow and split-delivery diagram recreated from the source text.",
-        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images. Existing generated explanatory SVG is a separate study visual, not an original extracted photo."
       }
     },
     {
@@ -325,7 +337,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-066-lot-packaging-weight.svg",
         "mapping_basis": "Source page table and explanatory text reconstructed into three compact visual diagrams.",
-        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED"
+        "status": "VISUAL_ASSET_COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images. Existing generated explanatory SVG is a separate study visual, not an original extracted photo."
       }
     },
     {
