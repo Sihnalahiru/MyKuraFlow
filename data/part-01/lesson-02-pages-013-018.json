@@ -39,7 +39,8 @@
       "source_image": {
         "status": "PENDING_VISUAL_MATCH",
         "asset_path": null
-      }
+      },
+      "source_furigana": "倉庫（そうこ）、関係（かんけい）、設備（せつび）、用語（ようご）、章（しょう）、学（まな）、中（なか）、仕事（しごと）、使（つか）、大切（たいせつ）、建物（たてもの）、床（ゆか）、床耐荷重（ゆかたいかじゅう）、上（うえ）、置（お）、重（おも）、限界（げんかい）、何（なん）、決（き）、約（やく）、表（あらわ）、壊（こわ）、危険（きけん）、必（かなら）、確認（かくにん）、防塵塗装（ぼうじんとそう）、特別（とくべつ）、塗料（とりょう）、塗（ぬ）、技術（ぎじゅつ）、防塵（ぼうじん）、防（ふせ）、塗装（とそう）、運搬機器（うんぱんきき）、走（はし）、出（で）、掃除（そうじ）、貨物（かもつ）、汚（よご）、衛生的（えいせいてき）、環境（かんきょう）、保（たも）、利点（りてん）、積（つ）、卸（お）、場所（ばしょ）、停（と）、呼（よ）"
     },
     {
       "pdf_page": 14,
@@ -51,7 +52,8 @@
       "source_image": {
         "status": "PENDING_VISUAL_MATCH",
         "asset_path": null
-      }
+      },
+      "source_furigana": "倉庫（そうこ）、床（ゆか）、海上（かいじょう）、高（たか）、違（ちが）、差（さ）、装置（そうち）、貨物（かもつ）、出（だ）、入（い）、壁（かべ）、関係（かんけい）、設備（せつび）、用語（ようご）、荷摺（にず）、内側（うちがわ）、取（と）、付（つ）、厚（あつ）、板（いた）、棒（ぼう）、崩（くず）、壊（こわ）、守（まも）、細長（ほそなが）、作（つく）、開閉（かいへい）、出入口（でいりぐち）、火事（かじ）、火（ひ）、広（ひろ）、防（ふせ）、防火（ぼうか）、使（つか）、区域（くいき）、設置（せっち）、法律（ほうりつ）、決（き）、着（つ）、荷台（にだい）、隙間（すきま）、埋（う）、外（そと）、風（かぜ）、雨（あめ）、虫（むし）、侵入（しんにゅう）、天井（てんじょう）、梁（はり）、柱（はしら）、支（ささ）、横方向（よこほうこう）、構造物（こうぞうぶつ）、天井高（てんじょうだか）、下（した）、吊（つ）、裏（うら）、枠組（わくぐ）、下（さ）、表面（ひょうめん）、中（なか）、事務所（じむしょ）"
     },
     {
       "pdf_page": 15,
@@ -64,7 +66,8 @@
         "status": "PENDING_VISUAL_MATCH",
         "asset_path": null
       },
-      "audit_fix_note": "Expanded Romaji to cover the full page 15 source text: mezzanine, fire extinguisher, fire hydrant, sprinkler operation/legal installation note, fire alarm and evacuation instruction, and the rack definition. Specialist pronunciation proofreading remains pending."
+      "audit_fix_note": "Expanded Romaji to cover the full page 15 source text: mezzanine, fire extinguisher, fire hydrant, sprinkler operation/legal installation note, fire alarm and evacuation instruction, and the rack definition. Specialist pronunciation proofreading remains pending.",
+      "source_furigana": "中二階（ちゅうにかい）、倉庫（そうこ）、中（なか）、作（つく）、組（く）、立（た）、式（しき）、棚（たな）、天井（てんじょう）、床（ゆか）、間（あいだ）、一段（いちだん）、空間（くうかん）、保管場所（ほかんばしょ）、増（ふ）、消防用（しょうぼうよう）、設備（せつび）、用語（ようご）、火事（かじ）、使（つか）、場所（ばしょ）、方（かた）、覚（おぼ）、消火器（しょうかき）、初期（しょき）、小（ちい）、火（ひ）、消（け）、機器（きき）、消火栓（しょうかせん）、内部（ないぶ）、水（みず）、出（だ）、取（と）、付（つ）、自動消火装置（じどうしょうかそうち）、熱（ねつ）、煙（けむり）、感知（かんち）、自動的（じどうてき）、出（で）、大（おお）、自動倉庫（じどうそうこ）、設置（せっち）、法律（ほうりつ）、定（さだ）、火災報知設備（かさいほうちせつび）、非常（ひじょう）、鳴（な）、装置（そうち）、安全（あんぜん）、避難（ひなん）、貨物（かもつ）、保管（ほかん）、段（だん）、重（かさ）、固定（こてい）、動（うご）、上（じょう）"
     },
     {
       "pdf_page": 16,
@@ -77,7 +80,8 @@
         "status": "PENDING_VISUAL_MATCH",
         "asset_path": null
       },
-      "audit_fix_note": "Expanded the Romaji for the full source page 16, restoring omitted details on fixed/mobile racks, Nestainer, 正ネス, 逆ネス and pallet supporters. Reading is a practical Hepburn-style aid and should still receive specialist pronunciation proofreading."
+      "audit_fix_note": "Expanded the Romaji for the full source page 16, restoring omitted details on fixed/mobile racks, Nestainer, 正ネス, 逆ネス and pallet supporters. Reading is a practical Hepburn-style aid and should still receive specialist pronunciation proofreading.",
+      "source_furigana": "固定（こてい）、利点（りてん）、空間（くうかん）、有効（ゆうこう）、使（つか）、荷役作業（にやくさぎょう）、楽（らく）、段（さんだん）、天井（てんじょう）、余裕（よゆう）、最上段（さいじょうだん）、置（お）、合計（ごうけい）、段（よんだん）、保管（ほかん）、移動（いどう）、床（ゆか）、上（うえ）、動（うご）、棚（たな）、保管中（ほかんちゅう）、同士（どうし）、寄（よ）、水平方向（すいへいほうこう）、有効利用（ゆうこうりよう）、重（かさ）、収納（しゅうのう）、使用時（しようじ）、組（く）、立（た）、貨物量（かもつりょう）、合（あ）、調整（ちょうせい）、正（せい）、貨物（かもつ）、格子状（こうしじょう）、面（めん）、下段（かだん）、型（かた）、載（の）、積（つ）、変更（へんこう）、多（おお）、現場（げんば）、向（む）、付（つ）、逆（ぎゃく）、上段（じょうだん）、台（いちだい）、段積（にだんづ）、保管効率（ほかんこうりつ）、段目（いちだんめ）、地面（じめん）、直接（ちょくせつ）、出（だ）、入（い）、上（じょう）、設置（せっち）、支（ささ）、補助部材（ほじょぶざい）、間（かん）、落下（らっか）、防（ふせ）、安全（あんぜん）、荷重（かじゅう）、均等（きんとう）、分散（ぶんさん）、負担（ふたん）、減（へ）、木製（もくせい）、製（せい）、使用（しよう）"
     },
     {
       "pdf_page": 17,
@@ -90,7 +94,8 @@
         "status": "PENDING_VISUAL_MATCH",
         "asset_path": null
       },
-      "audit_fix_note": "Expanded Romaji to cover every source paragraph on page 17: automated warehouse operation and benefits, surveillance-camera uses, emergency exit guidance, rodent barriers and insect traps. Specialist pronunciation proofreading remains pending."
+      "audit_fix_note": "Expanded Romaji to cover every source paragraph on page 17: automated warehouse operation and benefits, surveillance-camera uses, emergency exit guidance, rodent barriers and insect traps. Specialist pronunciation proofreading remains pending.",
+      "source_furigana": "自動倉庫（じどうそうこ）、機械（きかい）、貨物（かもつ）、入庫（にゅうこ）、出庫（しゅっこ）、保管（ほかん）、自動管理（じどうかんり）、自動（じどう）、動（うご）、利点（りてん）、作業（さぎょう）、速（はや）、人手（ひとで）、少（すく）、他（た）、設備（せつび）、用語（ようご）、監視（かんし）、倉庫内（そうこない）、記録（きろく）、盗難防止（とうなんぼうし）、正（ただ）、行（おこな）、無駄（むだ）、確認（かくにん）、使（つか）、誘導灯（ゆうどうとう）、災害（さいがい）、停電（ていでん）、出口（でぐち）、場所（ばしょ）、示（しめ）、照明（しょうめい）、緊急時（きんきゅうじ）、光（ひかり）、従（したが）、安全（あんぜん）、避難（ひなん）、緑色（みどりいろ）、目印（めじるし）、返（がえ）、倉庫（そうこ）、入（はい）、板状（いたじょう）、防虫殺虫灯（ぼうちゅうさっちゅうとう）、虫（むし）、設置（せっち）、捕（つか）"
     },
     {
       "pdf_page": 18,
@@ -103,7 +108,8 @@
         "status": "PENDING_VISUAL_MATCH",
         "asset_path": null
       },
-      "audit_fix_note": "Expanded Romaji to include the full seismic-isolation description and the individual definitions in the chapter summary, rather than only listing the vocabulary terms. Specialist pronunciation proofreading remains pending."
+      "audit_fix_note": "Expanded Romaji to include the full seismic-isolation description and the individual definitions in the chapter summary, rather than only listing the vocabulary terms. Specialist pronunciation proofreading remains pending.",
+      "source_furigana": "免震装置（めんしんそうち）、建物（たてもの）、地下（ちか）、設置（せっち）、強化（きょうか）、支（ささ）、地震（じしん）、揺（ゆ）、減（へ）、保管（ほかん）、貨物（かもつ）、棚（たな）、落（お）、防（ふせ）、章（しょう）、床耐荷重（ゆかたいかじゅう）、床（ゆか）、置（お）、重（おも）、限界（げんかい）、防塵塗装（ぼうじんとそう）、塗料（とりょう）、高（たか）、差（さ）、装置（そうち）、防火（ぼうか）、火（ひ）、広（ひろ）、自動（じどう）、水（みず）、出（だ）、消火装置（しょうかそうち）、固定（こてい）、動（うご）、移動（いどう）"
     }
   ],
   "audit": {
