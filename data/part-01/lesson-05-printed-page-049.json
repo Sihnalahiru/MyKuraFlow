@@ -36,10 +36,11 @@
         }
       ],
       "image_mapping": {
-        "status": "NO_VERIFIED_STANDALONE_DIAGRAM",
-        "repo_images": [],
         "source_pdf_page": 49,
-        "note": "Do not attach a whole-page screenshot. Recheck rendered page for standalone diagrams before adding any visual."
+        "source_embedded_image_count": 0,
+        "repo_images": [],
+        "status": "NO_EMBEDDED_RASTER_IMAGES_SOURCE_TEXT_TABLE_OR_VECTOR_LAYOUT",
+        "mapping_basis": "Original PDF page was rendered and checked; it contains no embedded raster image. Preserve its source text, tables and vector diagrams."
       }
     }
   ]

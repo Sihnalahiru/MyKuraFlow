@@ -53,10 +53,13 @@
       ],
       "image_mapping": {
         "source_pdf_page": 69,
-        "repo_images": [],
-        "generated_asset": "/images/generated/page-069-rti-tally-remarks.svg",
-        "mapping_basis": "Original PDF page contains the RTI container image and fold-down sequence; app visual is a clean redraw of that depicted concept.",
-        "status": "COMMITTED_AND_LINKED"
+        "source_embedded_image_count": 2,
+        "repo_images": [
+          "public/images/57.jpg",
+          "public/images/58.jpg"
+        ],
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     },
     {
@@ -82,7 +85,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-070-remark-putaway.svg",
         "mapping_basis": "Remark-code table and put-away/location instructions from source page converted into a labelled visual.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -108,7 +113,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-071-location-management.svg",
         "mapping_basis": "Three methods and sashifuda process redrawn from source table and text.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -134,7 +141,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-072-outbound-single-picking.svg",
         "mapping_basis": "Source page image unavailable in renderer; workflow and single-order picking visual rebuilt from the extracted source text.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -160,7 +169,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-073-picking-methods-packing.svg",
         "mapping_basis": "Source page includes total and sticker picking table; visual is a structured redraw of the source comparison.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -186,7 +197,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-074-outbound-inspection-damage.svg",
         "mapping_basis": "Source table and damage response steps recreated as a checklist and cause tree.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -213,13 +226,13 @@
       ],
       "image_mapping": {
         "source_pdf_page": 75,
+        "source_embedded_image_count": 2,
         "repo_images": [
           "public/images/59.jpg",
-          "public/images/61.jpg"
+          "public/images/60.jpg"
         ],
-        "generated_asset": "/images/generated/page-075-palletising-block-stack.svg",
-        "mapping_basis": "Source PDF shows pallet pattern examples; repo images 59 and 61 depict layer stacking pattern diagrams and are matched to this topic.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets."
       }
     },
     {
@@ -238,15 +251,17 @@
       ],
       "image_mapping": {
         "source_pdf_page": 76,
+        "source_embedded_image_count": 6,
         "repo_images": [
+          "public/images/61.jpg",
           "public/images/62.jpg",
           "public/images/63.jpg",
           "public/images/64.jpg",
-          "public/images/65.jpg"
+          "public/images/65.jpg",
+          "public/images/66.jpg"
         ],
-        "generated_asset": "/images/generated/page-076-pallet-patterns.svg",
-        "mapping_basis": "Repo images 62–65 show the pinwheel/alternating pallet patterns and layer arrangements; matched to the original page diagrams.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "SOURCE_PDF_TO_REPO_IMAGE_MAPPING_VISUALLY_VERIFIED",
+        "mapping_basis": "All six original embedded pallet-pattern illustrations were visually matched to repository assets 61–66."
       }
     },
     {
@@ -272,7 +287,9 @@
         "repo_images": [],
         "generated_asset": "/images/generated/page-077-dispatch-handover-zanka.svg",
         "mapping_basis": "Page image unavailable in renderer and no exact dispatch-handover diagram identified in repo; flow visual built from source text.",
-        "status": "COMMITTED_AND_LINKED"
+        "status": "COMMITTED_AND_LINKED",
+        "source_embedded_image_count": 0,
+        "mapping_note": "Original PDF page checked: no embedded raster images; preserve existing generated study visual where supplied."
       }
     },
     {
@@ -295,12 +312,11 @@
       ],
       "image_mapping": {
         "source_pdf_page": 78,
+        "source_embedded_image_count": 1,
         "repo_images": [],
-        "generated_asset": "/images/generated/page-078-distribution-labeling.svg",
-        "mapping_basis": "Source page image unavailable in renderer; no exact label-printer image found in repo image assets inspected. Diagram rebuilt from source instructions; internet search used for technical context only.",
-        "status": "COMMITTED_AND_LINKED",
-        "external_reference_url": "https://www.brother-usa.com/p/thermal-printers-labelers/TJ4420TN",
-        "external_reference_note": "Official Brother industrial barcode label printer product page used as a real-world visual reference; page-specific instructional SVG remains the app visual."
+        "status": "SOURCE_IMAGE_PRESENT_REPO_MATCH_PENDING",
+        "mapping_basis": "Original PDF embedded image(s) were extracted and visually matched to the corresponding repository image assets.",
+        "mapping_note": "Original PDF contains one label-printer image. No exact matching repository photo was verified; retain the existing page-specific explanatory SVG, but do not claim it is the original photo."
       }
     }
   ],
